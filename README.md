@@ -10,6 +10,7 @@ Contact me: anvudh@gmail.com.
 
 - 1.0.0
   * Skills:
-    + Estates: Increases 250/500/1000 gold per day.
-    + Tactics: Increases troops speed +1/+2/+3 instead.
+    + Estates: Now increases 250/500/1000 gold per day.
+    + Tactics: Increases troops speed by 1/2/3 instead.
     + Navigation: Also allows free ship boarding.
+    + Armorer: Now reduces physical damage by 10%/15%/20%.

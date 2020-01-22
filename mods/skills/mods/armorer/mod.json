@@ -1,12 +1,12 @@
 {
-    "name": "Estates",
-    "description": "Estates now increases 250/500/1000 gold per day.",
+    "name": "Armorer",
+    "description": "Armorer now reduces physical damage by 10%/15%/20%.",
     "modType": "Mechanics",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "anvudh@gmail.com",
 
     "skills": [
-        "config/estates/skills.json"
+        "config/armorer/skills.json"
     ]
 }
