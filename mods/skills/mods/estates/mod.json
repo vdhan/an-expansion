@@ -1,0 +1,12 @@
+{
+    "name": "Estates",
+    "description": "Estates increases 250/500/1000 gold per day.",
+    "modType": "Mechanics",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "anvudh@gmail.com",
+
+    "skills": [
+        "config/estates/skills.json"
+    ]
+}
