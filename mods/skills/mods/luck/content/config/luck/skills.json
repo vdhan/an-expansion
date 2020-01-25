@@ -1,0 +1,54 @@
+{
+    "core:luck": {
+        "base": {
+            "effects": {
+                "defense": {
+                    "type": "PRIMARY_SKILL",
+                    "subtype": "primSkill.defence",
+                    "valueType": "ADDITIVE_VALUE"
+                },
+                "fortune": {
+                    "type": "OPENING_BATTLE_SPELL",
+                    "subtype": "spell.fortune",
+                    "valueType": "INDEPENDENT_MIN"
+                }
+            }
+        },
+
+        "basic": {
+            "description": "{Basic Luck}\n\nAlso increases your defense by 1 and cast fortune at beginning of battle for at least 10 rounds.",
+            "effects": {
+                "defense": {
+                    "val": 1
+                },
+                "fortune": {
+                    "val": 10
+                }
+            }
+        },
+
+        "advanced": {
+            "description": "{Advanced Luck}\n\nAlso increases your defense by 2 and cast fortune at beginning of battle for at least 25 rounds.",
+            "effects": {
+                "defense": {
+                    "val": 2
+                },
+                "fortune": {
+                    "val": 25
+                }
+            }
+        },
+
+        "expert": {
+            "description": "{Expert Luck}\n\nAlso increases your defense by 3 and cast fortune at beginning of battle for at least 50 rounds.",
+            "effects": {
+                "defense": {
+                    "val": 3
+                },
+                "fortune": {
+                    "val": 50
+                }
+            }
+        }
+    }
+}

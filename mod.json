@@ -1,10 +1,10 @@
 {
     "name": "An's Expansion",
-    "description": "Rebalance skills. <a href='https://github.com/vdhan/Celestial'>Homepage</a>.",
+    "description": "Rebalance skills.",
     "modType": "Expansion",
     "version": "1.0.0",
     "author": "Vũ Đắc Hoàng Ân",
-    "contact": "anvudh@gmail.com",
+    "contact": "https://github.com/vdhan/An-Expansion",
     "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike",
     "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 }

@@ -1,0 +1,12 @@
+{
+    "name": "Luck",
+    "description": "Luck also increases your defense by 1/2/3 and cast fortune at beginning of battle for at least 10/25/50 rounds.",
+    "modType": "Mechanics",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "skills": [
+        "config/luck/skills.json"
+    ]
+}
