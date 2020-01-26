@@ -7,45 +7,44 @@
                     "subtype": "primSkill.defence",
                     "valueType": "ADDITIVE_VALUE"
                 },
-                "fortune": {
+                "cast": {
                     "type": "OPENING_BATTLE_SPELL",
-                    "subtype": "spell.fortune",
-                    "valueType": "INDEPENDENT_MIN"
+                    "subtype": "spell.fortune"
                 }
             }
         },
 
         "basic": {
-            "description": "{Basic Luck}\n\nAlso increases your defense by 1 and cast fortune at beginning of battle for at least 10 rounds.",
+            "description": "{Basic Luck}\n\nIncreases your luck & defense by 1 and cast fortune at beginning of battle for 10 rounds.",
             "effects": {
                 "defense": {
                     "val": 1
                 },
-                "fortune": {
+                "cast": {
                     "val": 10
                 }
             }
         },
 
         "advanced": {
-            "description": "{Advanced Luck}\n\nAlso increases your defense by 2 and cast fortune at beginning of battle for at least 25 rounds.",
+            "description": "{Advanced Luck}\n\nIncreases your luck & defense by 2 and cast fortune at beginning of battle for 25 rounds.",
             "effects": {
                 "defense": {
                     "val": 2
                 },
-                "fortune": {
+                "cast": {
                     "val": 25
                 }
             }
         },
 
         "expert": {
-            "description": "{Expert Luck}\n\nAlso increases your defense by 3 and cast fortune at beginning of battle for at least 50 rounds.",
+            "description": "{Expert Luck}\n\nIncreases your luck & defense by 3 and cast fortune at beginning of battle for 50 rounds.",
             "effects": {
                 "defense": {
                     "val": 3
                 },
-                "fortune": {
+                "cast": {
                     "val": 50
                 }
             }

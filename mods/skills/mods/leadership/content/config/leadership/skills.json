@@ -2,50 +2,49 @@
     "core:leadership": {
         "base": {
             "effects": {
-                "defense": {
+                "attack": {
                     "type": "PRIMARY_SKILL",
                     "subtype": "primSkill.attack",
                     "valueType": "ADDITIVE_VALUE"
                 },
-                "mirth": {
+                "cast": {
                     "type": "OPENING_BATTLE_SPELL",
-                    "subtype": "spell.mirth",
-                    "valueType": "INDEPENDENT_MIN"
+                    "subtype": "spell.mirth"
                 }
             }
         },
 
         "basic": {
-            "description": "{Basic Leadership}\n\nAlso increases your attack by 1 and cast mirth at beginning of battle for at least 10 rounds.",
+            "description": "{Basic Leadership}\n\nIncreases your morale & attack by 1 and cast mirth at beginning of battle for 10 rounds.",
             "effects": {
-                "defense": {
+                "attack": {
                     "val": 1
                 },
-                "fortune": {
+                "cast": {
                     "val": 10
                 }
             }
         },
 
         "advanced": {
-            "description": "{Advanced Leadership}\n\nAlso increases your attack by 2 and cast mirth at beginning of battle for at least 25 rounds.",
+            "description": "{Advanced Leadership}\n\nIncreases your morale & attack by 2 and cast mirth at beginning of battle for 25 rounds.",
             "effects": {
-                "defense": {
+                "attack": {
                     "val": 2
                 },
-                "fortune": {
+                "cast": {
                     "val": 25
                 }
             }
         },
 
         "expert": {
-            "description": "{Expert Leadership}\n\nAlso increases your attack by 3 and cast mirth at beginning of battle for at least 50 rounds.",
+            "description": "{Expert Leadership}\n\nIncreases your morale & attack by 3 and cast mirth at beginning of battle for 50 rounds.",
             "effects": {
-                "defense": {
+                "attack": {
                     "val": 3
                 },
-                "fortune": {
+                "cast": {
                     "val": 50
                 }
             }
