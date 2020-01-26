@@ -1,0 +1,12 @@
+{
+    "name": "Learning",
+    "description": "Learning now increases a hero's earned experience by 25%/50%/100%.",
+    "modType": "Mechanics",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "skills": [
+        "config/learning/skills.json"
+    ]
+}
