@@ -18,3 +18,4 @@ Contact me: anvudh@gmail.com.
     + Leadership: Also increases attack by 1/2/3 and cast mirth at beginning of battle for 10/25/50 rounds.
     + Learning: Now increases a hero's earned experience by 25%/50%/100%.
     + Mysticism: Now allows your hero to regenerate (2/3/4 + 1/2/3 per 4 levels) spell points per day.
+    + Pathfinding: Also increases movement by 5%/10%/15%.
