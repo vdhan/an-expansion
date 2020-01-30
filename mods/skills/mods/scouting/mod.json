@@ -1,0 +1,12 @@
+{
+    "name": "Scouting",
+    "description": "Scouting now allows your hero to see 2/3/5 square further into the shroud and increases movement points by 200/250/300.",
+    "modType": "Mechanics",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "skills": [
+        "config/scouting/skills.json"
+    ]
+}

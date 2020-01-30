@@ -1,7 +1,7 @@
 {
-    "core:armorer": {
+    "core:resistance": {
         "basic": {
-            "description": "{Basic Armorer}\n\nReduces physical damage inflicted against the hero's troops by 10%.",
+            "description": "{Basic Resistance}\n\nEndows a hero's troops with 10% magic resistance.",
             "effects": {
                 "main": {
                     "val": 10
@@ -10,7 +10,7 @@
         },
 
         "advanced": {
-            "description": "{Advanced Armorer}\n\nReduces physical damage inflicted against the hero's troops by 20%.",
+            "description": "{Advanced Resistance}\n\nEndows a hero's troops with 20% magic resistance.",
             "effects": {
                 "main": {
                     "val": 20
@@ -19,7 +19,7 @@
         },
 
         "expert": {
-            "description": "{Expert Armorer}\n\nReduces physical damage inflicted against the hero's troops by 30%.",
+            "description": "{Expert Resistance}\n\nEndows a hero's troops with 30% magic resistance.",
             "effects": {
                 "main": {
                     "val": 30

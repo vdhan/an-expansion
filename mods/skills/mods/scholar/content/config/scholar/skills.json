@@ -1,0 +1,53 @@
+{
+    "core:scholar": {
+        "base": {
+            "effects": {
+                "knowledge": {
+                    "type": "PRIMARY_SKILL",
+                    "subtype": "primSkill.knowledge",
+                    "valueType": "BASE_NUMBER"
+                },
+                "spells": {
+                    "type": "SPELLS_OF_LEVEL",
+                    "val": 0
+                }
+            }
+        },
+
+        "basic": {
+            "description": "{Basic Scholar}\n\nAllows heroes to teach each other 1st and 2nd level spells, effectively trading spells between spell books, increases knowledge by 1 and know all spells level 1.",
+            "effects": {
+                "knowledge": {
+                    "val": 1
+                },
+                "spells": {
+                    "subtype": 1
+                }
+            }
+        },
+
+        "advanced": {
+            "description": "{Advanced Scholar}\n\nAllows heroes to teach each other any spell up to 3rd level, effectively trading spells between spell books, increases knowledge by 2 and know all spells level 2.",
+            "effects": {
+                "knowledge": {
+                    "val": 2
+                },
+                "spells": {
+                    "subtype": 2
+                }
+            }
+        },
+
+        "expert": {
+            "description": "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to 4th level, effectively trading spells between spell books, increases knowledge by 3 and know all spells level 3.",
+            "effects": {
+                "knowledge": {
+                    "val": 3
+                },
+                "spells": {
+                    "subtype": 3
+                }
+            }
+        }
+    }
+}
