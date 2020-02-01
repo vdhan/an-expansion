@@ -1,6 +1,6 @@
 {
     "name": "Sorcery",
-    "description": "Sorcery also increases spell power by 1/2/3.",
+    "description": "Sorcery now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.",
     "modType": "Mechanics",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

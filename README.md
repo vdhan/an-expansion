@@ -22,4 +22,4 @@ Contact me: anvudh@gmail.com.
     + Scouting: Now allows your hero to see 2/3/5 square further into the shroud and increases movement points by 200/250/300.
     + Resistance: Now endows a hero's troops with 10%/20%/30% magic resistance.
     + Scholar: Also increases knowledge by 1/2/3 and know all spells level 1/2/3.
-    + Sorcery: Also increases spell power by 1/2/3.
+    + Sorcery: Now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.
