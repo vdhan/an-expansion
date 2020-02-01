@@ -1,0 +1,12 @@
+{
+    "name": "Town",
+    "description": "Reduces cost for Cyclops Cave.",
+    "modType": "Mechanics",
+    "version": "1.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "factions": [
+        "config/stronghold.json"
+    ]
+}

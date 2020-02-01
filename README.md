@@ -1,6 +1,6 @@
 # An's expansion mod for VCMI
 
-Rebalance skills.
+Rebalance skills, town.
 
 For boosting in-game speed, copy https://gist.github.com/vdhan/faccba8ff97b6cebcc3ee0c9c379e020 to user config.
 
@@ -23,3 +23,5 @@ Contact me: anvudh@gmail.com.
     + Resistance: Now endows a hero's troops with 10%/20%/30% magic resistance.
     + Scholar: Also increases knowledge by 1/2/3 and know all spells level 1/2/3.
     + Sorcery: Now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.
+
+  * Town: Reduces cost for Cyclops Cave.
