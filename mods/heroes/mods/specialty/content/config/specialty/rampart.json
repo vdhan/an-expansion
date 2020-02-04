@@ -1,0 +1,22 @@
+{
+	"core:jenova": {
+        "texts": {
+            "specialty": {
+                "description": "Increases kingdom's income by 300 gold per day, plus 50 gold for each level gained."
+            }
+        },
+        "specialty": {
+            "bonuses": {
+                "gold": {
+                    "val": 300
+                },
+                "more": {
+                	"type": "GENERATE_RESOURCE",
+                    "subtype": "resource.gold",
+                    "updater": "TIMES_HERO_LEVEL",
+                    "val": 50
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+	"core:gelare": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE",
+                    "propagator": "GLOBAL_EFFECT"
+                }
+            }
+        }
+    },
+
+    "core:grindan": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE",
+                    "propagator": "GLOBAL_EFFECT"
+                }
+            }
+        }
+    }
+}

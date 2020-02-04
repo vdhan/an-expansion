@@ -1,0 +1,19 @@
+{
+    "name": "Double Movement",
+    "description": "Heroes have double movement.",
+    "modType": "Mechanics",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "heroes": [
+        "config/doubleMovement/castle.json",
+        "config/doubleMovement/dungeon.json",
+        "config/doubleMovement/inferno.json",
+        "config/doubleMovement/necropolis.json",
+        "config/doubleMovement/rampart.json",
+        "config/doubleMovement/stronghold.json",
+        "config/doubleMovement/tower.json",
+        "config/doubleMovement/conflux.json"
+    ]
+}

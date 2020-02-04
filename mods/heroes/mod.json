@@ -1,0 +1,8 @@
+{
+    "name": "Heroes",
+    "description": "Rebalance heroes specialties.",
+    "modType": "Mechanics",
+    "version": "1.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion"
+}

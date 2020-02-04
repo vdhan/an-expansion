@@ -1,0 +1,15 @@
+{
+    "core:saurug": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE",
+                    "propagator": "GLOBAL_EFFECT"
+                }
+            }
+        }
+    }
+}
