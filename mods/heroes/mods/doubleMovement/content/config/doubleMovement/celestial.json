@@ -1,5 +1,5 @@
 {
-    "core:yog": {
+    "celestial:haMagic1": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -12,7 +12,7 @@
         }
     },
 
-    "core:gurnisson": {
+    "celestial:haMagic2": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -25,7 +25,7 @@
         }
     },
 
-    "core:jabarkas": {
+    "celestial:haMagic3": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -38,7 +38,7 @@
         }
     },
 
-    "core:shiva": {
+    "celestial:haMagic4": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -51,7 +51,7 @@
         }
     },
 
-    "core:gretchin": {
+    "celestial:haMagic5": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -64,7 +64,7 @@
         }
     },
 
-    "core:krellion": {
+    "celestial:haMagic6": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -77,7 +77,7 @@
         }
     },
 
-    "core:cragHack": {
+    "celestial:haMagic7": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -90,7 +90,7 @@
         }
     },
 
-    "core:tyraxor": {
+    "celestial:haMagic8": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -103,7 +103,7 @@
         }
     },
 
-    "core:gird": {
+    "celestial:haMight1": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -116,7 +116,7 @@
         }
     },
 
-    "core:vey": {
+    "celestial:haMight2": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -129,7 +129,7 @@
         }
     },
 
-    "core:dessa": {
+    "celestial:haMight3": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -142,7 +142,7 @@
         }
     },
 
-    "core:terek": {
+    "celestial:haMight4": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -155,7 +155,7 @@
         }
     },
 
-    "core:zubin": {
+    "celestial:haMight5": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -168,7 +168,7 @@
         }
     },
 
-    "core:gundula": {
+    "celestial:haMight6": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -181,7 +181,7 @@
         }
     },
 
-    "core:oris": {
+    "celestial:haMight7": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -194,7 +194,7 @@
         }
     },
 
-    "core:saurug": {
+    "celestial:haMight8": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {

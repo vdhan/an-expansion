@@ -1,13 +1,194 @@
 {
-	"core:rissa": {
+    "core:piquedram": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
                     "val": 100,
-                    "valueType": "ADDITIVE_VALUE",
-                    "propagator": "GLOBAL_EFFECT"
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:thane": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:josephine": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:neela": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:torosar ": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:fafner": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:rissa": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:iona": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:astral": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:halon": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:serena": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:daremyth": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:theodorus": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:solmyr": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "core:cyra": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
                 }
             }
         }
@@ -20,8 +201,7 @@
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
                     "val": 100,
-                    "valueType": "ADDITIVE_VALUE",
-                    "propagator": "GLOBAL_EFFECT"
+                    "valueType": "ADDITIVE_VALUE"
                 }
             }
         }

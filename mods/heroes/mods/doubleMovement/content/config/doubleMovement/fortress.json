@@ -1,5 +1,5 @@
 {
-    "core:yog": {
+    "core:bron": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -12,7 +12,7 @@
         }
     },
 
-    "core:gurnisson": {
+    "core:drakon": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -25,7 +25,7 @@
         }
     },
 
-    "core:jabarkas": {
+    "core:wystan": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -38,7 +38,7 @@
         }
     },
 
-    "core:shiva": {
+    "core:tazar": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -51,7 +51,7 @@
         }
     },
 
-    "core:gretchin": {
+    "core:alkin": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -64,7 +64,7 @@
         }
     },
 
-    "core:krellion": {
+    "core:korbac": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -77,7 +77,7 @@
         }
     },
 
-    "core:cragHack": {
+    "core:gerwulf": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -90,7 +90,7 @@
         }
     },
 
-    "core:tyraxor": {
+    "core:broghild": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -103,7 +103,7 @@
         }
     },
 
-    "core:gird": {
+    "core:mirlanda": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -116,7 +116,7 @@
         }
     },
 
-    "core:vey": {
+    "core:rosic": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -129,7 +129,7 @@
         }
     },
 
-    "core:dessa": {
+    "core:voy": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -142,7 +142,7 @@
         }
     },
 
-    "core:terek": {
+    "core:verdish": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -155,7 +155,7 @@
         }
     },
 
-    "core:zubin": {
+    "core:merist": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -168,7 +168,7 @@
         }
     },
 
-    "core:gundula": {
+    "core:styg": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -181,7 +181,7 @@
         }
     },
 
-    "core:oris": {
+    "core:andra": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
@@ -194,7 +194,7 @@
         }
     },
 
-    "core:saurug": {
+    "core:tiva": {
         "specialty": {
             "bonuses": {
                 "doubleMovement": {
