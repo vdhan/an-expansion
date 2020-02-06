@@ -1,14 +1,16 @@
 # An's expansion mod for VCMI
 
-Rebalance skills, town.
+Rebalance skills, heroes, creatures, etc.
 
-For boosting in-game speed, copy https://gist.github.com/vdhan/faccba8ff97b6cebcc3ee0c9c379e020 to user config.
+For boosting in-game speed, copy [this](https://gist.github.com/vdhan/faccba8ff97b6cebcc3ee0c9c379e020) to user config.
 
 Contact me: anvudh@gmail.com.
 
 **Changelog:**
 
 - 1.0.0
+  * Creatures: Enhanced war machines.
+
   * Skills:
     + Estates: Now increases 250/500/1000 gold per day.
     + Tactics: Increases troops speed by 1/2/3 instead.
@@ -24,4 +26,10 @@ Contact me: anvudh@gmail.com.
     + Scholar: Also increases knowledge by 1/2/3 and know all spells level 1/2/3.
     + Sorcery: Now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.
 
-  * Town: Reduces cost for Cyclops Cave.
+  * Towns:
+    + Stronghold: Reduces cost for Cyclops Cave.
+    + Tower Defense: Tower defense icons for initiative bar.
+
+  * Heroes:
+    + Specialty: Rebalance heroes specialties.
+    + Double Movement: Heroes have double movement.
