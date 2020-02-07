@@ -1,6 +1,6 @@
 {
     "name": "Artillery",
-    "description": "Artillery also increases movement by 5%/10%/15%.",
+    "description": "Artillery also increases ballista damage by 100%/200%/300%.",
     "modType": "Mechanics",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

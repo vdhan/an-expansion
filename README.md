@@ -29,6 +29,7 @@ Contact me: anvudh@gmail.com.
     + Scholar: Also increases knowledge by 1/2/3 and know all spells level 1/2/3.
     + Sorcery: Now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.
     + Artillery: Also increases ballista damage by 100%/200%/300%.
+    + First Aid: Now healing up to 100/225/400 points and cast Stone Skin at beginning of battle for 10/25/50 rounds.
 
   * Towns:
     + Stronghold: Reduces cost for Cyclops Cave.

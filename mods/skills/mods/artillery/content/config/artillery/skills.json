@@ -4,7 +4,6 @@
             "effects": {
                 "xtra": {
                     "type": "CREATURE_DAMAGE",
-                    "subtype": 0,
                     "valueType": "PERCENT_TO_BASE",
                     "limiters": [
                         {
