@@ -5,6 +5,7 @@
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
+    "keepDisabled": true,
 
     "creatures": [
         "config/towerDefense.json"

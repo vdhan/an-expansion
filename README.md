@@ -10,6 +10,9 @@ Contact me: anvudh@gmail.com.
 
 - 1.0.0
   * Creatures: Enhanced war machines.
+    + Ballista: Now has double base damage.
+    + First Aid Tent: Now has 150 hit points and increases hero's troops health by 1.
+    + Ammo Cart: Now has 200 hit points and reduces spell cost by 1.
 
   * Skills:
     + Estates: Now increases 250/500/1000 gold per day.
@@ -25,6 +28,7 @@ Contact me: anvudh@gmail.com.
     + Resistance: Now endows a hero's troops with 10%/20%/30% magic resistance.
     + Scholar: Also increases knowledge by 1/2/3 and know all spells level 1/2/3.
     + Sorcery: Now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.
+    + Artillery: Also increases ballista damage by 100%/200%/300%.
 
   * Towns:
     + Stronghold: Reduces cost for Cyclops Cave.

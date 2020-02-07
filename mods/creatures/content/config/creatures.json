@@ -7,7 +7,15 @@
     },
 
     "core:firstAidTent": {
-        "hitPoints": 150
+        "hitPoints": 150,
+        "abilities": {
+            "health": {
+                "type": "STACK_HEALTH",
+                "val": 1,
+                "valueType": "BASE_NUMBER",
+                "propagator": "HERO"
+            }
+        }
     },
 
     "core:ammoCart": {

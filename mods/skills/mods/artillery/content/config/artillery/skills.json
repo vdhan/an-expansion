@@ -1,0 +1,46 @@
+{
+    "core:artillery": {
+        "base": {
+            "effects": {
+                "xtra": {
+                    "type": "CREATURE_DAMAGE",
+                    "subtype": 0,
+                    "valueType": "PERCENT_TO_BASE",
+                    "limiters": [
+                        {
+                            "type": "CREATURE_TYPE_LIMITER",
+                            "parameters": ["ballista"]
+                        }
+                    ]
+                }
+            }
+        },
+
+        "basic": {
+            "description": "{Basic Artillery}\n\nGives control of the ballista, allowing one shot with a 50% chance to inflict double damage and increases 100% damage.",
+            "effects": {
+                "xtra": {
+                    "val": 100
+                }
+            }
+        },
+
+        "advanced": {
+            "description": "{Advanced Artillery}\n\nGives control of the ballista, allowing two shots with a 75% chance to inflict double damage and increases 200% damage.",
+            "effects": {
+                "xtra": {
+                    "val": 200
+                }
+            }
+        },
+
+        "expert": {
+            "description": "{Expert Artillery}\n\nGives control of the ballista, allowing two shots which inflict double damage and increases 300% damage.",
+            "effects": {
+                "xtra": {
+                    "val": 300
+                }
+            }
+        }
+    }
+}

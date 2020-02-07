@@ -8,8 +8,7 @@
                     "valueType": "BASE_NUMBER"
                 },
                 "spells": {
-                    "type": "SPELLS_OF_LEVEL",
-                    "val": 0
+                    "type": "SPELLS_OF_LEVEL"
                 }
             }
         },
