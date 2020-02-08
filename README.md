@@ -2,9 +2,13 @@
 
 Rebalance skills, heroes, creatures, etc.
 
+To install Celestial mod town for VCMI, checkout: https://github.com/vdhan/Celestial
+
 For boosting in-game speed, copy [this](https://gist.github.com/vdhan/faccba8ff97b6cebcc3ee0c9c379e020) to user config.
 
-Contact me: anvudh@gmail.com.
+To calculates AI and Fight Values of creatures, checkout: https://github.com/vdhan/an-balancer
+
+Contact me: https://vudachoangan.com/
 
 **Changelog:**
 
@@ -26,7 +30,7 @@ Contact me: anvudh@gmail.com.
     + Pathfinding: Also increases movement by 5%/10%/15%.
     + Scouting: Now allows your hero to see 2/3/5 square further into the shroud and increases movement points by 200/250/300.
     + Resistance: Now endows a hero's troops with 10%/20%/30% magic resistance.
-    + Scholar: Also increases knowledge by 1/2/3 and know all spells level 1/2/3.
+    + Scholar: Also increases knowledge by 1/2/3 and temporarily know all spells level 1/2/3 unless you share with each other.
     + Sorcery: Now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.
     + Artillery: Also increases ballista damage by 100%/200%/300%.
     + First Aid: Now healing up to 100/225/400 points and cast Stone Skin at beginning of battle for 10/25/50 rounds.
