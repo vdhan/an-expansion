@@ -7,6 +7,6 @@
     "contact": "https://github.com/vdhan/An-Expansion",
 
     "creatures": [
-        "config/creatures.json"
+        "config/creatures/creatures.json"
     ]
 }
