@@ -1,0 +1,12 @@
+{
+    "name": "Negative Luck",
+    "description": "Enables negative luck.",
+    "modType": "Creatures",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "skills": [
+        "config/negativeLuck/creatures.json"
+    ]
+}

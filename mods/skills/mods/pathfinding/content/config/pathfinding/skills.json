@@ -5,7 +5,7 @@
                 "xtra": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
-                    "valueType": "ADDITIVE_VALUE"
+                    "valueType": "PERCENT_TO_BASE"
                 }
             }
         },

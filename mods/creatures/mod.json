@@ -1,12 +1,8 @@
 {
     "name": "Creatures",
-    "description": "Enhanced war machines.",
-    "modType": "Creatures",
+    "description": "Rebalance creatures.",
+    "modType": "Mechanics",
     "version": "1.0.0",
     "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
-
-    "creatures": [
-        "config/creatures/creatures.json"
-    ]
+    "contact": "https://github.com/vdhan/An-Expansion"
 }
