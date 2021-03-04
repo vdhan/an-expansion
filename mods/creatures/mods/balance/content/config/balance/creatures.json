@@ -1,0 +1,38 @@
+{
+    "core:lizardWarrior": {
+        "abilities": {
+            "poison": {
+                "type": "SPELL_AFTER_ATTACK",
+                "subtype": "spell.poison",
+                "val": 50
+            }
+        }
+    },
+
+    "core:orc": {
+        "abilities": {
+            "noMeleePenalty": {
+                "type": "NO_MELEE_PENALTY"
+            }
+        }
+    },
+
+    "core:orcChieftain": {
+        "abilities": {
+            "noMeleePenalty": {
+                "type": "NO_MELEE_PENALTY"
+            }
+        }
+    },
+
+    "core:evilEye": {
+        "abilities": {
+            "weakness": {
+                "type": "SPELL_AFTER_ATTACK",
+                "subtype": "spell.weakness",
+                "val": 50,
+                "addInfo": [1, 1]
+            }
+        }
+    }
+}
