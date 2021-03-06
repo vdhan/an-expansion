@@ -11,7 +11,7 @@
         "Orc, Orc Chieftain": ["Have no melee penalty."],
         "Evil Eye": ["Can launch weakness beams."],
         "Chaos Hydra": ["Gain generation."],
-        "Pikeman, Halberdier": [" inflict 200% damage to: Cavalier, Champion, Centaur, Centaur Captain, Unicorn, War Unicorn, Black Knight, Dread Knight, Nomad."]
+        "Pikeman, Halberdier": [" inflict 200% damage to: Cavalier, Champion, Unicorn, War Unicorn, Black Knight, Dread Knight."]
     },
 
     "creatures": [

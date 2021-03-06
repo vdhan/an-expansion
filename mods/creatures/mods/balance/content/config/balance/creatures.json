@@ -58,18 +58,6 @@
                 "val": 100
             },
 
-            "centaurKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.centaur",
-                "val": 100
-            },
-
-            "centaurCaptainKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.centaurCaptain",
-                "val": 100
-            },
-
             "unicornKiller": {
                 "type": "HATE",
                 "subtype": "core:creature.unicorn",
@@ -91,12 +79,6 @@
             "dreadKnightKiller": {
                 "type": "HATE",
                 "subtype": "core:creature.dreadKnight",
-                "val": 100
-            },
-
-            "nomadKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.nomad",
                 "val": 100
             }
         }
@@ -116,18 +98,6 @@
                 "val": 100
             },
 
-            "centaurKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.centaur",
-                "val": 100
-            },
-
-            "centaurCaptainKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.centaurCaptain",
-                "val": 100
-            },
-
             "unicornKiller": {
                 "type": "HATE",
                 "subtype": "core:creature.unicorn",
@@ -149,12 +119,6 @@
             "dreadKnightKiller": {
                 "type": "HATE",
                 "subtype": "core:creature.dreadKnight",
-                "val": 100
-            },
-
-            "nomadKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.nomad",
                 "val": 100
             }
         }

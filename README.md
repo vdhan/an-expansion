@@ -25,7 +25,7 @@ Contact me: https://vudachoangan.com/
       - Orc, Orc Chieftain: Have no melee penalty.
       - Evil Eye: Can launch weakness beams.
       - Chaos Hydra: Gain generation.
-      - Pikeman, Halberdier: Inflict 200% damage to Cavalier, Champion, Centaur, Centaur Captain, Unicorn, War Unicorn, Black Knight, Dread Knight, Nomad.
+      - Pikeman, Halberdier: Inflict 200% damage to Cavalier, Champion, Unicorn, War Unicorn, Black Knight, Dread Knight.
 
   * Skills:
     + Estates: Now increases 250/500/1000 gold per day.
@@ -51,5 +51,5 @@ Contact me: https://vudachoangan.com/
     + Tower Defense: Tower defense icons for initiative bar.
 
   * Heroes:
-    + Specialty: Rebalance heroes specialties.
+    + Specialty: Improve heroes resources specialties.
     + Double Movement: Heroes have double movement.

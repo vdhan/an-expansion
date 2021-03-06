@@ -6,6 +6,12 @@
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
 
+    "changelog": {
+        "Ballista": ["Now has double base damage."],
+        "First Aid Tent": ["Now has 150 hit points and increases hero's troops health by 1."],
+        "Ammo Cart": ["Now has 200 hit points, reduces spell cost by 1 and increases hero's troops speed by 1."]
+    },
+
     "creatures": [
         "config/warMachine/warMachine.json"
     ]
