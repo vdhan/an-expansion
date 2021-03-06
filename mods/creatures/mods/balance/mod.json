@@ -1,10 +1,18 @@
 {
     "name": "Balance",
-    "description": "Balances some creatures.",
+    "description": "Rebalances some creatures.",
     "modType": "Creatures",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
+
+    "changelog": {
+        "Lizard Warrior": ["Can shoot poison arrows."],
+        "Orc, Orc Chieftain": ["Have no melee penalty."],
+        "Evil Eye": ["Can launch weakness beams."],
+        "Chaos Hydra": ["Gain generation."],
+        "Pikeman, Halberdier": [" inflict 200% damage to: Cavalier, Champion, Centaur, Centaur Captain, Unicorn, War Unicorn, Black Knight, Dread Knight, Nomad."]
+    },
 
     "creatures": [
         "config/balance/creatures.json"

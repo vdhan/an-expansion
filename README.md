@@ -13,10 +13,19 @@ Contact me: https://vudachoangan.com/
 **Changelog:**
 
 - 1.0.0
-  * Creatures: Enhanced war machines.
-    + Ballista: Now has double base damage.
-    + First Aid Tent: Now has 150 hit points and increases hero's troops health by 1.
-    + Ammo Cart: Now has 200 hit points and reduces spell cost by 1.
+  * Creatures:
+    + War Machine:
+      - Ballista: Now has double base damage.
+      - First Aid Tent: Now has 150 hit points and increases hero's troops health by 1.
+      - Ammo Cart: Now has 200 hit points, reduces spell cost by 1 and increases hero's troops speed by 1.
+
+    + Negative Luck: Enables negative luck.
+    + Balance:
+      - Lizard Warrior: Can shoot poison arrows.
+      - Orc, Orc Chieftain: Have no melee penalty.
+      - Evil Eye: Can launch weakness beams.
+      - Chaos Hydra: Gain generation.
+      - Pikeman, Halberdier: Inflict 200% damage to Cavalier, Champion, Centaur, Centaur Captain, Unicorn, War Unicorn, Black Knight, Dread Knight, Nomad.
 
   * Skills:
     + Estates: Now increases 250/500/1000 gold per day.
@@ -35,6 +44,7 @@ Contact me: https://vudachoangan.com/
     + Artillery: Also increases ballista damage by 100%/200%/300%.
     + First Aid: Now healing up to 100/225/400 points and cast Stone Skin at beginning of battle for 10/25/50 rounds.
     + Warfare: Learn 1 of Artillery, First Aid or Ballistics takes all.
+    + Eagle Eye: Also increases enemies spell cost by 1/2/3.
 
   * Towns:
     + Stronghold: Reduces cost for Cyclops Cave.
