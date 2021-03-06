@@ -1,0 +1,222 @@
+{
+    "core:christian": {
+        "skills": [
+            {
+                "skill": "leadership",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:rion": {
+        "skills": [
+            {
+                "skill": "wisdom",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:gem": {
+        "skills": [
+            {
+                "skill": "wisdom",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:uland": {
+        "skills": [
+            {
+                "skill": "wisdom",
+                "level": "advanced"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:theodorus": {
+        "skills": [
+            {
+                "skill": "wisdom",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:pyre": {
+        "skills": [
+            {
+                "skill": "logistics",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:olema": {
+        "skills": [
+            {
+                "skill": "wisdom",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:vokial": {
+        "skills": [
+            {
+                "skill": "necromancy",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:arlach": {
+        "skills": [
+            {
+                "skill": "offence",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:gurnisson": {
+        "skills": [
+            {
+                "skill": "offence",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:yog": {
+        "skills": [
+            {
+                "skill": "offence",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:zubin": {
+        "skills": [
+            {
+                "skill": "wisdom",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:gerwulf": {
+        "skills": [
+            {
+                "skill": "armorer",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:verdish": {
+        "skills": [
+            {
+                "skill": "wisdom",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:ignissa": {
+        "skills": [
+            {
+                "skill": "offence",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "core:pasis": {
+        "skills": [
+            {
+                "skill": "offence",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    // "hota:jeremy": {
+    //     "skills": [
+    //         {
+    //             "skill": "offence",
+    //             "level": "basic"
+    //         },
+    //         {
+    //             "skill": "warfare",
+    //             "level": "basic"
+    //         }
+    //     ]
+    // }
+}

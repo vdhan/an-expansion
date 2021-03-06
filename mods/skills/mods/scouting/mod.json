@@ -1,6 +1,6 @@
 {
     "name": "Scouting",
-    "description": "Scouting now allows your hero to see 2/3/5 square further into the shroud and increases movement points by 200/250/300.",
+    "description": "Scouting now allows your hero to see 2/3/5 square further into the shroud, increases movement points by 200/250/300 and contributes 100/250/500 gold per day.",
     "modType": "Mechanics",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

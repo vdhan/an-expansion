@@ -2,45 +2,59 @@
     "core:scouting": {
         "base": {
             "effects": {
-                "xtra": {
+                "lightningSpeed": {
                     "type": "MOVEMENT",
                     "valueType": "BASE_NUMBER"
+                },
+
+                "treasureHunter": {
+                    "type": "GENERATE_RESOURCE",
+                    "subtype": "resource.gold"
                 }
             }
         },
 
         "basic": {
-            "description": "{Basic Scouting}\n\nAllows your hero to see 2 square further into the shroud and increases movement points by 200.",
+            "description": "{Basic Scouting}\n\nAllows your hero to see 2 square further into the shroud, increases 150 movement points and 100 gold per day.",
             "effects": {
                 "main": {
                     "val": 2
                 },
-                "xtra": {
-                    "val": 200
+                "lightningSpeed": {
+                    "val": 150
+                },
+                "treasureHunter": {
+                    "val": 100
                 }
             }
         },
 
         "advanced": {
-            "description": "{Advanced Scouting}\n\nAllows your hero to see 3 square further into the shroud and increases movement points by 250.",
+            "description": "{Advanced Scouting}\n\nAllows your hero to see 3 square further into the shroud, increases 300 movement points and 250 gold per day.",
             "effects": {
                 "main": {
                     "val": 3
                 },
-                "xtra": {
+                "lightningSpeed": {
+                    "val": 300
+                },
+                "treasureHunter": {
                     "val": 250
                 }
             }
         },
 
         "expert": {
-            "description": "{Expert Scouting}\n\nAllows your hero to see 5 square further into the shroud and increases movement points by 300.",
+            "description": "{Expert Scouting}\n\nAllows your hero to see 5 square further into the shroud, increases 500 movement points and 500 gold per day.",
             "effects": {
                 "main": {
                     "val": 5
                 },
-                "xtra": {
-                    "val": 300
+                "lightningSpeed": {
+                    "val": 500
+                },
+                "treasureHunter": {
+                    "val": 500
                 }
             }
         }

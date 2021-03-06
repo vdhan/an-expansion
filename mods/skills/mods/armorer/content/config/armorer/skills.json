@@ -10,19 +10,19 @@
         },
 
         "advanced": {
-            "description": "{Advanced Armorer}\n\nReduces physical damage inflicted against the hero's troops by 20%.",
+            "description": "{Advanced Armorer}\n\nReduces physical damage inflicted against the hero's troops by 25%.",
             "effects": {
                 "main": {
-                    "val": 20
+                    "val": 25
                 }
             }
         },
 
         "expert": {
-            "description": "{Expert Armorer}\n\nReduces physical damage inflicted against the hero's troops by 30%.",
+            "description": "{Expert Armorer}\n\nReduces physical damage inflicted against the hero's troops by 40%.",
             "effects": {
                 "main": {
-                    "val": 30
+                    "val": 40
                 }
             }
         }

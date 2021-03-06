@@ -1,0 +1,177 @@
+{
+    "core:knight": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:cleric": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:planeswalker": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:elementalist": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:warlock": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:overlord": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:beastmaster": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:witch": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:demoniac": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:heretic": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:deathknight": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:necromancer": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:ranger": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:druid": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:barbarian": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:battlemage": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:alchemist": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "core:wizard": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "celestial:vdhCyborg": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "celestial:vdhMarshal": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    // "hota:captain": {
+    //     "secondarySkills": {
+    //         "artillery": 0,
+    //         "ballistics": 0,
+    //         "firstAid": 0
+    //     }
+    // },
+
+    // "hota:navigator": {
+    //     "secondarySkills": {
+    //         "artillery": 0,
+    //         "ballistics": 0,
+    //         "firstAid": 0
+    //     }
+    // }
+}

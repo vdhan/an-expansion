@@ -1,13 +1,20 @@
 {
     "name": "Warfare",
-    "description": "Learn 1 of Artillery, First Aid or Ballistics takes all.",
+    "description": "Artillery, First Aid and Ballistics combination.",
     "modType": "Mechanics",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
-    "keepDisabled": true,
 
     "skills": [
-        "config/warfare/skills.json"
+        "config/warfare/warfare"
+    ],
+
+    "heroClasses": [
+        "config/warfare/classes"
+    ],
+
+    "heroes": [
+        "config/warfare/heroes"
     ]
 }
