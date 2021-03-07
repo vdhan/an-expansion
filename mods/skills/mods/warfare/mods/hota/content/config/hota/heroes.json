@@ -10,5 +10,18 @@
                 "level": "basic"
             }
         ]
+    },
+
+    "hota.hota heroes:ranloo": {
+        "skills": [
+            {
+                "skill": "necromancy",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
     }
 }

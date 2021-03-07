@@ -1,0 +1,16 @@
+{
+    "name": "Cove",
+    "description": "Enables double movement for HotA Cove heroes.",
+    "modType": "Mechanics",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "depends": [
+        "hota.cove"
+    ],
+
+    "heroes": [
+        "config/cove/heroes"
+    ]
+}

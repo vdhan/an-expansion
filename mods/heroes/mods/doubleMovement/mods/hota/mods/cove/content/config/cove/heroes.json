@@ -1,0 +1,248 @@
+{
+    "hota.cove:anabel": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:andal": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:astra": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:bidley": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:casmetra": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:cassiopeia": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:corkes": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:dargem": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:derek": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:elmore": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:eovacius": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:illor": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:jeremy": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:leena": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:manfred": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:miriam": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:spint": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:tark": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.cove:zilare": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    }
+}

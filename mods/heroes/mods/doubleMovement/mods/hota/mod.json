@@ -1,0 +1,12 @@
+{
+    "name": "HotA Double Movement",
+    "description": "Enables double movement for HotA heroes.",
+    "modType": "Mechanics",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "depends": [
+        "hota"
+    ]
+}

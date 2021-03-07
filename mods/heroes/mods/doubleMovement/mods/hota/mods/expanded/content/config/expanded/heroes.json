@@ -1,0 +1,40 @@
+{
+    "hota.hota heroes:beatrice": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.hota heroes:kinkeria": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    },
+
+    "hota.hota heroes:ranloo": {
+        "specialty": {
+            "bonuses": {
+                "doubleMovement": {
+                    "type": "SECONDARY_SKILL_PREMY",
+                    "subtype": "skill.logistics",
+                    "val": 100,
+                    "valueType": "ADDITIVE_VALUE"
+                }
+            }
+        }
+    }
+}
