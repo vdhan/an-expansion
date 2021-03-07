@@ -1,8 +1,8 @@
 {
     "name": "An's Expansion",
-    "description": "Rebalance skills, heroes, creatures, etc.",
+    "description": "Rebalances skills, heroes, creatures, etc.",
     "modType": "Expansion",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
     "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike",

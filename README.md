@@ -12,6 +12,8 @@ Contact me: https://vudachoangan.com/
 
 **Changelog:**
 
+- 2.0.0: Supports both In The Wake of Gods and Horn of the Abyss.
+
 - 1.0.0
   * Creatures:
     + War Machine:
