@@ -157,21 +157,5 @@
             "ballistics": 0,
             "firstAid": 0
         }
-    },
-
-    // "hota:captain": {
-    //     "secondarySkills": {
-    //         "artillery": 0,
-    //         "ballistics": 0,
-    //         "firstAid": 0
-    //     }
-    // },
-
-    // "hota:navigator": {
-    //     "secondarySkills": {
-    //         "artillery": 0,
-    //         "ballistics": 0,
-    //         "firstAid": 0
-    //     }
-    // }
+    }
 }

@@ -1,7 +1,7 @@
 {
     "name": "Warfare",
     "description": "Artillery, First Aid and Ballistics combination.",
-    "modType": "Mechanics",
+    "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",

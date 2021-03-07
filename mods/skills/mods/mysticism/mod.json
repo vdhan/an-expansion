@@ -1,7 +1,7 @@
 {
     "name": "Mysticism",
     "description": "Mysticism now allows your hero to regenerate (2/3/4 + 1/2/3 per 4 levels) spell points per day.",
-    "modType": "Mechanics",
+    "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",

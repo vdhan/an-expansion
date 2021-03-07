@@ -1,7 +1,7 @@
 {
     "name": "First Aid",
     "description": "First Aid now healing up to 100/225/400 points and cast Stone Skin at beginning of battle for 10/25/50 rounds.",
-    "modType": "Mechanics",
+    "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",

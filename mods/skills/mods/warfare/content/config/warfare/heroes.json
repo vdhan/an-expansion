@@ -205,18 +205,5 @@
                 "level": "basic"
             }
         ]
-    },
-
-    // "hota:jeremy": {
-    //     "skills": [
-    //         {
-    //             "skill": "offence",
-    //             "level": "basic"
-    //         },
-    //         {
-    //             "skill": "warfare",
-    //             "level": "basic"
-    //         }
-    //     ]
-    // }
+    }
 }

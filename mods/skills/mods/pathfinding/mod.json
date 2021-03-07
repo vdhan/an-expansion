@@ -1,7 +1,7 @@
 {
     "name": "Pathfinding",
     "description": "Pathfinding also increases movement by 5%/10%/15%.",
-    "modType": "Mechanics",
+    "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",

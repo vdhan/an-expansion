@@ -1,7 +1,7 @@
 {
     "name": "Specialty",
     "description": "Improve heroes resources specialties.",
-    "modType": "Mechanics",
+    "modType": "Heroes",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",

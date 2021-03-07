@@ -1,0 +1,17 @@
+{
+    "hota.cove:captain": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    },
+
+    "hota.cove:navigator": {
+        "secondarySkills": {
+            "artillery": 0,
+            "ballistics": 0,
+            "firstAid": 0
+        }
+    }
+}

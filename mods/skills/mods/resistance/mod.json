@@ -1,7 +1,7 @@
 {
     "name": "Resistance",
     "description": "Resistance now endows a hero's troops with 10%/20%/30% magic resistance.",
-    "modType": "Mechanics",
+    "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
