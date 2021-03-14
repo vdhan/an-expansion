@@ -1,17 +1,21 @@
 {
-    "name": "HotA Expanded Heroes",
-    "description": "Enables Warfare for HotA expanded heroes.",
+    "name": "Cove Warfare",
+    "description": "Enables Warfare for HotA Cove heroes.",
     "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
 
     "depends": [
-        "hota.hota heroes",
+        "hota.cove",
         "an-expansion.skills.warfare"
     ],
 
+    "heroClasses": [
+        "config/coveWarfare/classes"
+    ],
+
     "heroes": [
-        "config/expanded/heroes"
+        "config/coveWarfare/heroes"
     ]
 }
