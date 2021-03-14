@@ -1,6 +1,6 @@
 {
     "name": "Armorer",
-    "description": "Armorer now reduces physical damage by 10%/25%/40%.",
+    "description": "Armorer now reduces physical damage by 10%/20%/40%.",
     "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

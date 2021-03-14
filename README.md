@@ -33,7 +33,7 @@ Contact me: https://vudachoangan.com/
     + Estates: Now increases 250/500/1000 gold per day.
     + Tactics: Increases troops speed by 1/2/3 instead.
     + Navigation: Also allows free ship boarding.
-    + Armorer: Now reduces physical damage by 10%/25%/40%.
+    + Armorer: Now reduces physical damage by 10%/20%/40%.
     + Luck: Also increases defense by 1/2/3 and cast fortune at beginning of battle for 10/25/50 rounds.
     + Leadership: Also increases attack by 1/2/3 and cast mirth at beginning of battle for 10/25/50 rounds.
     + Learning: Now increases a hero's earned experience by 25%/50%/100%.
