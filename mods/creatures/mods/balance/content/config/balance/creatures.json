@@ -39,7 +39,8 @@
     "core:chaosHydra": {
         "abilities": {
             "regenerate": {
-                "type": "HP_REGENERATION"
+                "type": "HP_REGENERATION",
+                "val": 50
             }
         }
     },
