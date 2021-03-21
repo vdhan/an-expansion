@@ -1,8 +1,8 @@
 {
     "core:ballista": {
         "damage": {
-            "min": 4,
-            "max": 6
+            "min": 5,
+            "max": 5
         }
     },
 
