@@ -1,9 +1,5 @@
 {
     "core:ballista": {
-        "cost": {
-            "gold": 2000
-        },
-
         "damage": {
             "min": 5,
             "max": 5
