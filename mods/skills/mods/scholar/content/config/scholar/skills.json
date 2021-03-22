@@ -7,8 +7,10 @@
                     "subtype": "primSkill.knowledge",
                     "valueType": "BASE_NUMBER"
                 },
-                "spells": {
-                    "type": "SPELLS_OF_LEVEL"
+
+                "spell1": {
+                    "type": "SPELLS_OF_LEVEL",
+                    "subtype": 1
                 }
             }
         },
@@ -18,32 +20,38 @@
             "effects": {
                 "knowledge": {
                     "val": 1
-                },
-                "spells": {
-                    "subtype": 1
                 }
             }
         },
 
         "advanced": {
-            "description": "{Advanced Scholar}\n\nAllows heroes to teach each other any spell up to 3rd level, effectively trading spells between spell books, increases knowledge by 2 and temporarily know all spells level 2.",
+            "description": "{Advanced Scholar}\n\nAllows heroes to teach each other any spell up to 3rd level, effectively trading spells between spell books, increases knowledge by 2 and temporarily know all spells up to level 2.",
             "effects": {
                 "knowledge": {
                     "val": 2
                 },
-                "spells": {
+
+                "spell2": {
+                    "type": "SPELLS_OF_LEVEL",
                     "subtype": 2
                 }
             }
         },
 
         "expert": {
-            "description": "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to 4th level, effectively trading spells between spell books, increases knowledge by 3 and temporarily know all spells level 3.",
+            "description": "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to 4th level, effectively trading spells between spell books, increases knowledge by 3 and temporarily know all spells up to level 3.",
             "effects": {
                 "knowledge": {
                     "val": 3
                 },
-                "spells": {
+
+                "spell2": {
+                    "type": "SPELLS_OF_LEVEL",
+                    "subtype": 2
+                },
+
+                "spell3": {
+                    "type": "SPELLS_OF_LEVEL",
                     "subtype": 3
                 }
             }

@@ -41,7 +41,7 @@ Contact me: https://vudachoangan.com/
     + Pathfinding: Also increases movement by 5%/10%/15%.
     + Scouting: Now allows your hero to see 2/3/5 square further into the shroud, increases movement points by 200/250/300 and contributes 100/250/500 gold per day.
     + Resistance: Now endows a hero's troops with 10%/20%/30% magic resistance.
-    + Scholar: Also increases knowledge by 1/2/3 and temporarily know all spells level 1/2/3 unless you share with each other.
+    + Scholar: Also increases knowledge by 1/2/3 and temporarily know all spells level 1/2/3.
     + Sorcery: Now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.
     + Artillery: Also increases ballista damage by 100%/200%/300%.
     + First Aid: Now healing up to 100/225/400 points and cast Stone Skin at beginning of battle for 10/25/50 rounds.
