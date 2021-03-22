@@ -11,7 +11,7 @@
         },
 
         "basic": {
-            "description": "{Basic Sorcery}\n\nCauses a hero's spells to inflict an additional 5% damage in combat and increases spell power by 1.",
+            "description": "{Basic Sorcery}\n\nCauses a hero's spells to inflict an additional {5% damage} in combat and increases {spell power by 1}.",
             "effects": {
                 "xtra": {
                     "val": 1
@@ -20,7 +20,7 @@
         },
 
         "advanced": {
-            "description": "{Advanced Sorcery}\n\nCauses a hero's spells to inflict an additional 10% damage in combat and increases spell power by 2.",
+            "description": "{Advanced Sorcery}\n\nCauses a hero's spells to inflict an additional {10% damage} in combat and increases {spell power by 2}.",
             "effects": {
                 "xtra": {
                     "val": 2
@@ -29,7 +29,7 @@
         },
 
         "expert": {
-            "description": "{Expert Sorcery}\n\nCauses a hero's spells to inflict an additional 20% damage in combat and increases spell power by 3.",
+            "description": "{Expert Sorcery}\n\nCauses a hero's spells to inflict an additional {20% damage} in combat and increases {spell power by 3}.",
             "effects": {
                 "main": {
                     "val": 20

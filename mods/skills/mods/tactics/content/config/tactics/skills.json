@@ -10,7 +10,7 @@
         },
 
         "basic": {
-            "description": "{Basic Tactics}\n\nIncreases your troops speed by 1.",
+            "description": "{Basic Tactics}\n\nIncreases your troops {speed by 1}.",
             "effects": {
                 "main": {
                     "val": 1
@@ -19,7 +19,7 @@
         },
 
         "advanced": {
-            "description": "{Advanced Tactics}\n\nIncreases your troops speed by 2.",
+            "description": "{Advanced Tactics}\n\nIncreases your troops {speed by 2}.",
             "effects": {
                 "main": {
                     "val": 2
@@ -28,7 +28,7 @@
         },
 
         "expert": {
-            "description": "{Expert Tactics}\n\nIncreases your troops speed by 3.",
+            "description": "{Expert Tactics}\n\nIncreases your troops {speed by 3}.",
             "effects": {
                 "main": {
                     "val": 3

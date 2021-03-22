@@ -1,7 +1,7 @@
 {
     "core:armorer": {
         "basic": {
-            "description": "{Basic Armorer}\n\nReduces physical damage inflicted against the hero's troops by 10%.",
+            "description": "{Basic Armorer}\n\nReduces physical damage inflicted against the hero's troops by {10%}.",
             "effects": {
                 "main": {
                     "val": 10
@@ -10,7 +10,7 @@
         },
 
         "advanced": {
-            "description": "{Advanced Armorer}\n\nReduces physical damage inflicted against the hero's troops by 20%.",
+            "description": "{Advanced Armorer}\n\nReduces physical damage inflicted against the hero's troops by {20%}.",
             "effects": {
                 "main": {
                     "val": 20
@@ -19,7 +19,7 @@
         },
 
         "expert": {
-            "description": "{Expert Armorer}\n\nReduces physical damage inflicted against the hero's troops by 40%.",
+            "description": "{Expert Armorer}\n\nReduces physical damage inflicted against the hero's troops by {40%}.",
             "effects": {
                 "main": {
                     "val": 40

@@ -85,7 +85,7 @@
                 "small": "warfare/warfareBasicSmall"
             },
 
-            "description": "{Basic Warfare}\n\nBasic of Artillery, First Aid and Ballistics.",
+            "description": "{Basic Warfare}\n\nBasic of {Artillery}, {First Aid} and {Ballistics}.",
             "effects": {
                 "ballistics": {
                     "val": 1
@@ -119,7 +119,7 @@
                 "medium": "warfare/warfareAdvancedMedium",
                 "small": "warfare/warfareAdvancedSmall"
             },
-            "description": "{Advanced Warfare}\n\nAdvanced of Artillery, First Aid and Ballistics.",
+            "description": "{Advanced Warfare}\n\nAdvanced of {Artillery}, {First Aid} and {Ballistics}.",
             "effects": {
                 "ballistics": {
                     "val": 2
@@ -154,7 +154,7 @@
                 "small": "warfare/warfareExpertSmall"
             },
 
-            "description": "{Expert Warfare}\n\nExpert of Artillery, First Aid and Ballistics.",
+            "description": "{Expert Warfare}\n\nExpert of {Artillery}, {First Aid} and {Ballistics}.",
             "effects": {
                 "ballistics": {
                     "val": 3
