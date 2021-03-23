@@ -1,6 +1,6 @@
 {
     "name": "Learning",
-    "description": "Learning now increases a hero's earned experience by 25%/50%/100%.",
+    "description": "Learning now gains additional 25%/50%/100% experience.",
     "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

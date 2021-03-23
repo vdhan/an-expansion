@@ -60,7 +60,7 @@
                     "valueType": "BASE_NUMBER"
                 },
 
-                "artilleryDamage": {
+                "main": {
                     "type": "CREATURE_DAMAGE",
                     "valueType": "PERCENT_TO_BASE",
                     "limiters": [
@@ -69,11 +69,6 @@
                             "parameters": ["ballista"]
                         }
                     ]
-                },
-
-                "stoneSkin": {
-                    "type": "OPENING_BATTLE_SPELL",
-                    "subtype": "spell.stoneSkin"
                 }
             }
         },
@@ -103,12 +98,8 @@
                     "val": 0
                 },
 
-                "artilleryDamage": {
+                "main": {
                     "val": 100
-                },
-
-                "stoneSkin": {
-                    "val": 10
                 }
             }
         },
@@ -137,12 +128,8 @@
                     "val": 1
                 },
 
-                "artilleryDamage": {
+                "main": {
                     "val": 200
-                },
-
-                "stoneSkin": {
-                    "val": 25
                 }
             }
         },
@@ -172,12 +159,8 @@
                     "val": 1
                 },
 
-                "artilleryDamage": {
+                "main": {
                     "val": 300
-                },
-
-                "stoneSkin": {
-                    "val": 50
                 }
             }
         }

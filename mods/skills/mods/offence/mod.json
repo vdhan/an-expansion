@@ -1,0 +1,12 @@
+{
+    "name": "Offence",
+    "description": "Offence now increases 10%/20%/40% melee damage and cast Bloodlust at battle opening for 10/25/50 rounds.",
+    "modType": "Skills",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "skills": [
+        "config/offence/skills.json"
+    ]
+}

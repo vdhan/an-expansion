@@ -1,16 +1,16 @@
 {
-    "core:leadership": {
+    "core:offence": {
         "base": {
             "effects": {
                 "cast": {
                     "type": "OPENING_BATTLE_SPELL",
-                    "subtype": "spell.mirth"
+                    "subtype": "spell.bloodlust"
                 }
             }
         },
 
         "basic": {
-            "description": "{Basic Leadership}\n\nIncreases {morale by 1} and cast {Mirth} at battle opening for {10 rounds}.",
+            "description": "{Basic Offence}\n\nIncreases {10% melee damage} and cast {Bloodlust} at battle opening for {10 rounds}.",
             "effects": {
                 "cast": {
                     "val": 10
@@ -19,7 +19,7 @@
         },
 
         "advanced": {
-            "description": "{Advanced Leadership}\n\nIncreases {morale by 2} and cast {Mirth} at battle opening for {25 rounds}.",
+            "description": "{Advanced Offence}\n\nIncreases {20% melee damage} and cast {Bloodlust} at battle opening for {25 rounds}.",
             "effects": {
                 "cast": {
                     "val": 25
@@ -28,8 +28,12 @@
         },
 
         "expert": {
-            "description": "{Expert Leadership}\n\nIncreases {morale by 3} and cast {Mirth} at battle opening for {50 rounds}.",
+            "description": "{Expert Offence}\n\nIncreases {40% melee damage} and cast {Bloodlust} at battle opening for {50 rounds}.",
             "effects": {
+                "main": {
+                    "val": 40
+                },
+
                 "cast": {
                     "val": 50
                 }

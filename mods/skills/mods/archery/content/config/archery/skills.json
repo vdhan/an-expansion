@@ -1,16 +1,16 @@
 {
-    "core:leadership": {
+    "core:archery": {
         "base": {
             "effects": {
                 "cast": {
                     "type": "OPENING_BATTLE_SPELL",
-                    "subtype": "spell.mirth"
+                    "subtype": "spell.precision"
                 }
             }
         },
 
         "basic": {
-            "description": "{Basic Leadership}\n\nIncreases {morale by 1} and cast {Mirth} at battle opening for {10 rounds}.",
+            "description": "{Basic Archery}\n\nIncreases {10% range damage} and cast {Precision} at battle opening for {10 rounds}.",
             "effects": {
                 "cast": {
                     "val": 10
@@ -19,7 +19,7 @@
         },
 
         "advanced": {
-            "description": "{Advanced Leadership}\n\nIncreases {morale by 2} and cast {Mirth} at battle opening for {25 rounds}.",
+            "description": "{Advanced Archery}\n\nIncreases {25% range damage} and cast {Precision} at battle opening for {25 rounds}.",
             "effects": {
                 "cast": {
                     "val": 25
@@ -28,7 +28,7 @@
         },
 
         "expert": {
-            "description": "{Expert Leadership}\n\nIncreases {morale by 3} and cast {Mirth} at battle opening for {50 rounds}.",
+            "description": "{Expert Archery}\n\nIncreases {50% range damage} and cast {Precision} at battle opening for {50 rounds}.",
             "effects": {
                 "cast": {
                     "val": 50

@@ -1,6 +1,6 @@
 {
     "name": "Resistance",
-    "description": "Resistance now endows a hero's troops with 10%/20%/30% magic resistance.",
+    "description": "Resistance now reduces enemy hero 10%/20%/30% spell power.",
     "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

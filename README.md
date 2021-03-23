@@ -33,20 +33,22 @@ Contact me: https://vudachoangan.com/
     + Estates: Now increases 250/500/1000 gold per day.
     + Tactics: Increases troops speed by 1/2/3 instead.
     + Navigation: Also allows free ship boarding.
-    + Armorer: Now reduces physical damage by 10%/20%/40%.
-    + Luck: Also increases defense by 1/2/3 and cast fortune at beginning of battle for 10/25/50 rounds.
-    + Leadership: Also increases attack by 1/2/3 and cast mirth at beginning of battle for 10/25/50 rounds.
-    + Learning: Now increases a hero's earned experience by 25%/50%/100%.
+    + Armorer: Now reduces 10%/20%/30% physical damage and cast Stone Skin at battle opening for 10/25/50 rounds.
+    + Luck: Also cast Fortune at battle opening for 10/25/50 rounds.
+    + Leadership: Also cast Mirth at battle opening for 10/25/50 rounds.
+    + Learning: Now gains additional 25%/50%/100% experience.
     + Mysticism: Now allows your hero to regenerate (2/3/4 + 1/2/3 per 4 levels) spell points per day.
-    + Pathfinding: Also increases movement by 5%/10%/15%.
+    + Pathfinding: Also increases 5%/10%/15% movement.
     + Scouting: Now allows your hero to see 2/3/5 square further into the shroud, increases movement points by 200/250/300 and contributes 100/250/500 gold per day.
-    + Resistance: Now endows a hero's troops with 10%/20%/30% magic resistance.
+    + Resistance: Now reduces enemy hero 10%/20%/30% spell power.
     + Scholar: Also increases knowledge by 1/2/3 and temporarily know all spells level 1/2/3.
     + Sorcery: Now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.
     + Artillery: Also increases ballista damage by 100%/200%/300%.
-    + First Aid: Now healing up to 100/225/400 points and cast Stone Skin at beginning of battle for 10/25/50 rounds.
+    + First Aid: Now heals up to 100/225/400 HP and cast Stone Skin at battle opening for 10/25/50 rounds.
     + Warfare: Artillery, First Aid and Ballistics combination.
     + Eagle Eye: Also increases enemies spell cost by 1/2/3.
+    + Archery: Also cast Precision at battle opening for 10/25/50 rounds.
+    + Offence: Now increases 10%/20%/40% melee damage and cast Bloodlust at battle opening for 10/25/50 rounds.
 
   * Towns:
     + Stronghold: Reduces cost for Cyclops Cave.

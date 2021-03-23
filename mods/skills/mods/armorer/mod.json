@@ -1,6 +1,6 @@
 {
     "name": "Armorer",
-    "description": "Armorer now reduces physical damage by 10%/20%/40%.",
+    "description": "Armorer now reduces 10%/20%/30% physical damage and cast Stone Skin at battle opening for 10/25/50 rounds.",
     "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

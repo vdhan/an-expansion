@@ -1,12 +1,12 @@
 {
-    "name": "Luck",
-    "description": "Luck also cast Fortune at battle opening for 10/25/50 rounds.",
+    "name": "Archery",
+    "description": "Archery also cast Precision at battle opening for 10/25/50 rounds.",
     "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
 
     "skills": [
-        "config/luck/skills.json"
+        "config/archery/skills.json"
     ]
 }
