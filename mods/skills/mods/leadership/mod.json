@@ -1,6 +1,6 @@
 {
     "name": "Leadership",
-    "description": "Leadership also cast Mirth at battle opening for at least 10/25/50 rounds.",
+    "description": "Leadership also cast Mirth at battle opening for at least 10/25/50 rounds and increases attack by 1/2/3.",
     "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

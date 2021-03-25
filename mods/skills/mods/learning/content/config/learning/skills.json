@@ -1,28 +1,49 @@
 {
     "core:learning": {
+        "base": {
+            "effects": {
+                "knowledge": {
+                    "type": "PRIMARY_SKILL",
+                    "subtype": "primSkill.knowledge"
+                }
+            }
+        },
+
         "basic": {
-            "description": "{Basic Learning}\n\nGains additional {25% experience}.",
+            "description": "{Basic Learning}\n\nGains additional {25% experience} and increases {knowledge by 1}.",
             "effects": {
                 "main": {
                     "val": 25
+                },
+
+                "knowledge": {
+                    "val": 1
                 }
             }
         },
 
         "advanced": {
-            "description": "{Advanced Learning}\n\nGains additional {50% experience}.",
+            "description": "{Advanced Learning}\n\nGains additional {50% experience} and increases {knowledge by 2}.",
             "effects": {
                 "main": {
                     "val": 50
+                },
+
+                "knowledge": {
+                    "val": 2
                 }
             }
         },
 
         "expert": {
-            "description": "{Expert Learning}\n\nGains additional {100% experience}.",
+            "description": "{Expert Learning}\n\nGains additional {100% experience} and increases {knowledge by 3}.",
             "effects": {
                 "main": {
                     "val": 100
+                },
+
+                "knowledge": {
+                    "val": 3
                 }
             }
         }

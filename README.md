@@ -34,9 +34,9 @@ Contact me: https://vudachoangan.com/
     + Tactics: Increases troops speed by 1/2/3 instead.
     + Navigation: Also allows free ship boarding.
     + Armorer: Now reduces 10%/20%/30% physical damage and cast Stone Skin at battle opening for 10/25/50 rounds.
-    + Luck: Also cast Fortune at battle opening for 10/25/50 rounds.
-    + Leadership: Also cast Mirth at battle opening for 10/25/50 rounds.
-    + Learning: Now gains additional 25%/50%/100% experience.
+    + Luck: Also cast Fortune at battle opening for 10/25/50 rounds and increases defence by 1/2/3.
+    + Leadership: Also cast Mirth at battle opening for 10/25/50 rounds and increases attack by 1/2/3.
+    + Learning: Now gains additional 25%/50%/100% experience and increases knowledge by 1/2/3.
     + Mysticism: Now allows your hero to regenerate (2/3/4 + 1/2/3 per 4 levels) spell points per day.
     + Pathfinding: Also increases 5%/10%/15% movement.
     + Scouting: Now allows your hero to see 2/3/5 square further into the shroud, increases movement points by 200/250/300 and contributes 100/250/500 gold per day.
