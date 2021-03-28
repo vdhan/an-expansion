@@ -1,6 +1,6 @@
 {
     "name": "Resistance",
-    "description": "Resistance now reduces enemy hero 10%/20%/30% spell power.",
+    "description": "Resistance now reduces enemy hero 10%/20%/30% spell power and 5%/10%/15% spell damage.",
     "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

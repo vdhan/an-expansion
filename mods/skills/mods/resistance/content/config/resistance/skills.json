@@ -13,12 +13,16 @@
                     "type": "PRIMARY_SKILL",
                     "subtype": "primSkill.spellpower",
                     "valueType": "PERCENT_TO_ALL"
+                },
+
+                "spellDamage": {
+                    "type": "SPELL_DAMAGE_REDUCTION"
                 }
             }
         },
 
         "basic": {
-            "description": "{Basic Resistance}\n\nReduces enemy hero {10% spell power}.",
+            "description": "{Basic Resistance}\n\nReduces enemy hero {10% spell power} and {5% spell damage}.",
             "effects": {
                 "main": {
                     "val": -10
@@ -26,12 +30,16 @@
 
                 "extra": {
                     "val": 10
+                },
+
+                "spellDamage": {
+                    "val": 5
                 }
             }
         },
 
         "advanced": {
-            "description": "{Advanced Resistance}\n\nReduces enemy hero {20% spell power}.",
+            "description": "{Advanced Resistance}\n\nReduces enemy hero {20% spell power} and {10% spell damage}.",
             "effects": {
                 "main": {
                     "val": -20
@@ -39,12 +47,16 @@
 
                 "extra": {
                     "val": 20
+                },
+
+                "spellDamage": {
+                    "val": 10
                 }
             }
         },
 
         "expert": {
-            "description": "{Expert Resistance}\n\nReduces enemy hero {30% spell power}.",
+            "description": "{Expert Resistance}\n\nReduces enemy hero {30% spell power} and {15% spell damage}.",
             "effects": {
                 "main": {
                     "val": -30
@@ -52,6 +64,10 @@
 
                 "extra": {
                     "val": 30
+                },
+
+                "spellDamage": {
+                    "val": 15
                 }
             }
         }

@@ -40,7 +40,7 @@ Contact me: https://vudachoangan.com/
     + Mysticism: Now allows your hero to regenerate (2/3/4 + 1/2/3 per 4 levels) spell points per day.
     + Pathfinding: Also increases 5%/10%/15% movement.
     + Scouting: Now allows your hero to see 2/3/5 square further into the shroud, increases movement points by 200/250/300 and contributes 100/250/500 gold per day.
-    + Resistance: Now reduces enemy hero 10%/20%/30% spell power.
+    + Resistance: Now reduces enemy hero 10%/20%/30% spell power and 5%/10%/15% spell damage.
     + Scholar: Also increases knowledge by 1/2/3 and temporarily know all spells level 1/2/3.
     + Sorcery: Now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.
     + Artillery: Also increases ballista damage by 100%/200%/300%.
