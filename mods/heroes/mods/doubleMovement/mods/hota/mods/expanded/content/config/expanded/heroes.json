@@ -5,8 +5,7 @@
                 "doubleMovement": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
-                    "val": 100,
-                    "valueType": "ADDITIVE_VALUE"
+                    "val": 100
                 }
             }
         }
@@ -18,8 +17,7 @@
                 "doubleMovement": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
-                    "val": 100,
-                    "valueType": "ADDITIVE_VALUE"
+                    "val": 100
                 }
             }
         }
@@ -31,8 +29,7 @@
                 "doubleMovement": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
-                    "val": 100,
-                    "valueType": "ADDITIVE_VALUE"
+                    "val": 100
                 }
             }
         }

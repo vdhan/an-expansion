@@ -4,8 +4,7 @@
             "effects": {
                 "extra": {
                     "type": "SECONDARY_SKILL_PREMY",
-                    "subtype": "skill.logistics",
-                    "valueType": "PERCENT_TO_BASE"
+                    "subtype": "skill.logistics"
                 }
             }
         },

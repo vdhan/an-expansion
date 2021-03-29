@@ -3,8 +3,7 @@
         "base": {
             "effects": {
                 "lightningSpeed": {
-                    "type": "MOVEMENT",
-                    "valueType": "BASE_NUMBER"
+                    "type": "MOVEMENT"
                 },
 
                 "treasureHunter": {
