@@ -65,7 +65,10 @@
                 "doubleMovement": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
-                    "val": 100
+                    "val": 100,
+                    "limiters": [
+                        "allOf"
+                    ]
                 }
             }
         }
@@ -77,7 +80,10 @@
                 "doubleMovement": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
-                    "val": 100
+                    "val": 100,
+                    "limiters": [
+                        "allOf"
+                    ]
                 }
             }
         }
@@ -89,7 +95,10 @@
                 "doubleMovement": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
-                    "val": 100
+                    "val": 100,
+                    "limiters": [
+                        "allOf"
+                    ]
                 }
             }
         }
@@ -113,7 +122,10 @@
                 "doubleMovement": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
-                    "val": 100
+                    "val": 100,
+                    "limiters": [
+                        "allOf"
+                    ]
                 }
             }
         }
@@ -137,7 +149,10 @@
                 "doubleMovement": {
                     "type": "SECONDARY_SKILL_PREMY",
                     "subtype": "skill.logistics",
-                    "val": 100
+                    "val": 100,
+                    "limiters": [
+                        "allOf"
+                    ]
                 }
             }
         }
