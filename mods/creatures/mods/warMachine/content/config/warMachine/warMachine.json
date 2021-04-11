@@ -12,7 +12,6 @@
             "health": {
                 "type": "STACK_HEALTH",
                 "val": 1,
-                "valueType": "BASE_NUMBER",
                 "propagator": "HERO"
             }
         }
@@ -29,7 +28,6 @@
             "velocity": {
                 "type": "STACKS_SPEED",
                 "val": 1,
-                "valueType": "BASE_NUMBER",
                 "propagator": "HERO"
             }
         }

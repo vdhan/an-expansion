@@ -1,0 +1,141 @@
+{
+    "core:knight": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:cleric": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:planeswalker": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:elementalist": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:warlock": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:overlord": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:beastmaster": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:witch": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:demoniac": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:heretic": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:deathknight": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:necromancer": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:ranger": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:druid": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:barbarian": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:battlemage": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:alchemist": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "core:wizard": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "celestial:vdhCyborg": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "celestial:vdhMarshal": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    }
+}
