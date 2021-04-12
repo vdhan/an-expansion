@@ -1,0 +1,16 @@
+{
+    "name": "Commander",
+    "description": "Commanders increases 50 gold per day for each hero's level.",
+    "modType": "Creatures",
+    "version": "0.0.0",
+    "author": "Vũ Đắc Hoàng Ân",
+    "contact": "https://github.com/vdhan/An-Expansion",
+
+    "creatures": [
+        "config/commander/creatures"
+    ],
+
+    "depends": [
+        "wog.commanders"
+    ]
+}
