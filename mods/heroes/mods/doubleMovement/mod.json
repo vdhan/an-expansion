@@ -8,7 +8,6 @@
 
     "heroes": [
         "config/doubleMovement/castle.json",
-        "config/doubleMovement/celestial.json",
         "config/doubleMovement/conflux.json",
         "config/doubleMovement/dungeon.json",
         "config/doubleMovement/fortress.json",

@@ -141,21 +141,5 @@
             "ballistics": 0,
             "firstAid": 0
         }
-    },
-
-    "celestial:vdhCyborg": {
-        "secondarySkills": {
-            "artillery": 0,
-            "ballistics": 0,
-            "firstAid": 0
-        }
-    },
-
-    "celestial:vdhMarshal": {
-        "secondarySkills": {
-            "artillery": 0,
-            "ballistics": 0,
-            "firstAid": 0
-        }
     }
 }

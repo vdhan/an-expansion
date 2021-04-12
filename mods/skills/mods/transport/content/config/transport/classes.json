@@ -123,19 +123,5 @@
             "pathfinding": 0,
             "logistics": 0
         }
-    },
-
-    "celestial:vdhCyborg": {
-        "secondarySkills": {
-            "pathfinding": 0,
-            "logistics": 0
-        }
-    },
-
-    "celestial:vdhMarshal": {
-        "secondarySkills": {
-            "pathfinding": 0,
-            "logistics": 0
-        }
     }
 }
