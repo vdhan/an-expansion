@@ -1,16 +1,16 @@
 {
-    "name": "Commander Gold",
-    "description": "Commanders increases 50 gold per day for each hero's level.",
+    "name": "Cove",
+    "description": "Enables Commander Gold for HotA Cove heroes.",
     "modType": "Creatures",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
 
     "depends": [
-        "wog.commanders"
+        "hota.cove"
     ],
 
     "creatures": [
-        "config/commander/creatures"
+        "config/hotaGold/creatures"
     ]
 }

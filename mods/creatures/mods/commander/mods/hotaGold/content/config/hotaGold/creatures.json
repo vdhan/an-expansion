@@ -1,0 +1,13 @@
+{
+    "hota.cove:blackbeard": {
+        "abilities": {
+            "hoarder": {
+                "type": "GENERATE_RESOURCE",
+                "subtype": "resource.gold",
+                "updater": "TIMES_HERO_LEVEL",
+                "val": 50,
+                "propagator": "HERO"
+            }
+        }
+    }
+}
