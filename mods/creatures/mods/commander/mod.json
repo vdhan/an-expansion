@@ -1,6 +1,6 @@
 {
-    "name": "Commander Gold",
-    "description": "Commanders increases 50 gold per day for each hero's level.",
+    "name": "Commander",
+    "description": "Improves commanders (requires WOG mod).",
     "modType": "Creatures",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

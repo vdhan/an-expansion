@@ -1,6 +1,6 @@
 {
     "name": "Cove",
-    "description": "Enables Commander Gold for HotA Cove heroes.",
+    "description": "Improves HotA Cove commanders.",
     "modType": "Creatures",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",
@@ -11,6 +11,6 @@
     ],
 
     "creatures": [
-        "config/hotaGold/creatures"
+        "config/hotaCommander/creatures"
     ]
 }

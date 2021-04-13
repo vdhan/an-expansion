@@ -3,8 +3,7 @@
         "base": {
             "effects": {
                 "main": {
-                    "type": "STACKS_SPEED",
-                    "valueType": "BASE_NUMBER"
+                    "type": "STACKS_SPEED"
                 }
             }
         },

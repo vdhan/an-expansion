@@ -4,8 +4,7 @@
             "effects": {
                 "xtra": {
                     "type": "PRIMARY_SKILL",
-                    "subtype": "primSkill.spellpower",
-                    "valueType": "BASE_NUMBER"
+                    "subtype": "primSkill.spellpower"
                 }
             }
         },

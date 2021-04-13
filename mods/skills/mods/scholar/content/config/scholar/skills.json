@@ -4,8 +4,7 @@
             "effects": {
                 "knowledge": {
                     "type": "PRIMARY_SKILL",
-                    "subtype": "primSkill.knowledge",
-                    "valueType": "BASE_NUMBER"
+                    "subtype": "primSkill.knowledge"
                 },
 
                 "spell1": {

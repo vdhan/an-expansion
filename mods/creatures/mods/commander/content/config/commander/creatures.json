@@ -37,11 +37,19 @@
 
     "wog.commanders:shaman1": {
         "abilities": {
-            "hoarder": {
-                "type": "GENERATE_RESOURCE",
-                "subtype": "resource.gold",
-                "updater": "TIMES_HERO_LEVEL",
+            "superiorAttack": {
+                "type": "PRIMARY_SKILL",
+                "subtype": "primSkill.attack",
                 "val": 50,
+                "valueType": "PERCENT_TO_BASE",
+                "propagator": "HERO"
+            },
+
+            "superiorDefence": {
+                "type": "PRIMARY_SKILL",
+                "subtype": "primSkill.defence",
+                "val": 50,
+                "valueType": "PERCENT_TO_BASE",
                 "propagator": "HERO"
             }
         }
