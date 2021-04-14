@@ -1,6 +1,6 @@
 {
     "name": "Learning",
-    "description": "Learning now gains additional 25%/50%/100% experience and increases knowledge by 1/2/3.",
+    "description": "Learning now gains additional 25%/50%/100% experience.",
     "modType": "Skills",
     "version": "0.0.0",
     "author": "Vũ Đắc Hoàng Ân",

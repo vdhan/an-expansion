@@ -10,40 +10,28 @@
         },
 
         "basic": {
-            "description": "{Basic Learning}\n\nGains additional {25% experience} and increases {knowledge by 1}.",
+            "description": "{Basic Learning}\n\nGains additional {25% experience}.",
             "effects": {
                 "main": {
                     "val": 25
-                },
-
-                "knowledge": {
-                    "val": 1
                 }
             }
         },
 
         "advanced": {
-            "description": "{Advanced Learning}\n\nGains additional {50% experience} and increases {knowledge by 2}.",
+            "description": "{Advanced Learning}\n\nGains additional {50% experience}.",
             "effects": {
                 "main": {
                     "val": 50
-                },
-
-                "knowledge": {
-                    "val": 2
                 }
             }
         },
 
         "expert": {
-            "description": "{Expert Learning}\n\nGains additional {100% experience} and increases {knowledge by 3}.",
+            "description": "{Expert Learning}\n\nGains additional {100% experience}.",
             "effects": {
                 "main": {
                     "val": 100
-                },
-
-                "knowledge": {
-                    "val": 3
                 }
             }
         }

@@ -2,8 +2,8 @@
     "warfare": {
         "name": "Warfare",
         "gainChance": {
-            "might": 6,
-            "magic": 6
+            "might": 7,
+            "magic": 7
         },
 
         "base": {
