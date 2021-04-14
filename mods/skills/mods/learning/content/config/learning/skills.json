@@ -1,14 +1,5 @@
 {
     "core:learning": {
-        "base": {
-            "effects": {
-                "knowledge": {
-                    "type": "PRIMARY_SKILL",
-                    "subtype": "primSkill.knowledge"
-                }
-            }
-        },
-
         "basic": {
             "description": "{Basic Learning}\n\nGains additional {25% experience}.",
             "effects": {

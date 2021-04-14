@@ -1,11 +1,17 @@
 {
     "wog.commanders:paladin1": {
         "abilities": {
-            "hoarder": {
-                "type": "GENERATE_RESOURCE",
-                "subtype": "resource.gold",
+            "wise": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.learning",
+                "val": 5,
                 "updater": "TIMES_HERO_LEVEL",
-                "val": 50,
+                "propagator": "HERO"
+            },
+
+            "leadership": {
+                "type": "MORALE",
+                "val": 1,
                 "propagator": "HERO"
             }
         }
@@ -16,8 +22,8 @@
             "hoarder": {
                 "type": "GENERATE_RESOURCE",
                 "subtype": "resource.gold",
-                "updater": "TIMES_HERO_LEVEL",
                 "val": 50,
+                "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
             }
         }
@@ -28,8 +34,8 @@
             "hoarder": {
                 "type": "GENERATE_RESOURCE",
                 "subtype": "resource.gold",
-                "updater": "TIMES_HERO_LEVEL",
                 "val": 50,
+                "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
             }
         }
@@ -60,8 +66,8 @@
             "hoarder": {
                 "type": "GENERATE_RESOURCE",
                 "subtype": "resource.gold",
-                "updater": "TIMES_HERO_LEVEL",
                 "val": 50,
+                "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
             }
         }
@@ -72,8 +78,8 @@
             "hoarder": {
                 "type": "GENERATE_RESOURCE",
                 "subtype": "resource.gold",
-                "updater": "TIMES_HERO_LEVEL",
                 "val": 50,
+                "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
             }
         }
@@ -84,8 +90,8 @@
             "hoarder": {
                 "type": "GENERATE_RESOURCE",
                 "subtype": "resource.gold",
-                "updater": "TIMES_HERO_LEVEL",
                 "val": 50,
+                "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
             }
         }
@@ -96,8 +102,8 @@
             "hoarder": {
                 "type": "GENERATE_RESOURCE",
                 "subtype": "resource.gold",
-                "updater": "TIMES_HERO_LEVEL",
                 "val": 50,
+                "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
             }
         }
@@ -108,8 +114,8 @@
             "hoarder": {
                 "type": "GENERATE_RESOURCE",
                 "subtype": "resource.gold",
-                "updater": "TIMES_HERO_LEVEL",
                 "val": 50,
+                "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
             }
         }
