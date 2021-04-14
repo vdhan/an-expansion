@@ -3,9 +3,7 @@
         "base": {
             "effects": {
                 "xtra": {
-                    "type": "SECONDARY_SKILL_PREMY",
-                    "subtype": "skill.mysticism",
-                    "valueType": "BASE_NUMBER"
+                    "type": "MANA_REGENERATION"
                 }
             }
         },
