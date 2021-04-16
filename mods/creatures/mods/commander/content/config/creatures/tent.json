@@ -1,0 +1,59 @@
+{
+	"tent": {
+		"name": {
+            "singular": "First Aid Tent",
+            "plural": "First Aid Tents"
+        },
+		"faction": "neutral",
+		"special": true,
+		"level": 1,
+		"aiValue": 339,
+		"fightValue": 300,
+		"growth": 0,
+
+		"attack": 0,
+		"defense": 0,
+		"damage": {
+			"min": 0,
+            "max": 0
+        },
+		"hitPoints": 150,
+		"speed": 0,
+		"doubleWide": true,
+		"cost": {
+            "gold": 750
+        },
+
+		"abilities": {
+			"healer": {
+                "type": "HEALER"
+            },
+
+			"noRetaliation": {
+				"type": "NO_RETALIATION"
+			},
+
+			"warMachine": {
+				"type": "SIEGE_WEAPON"
+			}
+		},
+
+		"graphics": {
+			"animation": "commander/battle/tent.def",
+			"iconSmall": "commander/iconSmall/tent",
+            "iconLarge": "commander/iconLarge/tent",
+			"timeBetweenFidgets": 1,
+			"animationTime": {
+                "attack": 1,
+                "walk": 1,
+                "flight": 1,
+                "idle": 10
+            }
+		},
+
+		"sound": {
+            "killed": "FAIDKILL.wav",
+            "wince": "FAIDWNCE.wav"
+        }
+	}
+}

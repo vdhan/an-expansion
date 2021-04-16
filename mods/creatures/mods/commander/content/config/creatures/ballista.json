@@ -1,0 +1,79 @@
+{
+	"ballista2": {
+		"name": {
+            "singular": "Ballista",
+            "plural": "Ballistas"
+        },
+		"faction": "neutral",
+		"special": true,
+		"level": 5,
+		"aiValue": 684,
+		"fightValue": 600,
+		"growth": 0,
+
+		"attack": 10,
+		"defense": 10,
+		"damage": {
+			"min": 5,
+            "max": 5
+        },
+		"hitPoints": 250,
+		"speed": 0,
+		"shots": 24,
+		"doubleWide": true,
+		"cost": {
+            "gold": 2500
+        },
+
+		"abilities": {
+			"shooter": {
+				"type": "SHOOTER"
+			},
+
+			"freeShoot": {
+				"type": "FREE_SHOOTING"
+			},
+
+			"noRetaliation": {
+				"type": "NO_RETALIATION"
+			},
+
+			"warMachine": {
+				"type": "SIEGE_WEAPON"
+			}
+		},
+
+		"graphics": {
+			"animation": "commander/battle/ballista.def",
+			"iconSmall": "commander/iconSmall/ballista",
+            "iconLarge": "commander/iconLarge/ballista",
+			"timeBetweenFidgets": 1,
+			"animationTime": {
+                "attack": 1,
+                "walk": 1,
+                "flight": 1,
+                "idle": 10
+            },
+
+			"missile": {
+				"projectile": "SMBALX.DEF",
+				"attackClimaxFrame": 4,
+				"offset": {
+					"lowerX": 28,
+                    "lowerY": 3,
+                    "middleX": 62,
+                    "middleY": -53,
+                    "upperX": 37,
+                    "upperY": -98
+                },
+				"frameAngles": [90, 72, 45, 27, 0, -27, -45, -72, -90, 0, 0, 0]
+			}
+		},
+
+		"sound": {
+            "killed": "BALLKILL.wav",
+            "shoot": "BALLSHOT.wav",
+            "wince": "BALLWNCE.wav"
+        }
+	}
+}

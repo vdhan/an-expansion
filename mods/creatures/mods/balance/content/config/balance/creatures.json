@@ -45,6 +45,22 @@
         }
     },
 
+    "core:imp": {
+        "abilities": {
+            "fly": {
+                "type": "FLYING"
+            }
+        }
+    },
+
+    "core:familiar": {
+        "abilities": {
+            "fly": {
+                "type": "FLYING"
+            }
+        }
+    },
+
     "core:pikeman": {
         "abilities": {
             "cavalierKiller": {

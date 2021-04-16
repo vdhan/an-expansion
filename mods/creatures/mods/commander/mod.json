@@ -11,6 +11,8 @@
     ],
 
     "creatures": [
-        "config/commander/creatures"
+        "config/commander/creatures",
+        "config/creatures/ballista",
+        "config/creatures/tent"
     ]
 }
