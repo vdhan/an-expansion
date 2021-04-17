@@ -46,7 +46,7 @@
             "superiorAttack": {
                 "type": "PRIMARY_SKILL",
                 "subtype": "primSkill.attack",
-                "val": 5,
+                "val": 4,
                 "valueType": "PERCENT_TO_BASE",
                 "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
@@ -55,7 +55,7 @@
             "superiorDefence": {
                 "type": "PRIMARY_SKILL",
                 "subtype": "primSkill.defence",
-                "val": 5,
+                "val": 4,
                 "valueType": "PERCENT_TO_BASE",
                 "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
