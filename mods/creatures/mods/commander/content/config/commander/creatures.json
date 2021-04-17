@@ -11,7 +11,10 @@
 
             "leadership": {
                 "type": "MORALE",
-                "val": 1,
+                "updater": {
+                    "type": "GROWS_WITH_LEVEL",
+                    "parameters": [2]
+                },
                 "propagator": "HERO"
             }
         }
@@ -119,7 +122,7 @@
                 "subtype": "primSkill.knowledge",
                 "updater": {
                     "type": "GROWS_WITH_LEVEL",
-                    "parameters": [5]
+                    "parameters": [2]
                 },
                 "propagator": "HERO"
             },
