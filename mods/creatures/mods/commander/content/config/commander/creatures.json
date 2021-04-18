@@ -4,7 +4,7 @@
             "wise": {
                 "type": "SECONDARY_SKILL_PREMY",
                 "subtype": "skill.learning",
-                "val": 5,
+                "val": 4,
                 "updater": "TIMES_HERO_LEVEL",
                 "propagator": "HERO"
             },
