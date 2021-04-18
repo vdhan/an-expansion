@@ -2,8 +2,8 @@
     "transport": {
         "name": "Transport",
         "gainChance": {
-            "might": 6,
-            "magic": 5
+            "might": 7,
+            "magic": 6
         },
 
         "base": {
