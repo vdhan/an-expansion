@@ -1,0 +1,12 @@
+{
+    "hota.cove:blackbeard": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    }
+}

@@ -1,9 +1,0 @@
-{
-	"core:archDevil": {
-		"abilities": {
-			"descreaseLuck": {
-				"val": -2
-			}
-		}
-	}
-}

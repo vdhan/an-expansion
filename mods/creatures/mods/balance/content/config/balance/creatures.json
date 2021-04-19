@@ -61,6 +61,14 @@
         }
     },
 
+    "core:archDevil": {
+		"abilities": {
+			"descreaseLuck": {
+				"val": -2
+			}
+		}
+	},
+
     "core:pikeman": {
         "abilities": {
             "cavalierKiller": {

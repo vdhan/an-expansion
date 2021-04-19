@@ -1,0 +1,100 @@
+{
+    "wog.commanders:paladin1": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    },
+
+    "wog.commanders:astralSpirit1": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    },
+
+    "wog.commanders:brute1": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    },
+
+    "wog.commanders:shaman1": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    },
+
+    "wog.commanders:succubus1": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    },
+
+    "wog.commanders:soulEater1": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    },
+
+    "wog.commanders:hierophant1": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    },
+
+    "wog.commanders:ogreLeader1": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    },
+
+    "wog.commanders:templeGuardian1": {
+        "abilities": {
+            "doubleMovement": {
+                "type": "SECONDARY_SKILL_PREMY",
+                "subtype": "skill.logistics",
+                "val": 100,
+                "propagator": "HERO"
+            }
+        }
+    }
+}
