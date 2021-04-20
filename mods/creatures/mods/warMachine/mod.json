@@ -13,6 +13,6 @@
     },
 
     "creatures": [
-        "config/warMachine/warMachine.json"
+        "config/warMachine/warMachine"
     ]
 }

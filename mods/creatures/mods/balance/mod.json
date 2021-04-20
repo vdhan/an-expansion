@@ -17,6 +17,6 @@
     },
 
     "creatures": [
-        "config/balance/creatures.json"
+        "config/balance/creatures"
     ]
 }

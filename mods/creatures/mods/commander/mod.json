@@ -6,6 +6,21 @@
     "author": "Vũ Đắc Hoàng Ân",
     "contact": "https://github.com/vdhan/An-Expansion",
 
+    "changelog": {
+        "Castle": [
+            "Gains 4% experience per level.",
+            "Increases 1 morale per 10 levels."
+        ],
+
+        "Fortress": ["Increases 4% attack and defence per level."],
+
+        "Necropolis": ["Increases 2% Necromancy skill per level."],
+
+        "Tower": ["Increases 1 knowledge and mana generation per level."],
+
+        "Conflux, Dungeon, Inferno, Rampart, Stronghold": ["Earns 50 gold per day for each level."]
+    },
+
     "depends": [
         "wog.commanders"
     ],
