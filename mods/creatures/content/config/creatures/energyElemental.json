@@ -1,0 +1,15 @@
+{
+	"core:energyElemental": {
+		"graphics": {
+			"animation": "teleportingEnergy",
+			"animationTime": {
+				"idle": 10
+			}
+		},
+
+		"sound": {
+            "startMoving": "creatures/startMoving.wav",
+            "endMoving": "creatures/endMoving.wav"
+        }
+	}
+}

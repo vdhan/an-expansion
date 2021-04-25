@@ -8,4 +8,6 @@ For boosting in-game speed, copy [this](https://gist.github.com/vdhan/faccba8ff9
 
 To calculates AI and Fight Values of creatures, checkout: https://github.com/vdhan/an-balancer
 
+Software development kit: https://grayface.github.io/wog/
+
 Contact me: https://vudachoangan.com/
