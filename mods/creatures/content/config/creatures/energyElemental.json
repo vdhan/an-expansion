@@ -8,8 +8,8 @@
 		},
 
 		"sound": {
-            "startMoving": "creatures/startMoving.wav",
-            "endMoving": "creatures/endMoving.wav"
+            "startMoving": "creatures/startMoving",
+            "endMoving": "creatures/endMoving"
         }
 	}
 }
