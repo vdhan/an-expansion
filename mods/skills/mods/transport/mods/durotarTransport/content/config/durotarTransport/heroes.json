@@ -1,0 +1,14 @@
+{
+    "durotar:drtMight7": {
+        "skills": [
+            {
+                "skill": "tactics",
+                "level": "basic"
+            },
+            {
+                "skill": "transport",
+                "level": "basic"
+            }
+        ]
+    }
+}

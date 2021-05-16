@@ -1,0 +1,15 @@
+{
+    "durotar:drtMight": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    },
+
+    "durotar:drtMagic": {
+        "secondarySkills": {
+            "pathfinding": 0,
+            "logistics": 0
+        }
+    }
+}
