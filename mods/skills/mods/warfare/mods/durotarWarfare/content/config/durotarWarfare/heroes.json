@@ -1,0 +1,27 @@
+{
+    "durotar:drtMight8": {
+        "skills": [
+            {
+                "skill": "tactics",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    },
+
+    "durotar:drtMagic1": {
+        "skills": [
+            {
+                "skill": "wisdom",
+                "level": "basic"
+            },
+            {
+                "skill": "warfare",
+                "level": "basic"
+            }
+        ]
+    }
+}
