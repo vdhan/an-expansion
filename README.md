@@ -12,4 +12,6 @@ To calculates AI and Fight Values of creatures, checkout: https://github.com/vdh
 
 Software development kit: https://grayface.github.io/wog/
 
+Notes: This expansion has some features depend on In The Wake of Gods mod. Please change folder's name of In The Wake of Gods mod from "wog+" to "wog" (if any).
+
 Contact me: https://vudachoangan.com/
