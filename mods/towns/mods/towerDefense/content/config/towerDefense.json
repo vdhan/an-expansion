@@ -1,8 +1,0 @@
-{
-    "core:arrowTower": {
-        "graphics": {
-            "iconSmall": "iconsSmall/towerSmall",
-            "iconLarge": "iconsBig/towerBig"
-        }
-    }
-}

@@ -1,19 +1,19 @@
 {
-    "name": "Specialty",
-    "description": "Improve heroes resources specialties.",
-    "modType": "Heroes",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Specialty",
+  "description": "Improve heroes resources specialties.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Heroes",
 
-    "heroes": [
-        "config/specialty/castle.json",
-        "config/specialty/dungeon.json",
-        "config/specialty/inferno.json",
-        "config/specialty/necropolis.json",
-        "config/specialty/rampart.json",
-        "config/specialty/stronghold.json",
-        "config/specialty/tower.json",
-        "config/specialty/conflux.json"
-    ]
+  "heroes": [
+    "config/specialty/castle.json",
+    "config/specialty/dungeon.json",
+    "config/specialty/inferno.json",
+    "config/specialty/necropolis.json",
+    "config/specialty/rampart.json",
+    "config/specialty/stronghold.json",
+    "config/specialty/tower.json",
+    "config/specialty/conflux.json"
+  ]
 }

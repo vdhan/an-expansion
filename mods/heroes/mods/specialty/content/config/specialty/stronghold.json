@@ -1,19 +1,20 @@
 {
-    "core:saurug": {
-        "texts": {
-            "specialty": {
-                "description": "Increases kingdom's gem production by 1 per day for every 10 levels."
-            }
-        },
-        "specialty": {
-            "bonuses": {
-                "gems": {
-                    "updater": {
-                        "parameters": [2],
-                        "type": "GROWS_WITH_LEVEL"
-                    }
-                }
-            }
+  "core:saurug": {
+    "texts": {
+      "specialty": {
+        "description": "Increases kingdom's gem production by 1 per day for every 10 levels."
+      }
+    },
+
+    "specialty": {
+      "bonuses": {
+        "gems": {
+          "updater": {
+            "parameters": [2],
+            "type": "GROWS_WITH_LEVEL"
+          }
         }
+      }
     }
+  }
 }

@@ -1,13 +1,13 @@
 {
-    "core:stronghold": {
-        "town": {
-            "buildings": {
-                "dwellingLvl6": {
-                    "cost": {
-                        "crystal": 5
-                    }
-                }
-            }
+  "core:stronghold": {
+    "town": {
+      "buildings": {
+        "dwellingLvl6": {
+          "cost": {
+            "crystal": 5
+          }
         }
+      }
     }
+  }
 }
