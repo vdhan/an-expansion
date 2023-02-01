@@ -1,12 +1,12 @@
 {
-    "name": "Creatures",
-    "description": "Rebalance creatures.",
-    "modType": "Mechanics",
-    "version": "1.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Creatures",
+  "description": "Rebalance creatures.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
 
-    "creatures": [
-        "config/creatures/energyElemental"
-    ]
+  "creatures": [
+    "config/creatures/energyElemental"
+  ]
 }

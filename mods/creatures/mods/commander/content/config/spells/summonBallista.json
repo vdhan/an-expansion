@@ -1,38 +1,35 @@
 {
-	"summonBallista": {
-		"type": "combat",
-		"targetType": "NO_TARGET",
-		"name": "Summon Ballista",
-		"school": {
-			"air": false,
-			"earth": false,
-			"fire": false,
-			"water": false
-		},
+  "summonBallista": {
+    "type": "combat",
+    "targetType": "NO_TARGET",
+    "name": "Summon Ballista",
+    "school": {
+      "air": false,
+      "earth": false,
+      "fire": false,
+      "water": false
+    },
 
-		"level": 0,
-		"power": 1,
-		"defaultGainChance": 0,
-		"gainChance": {},
-		"counters": {},
+    "level": 0,
+    "power": 1,
+    "defaultGainChance": 0,
+    "gainChance": {},
+    "counters": {},
+    "flags": {
+      "indifferent": true,
+      "special": true
+    },
 
-		"flags": {
-			"indifferent": true,
-			"special": true
-		},
+    "targetCondition": {},
+    "graphics": {},
+    "animation": {
+      "cast": [2]
+    },
 
-		"targetCondition": {},
+    "sounds": {
+      "cast": "SACRIF1"
+    },
 
-		"graphics": {},
-
-		"animation": {
-			"cast": [2]
-		},
-
-		"sounds": {
-			"cast": "SACRIF1"
-		},
-
-		"levels": {}
-	}
+    "levels": {}
+  }
 }

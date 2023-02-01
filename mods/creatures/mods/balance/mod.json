@@ -1,22 +1,22 @@
 {
-    "name": "Balance",
-    "description": "Rebalances some creatures.",
-    "modType": "Creatures",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Balance",
+  "description": "Rebalances some creatures.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
 
-    "changelog": {
-        "Lizard Warrior": ["Can shoot poison arrows."],
-        "Orc, Orc Chieftain": ["Have no melee penalty."],
-        "Evil Eye": ["Can launch weakness beams."],
-        "Chaos Hydra": ["Gain generation."],
-        "Pikeman, Halberdier": [" inflict 200% damage to: Cavalier, Champion, Unicorn, War Unicorn, Black Knight, Dread Knight."],
-        "Imp, Familiar": ["Can fly."],
-        "Arch Devil": ["Decrease enemies' Luck by 2."]
-    },
+  "changelog": {
+    "Lizard Warrior": ["Can shoot poison arrows."],
+    "Orc, Orc Chieftain": ["Have no melee penalty."],
+    "Evil Eye": ["Can launch weakness beams."],
+    "Chaos Hydra": ["Gain generation."],
+    "Pikeman, Halberdier": [" inflict 200% damage to: Cavalier, Champion, Unicorn, War Unicorn, Black Knight, Dread Knight."],
+    "Imp, Familiar": ["Can fly."],
+    "Arch Devil": ["Decrease enemies' Luck by 2."]
+  },
 
-    "creatures": [
-        "config/balance/creatures"
-    ]
+  "creatures": [
+    "config/balance/creatures"
+  ]
 }

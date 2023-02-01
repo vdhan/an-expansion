@@ -1,35 +1,35 @@
 {
-    "core:ballista": {
-        "damage": {
-            "min": 5,
-            "max": 5
-        }
-    },
-
-    "core:firstAidTent": {
-        "hitPoints": 150,
-        "abilities": {
-            "health": {
-                "type": "STACK_HEALTH",
-                "val": 1,
-                "propagator": "HERO"
-            }
-        }
-    },
-
-    "core:ammoCart": {
-        "hitPoints": 200,
-        "abilities": {
-            "reduceSpellCost": {
-                "type": "CHANGES_SPELL_COST_FOR_ALLY",
-                "val": 1
-            },
-
-            "velocity": {
-                "type": "STACKS_SPEED",
-                "val": 1,
-                "propagator": "HERO"
-            }
-        }
+  "core:ballista": {
+    "damage": {
+      "min": 5,
+      "max": 5
     }
+  },
+
+  "core:firstAidTent": {
+    "hitPoints": 150,
+    "abilities": {
+      "health": {
+        "type": "STACK_HEALTH",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "core:ammoCart": {
+    "hitPoints": 200,
+    "abilities": {
+      "reduceSpellCost": {
+        "type": "CHANGES_SPELL_COST_FOR_ALLY",
+        "val": 1
+      },
+
+      "velocity": {
+        "type": "STACKS_SPEED",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  }
 }

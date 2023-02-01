@@ -1,151 +1,151 @@
 {
-    "core:lizardWarrior": {
-        "abilities": {
-            "poison": {
-                "type": "SPELL_AFTER_ATTACK",
-                "subtype": "spell.poison",
-                "val": 50
-            }
-        }
-    },
-
-    "core:orc": {
-        "abilities": {
-            "noMeleePenalty": {
-                "type": "NO_MELEE_PENALTY"
-            }
-        }
-    },
-
-    "core:orcChieftain": {
-        "abilities": {
-            "noMeleePenalty": {
-                "type": "NO_MELEE_PENALTY"
-            }
-        }
-    },
-
-    "core:evilEye": {
-        "abilities": {
-            "weakness": {
-                "type": "SPELL_AFTER_ATTACK",
-                "subtype": "spell.weakness",
-                "val": 50,
-                "addInfo": [1, 1]
-            }
-        }
-    },
-
-    "core:chaosHydra": {
-        "abilities": {
-            "regenerate": {
-                "type": "HP_REGENERATION",
-                "val": 50
-            }
-        }
-    },
-
-    "core:imp": {
-        "abilities": {
-            "fly": {
-                "type": "FLYING"
-            }
-        }
-    },
-
-    "core:familiar": {
-        "abilities": {
-            "fly": {
-                "type": "FLYING"
-            }
-        }
-    },
-
-    "core:archDevil": {
-		"abilities": {
-			"descreaseLuck": {
-				"val": -2
-			}
-		}
-	},
-
-    "core:pikeman": {
-        "abilities": {
-            "cavalierKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.cavalier",
-                "val": 100
-            },
-
-            "championKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.champion",
-                "val": 100
-            },
-
-            "unicornKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.unicorn",
-                "val": 100
-            },
-
-            "warUnicornKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.warUnicorn",
-                "val": 100
-            },
-
-            "blackKnightKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.blackKnight",
-                "val": 100
-            },
-
-            "dreadKnightKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.dreadKnight",
-                "val": 100
-            }
-        }
-    },
-
-    "core:halberdier": {
-        "abilities": {
-            "cavalierKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.cavalier",
-                "val": 100
-            },
-
-            "championKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.champion",
-                "val": 100
-            },
-
-            "unicornKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.unicorn",
-                "val": 100
-            },
-
-            "warUnicornKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.warUnicorn",
-                "val": 100
-            },
-
-            "blackKnightKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.blackKnight",
-                "val": 100
-            },
-
-            "dreadKnightKiller": {
-                "type": "HATE",
-                "subtype": "core:creature.dreadKnight",
-                "val": 100
-            }
-        }
+  "core:lizardWarrior": {
+    "abilities": {
+      "poison": {
+        "type": "SPELL_AFTER_ATTACK",
+        "subtype": "spell.poison",
+        "val": 50
+      }
     }
+  },
+
+  "core:orc": {
+    "abilities": {
+      "noMeleePenalty": {
+        "type": "NO_MELEE_PENALTY"
+      }
+    }
+  },
+
+  "core:orcChieftain": {
+    "abilities": {
+      "noMeleePenalty": {
+        "type": "NO_MELEE_PENALTY"
+      }
+    }
+  },
+
+  "core:evilEye": {
+    "abilities": {
+      "weakness": {
+        "type": "SPELL_AFTER_ATTACK",
+        "subtype": "spell.weakness",
+        "val": 50,
+        "addInfo": [1, 1]
+      }
+    }
+  },
+
+  "core:chaosHydra": {
+    "abilities": {
+      "regenerate": {
+        "type": "HP_REGENERATION",
+        "val": 50
+      }
+    }
+  },
+
+  "core:imp": {
+    "abilities": {
+      "fly": {
+        "type": "FLYING"
+      }
+    }
+  },
+
+  "core:familiar": {
+    "abilities": {
+      "fly": {
+        "type": "FLYING"
+      }
+    }
+  },
+
+  "core:archDevil": {
+    "abilities": {
+      "descreaseLuck": {
+        "val": -2
+      }
+    }
+  },
+
+  "core:pikeman": {
+    "abilities": {
+      "cavalierKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.cavalier",
+        "val": 100
+      },
+
+      "championKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.champion",
+        "val": 100
+      },
+
+      "unicornKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.unicorn",
+        "val": 100
+      },
+
+      "warUnicornKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.warUnicorn",
+        "val": 100
+      },
+
+      "blackKnightKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.blackKnight",
+        "val": 100
+      },
+
+      "dreadKnightKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.dreadKnight",
+        "val": 100
+      }
+    }
+  },
+
+  "core:halberdier": {
+    "abilities": {
+      "cavalierKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.cavalier",
+        "val": 100
+      },
+
+      "championKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.champion",
+        "val": 100
+      },
+
+      "unicornKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.unicorn",
+        "val": 100
+      },
+
+      "warUnicornKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.warUnicorn",
+        "val": 100
+      },
+
+      "blackKnightKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.blackKnight",
+        "val": 100
+      },
+
+      "dreadKnightKiller": {
+        "type": "HATE",
+        "subtype": "core:creature.dreadKnight",
+        "val": 100
+      }
+    }
+  }
 }

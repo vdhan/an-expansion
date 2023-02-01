@@ -1,15 +1,15 @@
 {
-	"core:energyElemental": {
-		"graphics": {
-			"animation": "teleportingEnergy",
-			"animationTime": {
-				"idle": 10
-			}
-		},
+  "core:energyElemental": {
+    "graphics": {
+      "animation": "teleportingEnergy",
+      "animationTime": {
+        "idle": 10
+      }
+    },
 
-		"sound": {
-            "startMoving": "creatures/startMoving",
-            "endMoving": "creatures/endMoving"
-        }
-	}
+    "sound": {
+      "startMoving": "creatures/startMoving",
+      "endMoving": "creatures/endMoving"
+    }
+  }
 }

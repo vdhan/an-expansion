@@ -1,140 +1,143 @@
 {
-    "wog.commanders:paladin1": {
-        "abilities": {
-            "wise": {
-                "type": "SECONDARY_SKILL_PREMY",
-                "subtype": "skill.learning",
-                "val": 4,
-                "updater": "TIMES_HERO_LEVEL",
-                "propagator": "HERO"
-            },
+  "wake-of-gods.commanders:paladin1": {
+    "abilities": {
+      "wise": {
+        "type": "SECONDARY_SKILL_PREMY",
+        "subtype": "skill.learning",
+        "val": 4,
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      },
 
-            "leadership": {
-                "type": "MORALE",
-                "updater": {
-                    "type": "GROWS_WITH_LEVEL",
-                    "parameters": [2]
-                },
-                "propagator": "HERO"
-            }
-        }
-    },
+      "leadership": {
+        "type": "MORALE",
+        "updater": {
+          "type": "GROWS_WITH_LEVEL",
+          "parameters": [2]
+        },
 
-    "wog.commanders:astralSpirit1": {
-        "abilities": {
-            "hoarder": {
-                "type": "GENERATE_RESOURCE",
-                "subtype": "resource.gold",
-                "val": 50,
-                "updater": "TIMES_HERO_LEVEL",
-                "propagator": "HERO"
-            }
-        }
-    },
-
-    "wog.commanders:brute1": {
-        "abilities": {
-            "hoarder": {
-                "type": "GENERATE_RESOURCE",
-                "subtype": "resource.gold",
-                "val": 50,
-                "updater": "TIMES_HERO_LEVEL",
-                "propagator": "HERO"
-            }
-        }
-    },
-
-    "wog.commanders:shaman1": {
-        "abilities": {
-            "superiorAttack": {
-                "type": "PRIMARY_SKILL",
-                "subtype": "primSkill.attack",
-                "val": 4,
-                "valueType": "PERCENT_TO_BASE",
-                "updater": "TIMES_HERO_LEVEL",
-                "propagator": "HERO"
-            },
-
-            "superiorDefence": {
-                "type": "PRIMARY_SKILL",
-                "subtype": "primSkill.defence",
-                "val": 4,
-                "valueType": "PERCENT_TO_BASE",
-                "updater": "TIMES_HERO_LEVEL",
-                "propagator": "HERO"
-            }
-        }
-    },
-
-    "wog.commanders:succubus1": {
-        "abilities": {
-            "hoarder": {
-                "type": "GENERATE_RESOURCE",
-                "subtype": "resource.gold",
-                "val": 50,
-                "updater": "TIMES_HERO_LEVEL",
-                "propagator": "HERO"
-            }
-        }
-    },
-
-    "wog.commanders:soulEater1": {
-        "abilities": {
-            "GrimReaper": {
-                "type": "SECONDARY_SKILL_PREMY",
-                "subtype": "skill.necromancy",
-                "val": 2,
-                "valueType": "PERCENT_TO_BASE",
-                "updater": "TIMES_HERO_LEVEL",
-                "propagator": "HERO"
-            }
-        }
-    },
-
-    "wog.commanders:hierophant1": {
-        "abilities": {
-            "hoarder": {
-                "type": "GENERATE_RESOURCE",
-                "subtype": "resource.gold",
-                "val": 50,
-                "updater": "TIMES_HERO_LEVEL",
-                "propagator": "HERO"
-            }
-        }
-    },
-
-    "wog.commanders:ogreLeader1": {
-        "abilities": {
-            "hoarder": {
-                "type": "GENERATE_RESOURCE",
-                "subtype": "resource.gold",
-                "val": 50,
-                "updater": "TIMES_HERO_LEVEL",
-                "propagator": "HERO"
-            }
-        }
-    },
-
-    "wog.commanders:templeGuardian1": {
-        "abilities": {
-            "savant": {
-                "type": "PRIMARY_SKILL",
-                "subtype": "primSkill.knowledge",
-                "updater": {
-                    "type": "GROWS_WITH_LEVEL",
-                    "parameters": [2]
-                },
-                "propagator": "HERO"
-            },
-
-            "pleiad": {
-                "type": "MANA_REGENERATION",
-                "updater": {
-                    "type": "GROWS_WITH_LEVEL",
-                    "parameters": [2]
-                },
-                "propagator": "HERO"
-            }
-        }
+        "propagator": "HERO"
+      }
     }
+  },
+
+  "wake-of-gods.commanders:astralSpirit1": {
+    "abilities": {
+      "hoarder": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gold",
+        "val": 50,
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:brute1": {
+    "abilities": {
+      "hoarder": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gold",
+        "val": 50,
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:shaman1": {
+    "abilities": {
+      "superiorAttack": {
+        "type": "PRIMARY_SKILL",
+        "subtype": "primSkill.attack",
+        "val": 4,
+        "valueType": "PERCENT_TO_BASE",
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      },
+
+      "superiorDefence": {
+        "type": "PRIMARY_SKILL",
+        "subtype": "primSkill.defence",
+        "val": 4,
+        "valueType": "PERCENT_TO_BASE",
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:succubus1": {
+    "abilities": {
+      "hoarder": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gold",
+        "val": 50,
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:soulEater1": {
+    "abilities": {
+      "GrimReaper": {
+        "type": "SECONDARY_SKILL_PREMY",
+        "subtype": "skill.necromancy",
+        "val": 2,
+        "valueType": "PERCENT_TO_BASE",
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:hierophant1": {
+    "abilities": {
+      "hoarder": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gold",
+        "val": 50,
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:ogreLeader1": {
+    "abilities": {
+      "hoarder": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gold",
+        "val": 50,
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:templeGuardian1": {
+    "abilities": {
+      "savant": {
+        "type": "PRIMARY_SKILL",
+        "subtype": "primSkill.knowledge",
+        "updater": {
+          "type": "GROWS_WITH_LEVEL",
+          "parameters": [2]
+        },
+
+        "propagator": "HERO"
+      },
+
+      "pleiad": {
+        "type": "MANA_REGENERATION",
+        "updater": {
+          "type": "GROWS_WITH_LEVEL",
+          "parameters": [2]
+        },
+
+        "propagator": "HERO"
+      }
+    }
+  }
 }
