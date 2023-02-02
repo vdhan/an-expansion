@@ -1,12 +1,12 @@
 {
-    "name": "Estates",
-    "description": "Estates now increases 250/500/1000 gold per day.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Estates",
+  "description": "Estates now increases 250/500/1000 gold per day.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/estates/skills.json"
-    ]
+  "skills": [
+    "config/estates/skills.json"
+  ]
 }

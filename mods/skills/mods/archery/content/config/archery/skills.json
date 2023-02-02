@@ -1,39 +1,39 @@
 {
-    "core:archery": {
-        "base": {
-            "effects": {
-                "cast": {
-                    "type": "OPENING_BATTLE_SPELL",
-                    "subtype": "spell.precision"
-                }
-            }
-        },
-
-        "basic": {
-            "description": "{Basic Archery}\n\nIncreases {10% range damage} and cast { Precision } at battle opening for {10 rounds}.",
-            "effects": {
-                "cast": {
-                    "val": 10
-                }
-            }
-        },
-
-        "advanced": {
-            "description": "{Advanced Archery}\n\nIncreases {25% range damage} and cast { Precision } at battle opening for {25 rounds}.",
-            "effects": {
-                "cast": {
-                    "val": 25
-                }
-            }
-        },
-
-        "expert": {
-            "description": "{Expert Archery}\n\nIncreases {50% range damage} and cast { Precision } at battle opening for {50 rounds}.",
-            "effects": {
-                "cast": {
-                    "val": 50
-                }
-            }
+  "core:archery": {
+    "base": {
+      "effects": {
+        "cast": {
+          "type": "OPENING_BATTLE_SPELL",
+          "subtype": "spell.precision"
         }
+      }
+    },
+
+    "basic": {
+      "description": "{Basic Archery}\n\nIncreases {10% range damage} and cast { Precision } at battle opening for {10 rounds}",
+      "effects": {
+        "cast": {
+          "val": 10
+        }
+      }
+    },
+
+    "advanced": {
+      "description": "{Advanced Archery}\n\nIncreases {25% range damage} and cast { Precision } at battle opening for {25 rounds}",
+      "effects": {
+        "cast": {
+          "val": 25
+        }
+      }
+    },
+
+    "expert": {
+      "description": "{Expert Archery}\n\nIncreases {50% range damage} and cast { Precision } at battle opening for {50 rounds}",
+      "effects": {
+        "cast": {
+          "val": 50
+        }
+      }
     }
+  }
 }

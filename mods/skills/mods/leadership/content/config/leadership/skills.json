@@ -1,56 +1,56 @@
 {
-    "core:leadership": {
-        "base": {
-            "effects": {
-                "cast": {
-                    "type": "OPENING_BATTLE_SPELL",
-                    "subtype": "spell.mirth"
-                },
-
-                "attack": {
-                    "type": "PRIMARY_SKILL",
-                    "subtype": "primSkill.attack"
-                }
-            }
+  "core:leadership": {
+    "base": {
+      "effects": {
+        "cast": {
+          "type": "OPENING_BATTLE_SPELL",
+          "subtype": "spell.mirth"
         },
 
-        "basic": {
-            "description": "{Basic Leadership}\n\nIncreases {morale & attack by 1} and cast { Mirth } at battle opening for {10 rounds}.",
-            "effects": {
-                "cast": {
-                    "val": 10
-                },
-
-                "attack": {
-                    "val": 1
-                }
-            }
-        },
-
-        "advanced": {
-            "description": "{Advanced Leadership}\n\nIncreases {morale & attack by 2} and cast { Mirth } at battle opening for {25 rounds}.",
-            "effects": {
-                "cast": {
-                    "val": 25
-                },
-
-                "attack": {
-                    "val": 2
-                }
-            }
-        },
-
-        "expert": {
-            "description": "{Expert Leadership}\n\nIncreases {morale & attack by 3} and cast { Mirth } at battle opening for {50 rounds}.",
-            "effects": {
-                "cast": {
-                    "val": 50
-                },
-
-                "attack": {
-                    "val": 3
-                }
-            }
+        "attack": {
+          "type": "PRIMARY_SKILL",
+          "subtype": "primSkill.attack"
         }
+      }
+    },
+
+    "basic": {
+      "description": "{Basic Leadership}\n\nIncreases {morale & attack by 1} and cast { Mirth } at battle opening for {10 rounds}.",
+      "effects": {
+        "cast": {
+          "val": 10
+        },
+
+        "attack": {
+          "val": 1
+        }
+      }
+    },
+
+    "advanced": {
+      "description": "{Advanced Leadership}\n\nIncreases {morale & attack by 2} and cast { Mirth } at battle opening for {25 rounds}.",
+      "effects": {
+        "cast": {
+          "val": 25
+        },
+
+        "attack": {
+          "val": 2
+        }
+      }
+    },
+
+    "expert": {
+      "description": "{Expert Leadership}\n\nIncreases {morale & attack by 3} and cast { Mirth } at battle opening for {50 rounds}.",
+      "effects": {
+        "cast": {
+          "val": 50
+        },
+
+        "attack": {
+          "val": 3
+        }
+      }
     }
+  }
 }

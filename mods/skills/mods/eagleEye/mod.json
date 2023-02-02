@@ -1,12 +1,12 @@
 {
-    "name": "Eagle Eye",
-    "description": "Eagle Eye also increases enemies spell cost by 1/2/3.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Eagle Eye",
+  "description": "Eagle Eye also increases enemies spell cost by 1/2/3.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/eagleEye/skills.json"
-    ]
+  "skills": [
+    "config/eagleEye/skills.json"
+  ]
 }

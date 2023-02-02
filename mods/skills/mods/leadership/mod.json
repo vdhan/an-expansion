@@ -1,12 +1,12 @@
 {
-    "name": "Leadership",
-    "description": "Leadership also cast Mirth at battle opening for at least 10/25/50 rounds and increases attack by 1/2/3.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Leadership",
+  "description": "Leadership also cast Mirth at battle opening for at least 10/25/50 rounds and increases attack by 1/2/3.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/leadership/skills.json"
-    ]
+  "skills": [
+    "config/leadership/skills.json"
+  ]
 }

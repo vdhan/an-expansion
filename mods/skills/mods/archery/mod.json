@@ -1,12 +1,12 @@
 {
-    "name": "Archery",
-    "description": "Archery also cast Precision at battle opening for 10/25/50 rounds.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Archery",
+  "description": "Archery also cast Precision at battle opening for 10/25/50 rounds.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/archery/skills.json"
-    ]
+  "skills": [
+    "config/archery/skills.json"
+  ]
 }
