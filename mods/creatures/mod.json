@@ -7,6 +7,6 @@
   "modType": "Mechanics",
 
   "creatures": [
-    "config/creatures/energyElemental"
+    "config/creatures"
   ]
 }
