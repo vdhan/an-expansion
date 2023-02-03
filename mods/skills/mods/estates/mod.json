@@ -7,6 +7,6 @@
   "modType": "Skills",
 
   "skills": [
-    "config/estates/skills.json"
+    "config/estates"
   ]
 }

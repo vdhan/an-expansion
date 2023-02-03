@@ -7,6 +7,6 @@
   "modType": "Skills",
 
   "skills": [
-    "config/leadership/skills.json"
+    "config/leadership"
   ]
 }

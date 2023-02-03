@@ -17,6 +17,6 @@
   },
 
   "creatures": [
-    "config/balance/creatures"
+    "config/balance/creature"
   ]
 }

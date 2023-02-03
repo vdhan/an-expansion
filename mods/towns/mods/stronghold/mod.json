@@ -7,6 +7,6 @@
   "modType": "Towns",
 
   "factions": [
-    "config/stronghold.json"
+    "config/stronghold"
   ]
 }

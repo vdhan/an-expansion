@@ -7,6 +7,6 @@
   "modType": "Skills",
 
   "skills": [
-    "config/archery/skills.json"
+    "config/archery"
   ]
 }

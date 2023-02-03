@@ -7,13 +7,13 @@
   "modType": "Heroes",
 
   "heroes": [
-    "config/specialty/castle.json",
-    "config/specialty/dungeon.json",
-    "config/specialty/inferno.json",
-    "config/specialty/necropolis.json",
-    "config/specialty/rampart.json",
-    "config/specialty/stronghold.json",
-    "config/specialty/tower.json",
-    "config/specialty/conflux.json"
+    "config/specialty/castle",
+    "config/specialty/dungeon",
+    "config/specialty/inferno",
+    "config/specialty/necropolis",
+    "config/specialty/rampart",
+    "config/specialty/stronghold",
+    "config/specialty/tower",
+    "config/specialty/conflux"
   ]
 }

@@ -7,6 +7,6 @@
   "modType": "Skills",
 
   "skills": [
-    "config/armorer/skills.json"
+    "config/armorer"
   ]
 }

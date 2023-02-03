@@ -13,6 +13,6 @@
   },
 
   "creatures": [
-    "config/warMachine/creatures"
+    "config/warMachine/creature"
   ]
 }

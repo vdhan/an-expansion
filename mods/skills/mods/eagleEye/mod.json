@@ -7,6 +7,6 @@
   "modType": "Skills",
 
   "skills": [
-    "config/eagleEye/skills.json"
+    "config/eagleEye"
   ]
 }
