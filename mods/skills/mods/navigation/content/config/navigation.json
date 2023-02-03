@@ -1,0 +1,11 @@
+{
+  "core:navigation": {
+    "base": {
+      "effects": {
+        "xtra": {
+          "type": "FREE_SHIP_BOARDING"
+        }
+      }
+    }
+  }
+}

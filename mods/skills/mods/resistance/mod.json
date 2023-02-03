@@ -1,12 +1,12 @@
 {
-    "name": "Resistance",
-    "description": "Resistance now reduces enemy hero 10%/20%/30% spell power and 5%/10%/15% spell damage.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Resistance",
+  "description": "Resistance now lowers enemy hero 10%/20%/30% power skill.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/resistance/skills.json"
-    ]
+  "skills": [
+    "config/resistance"
+  ]
 }
