@@ -1,20 +1,20 @@
 {
-    "name": "Warfare",
-    "description": "Artillery, First Aid and Ballistics combination.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Warfare",
+  "description": "Artillery, First Aid and Ballistics combination.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/warfare/warfare"
-    ],
+  "skills": [
+    "config/warfare/skills"
+  ],
 
-    "heroClasses": [
-        "config/warfare/classes"
-    ],
+  "heroClasses": [
+    "config/warfare/classes"
+  ],
 
-    "heroes": [
-        "config/warfare/heroes"
-    ]
+  "heroes": [
+    "config/warfare/heroes"
+  ]
 }

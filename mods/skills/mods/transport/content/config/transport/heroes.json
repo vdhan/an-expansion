@@ -1,92 +1,99 @@
 {
-    "core:kyrre": {
-        "skills": [
-            {
-                "skill": "archery",
-                "level": "basic"
-            },
-            {
-                "skill": "transport",
-                "level": "basic"
-            }
-        ]
-    },
+  "core:kyrre": {
+    "skills": [
+      {
+        "skill": "archery",
+        "level": "basic"
+      },
 
-    "core:clancy": {
-        "skills": [
-            {
-                "skill": "transport",
-                "level": "basic"
-            },
-            {
-                "skill": "resistance",
-                "level": "basic"
-            }
-        ]
-    },
+      {
+        "skill": "transport",
+        "level": "basic"
+      }
+    ]
+  },
 
-    "core:gunnar": {
-        "skills": [
-            {
-                "skill": "transport",
-                "level": "basic"
-            },
-            {
-                "skill": "tactics",
-                "level": "basic"
-            }
-        ]
-    },
+  "core:clancy": {
+    "skills": [
+      {
+        "skill": "transport",
+        "level": "basic"
+      },
 
-    "core:gretchin": {
-        "skills": [
-            {
-                "skill": "offence",
-                "level": "basic"
-            },
-            {
-                "skill": "transport",
-                "level": "basic"
-            }
-        ]
-    },
+      {
+        "skill": "resistance",
+        "level": "basic"
+      }
+    ]
+  },
 
-    "core:dessa": {
-        "skills": [
-            {
-                "skill": "wisdom",
-                "level": "basic"
-            },
-            {
-                "skill": "transport",
-                "level": "basic"
-            }
-        ]
-    },
+  "core:gunnar": {
+    "skills": [
+      {
+        "skill": "transport",
+        "level": "basic"
+      },
 
-    "core:korbac": {
-        "skills": [
-            {
-                "skill": "armorer",
-                "level": "basic"
-            },
-            {
-                "skill": "transport",
-                "level": "basic"
-            }
-        ]
-    },
+      {
+        "skill": "tactics",
+        "level": "basic"
+      }
+    ]
+  },
 
-    "core:monere": {
-        "skills": [
-            {
-                "skill": "transport",
-                "level": "basic"
-            },
-            {
-                "skill": "offence",
-                "level": "basic"
-            }
-        ]
-    }
+  "core:gretchin": {
+    "skills": [
+      {
+        "skill": "offence",
+        "level": "basic"
+      },
+
+      {
+        "skill": "transport",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:dessa": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "transport",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:korbac": {
+    "skills": [
+      {
+        "skill": "armorer",
+        "level": "basic"
+      },
+
+      {
+        "skill": "transport",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:monere": {
+    "skills": [
+      {
+        "skill": "transport",
+        "level": "basic"
+      },
+
+      {
+        "skill": "offence",
+        "level": "basic"
+      }
+    ]
+  }
 }

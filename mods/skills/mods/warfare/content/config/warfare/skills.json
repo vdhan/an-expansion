@@ -1,0 +1,190 @@
+{
+  "warfare": {
+    "name": "Warfare",
+    "gainChance": {
+      "might": 7,
+      "magic": 7
+    },
+
+    "base": {
+      "effects": {
+        "ballistics": {
+          "type": "SECONDARY_SKILL_PREMY",
+          "subtype": "skill.ballistics",
+          "valueType": "BASE_NUMBER"
+        },
+
+        "ctrl": {
+          "type": "MANUAL_CONTROL",
+          "subtype": "creature.catapult",
+          "val": 100,
+          "valueType": "BASE_NUMBER"
+        },
+
+        "firstAid": {
+          "type": "SECONDARY_SKILL_PREMY",
+          "subtype": "skill.firstAid",
+          "valueType": "BASE_NUMBER"
+        },
+
+        "ctrl2": {
+          "type": "MANUAL_CONTROL",
+          "subtype": "creature.firstAidTent",
+          "val": 100,
+          "valueType": "BASE_NUMBER"
+        },
+
+        "artillery": {
+          "type": "SECONDARY_SKILL_PREMY",
+          "subtype": "skill.artillery",
+          "valueType": "BASE_NUMBER"
+        },
+
+        "val2": {
+          "type": "SECONDARY_SKILL_VAL2",
+          "subtype": "skill.artillery",
+          "valueType": "BASE_NUMBER"
+        },
+
+        "ctr3": {
+          "type": "MANUAL_CONTROL",
+          "subtype": "creature.ballista",
+          "val": 100,
+          "valueType": "BASE_NUMBER"
+        },
+
+        "ctrl4": {
+          "type": "MANUAL_CONTROL",
+          "subtype": "creature.arrowTower",
+          "val": 100,
+          "valueType": "BASE_NUMBER"
+        },
+
+        "main": {
+          "type": "CREATURE_DAMAGE",
+          "valueType": "PERCENT_TO_BASE",
+          "limiters": [
+            {
+              "type": "CREATURE_TYPE_LIMITER",
+              "parameters": ["ballista"]
+            }
+          ]
+        }
+      }
+    },
+
+    "basic": {
+      "images": {
+        "large": "warfare/warfareBasicLarge",
+        "medium": "warfare/warfareBasicMedium",
+        "small": "warfare/warfareBasicSmall"
+      },
+
+      "description": "{Basic Warfare}\n\nBasic of {Artillery}, {First Aid} and { Ballistics }",
+      "effects": {
+        "ballistics": {
+          "val": 1
+        },
+
+        "firstAid": {
+          "val": 100
+        },
+
+        "artillery": {
+          "val": 50
+        },
+
+        "val2": {
+          "val": 0
+        },
+
+        "main": {
+          "val": 100
+        }
+      }
+    },
+
+    "advanced": {
+      "images": {
+        "large": "warfare/warfareAdvancedLarge",
+        "medium": "warfare/warfareAdvancedMedium",
+        "small": "warfare/warfareAdvancedSmall"
+      },
+
+      "description": "{Advanced Warfare}\n\nAdvanced of {Artillery}, {First Aid} and { Ballistics }",
+      "effects": {
+        "ballistics": {
+          "val": 2
+        },
+
+        "firstAid": {
+          "val": 225
+        },
+
+        "artillery": {
+          "val": 75
+        },
+
+        "val2": {
+          "val": 1
+        },
+
+        "main": {
+          "val": 150
+        }
+      }
+    },
+
+    "expert": {
+      "images": {
+        "large": "warfare/warfareExpertLarge",
+        "medium": "warfare/warfareExpertMedium",
+        "small": "warfare/warfareExpertSmall"
+      },
+
+      "description": "{Expert Warfare}\n\nExpert of {Artillery}, {First Aid} and { Ballistics }",
+      "effects": {
+        "ballistics": {
+          "val": 3
+        },
+
+        "firstAid": {
+          "val": 400
+        },
+
+        "artillery": {
+          "val": 100
+        },
+
+        "val2": {
+          "val": 1
+        },
+
+        "main": {
+          "val": 200
+        }
+      }
+    }
+  },
+
+  "core:artillery": {
+    "gainChance": {
+      "might": 0,
+      "magic": 0
+    }
+  },
+
+  "core:firstAid": {
+    "gainChance": {
+      "might": 0,
+      "magic": 0
+    }
+  },
+
+  "core:ballistics": {
+    "gainChance": {
+      "might": 0,
+      "magic": 0
+    }
+  }
+}

@@ -1,20 +1,20 @@
 {
-    "name": "Transport",
-    "description": "Reduces 25%/50%/75% movement penalty and increases 5%/10%/15% land movement.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Transport",
+  "description": "Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/transport/skills"
-    ],
+  "skills": [
+    "config/transport/skills"
+  ],
 
-    "heroClasses": [
-        "config/transport/classes"
-    ],
+  "heroClasses": [
+    "config/transport/classes"
+  ],
 
-    "heroes": [
-        "config/transport/heroes"
-    ]
+  "heroes": [
+    "config/transport/heroes"
+  ]
 }

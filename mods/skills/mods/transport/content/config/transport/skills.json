@@ -1,96 +1,96 @@
 {
-    "transport": {
-        "name": "Transport",
-        "gainChance": {
-            "might": 7,
-            "magic": 6
-        },
-
-        "base": {
-            "effects": {
-                "pathfinding": {
-                    "type": "SECONDARY_SKILL_PREMY",
-                    "subtype": "skill.pathfinding",
-                    "valueType": "BASE_NUMBER"
-                },
-
-                "logistics": {
-                    "type": "SECONDARY_SKILL_PREMY",
-                    "subtype": "skill.logistics",
-                    "valueType": "BASE_NUMBER"
-                }
-            }
-        },
-
-        "basic": {
-            "images": {
-                "large": "transport/basicLarge",
-                "medium": "transport/basicMedium",
-                "small": "transport/basicSmall"
-            },
-
-            "description": "{Basic Transport}\n\nReduces {25% movement penalty} and increases {5% land movement}.",
-            "effects": {
-                "pathfinding": {
-                    "val": 25
-                },
-
-                "logistics": {
-                    "val": 5
-                }
-            }
-        },
-
-        "advanced": {
-            "images": {
-                "large": "transport/advancedLarge",
-                "medium": "transport/advancedMedium",
-                "small": "transport/advancedSmall"
-            },
-
-            "description": "{Basic Transport}\n\nReduces {50% movement penalty} and increases {10% land movement}.",
-            "effects": {
-                "pathfinding": {
-                    "val": 50
-                },
-
-                "logistics": {
-                    "val": 10
-                }
-            }
-        },
-
-        "expert": {
-            "images": {
-                "large": "transport/expertLarge",
-                "medium": "transport/expertMedium",
-                "small": "transport/expertSmall"
-            },
-
-            "description": "{Basic Transport}\n\nReduces {75% movement penalty} and increases {15% land movement}.",
-            "effects": {
-                "pathfinding": {
-                    "val": 75
-                },
-
-                "logistics": {
-                    "val": 15
-                }
-            }
-        }
+  "transport": {
+    "name": "Transport",
+    "gainChance": {
+      "might": 7,
+      "magic": 6
     },
 
-    "core:pathfinding": {
-        "gainChance": {
-            "might": 0,
-            "magic": 0
+    "base": {
+      "effects": {
+        "pathfinding": {
+          "type": "SECONDARY_SKILL_PREMY",
+          "subtype": "skill.pathfinding",
+          "valueType": "BASE_NUMBER"
+        },
+
+        "logistics": {
+          "type": "SECONDARY_SKILL_PREMY",
+          "subtype": "skill.logistics",
+          "valueType": "BASE_NUMBER"
         }
+      }
     },
 
-    "core:logistics": {
-        "gainChance": {
-            "might": 0,
-            "magic": 0
+    "basic": {
+      "images": {
+        "large": "transport/basicLarge",
+        "medium": "transport/basicMedium",
+        "small": "transport/basicSmall"
+      },
+
+      "description": "{Basic Transport}\n\nReduces {25%} movement penalty and increases {5%} land movement",
+      "effects": {
+        "pathfinding": {
+          "val": 25
+        },
+
+        "logistics": {
+          "val": 5
         }
+      }
+    },
+
+    "advanced": {
+      "images": {
+        "large": "transport/advancedLarge",
+        "medium": "transport/advancedMedium",
+        "small": "transport/advancedSmall"
+      },
+
+      "description": "{Basic Transport}\n\nReduces {50%} movement penalty and increases {10%} land movement",
+      "effects": {
+        "pathfinding": {
+          "val": 50
+        },
+
+        "logistics": {
+          "val": 10
+        }
+      }
+    },
+
+    "expert": {
+      "images": {
+        "large": "transport/expertLarge",
+        "medium": "transport/expertMedium",
+        "small": "transport/expertSmall"
+      },
+
+      "description": "{Basic Transport}\n\nReduces {75%} movement penalty and increases {20%} land movement",
+      "effects": {
+        "pathfinding": {
+          "val": 75
+        },
+
+        "logistics": {
+          "val": 20
+        }
+      }
     }
+  },
+
+  "core:pathfinding": {
+    "gainChance": {
+      "might": 0,
+      "magic": 0
+    }
+  },
+
+  "core:logistics": {
+    "gainChance": {
+      "might": 0,
+      "magic": 0
+    }
+  }
 }
