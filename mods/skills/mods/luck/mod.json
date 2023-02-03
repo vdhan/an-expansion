@@ -1,12 +1,12 @@
 {
-    "name": "Luck",
-    "description": "Luck also cast Fortune at battle opening for 10/25/50 rounds and increases defence by 1/2/3.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Luck",
+  "description": "Luck also cast Fortune at battle opening for 10/25/50 rounds and increases defence by 1/2/3.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/luck/skills.json"
-    ]
+  "skills": [
+    "config/luck"
+  ]
 }
