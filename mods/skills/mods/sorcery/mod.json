@@ -1,12 +1,12 @@
 {
-    "name": "Sorcery",
-    "description": "Sorcery now causes a hero's spells to inflict an additional 5%/10%/20% damage in combat and increases spell power by 1/2/3.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Sorcery",
+  "description": "Sorcery also increases power skill by 1/2/3.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/sorcery/skills.json"
-    ]
+  "skills": [
+    "config/sorcery"
+  ]
 }

@@ -1,0 +1,39 @@
+{
+  "core:scholar": {
+    "base": {
+      "effects": {
+        "knowledge": {
+          "type": "PRIMARY_SKILL",
+          "subtype": "primSkill.knowledge"
+        }
+      }
+    },
+
+    "basic": {
+      "description": "{Basic Scholar}\n\nAllows heroes to teach each other {1st & 2nd level} spells and increases knowledge by {1}",
+      "effects": {
+        "knowledge": {
+          "val": 1
+        }
+      }
+    },
+
+    "advanced": {
+      "description": "{Advanced Scholar}\n\nAllows heroes to teach each other any spell up to {3rd level} and increases knowledge by {2}",
+      "effects": {
+        "knowledge": {
+          "val": 2
+        }
+      }
+    },
+
+    "expert": {
+      "description": "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to {4th level} and increases knowledge by {3}",
+      "effects": {
+        "knowledge": {
+          "val": 3
+        }
+      }
+    }
+  }
+}

@@ -1,12 +1,12 @@
 {
-    "name": "Scouting",
-    "description": "Scouting now allows your hero to see 2/3/5 square further into the shroud, increases movement points by 200/250/300 and contributes 100/250/500 gold per day.",
-    "modType": "Skills",
-    "version": "0.0.0",
-    "author": "Vũ Đắc Hoàng Ân",
-    "contact": "https://github.com/vdhan/An-Expansion",
+  "name": "Scouting",
+  "description": "Scouting now allows your hero to see 1/3/5 square further into the shroud and increases movement points by 100/200/300.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
 
-    "skills": [
-        "config/scouting/skills.json"
-    ]
+  "skills": [
+    "config/scouting"
+  ]
 }

@@ -1,0 +1,39 @@
+{
+  "core:sorcery": {
+    "base": {
+      "effects": {
+        "xtra": {
+          "type": "PRIMARY_SKILL",
+          "subtype": "primSkill.spellpower"
+        }
+      }
+    },
+
+    "basic": {
+      "description": "{Basic Sorcery}\n\nCauses a hero's spells to inflict an additional {5%} damage in combat and increases power skill by {1}",
+      "effects": {
+        "xtra": {
+          "val": 1
+        }
+      }
+    },
+
+    "advanced": {
+      "description": "{Advanced Sorcery}\n\nCauses a hero's spells to inflict an additional {10%} damage in combat and increases power skill by {2}",
+      "effects": {
+        "xtra": {
+          "val": 2
+        }
+      }
+    },
+
+    "expert": {
+      "description": "{Expert Sorcery}\n\nCauses a hero's spells to inflict an additional {15%} damage in combat and increases power skill by {3}",
+      "effects": {
+        "xtra": {
+          "val": 3
+        }
+      }
+    }
+  }
+}
