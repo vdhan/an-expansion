@@ -6,11 +6,7 @@
   "contact": "https://vudachoangan.com",
   "modType": "Creatures",
 
-  "depends": [
-    "wake-of-gods.commanders"
-  ],
-
   "creatures": [
-    "config/doubleMovement/creatures"
+    "config/doubleMovement"
   ]
 }
