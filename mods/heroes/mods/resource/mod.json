@@ -1,0 +1,24 @@
+{
+  "name": "Resource",
+  "description": "Commanders earn resources (requires wake-of-gods mod).",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "changelog": {
+    "Stronghold": ["Earn 1 crystal per day."],
+
+    "Fortress": ["Earn 1 sulfur per day."],
+
+    "Castle": ["Earn 1 gem per day."],
+
+    "Rampart, Dungeon, Inferno": ["Earn 1 wood and 1 ore per day."],
+
+    "Conflux, Necropolis, Tower": ["Earn addition 50 gold per day for each level."]
+  },
+
+  "creatures": [
+    "config/resource"
+  ]
+}

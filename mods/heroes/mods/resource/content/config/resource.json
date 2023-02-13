@@ -1,0 +1,124 @@
+{
+  "wake-of-gods.commanders:paladin1": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gems",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:astralSpirit1": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gold",
+        "val": 50,
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:brute1": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.wood",
+        "val": 1,
+        "propagator": "HERO"
+      },
+
+      "earn2": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.ore",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:shaman1": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.sulfur",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:succubus1": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.wood",
+        "val": 1,
+        "propagator": "HERO"
+      },
+
+      "earn2": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.ore",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:soulEater1": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gold",
+        "val": 50,
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:hierophant1": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.wood",
+        "val": 1,
+        "propagator": "HERO"
+      },
+
+      "earn2": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.ore",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:ogreLeader1": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.crystal",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "wake-of-gods.commanders:templeGuardian1": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gold",
+        "val": 50,
+        "updater": "TIMES_HERO_LEVEL",
+        "propagator": "HERO"
+      }
+    }
+  }
+}
