@@ -13,9 +13,9 @@
 
     "Castle": ["Earn 1 gem per day."],
 
-    "Rampart, Dungeon, Inferno": ["Earn 1 wood and 1 ore per day."],
+    "Rampart, Dungeon": ["Earn 1 wood and 1 ore per day."],
 
-    "Conflux, Necropolis, Tower": ["Earn addition 50 gold per day for each level."]
+    "Inferno, Conflux, Necropolis, Tower": ["Earn addition 50 gold per day for each level."]
   },
 
   "creatures": [
