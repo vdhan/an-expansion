@@ -6,6 +6,14 @@
   "contact": "https://vudachoangan.com",
   "modType": "Creatures",
 
+  "depends": [
+    "wake-of-gods.commanders"
+  ],
+
+  "creatures": [
+    "config/resource"
+  ],
+
   "changelog": {
     "Stronghold": ["Earn 1 crystal per day."],
 
@@ -16,9 +24,5 @@
     "Rampart, Dungeon": ["Earn 1 wood and 1 ore per day."],
 
     "Inferno, Conflux, Necropolis, Tower": ["Earn addition 50 gold per day for each level."]
-  },
-
-  "creatures": [
-    "config/resource"
-  ]
+  }
 }
