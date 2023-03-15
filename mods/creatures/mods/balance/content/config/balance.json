@@ -47,37 +47,37 @@
       "cavalierKiller": {
         "type": "HATE",
         "subtype": "core:creature.cavalier",
-        "val": 100
+        "val": 50
       },
 
       "championKiller": {
         "type": "HATE",
         "subtype": "core:creature.champion",
-        "val": 100
+        "val": 50
       },
 
       "unicornKiller": {
         "type": "HATE",
         "subtype": "core:creature.unicorn",
-        "val": 100
+        "val": 50
       },
 
       "warUnicornKiller": {
         "type": "HATE",
         "subtype": "core:creature.warUnicorn",
-        "val": 100
+        "val": 50
       },
 
       "blackKnightKiller": {
         "type": "HATE",
         "subtype": "core:creature.blackKnight",
-        "val": 100
+        "val": 50
       },
 
       "dreadKnightKiller": {
         "type": "HATE",
         "subtype": "core:creature.dreadKnight",
-        "val": 100
+        "val": 50
       }
     }
   }

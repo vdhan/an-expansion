@@ -8,11 +8,10 @@
 
   "changelog": {
     "Lizard Warrior": ["Can shoot poison arrows."],
-    "Orc, Orc Chieftain": ["Have no melee penalty."],
-    "Evil Eye": ["Can launch weakness beams."],
+    "Orc Chieftain": ["Have no melee penalty."],
     "Chaos Hydra": ["Gain generation."],
-    "Pikeman, Halberdier": [" inflict 200% damage to: Cavalier, Champion, Unicorn, War Unicorn, Black Knight, Dread Knight."],
-    "Imp, Familiar": ["Can fly."],
+    "Halberdier": ["Inflict 150% damage to: Cavalier, Champion, Unicorn, War Unicorn, Black Knight, Dread Knight."],
+    "Familiar": ["Can fly."],
     "Arch Devil": ["Decrease enemies' Luck by 2."]
   },
 
