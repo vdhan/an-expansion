@@ -10,7 +10,7 @@
     },
 
     "basic": {
-      "description": "{Basic Scholar}\n\nAllows heroes to teach each other {1st & 2nd level} spells and increases knowledge by {1}",
+      "description": "{Basic Scholar}\n\nAllows heroes to teach each other { 1st & 2nd level } spells and increases knowledge by {1}",
       "effects": {
         "knowledge": {
           "val": 1
