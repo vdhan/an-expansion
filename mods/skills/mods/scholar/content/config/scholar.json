@@ -19,7 +19,7 @@
     },
 
     "advanced": {
-      "description": "{Advanced Scholar}\n\nAllows heroes to teach each other any spell up to {3rd level} and increases knowledge by {2}",
+      "description": "{Advanced Scholar}\n\nAllows heroes to teach each other any spell up to { 3rd level } and increases knowledge by {2}",
       "effects": {
         "knowledge": {
           "val": 2
@@ -28,7 +28,7 @@
     },
 
     "expert": {
-      "description": "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to {4th level} and increases knowledge by {3}",
+      "description": "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to { 4th level } and increases knowledge by {3}",
       "effects": {
         "knowledge": {
           "val": 3
