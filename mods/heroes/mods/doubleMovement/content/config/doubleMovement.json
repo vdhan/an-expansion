@@ -2,9 +2,9 @@
   "wake-of-gods.commanders:paladin1": {
     "abilities": {
       "doubleMovement": {
-        "type": "SECONDARY_SKILL_PREMY",
-        "subtype": "skill.logistics",
-        "valueType": "BASE_NUMBER",
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "valueType": "PERCENT_TO_BASE",
         "val": 100,
         "propagator": "HERO"
       }
@@ -14,9 +14,9 @@
   "wake-of-gods.commanders:astralSpirit1": {
     "abilities": {
       "doubleMovement": {
-        "type": "SECONDARY_SKILL_PREMY",
-        "subtype": "skill.logistics",
-        "valueType": "BASE_NUMBER",
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "valueType": "PERCENT_TO_BASE",
         "val": 100,
         "propagator": "HERO"
       }
@@ -26,9 +26,9 @@
   "wake-of-gods.commanders:brute1": {
     "abilities": {
       "doubleMovement": {
-        "type": "SECONDARY_SKILL_PREMY",
-        "subtype": "skill.logistics",
-        "valueType": "BASE_NUMBER",
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "valueType": "PERCENT_TO_BASE",
         "val": 100,
         "propagator": "HERO"
       }
@@ -38,9 +38,9 @@
   "wake-of-gods.commanders:shaman1": {
     "abilities": {
       "doubleMovement": {
-        "type": "SECONDARY_SKILL_PREMY",
-        "subtype": "skill.logistics",
-        "valueType": "BASE_NUMBER",
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "valueType": "PERCENT_TO_BASE",
         "val": 100,
         "propagator": "HERO"
       }
@@ -50,9 +50,9 @@
   "wake-of-gods.commanders:succubus1": {
     "abilities": {
       "doubleMovement": {
-        "type": "SECONDARY_SKILL_PREMY",
-        "subtype": "skill.logistics",
-        "valueType": "BASE_NUMBER",
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "valueType": "PERCENT_TO_BASE",
         "val": 100,
         "propagator": "HERO"
       }
@@ -62,9 +62,9 @@
   "wake-of-gods.commanders:soulEater1": {
     "abilities": {
       "doubleMovement": {
-        "type": "SECONDARY_SKILL_PREMY",
-        "subtype": "skill.logistics",
-        "valueType": "BASE_NUMBER",
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "valueType": "PERCENT_TO_BASE",
         "val": 100,
         "propagator": "HERO"
       }
@@ -74,9 +74,9 @@
   "wake-of-gods.commanders:hierophant1": {
     "abilities": {
       "doubleMovement": {
-        "type": "SECONDARY_SKILL_PREMY",
-        "subtype": "skill.logistics",
-        "valueType": "BASE_NUMBER",
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "valueType": "PERCENT_TO_BASE",
         "val": 100,
         "propagator": "HERO"
       }
@@ -86,9 +86,9 @@
   "wake-of-gods.commanders:ogreLeader1": {
     "abilities": {
       "doubleMovement": {
-        "type": "SECONDARY_SKILL_PREMY",
-        "subtype": "skill.logistics",
-        "valueType": "BASE_NUMBER",
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "valueType": "PERCENT_TO_BASE",
         "val": 100,
         "propagator": "HERO"
       }
@@ -98,9 +98,9 @@
   "wake-of-gods.commanders:templeGuardian1": {
     "abilities": {
       "doubleMovement": {
-        "type": "SECONDARY_SKILL_PREMY",
-        "subtype": "skill.logistics",
-        "valueType": "BASE_NUMBER",
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "valueType": "PERCENT_TO_BASE",
         "val": 100,
         "propagator": "HERO"
       }

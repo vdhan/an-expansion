@@ -9,8 +9,8 @@
     "base": {
       "effects": {
         "ballistics": {
-          "type": "SECONDARY_SKILL_PREMY",
-          "subtype": "skill.ballistics",
+          "type": "CATAPULT_EXTRA_SHOTS",
+          "subtype": "spell.catapultShot",
           "valueType": "BASE_NUMBER"
         },
 
@@ -22,8 +22,8 @@
         },
 
         "firstAid": {
-          "type": "SECONDARY_SKILL_PREMY",
-          "subtype": "skill.firstAid",
+          "type": "SPECIFIC_SPELL_POWER",
+          "subtype": "spell.firstAid",
           "valueType": "BASE_NUMBER"
         },
 
@@ -35,14 +35,14 @@
         },
 
         "artillery": {
-          "type": "SECONDARY_SKILL_PREMY",
-          "subtype": "skill.artillery",
+          "type": "BONUS_DAMAGE_CHANCE",
+          "subtype": "creature.ballista",
           "valueType": "BASE_NUMBER"
         },
 
         "val2": {
-          "type": "SECONDARY_SKILL_VAL2",
-          "subtype": "skill.artillery",
+          "type": "HERO_GRANTS_ATTACKS",
+          "subtype": "creature.ballista",
           "valueType": "BASE_NUMBER"
         },
 
@@ -61,14 +61,10 @@
         },
 
         "main": {
-          "type": "CREATURE_DAMAGE",
-          "valueType": "PERCENT_TO_BASE",
-          "limiters": [
-            {
-              "type": "CREATURE_TYPE_LIMITER",
-              "parameters": ["ballista"]
-            }
-          ]
+          "type": "BONUS_DAMAGE_PERCENTAGE",
+          "subtype": "creature.ballista",
+          "valueType": "BASE_NUMBER",
+          "val": 100
         }
       }
     },
@@ -96,10 +92,6 @@
 
         "val2": {
           "val": 0
-        },
-
-        "main": {
-          "val": 100
         }
       }
     },
@@ -127,10 +119,6 @@
 
         "val2": {
           "val": 1
-        },
-
-        "main": {
-          "val": 150
         }
       }
     },
@@ -158,10 +146,6 @@
 
         "val2": {
           "val": 1
-        },
-
-        "main": {
-          "val": 200
         }
       }
     }

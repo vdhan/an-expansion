@@ -8,16 +8,15 @@
 
     "base": {
       "effects": {
-        "pathfinding": {
-          "type": "SECONDARY_SKILL_PREMY",
-          "subtype": "skill.pathfinding",
+        "main": {
+          "type": "ROUGH_TERRAIN_DISCOUNT",
           "valueType": "BASE_NUMBER"
         },
 
         "logistics": {
-          "type": "SECONDARY_SKILL_PREMY",
-          "subtype": "skill.logistics",
-          "valueType": "BASE_NUMBER"
+          "type": "MOVEMENT",
+          "subtype": 1,
+          "valueType": "PERCENT_TO_BASE"
         }
       }
     },
@@ -31,7 +30,7 @@
 
       "description": "{Basic Transport}\n\nReduces {25%} movement penalty and increases {5%} land movement",
       "effects": {
-        "pathfinding": {
+        "main": {
           "val": 25
         },
 
@@ -50,7 +49,7 @@
 
       "description": "{Basic Transport}\n\nReduces {50%} movement penalty and increases {10%} land movement",
       "effects": {
-        "pathfinding": {
+        "main": {
           "val": 50
         },
 
@@ -69,7 +68,7 @@
 
       "description": "{Basic Transport}\n\nReduces {75%} movement penalty and increases {20%} land movement",
       "effects": {
-        "pathfinding": {
+        "main": {
           "val": 75
         },
 
