@@ -3,7 +3,8 @@
     "base": {
       "effects": {
         "advance": {
-          "type": "MOVEMENT"
+          "type": "MOVEMENT",
+          "subtype": 1
         }
       }
     },
