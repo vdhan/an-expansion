@@ -34,14 +34,6 @@
     }
   },
 
-  "core:archDevil": {
-    "abilities": {
-      "descreaseLuck": {
-        "val": -2
-      }
-    }
-  },
-
   "core:halberdier": {
     "abilities": {
       "cavalierKiller": {
