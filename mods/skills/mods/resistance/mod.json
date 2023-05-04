@@ -8,5 +8,9 @@
 
   "skills": [
     "config/resistance"
+  ],
+
+  "conflicts": [
+    "hota.interferenceHeroes"
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "Dissipate Dwelling",
+  "description": "Dwellings will not accumulate",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+
+  "compatibility": {
+		"min": "1.2"
+	},
+
+  "depends": [
+    "hota.hota balance"
+  ],
+
+	"settings": {
+		"dwellings": {
+			"accumulateWhenOwned": false
+		}
+	},
+
+  "keepDisabled": true
+}
