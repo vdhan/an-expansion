@@ -11,6 +11,6 @@
   ],
 
   "creatures": [
-    "config/doubleMovement"
+    "config/double-movement"
   ]
 }
