@@ -1,0 +1,16 @@
+{
+  "name": "Hota double movement",
+  "description": "Hota heroes have double movement (requires hota.cove mod).",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "hota.cove"
+  ],
+
+  "creatures": [
+    "config/double-movement/hota"
+  ]
+}

@@ -2,7 +2,8 @@
   "core:saurug": {
     "texts": {
       "specialty": {
-        "description": "Increases kingdom's gem production by 1 per day for every 10 levels."
+        "name": "Gem",
+        "description": "{Gem}\n\nIncreases kingdom's gem production by 1 per day for every 10 levels."
       }
     },
 

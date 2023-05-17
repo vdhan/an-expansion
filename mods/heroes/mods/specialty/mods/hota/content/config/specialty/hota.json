@@ -1,15 +1,15 @@
 {
-  "core:rissa": {
+  "hota.cove:12andal": {
     "texts": {
       "specialty": {
-        "name": "Mercury",
-        "description": "{Mercury}\n\nIncreases kingdom's mercury production by 1 per day for every 10 levels."
+        "name": "Crystal",
+        "description": "{Crystal}\n\nIncreases kingdom's crystal production by 1 per day for every 10 levels."
       }
     },
 
     "specialty": {
       "bonuses": {
-        "mercury": {
+        "gold": {
           "updater": {
             "parameters": [2],
             "type": "GROWS_WITH_LEVEL"
@@ -19,7 +19,7 @@
     }
   },
 
-  "core:aine": {
+  "hota.cove:05leena": {
     "texts": {
       "specialty": {
         "name": "Gold",

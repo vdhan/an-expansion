@@ -2,7 +2,8 @@
   "core:damacon": {
     "texts": {
       "specialty": {
-        "description": "Increases kingdom's income by 300 gold per day, plus 50 gold for each level gained."
+        "name": "Gold",
+        "description": "{Gold}\n\nIncreases kingdom's income by 300 gold per day, plus 50 gold for each level gained."
       }
     },
 
@@ -25,7 +26,8 @@
   "core:sephinroth": {
     "texts": {
       "specialty": {
-        "description": "Increases kingdom's crystal production by 1 per day for every 10 levels."
+        "name": "Crystal",
+        "description": "{Crystal}\n\nIncreases kingdom's crystal production by 1 per day for every 10 levels."
       }
     },
 

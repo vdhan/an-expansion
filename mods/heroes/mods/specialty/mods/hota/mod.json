@@ -1,0 +1,16 @@
+{
+  "name": "Hota specialty",
+  "description": "Improve Hota heroes resources specialties (requires hota.cove mod).",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Heroes",
+
+  "depends": [
+    "hota.cove"
+  ],
+
+  "heroes": [
+    "config/specialty/hota"
+  ]
+}
