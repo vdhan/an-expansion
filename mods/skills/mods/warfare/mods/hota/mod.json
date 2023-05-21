@@ -1,0 +1,16 @@
+{
+  "name": "Hota warfare",
+  "description": "Support Hota Heroes mod.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "depends": [
+    "hota.hota heroes"
+  ],
+
+  "heroes": [
+    "config/hota/heroes"
+  ]
+}
