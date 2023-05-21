@@ -1,0 +1,15 @@
+{
+  "core:clancy": {
+    "skills": [
+      {
+        "skill": "interference",
+        "level": "basic"
+      },
+
+      {
+        "skill": "transport",
+        "level": "basic"
+      }
+    ]
+  }
+}

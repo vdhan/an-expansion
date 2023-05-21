@@ -1,0 +1,17 @@
+{
+  "name": "Interference transport",
+  "description": "Support Hota Interference Heroes mod.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "depends": [
+    "hota.cove",
+    "hota.interferenceheroes"
+  ],
+
+  "heroes": [
+    "config/interference/heroes"
+  ]
+}
