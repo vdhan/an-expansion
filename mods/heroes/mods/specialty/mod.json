@@ -1,10 +1,15 @@
 {
   "name": "Specialty",
-  "description": "Improve heroes resources specialties.",
+  "description": "Improve heroes resources specialties",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Heroes",
+
+  "vietnamese": {
+    "name": "Specialty",
+    "description": "Tướng tạo tài nguyên tốt hơn"
+  },
 
   "heroes": [
     "config/specialty/castle",

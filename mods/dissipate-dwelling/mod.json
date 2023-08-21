@@ -6,12 +6,8 @@
   "contact": "https://vudachoangan.com",
   "modType": "Mechanics",
 
-  "compatibility": {
-		"min": "1.2"
-	},
-
   "depends": [
-    "hota.hota balance"
+    "hota.gamebalance"
   ],
 
 	"settings": {
@@ -19,6 +15,11 @@
 			"accumulateWhenOwned": false
 		}
 	},
+
+  "vietnamese": {
+    "name": "Dissipate Dwelling",
+    "description": "Quái không cộng dồn qua tuần"
+  },
 
   "keepDisabled": true
 }

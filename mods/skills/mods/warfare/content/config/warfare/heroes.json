@@ -221,5 +221,19 @@
         "level": "basic"
       }
     ]
+  },
+
+  "hota.cove:02jeremy": {
+    "skills": [
+      {
+        "skill": "offence",
+        "level": "basic"
+      },
+
+      {
+        "skill": "warfare",
+        "level": "basic"
+      }
+    ]
   }
 }

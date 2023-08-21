@@ -1,8 +1,13 @@
 {
   "name": "Skills",
-  "description": "Rebalance skills.",
+  "description": "Rebalance skills",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
-  "modType": "Mechanics"
+  "modType": "Mechanics",
+
+  "vietnamese": {
+    "name": "Skills",
+    "description": "Cân bằng kĩ năng"
+  }
 }

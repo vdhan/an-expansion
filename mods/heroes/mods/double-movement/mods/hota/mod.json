@@ -1,6 +1,6 @@
 {
-  "name": "Hota double movement",
-  "description": "Hota heroes have double movement (requires hota.cove mod).",
+  "name": "Hota Double Movement",
+  "description": "Hota commanders have double movement",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -9,6 +9,11 @@
   "depends": [
     "hota.cove"
   ],
+
+  "vietnamese": {
+    "name": "Hota Double Movement",
+    "description": "Chỉ huy Hota tăng gấp đôi di chuyển"
+  },
 
   "creatures": [
     "config/double-movement/hota"

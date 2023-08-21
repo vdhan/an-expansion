@@ -1,6 +1,6 @@
 {
   "name": "Double Movement",
-  "description": "Heroes have double movement (requires wake-of-gods.commanders mod).",
+  "description": "Commanders have double movement",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -9,6 +9,11 @@
   "depends": [
     "wake-of-gods.commanders"
   ],
+
+  "vietnamese": {
+    "name": "Double Movement",
+    "description": "Chỉ huy tăng gấp đôi di chuyển"
+  },
 
   "creatures": [
     "config/double-movement"

@@ -1,6 +1,6 @@
 {
-  "name": "Hota specialty",
-  "description": "Improve Hota heroes resources specialties (requires hota.cove mod).",
+  "name": "Hota Specialty",
+  "description": "Improve Hota heroes resources specialties",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -9,6 +9,11 @@
   "depends": [
     "hota.cove"
   ],
+
+  "vietnamese": {
+    "name": "Hota Specialty",
+    "description": "Tướng Hota tạo tài nguyên tốt hơn"
+  },
 
   "heroes": [
     "config/specialty/hota"

@@ -1,14 +1,19 @@
 {
-  "name": "Hota warfare",
-  "description": "Support Hota Heroes mod.",
+  "name": "Hota Warfare",
+  "description": "Support Hota Heroes mod",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
 
   "depends": [
-    "hota.hota heroes"
+    "hota.heroes"
   ],
+
+  "vietnamese": {
+    "name": "Hota Warfare",
+    "description": "Hỗ trợ Hota Heroes"
+  },
 
   "heroes": [
     "config/hota/heroes"

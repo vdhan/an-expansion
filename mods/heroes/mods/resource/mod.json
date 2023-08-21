@@ -1,6 +1,6 @@
 {
   "name": "Resource",
-  "description": "Commanders earn resources (requires wake-of-gods mod).",
+  "description": "Commanders earn resources",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -10,19 +10,27 @@
     "wake-of-gods.commanders"
   ],
 
+  "changelog": {
+    "Stronghold": ["Earn 1 crystal per day"],
+    "Fortress": ["Earn 1 sulfur per day"],
+    "Castle": ["Earn 1 gem per day"],
+    "Rampart, Dungeon": ["Earn 1 wood and 1 ore per day"],
+    "Inferno, Conflux, Necropolis, Tower": ["Earn addition 50 gold per day for each level"]
+  },
+
+  "vietnamese": {
+    "name": "Resource",
+    "description": "Chỉ huy tạo tài nguyên",
+    "changelog": {
+      "Stronghold": ["Thêm 1 pha lê mỗi ngày"],
+      "Fortress": ["Thêm 1 lưu huỳnh mỗi ngày"],
+      "Castle": ["Thêm 1 ngọc mỗi ngày"],
+      "Rampart, Dungeon": ["Thêm 1 gỗ và 1 quặng mỗi ngày"],
+      "Inferno, Conflux, Necropolis, Tower": ["Mỗi cấp tăng thêm 50 vàng/ngày"]
+    }
+  },
+
   "creatures": [
     "config/resource"
-  ],
-
-  "changelog": {
-    "Stronghold": ["Earn 1 crystal per day."],
-
-    "Fortress": ["Earn 1 sulfur per day."],
-
-    "Castle": ["Earn 1 gem per day."],
-
-    "Rampart, Dungeon": ["Earn 1 wood and 1 ore per day."],
-
-    "Inferno, Conflux, Necropolis, Tower": ["Earn addition 50 gold per day for each level."]
-  }
+  ]
 }

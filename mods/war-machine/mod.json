@@ -7,9 +7,19 @@
   "modType": "Creatures",
 
   "changelog": {
-    "Ballista": ["Now has double base damage."],
-    "First Aid Tent": ["Now has 150 hit points and increases hero's troops health by 1."],
-    "Ammo Cart": ["Now has 200 hit points, reduces spell cost by 1 and increases hero's troop speed by 1."]
+    "Ballista": ["Now has double base damage"],
+    "First Aid Tent": ["Now has 150 hit points and increases hero's troops health by 1"],
+    "Ammo Cart": ["Now has 200 hit points, reduces spell cost by 1 and increases hero's troop speed by 1"]
+  },
+
+  "vietnamese": {
+    "name": "War Machine",
+    "description": "Cải thiện chiến cơ",
+    "changelog": {
+      "Ballista": ["Sát thương gốc tăng gấp đôi"],
+      "First Aid Tent": ["Có 150 máu và tăng cho quái 1 máu"],
+      "Ammo Cart": ["Có 200 máu, giảm 1 năng lượng hao phí và tăng cho quái 1 tốc"]
+    }
   },
 
   "creatures": [

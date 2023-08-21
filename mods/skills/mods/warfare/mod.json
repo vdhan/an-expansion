@@ -1,10 +1,15 @@
 {
   "name": "Warfare",
-  "description": "Artillery, First Aid and Ballistics combination.",
+  "description": "Artillery, First Aid and Ballistics combination",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
+
+  "vietnamese": {
+    "name": "Warfare",
+    "description": "Kết hợp Artillery, First Aid và Ballistics"
+  },
 
   "skills": [
     "config/warfare/skills"

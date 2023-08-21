@@ -123,5 +123,19 @@
       "pathfinding": 0,
       "logistics": 0
     }
+  },
+
+  "hota.cove:captain": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
+  },
+
+  "hota.cove:navigator": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
   }
 }
