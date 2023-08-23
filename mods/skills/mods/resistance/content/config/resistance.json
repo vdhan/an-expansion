@@ -6,13 +6,8 @@
           "type": "PRIMARY_SKILL",
           "subtype": "primSkill.spellpower",
           "valueType": "PERCENT_TO_ALL",
-          "propagator": "BATTLE_WIDE"
-        },
-
-        "extra": {
-          "type": "PRIMARY_SKILL",
-          "subtype": "primSkill.spellpower",
-          "valueType": "PERCENT_TO_ALL"
+          "propagator": "BATTLE_WIDE",
+          "limiters": ["OPPOSITE_SIDE"]
         }
       }
     },
@@ -22,10 +17,6 @@
       "effects": {
         "main": {
           "val": -10
-        },
-
-        "extra": {
-          "val": 10
         }
       }
     },
@@ -35,10 +26,6 @@
       "effects": {
         "main": {
           "val": -20
-        },
-
-        "extra": {
-          "val": 20
         }
       }
     },
@@ -48,10 +35,6 @@
       "effects": {
         "main": {
           "val": -30
-        },
-
-        "extra": {
-          "val": 30
         }
       }
     }
