@@ -1,10 +1,15 @@
 {
   "name": "Navigation",
-  "description": "Navigation also allows free ship boarding.",
+  "description": "Navigation also allows free ship boarding",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
+
+  "vietnamese": {
+    "name": "Navigation",
+    "description": "Đi Biển còn cho sang tàu ngay"
+  },
 
   "skills": [
     "config/navigation"

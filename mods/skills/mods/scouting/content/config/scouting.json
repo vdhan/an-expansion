@@ -10,7 +10,7 @@
     },
 
     "basic": {
-      "description": "{Basic Scouting}\n\nAllows your hero to see {1} square further into the shroud and increases {150} movement points",
+      "description": "{Basic Scouting}\n\nAllows your hero to see 1 square further into the shroud and increases 150 land movement points",
       "effects": {
         "advance": {
           "val": 150
@@ -19,7 +19,7 @@
     },
 
     "advanced": {
-      "description": "{Advanced Scouting}\n\nAllows your hero to see {3} square further into the shroud and increases {300} movement points",
+      "description": "{Advanced Scouting}\n\nAllows your hero to see 3 square further into the shroud and increases 300 land movement points",
       "effects": {
         "main": {
           "val": 3
@@ -32,7 +32,7 @@
     },
 
     "expert": {
-      "description": "{Expert Scouting}\n\nAllows your hero to see {5} square further into the shroud and increases {450} movement points",
+      "description": "{Expert Scouting}\n\nAllows your hero to see 5 square further into the shroud and increases 450 land movement points",
       "effects": {
         "main": {
           "val": 5

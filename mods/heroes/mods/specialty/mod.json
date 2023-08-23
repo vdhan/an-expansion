@@ -8,7 +8,10 @@
 
   "vietnamese": {
     "name": "Specialty",
-    "description": "Tướng tạo tài nguyên tốt hơn"
+    "description": "Tướng tạo tài nguyên tốt hơn",
+    "translations": [
+      "translation/specialty/vietnamese"
+    ]
   },
 
   "heroes": [
@@ -19,6 +22,7 @@
     "config/specialty/rampart",
     "config/specialty/stronghold",
     "config/specialty/tower",
-    "config/specialty/conflux"
+    "config/specialty/conflux",
+    "config/specialty/hota/cove"
   ]
 }

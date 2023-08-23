@@ -8,7 +8,10 @@
 
   "vietnamese": {
     "name": "Warfare",
-    "description": "Kết hợp Artillery, First Aid và Ballistics"
+    "description": "Kết hợp Artillery, First Aid và Ballistics",
+    "translations": [
+      "translation/warfare/vietnamese"
+    ]
   },
 
   "skills": [
@@ -16,10 +19,12 @@
   ],
 
   "heroClasses": [
-    "config/warfare/classes"
+    "config/warfare/classes",
+    "config/warfare/hota/classes"
   ],
 
   "heroes": [
-    "config/warfare/heroes"
+    "config/warfare/heroes",
+    "config/warfare/hota/heroes"
   ]
 }

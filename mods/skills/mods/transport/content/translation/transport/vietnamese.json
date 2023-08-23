@@ -1,0 +1,6 @@
+{
+  "skill.an-expansion.skills.transport.transport.name": "Vận Tải",
+  "skill.an-expansion.skills.transport.transport.description.basic": "{Vận Tải sơ cấp}\n\nGiảm 25% bất lợi di chuyển và tăng 5% di chuyển trên bộ",
+  "skill.an-expansion.skills.transport.transport.description.advanced": "{Vận Tải trung cấp}\n\nGiảm 50% bất lợi di chuyển và tăng 10% di chuyển trên bộ",
+  "skill.an-expansion.skills.transport.transport.description.expert": "{Vận Tải cao cấp}\n\nGiảm 75% bất lợi di chuyển và tăng 20% di chuyển trên bộ"
+}

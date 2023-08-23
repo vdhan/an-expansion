@@ -18,7 +18,7 @@
     },
 
     "basic": {
-      "description": "{Basic Resistance}\n\nReduces enemy hero {10%} spell power",
+      "description": "{Basic Resistance}\n\nReduces enemy hero 10% spell power",
       "effects": {
         "main": {
           "val": -10
@@ -31,7 +31,7 @@
     },
 
     "advanced": {
-      "description": "{Advanced Resistance}\n\nReduces enemy hero {20%} spell power",
+      "description": "{Advanced Resistance}\n\nReduces enemy hero 20% spell power",
       "effects": {
         "main": {
           "val": -20
@@ -44,7 +44,7 @@
     },
 
     "expert": {
-      "description": "{Expert Resistance}\n\nReduces enemy hero {30%} spell power",
+      "description": "{Expert Resistance}\n\nReduces enemy hero 30% spell power",
       "effects": {
         "main": {
           "val": -30

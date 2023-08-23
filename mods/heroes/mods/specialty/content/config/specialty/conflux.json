@@ -3,7 +3,7 @@
     "texts": {
       "specialty": {
         "name": "Gold",
-        "description": "{Gold}\n\nIncreases kingdom's income by 300 gold per day, plus 50 gold for each level gained."
+        "description": "{Gold}\n\nIncreases kingdom's income by 300 gold per day, plus 50 gold for each level gained"
       }
     },
 
@@ -27,7 +27,7 @@
     "texts": {
       "specialty": {
         "name": "Gold",
-        "description": "{Gold}\n\nIncreases kingdom's income by 300 gold per day, plus 50 gold for each level gained."
+        "description": "{Gold}\n\nIncreases kingdom's income by 300 gold per day, plus 50 gold for each level gained"
       }
     },
 

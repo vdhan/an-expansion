@@ -1,7 +1,7 @@
 {
   "core:learning": {
     "basic": {
-      "description": "{Basic Learning}\n\nGains additional {25%} experience",
+      "description": "{Basic Learning}\n\nGains additional 25% experience",
       "effects": {
         "main": {
           "val": 25
@@ -10,7 +10,7 @@
     },
 
     "advanced": {
-      "description": "{Advanced Learning}\n\nGains additional {50%} experience",
+      "description": "{Advanced Learning}\n\nGains additional 50% experience",
       "effects": {
         "main": {
           "val": 50
@@ -19,7 +19,7 @@
     },
 
     "expert": {
-      "description": "{Expert Learning}\n\nGains additional {100%} experience",
+      "description": "{Expert Learning}\n\nGains additional 100% experience",
       "effects": {
         "main": {
           "val": 100

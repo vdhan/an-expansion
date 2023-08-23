@@ -1,0 +1,5 @@
+{
+  "skill.core.resistance.description.basic": "{Kháng Phép sơ cấp}\n\nGiảm 10% lực tướng đối thủ",
+  "skill.core.resistance.description.advanced": "{Kháng Phép trung cấp}\n\nGiảm 20% lực tướng đối thủ",
+  "skill.core.resistance.description.expert": "{Kháng Phép cao cấp}\n\nGiảm 30% lực tướng đối thủ"
+}

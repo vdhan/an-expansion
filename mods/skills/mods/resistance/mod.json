@@ -1,16 +1,20 @@
 {
   "name": "Resistance",
-  "description": "Resistance now lowers enemy hero 10%/20%/30% power skill.",
+  "description": "Resistance now lowers enemy hero 10%/20%/30% power skill",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
 
+  "vietnamese": {
+    "name": "Resistance",
+    "description": "Kháng Phép giảm 10%/20%/30% lực tướng đối thủ",
+    "translations": [
+      "translation/resistance/vietnamese"
+    ]
+  },
+
   "skills": [
     "config/resistance"
-  ],
-
-  "conflicts": [
-    "hota.interferenceHeroes"
   ]
 }

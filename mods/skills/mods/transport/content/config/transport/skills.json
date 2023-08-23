@@ -28,7 +28,7 @@
         "small": "transport/basicSmall"
       },
 
-      "description": "{Basic Transport}\n\nReduces {25%} movement penalty and increases {5%} land movement",
+      "description": "{Basic Transport}\n\nReduces 25% movement penalty and increases 5% land movement",
       "effects": {
         "main": {
           "val": 25
@@ -47,7 +47,7 @@
         "small": "transport/advancedSmall"
       },
 
-      "description": "{Basic Transport}\n\nReduces {50%} movement penalty and increases {10%} land movement",
+      "description": "{Advanced Transport}\n\nReduces 50% movement penalty and increases 10% land movement",
       "effects": {
         "main": {
           "val": 50
@@ -66,7 +66,7 @@
         "small": "transport/expertSmall"
       },
 
-      "description": "{Basic Transport}\n\nReduces {75%} movement penalty and increases {20%} land movement",
+      "description": "{Expert Transport}\n\nReduces 75% movement penalty and increases 20% land movement",
       "effects": {
         "main": {
           "val": 75

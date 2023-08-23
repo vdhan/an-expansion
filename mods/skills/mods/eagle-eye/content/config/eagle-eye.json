@@ -9,7 +9,7 @@
     },
 
     "basic": {
-      "description": "{Basic Eagle Eye}\n\n{40%} chance to learn any spell up to {2nd level} used in combat, increases enemies spell cost by {1}",
+      "description": "{Basic Eagle Eye}\n\n40% chance to learn any spell up to 2nd level used in combat, increases enemies spell cost by 1",
       "effects": {
         "xtra": {
           "val": 1
@@ -18,7 +18,7 @@
     },
 
     "advanced": {
-      "description": "{Advanced Eagle Eye}\n\n{50%} chance to learn any spell up to {3rd level} used in combat, increases enemies spell cost by {2}",
+      "description": "{Advanced Eagle Eye}\n\n50% chance to learn any spell up to 3rd level used in combat, increases enemies spell cost by 2",
       "effects": {
         "xtra": {
           "val": 2
@@ -27,7 +27,7 @@
     },
 
     "expert": {
-      "description": "{Expert Eagle Eye}\n\n{60%} chance to learn any spell up to {4th level} used in combat, increases enemies spell cost by {3}",
+      "description": "{Expert Eagle Eye}\n\n60% chance to learn any spell up to 4th level used in combat, increases enemies spell cost by 3",
       "effects": {
         "xtra": {
           "val": 3

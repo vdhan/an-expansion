@@ -8,7 +8,10 @@
 
   "vietnamese": {
     "name": "Transport",
-    "description": "Vận chuyển giảm 25%/50%/75% bất lợi khi di chuyển và tăng 5%/10%/20% di chuyển trên bộ"
+    "description": "Vận chuyển giảm 25%/50%/75% bất lợi khi di chuyển và tăng 5%/10%/20% di chuyển trên bộ",
+    "translations": [
+      "translation/transport/vietnamese"
+    ]
   },
 
   "skills": [
@@ -16,10 +19,12 @@
   ],
 
   "heroClasses": [
-    "config/transport/classes"
+    "config/transport/classes",
+    "config/transport/hota/classes"
   ],
 
   "heroes": [
-    "config/transport/heroes"
+    "config/transport/heroes",
+    "config/transport/hota/heroes"
   ]
 }
