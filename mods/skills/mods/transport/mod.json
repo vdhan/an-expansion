@@ -8,7 +8,7 @@
 
   "vietnamese": {
     "name": "Transport",
-    "description": "Vận chuyển giảm 25%/50%/75% bất lợi khi di chuyển và tăng 5%/10%/20% di chuyển trên bộ",
+    "description": "Vận Chuyển giảm 25%/50%/75% bất lợi khi di chuyển và tăng 5%/10%/20% di chuyển trên bộ",
     "translations": [
       "translation/transport/vietnamese"
     ]

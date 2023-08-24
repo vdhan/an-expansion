@@ -1,6 +1,6 @@
 {
   "name": "Warfare",
-  "description": "Artillery, First Aid and Ballistics combination",
+  "description": "Warfare combines Artillery, First Aid and Ballistics",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -8,7 +8,7 @@
 
   "vietnamese": {
     "name": "Warfare",
-    "description": "Kết hợp Artillery, First Aid và Ballistics",
+    "description": "Khí Tài kết hợp Artillery, First Aid và Ballistics",
     "translations": [
       "translation/warfare/vietnamese"
     ]

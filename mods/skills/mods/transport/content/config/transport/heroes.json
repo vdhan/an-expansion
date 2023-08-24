@@ -95,5 +95,19 @@
         "level": "basic"
       }
     ]
+  },
+
+  "core:pyre": {
+    "skills": [
+      {
+        "skill": "transport",
+        "level": "basic"
+      },
+
+      {
+        "skill": "artillery",
+        "level": "basic"
+      }
+    ]
   }
 }

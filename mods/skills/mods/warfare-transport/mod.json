@@ -1,0 +1,22 @@
+{
+  "name": "Warfare Transport",
+  "description": "Some heroes have both Warfare and Transport",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "depends": [
+    "an-expansion.skills.warfare",
+    "an-expansion.skills.transport"
+  ],
+
+  "vietnamese": {
+    "name": "Warfare Transport",
+    "description": "1 số tướng có cả Khí Tài và Vận Chuyển"
+  },
+
+  "heroes": [
+    "config/warfare-transport/heroes"
+  ]
+}

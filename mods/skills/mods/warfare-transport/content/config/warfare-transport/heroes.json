@@ -1,0 +1,15 @@
+{
+  "core:pyre": {
+    "skills": [
+      {
+        "skill": "transport",
+        "level": "basic"
+      },
+
+      {
+        "skill": "warfare",
+        "level": "basic"
+      }
+    ]
+  }
+}
