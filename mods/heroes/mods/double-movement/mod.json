@@ -16,6 +16,7 @@
   },
 
   "creatures": [
-    "config/double-movement"
+    "config/double-movement",
+    "config/hota/double-movement"
   ]
 }
