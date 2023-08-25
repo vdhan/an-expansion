@@ -1,6 +1,6 @@
 {
   "name": "Learning",
-  "description": "Learning now gains additional 25%/50%/100% experience",
+  "description": "Learning also gains additional 5% earned experience per level",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -8,10 +8,7 @@
 
   "vietnamese": {
     "name": "Learning",
-    "description": "Học Tập tăng thêm 25%/50%/100% kinh nghiệm",
-    "translations": [
-      "translation/learning/vietnamese"
-    ]
+    "description": "Học Tập còn cộng thêm 5% kinh nghiệm kiếm được mỗi cấp"
   },
 
   "skills": [
