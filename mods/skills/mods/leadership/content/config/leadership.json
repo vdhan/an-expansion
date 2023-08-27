@@ -9,7 +9,7 @@
 
         "attack": {
           "type": "PRIMARY_SKILL",
-          "subtype": "primSkill.attack"
+          "subtype": "primarySkill.attack"
         }
       }
     },
