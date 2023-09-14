@@ -8,7 +8,10 @@
 
   "vietnamese": {
     "name": "Navigation",
-    "description": "Đi Biển còn cho sang tàu ngay"
+    "description": "Đi Biển còn cho sang tàu ngay",
+    "translations": [
+      "translation/navigation/vietnamese"
+    ]
   },
 
   "skills": [

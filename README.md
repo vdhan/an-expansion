@@ -33,9 +33,9 @@ Rebalance skills, heroes, creatures, etc.
   - Sorcery: Sorcery also increases power skill by 1/2/3
   - Tactics: Tactics increases troops speed by 1/2/3 instead
   - Transport: Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement
-    - Interference Transport: Some heroes have both Hota Interference and Transport skills
+    - Interference Transport: Some heroes have both starting skills: Hota Interference and Transport
   - Warfare: Warfare combines Artillery, First Aid and Ballistics
-  - Warfare Transport: Some heroes have both Warfare and Transport skills
+  - Warfare Transport: Some heroes have both starting skills: Warfare and Transport
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "name": "Interference Transport",
-  "description": "Support Hota Interference mod",
+  "description": "Some heroes have both starting skills: Hota Interference and Transport",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -12,7 +12,7 @@
 
   "vietnamese": {
     "name": "Interference Transport",
-    "description": "Hỗ trợ Hota Interference"
+    "description": "1 số tướng có kĩ năng ban đầu: Hota Interference và Vận Chuyển"
   },
 
   "heroes": [

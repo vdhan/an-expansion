@@ -63,8 +63,8 @@
         "main": {
           "type": "BONUS_DAMAGE_PERCENTAGE",
           "subtype": "creature.ballista",
-          "valueType": "BASE_NUMBER",
-          "val": 100
+          "val": 100,
+          "valueType": "BASE_NUMBER"
         }
       }
     },

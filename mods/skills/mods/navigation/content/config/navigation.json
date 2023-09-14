@@ -6,6 +6,18 @@
           "type": "FREE_SHIP_BOARDING"
         }
       }
+    },
+
+    "basic": {
+      "description": "{Basic Navigation}\n\nIncreases your hero's movement points at sea by 50% and allows free ship boarding"
+    },
+
+    "advanced": {
+      "description": "{Advanced Navigation}\n\nIncreases your hero's movement points at sea by 100% and allows free ship boarding"
+    },
+
+    "expert": {
+      "description": "{Expert Navigation}\n\nIncreases your hero's movement points at sea by 150% and allows free ship boarding"
     }
   }
 }

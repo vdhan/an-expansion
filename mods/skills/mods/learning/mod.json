@@ -8,7 +8,10 @@
 
   "vietnamese": {
     "name": "Learning",
-    "description": "Học Tập còn cộng thêm 5% kinh nghiệm kiếm được mỗi cấp"
+    "description": "Học Tập còn cộng thêm 5% kinh nghiệm kiếm được mỗi cấp",
+    "translations": [
+      "translation/learning/vietnamese"
+    ]
   },
 
   "skills": [

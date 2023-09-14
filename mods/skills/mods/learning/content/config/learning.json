@@ -9,6 +9,18 @@
           "val": 5
         }
       }
+    },
+
+    "basic": {
+      "description": "{Basic Learning}\n\nIncreases hero's earned experience by 5% and additional 5% per level"
+    },
+
+    "advanced": {
+      "description": "{Advanced Learning}\n\nIncreases hero's earned experience by 10% and additional 5% per level"
+    },
+
+    "expert": {
+      "description": "{Expert Learning}\n\nIncreases hero's earned experience by 15% and additional 5% per level"
     }
   }
 }
