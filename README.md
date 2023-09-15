@@ -9,7 +9,7 @@ Rebalance skills, heroes, creatures, etc.
   - Ammo Cart: Now has 200 hit points, reduces spell cost by 1 and increases hero's troop speed by 1
 
 - Heroes:
-  - Double Movement: Heroes have double movement (Standard H3 towns)
+  - Double Movement: Heroes have double movement (10 basic towns, Greenhouse, Forge and Heavenly Forge 2000)
   - Specialty: Improve heroes resources specialties (Standard H3 towns) 
   - Resource: Heroes earn resources
     - Stronghold: Earn 1 crystal per day

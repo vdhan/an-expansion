@@ -1,0 +1,19 @@
+{
+  "name": "Modern Font",
+  "description": "Font support Vietnamese and other languages.",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Graphical",
+
+  "conflicts": [
+		"vcmi-extras.truetypefonts"
+  ],
+
+  "vietnamese": {
+    "name": "Modern Font",
+    "description": "Phông chữ hỗ trợ Tiếng Việt và các ngôn ngữ khác"
+  },
+
+  "keepDisabled": true
+}

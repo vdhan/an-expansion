@@ -4,8 +4,8 @@
       "doubleMovement": {
         "type": "MOVEMENT",
         "subtype": 1,
-        "valueType": "PERCENT_TO_BASE",
         "val": 100,
+        "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
       }
     }
@@ -16,8 +16,8 @@
       "doubleMovement": {
         "type": "MOVEMENT",
         "subtype": 1,
-        "valueType": "PERCENT_TO_BASE",
         "val": 100,
+        "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
       }
     }
@@ -28,8 +28,8 @@
       "doubleMovement": {
         "type": "MOVEMENT",
         "subtype": 1,
-        "valueType": "PERCENT_TO_BASE",
         "val": 100,
+        "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
       }
     }
@@ -40,8 +40,8 @@
       "doubleMovement": {
         "type": "MOVEMENT",
         "subtype": 1,
-        "valueType": "PERCENT_TO_BASE",
         "val": 100,
+        "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
       }
     }
@@ -52,8 +52,8 @@
       "doubleMovement": {
         "type": "MOVEMENT",
         "subtype": 1,
-        "valueType": "PERCENT_TO_BASE",
         "val": 100,
+        "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
       }
     }
@@ -64,8 +64,8 @@
       "doubleMovement": {
         "type": "MOVEMENT",
         "subtype": 1,
-        "valueType": "PERCENT_TO_BASE",
         "val": 100,
+        "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
       }
     }
@@ -76,8 +76,8 @@
       "doubleMovement": {
         "type": "MOVEMENT",
         "subtype": 1,
-        "valueType": "PERCENT_TO_BASE",
         "val": 100,
+        "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
       }
     }
@@ -88,8 +88,8 @@
       "doubleMovement": {
         "type": "MOVEMENT",
         "subtype": 1,
-        "valueType": "PERCENT_TO_BASE",
         "val": 100,
+        "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
       }
     }
@@ -100,8 +100,8 @@
       "doubleMovement": {
         "type": "MOVEMENT",
         "subtype": 1,
-        "valueType": "PERCENT_TO_BASE",
         "val": 100,
+        "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
       }
     }

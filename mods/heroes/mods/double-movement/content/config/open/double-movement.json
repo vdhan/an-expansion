@@ -1,0 +1,49 @@
+{
+  "hota.cove:blackbeard": {
+    "abilities": {
+      "doubleMovement": {
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "val": 100,
+        "valueType": "PERCENT_TO_BASE",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "greenhouse-town:cmmdr": {
+    "abilities": {
+      "doubleMovement": {
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "val": 100,
+        "valueType": "PERCENT_TO_BASE",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "forge:firebug": {
+    "abilities": {
+      "doubleMovement": {
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "val": 100,
+        "valueType": "PERCENT_TO_BASE",
+        "propagator": "HERO"
+      }
+    }
+  },
+
+  "forge2k:commstringer2k": {
+    "abilities": {
+      "doubleMovement": {
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "val": 100,
+        "valueType": "PERCENT_TO_BASE",
+        "propagator": "HERO"
+      }
+    }
+  }
+}
