@@ -20,7 +20,7 @@ Rebalance skills, heroes, creatures, etc.
 
 - Skills:
   - Archery: Archery also casts Precision at battle opening for 10/25/50 rounds
-  - Armorer: Armorer lowers 10%/20%/30% physical damage and casts Stone Skin at battle opening for 10/25/50 rounds
+  - Armorer: Armorer also casts Stone Skin at battle opening for 10/25/50 rounds
   - Eagle Eye: Eagle Eye also increases enemies spell cost by 1/2/3
   - Leadership: Leadership also casts Mirth at battle opening for 10/25/50 rounds and increases attack by 1/2/3
   - Learning: Learning also gains additional 5% earned experience per level

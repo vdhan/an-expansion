@@ -1,6 +1,6 @@
 {
   "name": "Armorer",
-  "description": "Armorer lowers 10%/20%/30% physical damage and casts Stone Skin at battle opening for 10/25/50 rounds",
+  "description": "Armorer also casts Stone Skin at battle opening for 10/25/50 rounds",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -8,7 +8,7 @@
 
   "vietnamese": {
     "name": "Armorer",
-    "description": "Giáp giảm 10%/20%/30% sát thương vật lí và đầu trận ếm Thạch Bì cho 10/25/50 vòng",
+    "description": "Giáp đầu trận còn ếm Thạch Bì cho 10/25/50 vòng",
     "translations": [
       "translation/armorer/vietnamese"
     ]

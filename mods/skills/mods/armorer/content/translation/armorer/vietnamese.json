@@ -1,5 +1,5 @@
 {
-  "skill.core.armorer.description.basic": "{Giáp sơ cấp}\n\nGiảm 10% sát thương vật lí và đầu trận ếm Thạch Bì cho 10 vòng",
-  "skill.core.armorer.description.advanced": "{Giáp trung cấp}\n\nGiảm 20% sát thương vật lí và đầu trận ếm Thạch Bì cho 25 vòng",
-  "skill.core.armorer.description.expert": "{Giáp cao cấp}\n\nGiảm 30% sát thương vật lí và đầu trận ếm Thạch Bì cho 50 vòng"
+  "skill.core.armorer.description.basic": "{Giáp sơ cấp}\n\nGiảm 5% sát thương vật lí và đầu trận ếm Thạch Bì cho 10 vòng",
+  "skill.core.armorer.description.advanced": "{Giáp trung cấp}\n\nGiảm 10% sát thương vật lí và đầu trận ếm Thạch Bì cho 25 vòng",
+  "skill.core.armorer.description.expert": "{Giáp cao cấp}\n\nGiảm 15% sát thương vật lí và đầu trận ếm Thạch Bì cho 50 vòng"
 }
