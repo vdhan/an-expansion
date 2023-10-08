@@ -20,11 +20,13 @@
 
   "heroClasses": [
     "config/warfare/classes",
-    "config/warfare/hota/classes"
+    "config/warfare/hota/classes",
+    "config/warfare/durotar/classes"
   ],
 
   "heroes": [
     "config/warfare/heroes",
-    "config/warfare/hota/heroes"
+    "config/warfare/hota/heroes",
+    "config/warfare/durotar/heroes"
   ]
 }

@@ -20,11 +20,13 @@
 
   "heroClasses": [
     "config/transport/classes",
-    "config/transport/hota/classes"
+    "config/transport/hota/classes",
+    "config/transport/durotar/classes"
   ],
 
   "heroes": [
     "config/transport/heroes",
-    "config/transport/hota/heroes"
+    "config/transport/hota/heroes",
+    "config/transport/durotar/heroes"
   ]
 }

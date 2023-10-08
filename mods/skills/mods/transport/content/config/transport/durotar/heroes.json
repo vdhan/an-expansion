@@ -1,0 +1,29 @@
+{
+  "durotar:drtMagic1": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "transport",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "durotar:drtMight7": {
+    "skills": [
+      {
+        "skill": "armorer",
+        "level": "basic"
+      },
+
+      {
+        "skill": "transport",
+        "level": "basic"
+      }
+    ]
+  }
+}

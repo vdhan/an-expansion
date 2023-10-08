@@ -11,6 +11,18 @@
     }
   },
 
+  "durotar:drtCommand": {
+    "abilities": {
+      "doubleMovement": {
+        "type": "MOVEMENT",
+        "subtype": 1,
+        "val": 100,
+        "valueType": "PERCENT_TO_BASE",
+        "propagator": "HERO"
+      }
+    }
+  },
+
   "greenhouse-town:cmmdr": {
     "abilities": {
       "doubleMovement": {
