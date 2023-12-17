@@ -4,7 +4,7 @@
       "effects": {
         "advance": {
           "type": "MOVEMENT",
-          "subtype": 1
+          "subtype": "heroMovementLand"
         }
       }
     },

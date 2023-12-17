@@ -16,6 +16,6 @@
   },
 
   "heroes": [
-    "config/interference/heroes"
+    "config/interference"
   ]
 }

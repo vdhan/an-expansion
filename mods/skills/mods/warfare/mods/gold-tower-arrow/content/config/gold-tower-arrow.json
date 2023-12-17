@@ -1,0 +1,41 @@
+{
+  "warfare:warfare": {
+    "base": {
+      "effects": {
+        "goldTowerArrow": {
+          "type": "ADDITIONAL_ATTACK",
+          "valueType": "ADDITIVE_VALUE",
+          "val": 1,
+
+          "limiters": [
+            {
+              "type": "HAS_ANOTHER_BONUS_LIMITER",
+              "parameters": ["MORE_DAMAGE_FROM_SPELL", "spell.arrowtrigger"]
+            },
+
+            {
+              "type": "CREATURE_TYPE_LIMITER",
+              "parameters": ["arrowTower"]
+            }
+          ]
+        }
+      }
+    },
+
+    "advanced": {
+      "effects": {
+        "goldTowerArrow": {
+          "val": 2
+        }
+      }
+    },
+
+    "expert": {
+      "effects": {
+        "goldTowerArrow": {
+          "val": 3
+        }
+      }
+    }
+  }
+}

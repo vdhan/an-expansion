@@ -1,0 +1,21 @@
+{
+  "name": "Gold Tower Arrow",
+  "description": "Support Gold Tower Arrow",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "depends": [
+    "wake-of-gods.spells"
+  ],
+
+  "vietnamese": {
+    "name": "Gold Tower Arrow",
+    "description": "Hỗ trợ Gold Tower Arrow"
+  },
+
+  "skills": [
+    "config/gold-tower-arrow"
+  ]
+}

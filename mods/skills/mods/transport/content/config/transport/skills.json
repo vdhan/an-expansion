@@ -15,7 +15,7 @@
 
         "logistics": {
           "type": "MOVEMENT",
-          "subtype": 1,
+          "subtype": "heroMovementLand",
           "valueType": "PERCENT_TO_BASE"
         }
       }

@@ -6,9 +6,13 @@
           "type": "PRIMARY_SKILL",
           "subtype": "primarySkill.spellpower",
           "valueType": "PERCENT_TO_ALL",
-          "propagator": "BATTLE_WIDE",
-          "propagationUpdater": "BONUS_OWNER_UPDATER",
-          "limiters": ["OPPOSITE_SIDE"]
+          "propagator": "BATTLE_WIDE"
+        },
+
+        "xtra": {
+          "type": "PRIMARY_SKILL",
+          "subtype": "primarySkill.spellpower",
+          "valueType": "PERCENT_TO_ALL"
         }
       }
     },
@@ -18,6 +22,10 @@
       "effects": {
         "main": {
           "val": -10
+        },
+
+        "xtra": {
+          "val": 10
         }
       }
     },
@@ -27,6 +35,10 @@
       "effects": {
         "main": {
           "val": -20
+        },
+
+        "xtra": {
+          "val": 20
         }
       }
     },
@@ -36,6 +48,10 @@
       "effects": {
         "main": {
           "val": -30
+        },
+
+        "xtra": {
+          "val": 30
         }
       }
     }

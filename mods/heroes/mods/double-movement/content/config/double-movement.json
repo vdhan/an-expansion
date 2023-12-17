@@ -3,7 +3,7 @@
     "abilities": {
       "doubleMovement": {
         "type": "MOVEMENT",
-        "subtype": 1,
+        "subtype": "heroMovementLand",
         "val": 100,
         "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
@@ -15,7 +15,7 @@
     "abilities": {
       "doubleMovement": {
         "type": "MOVEMENT",
-        "subtype": 1,
+        "subtype": "heroMovementLand",
         "val": 100,
         "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
@@ -27,7 +27,7 @@
     "abilities": {
       "doubleMovement": {
         "type": "MOVEMENT",
-        "subtype": 1,
+        "subtype": "heroMovementLand",
         "val": 100,
         "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
@@ -39,7 +39,7 @@
     "abilities": {
       "doubleMovement": {
         "type": "MOVEMENT",
-        "subtype": 1,
+        "subtype": "heroMovementLand",
         "val": 100,
         "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
@@ -51,7 +51,7 @@
     "abilities": {
       "doubleMovement": {
         "type": "MOVEMENT",
-        "subtype": 1,
+        "subtype": "heroMovementLand",
         "val": 100,
         "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
@@ -63,7 +63,7 @@
     "abilities": {
       "doubleMovement": {
         "type": "MOVEMENT",
-        "subtype": 1,
+        "subtype": "heroMovementLand",
         "val": 100,
         "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
@@ -75,7 +75,7 @@
     "abilities": {
       "doubleMovement": {
         "type": "MOVEMENT",
-        "subtype": 1,
+        "subtype": "heroMovementLand",
         "val": 100,
         "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
@@ -87,7 +87,7 @@
     "abilities": {
       "doubleMovement": {
         "type": "MOVEMENT",
-        "subtype": 1,
+        "subtype": "heroMovementLand",
         "val": 100,
         "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"
@@ -99,7 +99,7 @@
     "abilities": {
       "doubleMovement": {
         "type": "MOVEMENT",
-        "subtype": 1,
+        "subtype": "heroMovementLand",
         "val": 100,
         "valueType": "PERCENT_TO_BASE",
         "propagator": "HERO"

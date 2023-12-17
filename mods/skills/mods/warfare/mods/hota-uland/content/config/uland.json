@@ -1,8 +1,8 @@
 {
-  "durotar:drtMight8": {
+  "core:uland": {
     "skills": [
       {
-        "skill": "armorer",
+        "skill": "wisdom",
         "level": "basic"
       },
 

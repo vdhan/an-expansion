@@ -25,5 +25,19 @@
         "level": "basic"
       }
     ]
+  },
+
+  "durotar:drtMight8": {
+    "skills": [
+      {
+        "skill": "armorer",
+        "level": "basic"
+      },
+
+      {
+        "skill": "warfare",
+        "level": "basic"
+      }
+    ]
   }
 }
