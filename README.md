@@ -9,7 +9,7 @@ Rebalance skills, heroes, creatures, etc.
   - Ammo Cart: Now has 200 hit points, reduces spell cost by 1 and increases hero's troop speed by 1
 
 - Heroes:
-  - Double Movement: Heroes have double movement (10 basic towns, Durotar, Greenhouse, Forge and Heavenly Forge 2000)
+  - Double Movement: Heroes have double movement (10 basic towns, Durotar, Greenhouse, Pavilion, Forge and Heavenly Forge 2000)
   - Specialty: Improve heroes resources specialties (Standard H3 towns) 
   - Resource: Heroes earn resources
     - Stronghold: Earn 1 crystal per day
@@ -35,6 +35,8 @@ Rebalance skills, heroes, creatures, etc.
   - Transport: Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement
     - Interference Transport: Some heroes have both starting skills: Hota Interference and Transport
   - Warfare: Warfare combines Artillery, First Aid and Ballistics
+    - Gold Tower Arrow: Support WoG Gold Tower Arrow
+    - HotA Uland: HotA Uland has starting skill Warfare
   - Warfare Transport: Some heroes have both starting skills: Warfare and Transport
 
 ---

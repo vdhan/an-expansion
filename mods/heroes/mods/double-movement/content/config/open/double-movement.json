@@ -57,5 +57,17 @@
         "propagator": "HERO"
       }
     }
+  },
+
+  "new-pavilion:preacher": {
+    "abilities": {
+      "doubleMovement": {
+        "type": "MOVEMENT",
+        "subtype": "heroMovementLand",
+        "val": 100,
+        "valueType": "PERCENT_TO_BASE",
+        "propagator": "HERO"
+      }
+    }
   }
 }
