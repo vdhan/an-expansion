@@ -29,7 +29,7 @@ Rebalance skills, heroes, creatures, etc.
   - Offence: Offence also casts Bloodlust at battle opening for 10/25/50 rounds
   - Resistance: Resistance now lowers enemy hero 10%/20%/30% power skill
   - Scholar: Scholar also increases knowledge by 1/2/3
-  - Scouting: Scouting now allows your hero to see 1/3/5 square further into the shroud and increases land movement points by 150/300/450
+  - Scouting: Scouting now allows your hero to see 1/3/5 square further into the shroud and increases land movement points by 100/200/300
   - Sorcery: Sorcery also increases power skill by 1/2/3
   - Tactics: Tactics increases troops speed by 1/2/3 instead
   - Transport: Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement

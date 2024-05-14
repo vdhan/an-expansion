@@ -23,7 +23,11 @@
 
     "combat": {
       "badLuckDice": [12, 6, 4]
-    }
+    },
+
+		"spells": {
+			"dimensionDoorTriggersGuards" : true
+		}
   },
 
   "changelog": {
