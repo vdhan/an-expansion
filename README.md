@@ -32,7 +32,7 @@ Rebalance skills, heroes, creatures, etc.
   - Scouting: Scouting now allows your hero to see 1/3/5 square further into the shroud and increases land movement points by 50 per level
   - Sorcery: Sorcery also increases power skill by 1/2/3
   - Tactics: Tactics increases troops speed by 1/2/3 instead
-  - Estates: Estates now increases 250/500/1000 gold per day
+  - Estates: Estates now increases 250/500/1000 gold, 1 wood and 1 ore per day
   - Mysticism: Mysticism now regenerates 5/10/15 spell points per day
   - Transport: Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement
     - Interference Transport: Some heroes have both starting skills: Hota Interference and Transport

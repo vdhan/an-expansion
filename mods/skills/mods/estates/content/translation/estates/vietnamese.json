@@ -1,5 +1,5 @@
 {
-  "skill.core.estates.description.basic": "{Tài Sản sơ cấp}\n\nTăng 250 vàng/ngày",
-  "skill.core.estates.description.advanced": "{Tài Sản trung cấp}\n\nTăng 500 vàng/ngày",
-  "skill.core.estates.description.expert": "{Tài Sản cao cấp}\n\nTăng 1000 vàng/ngày"
+  "skill.core.estates.description.basic": "{Tài Sản sơ cấp}\n\nTăng 250 vàng, 1 gỗ và 1 quặng mỗi ngày",
+  "skill.core.estates.description.advanced": "{Tài Sản trung cấp}\n\nTăng 500 vàng, 1 gỗ và 1 quặng mỗi ngày",
+  "skill.core.estates.description.expert": "{Tài Sản cao cấp}\n\nTăng 1000 vàng, 1 gỗ và 1 quặng mỗi ngày"
 }

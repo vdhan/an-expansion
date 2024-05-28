@@ -1,6 +1,6 @@
 {
   "name": "Estates",
-  "description": "Estates now increases 250/500/1000 gold per day",
+  "description": "Estates now increases 250/500/1000 gold, 1 wood and 1 ore per day",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -8,7 +8,7 @@
 
   "vietnamese": {
     "name": "Estates",
-    "description": "Tài Sản tăng 250/500/1000 vàng/ngày",
+    "description": "Tài Sản tăng 250/500/1000 vàng, 1 gỗ và 1 quặng mỗi ngày",
     "translations": [
       "translation/estates/vietnamese"
     ]
