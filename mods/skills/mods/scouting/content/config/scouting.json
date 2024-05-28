@@ -5,8 +5,8 @@
         "advance": {
           "type": "MOVEMENT",
           "subtype": "heroMovementLand",
-          "updater": "TIMES_HERO_LEVEL",
-          "val": 50
+          "val": 50,
+          "updater": "TIMES_HERO_LEVEL"
         }
       }
     },

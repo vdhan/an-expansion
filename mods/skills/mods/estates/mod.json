@@ -1,0 +1,20 @@
+{
+  "name": "Estates",
+  "description": "Estates now increases 250/500/1000 gold per day",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "vietnamese": {
+    "name": "Estates",
+    "description": "Tài sản tăng 250/500/1000 vàng/ngày",
+    "translations": [
+      "translation/estates/vietnamese"
+    ]
+  },
+
+  "skills": [
+    "config/estates"
+  ]
+}
