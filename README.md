@@ -21,7 +21,7 @@ Rebalance skills, heroes, creatures, etc.
 - Skills:
   - Archery: Archery also casts Precision at battle opening for 10/25/50 rounds
   - Armorer: Armorer also casts Stone Skin at battle opening for 10/25/50 rounds
-  - Eagle Eye: Eagle Eye also increases enemies spell cost by 1/2/3
+  - Eagle Eye: Eagle Eye now gives your hero a 60%/80%/100% chance to learn up to 2nd/3rd/4th level spell used in combat and increases enemies spell cost by 1 per level
   - Leadership: Leadership also casts Mirth at battle opening for 10/25/50 rounds and increases attack by 1/2/3
   - Learning: Learning also gains additional 5% earned experience per level
   - Luck: Luck also casts Fortune at battle opening for 10/25/50 rounds and increases defence by 1/2/3
@@ -29,7 +29,7 @@ Rebalance skills, heroes, creatures, etc.
   - Offence: Offence also casts Bloodlust at battle opening for 10/25/50 rounds
   - Resistance: Resistance now lowers enemy hero 10%/20%/30% power skill
   - Scholar: Scholar also increases knowledge by 1/2/3
-  - Scouting: Scouting now allows your hero to see 1/3/5 square further into the shroud and increases land movement points by 100/200/300
+  - Scouting: Scouting now allows your hero to see 1/3/5 square further into the shroud and increases land movement points by 50 per level
   - Sorcery: Sorcery also increases power skill by 1/2/3
   - Tactics: Tactics increases troops speed by 1/2/3 instead
   - Transport: Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement
