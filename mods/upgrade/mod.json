@@ -1,0 +1,17 @@
+{
+  "name": "Upgrade",
+  "description": "Some creatures have more upgrades",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+
+  "vietnamese": {
+    "name": "Upgrade",
+    "description": "1 vài quái có thể nâng cấp thêm"
+  },
+
+  "factions": [
+    "config/town"
+  ]
+}

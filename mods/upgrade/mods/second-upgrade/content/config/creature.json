@@ -1,0 +1,9 @@
+{
+  "core:mummy": {
+    "faction": "necropolis"
+  },
+
+  "core:zombieLord": {
+    "upgrades": ["mummy"]
+  }
+}

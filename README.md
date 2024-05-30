@@ -3,6 +3,8 @@
 Rebalance skills, heroes, creatures, etc.
 
 ## Feature:
+- Dissipate Dwelling: Dwellings will not accumulate
+- Modern Font: Font supports Vietnamese and other languages
 - War Machine: Enhanced war machines
   - First Aid Tent: Now has 150 hit points and increases hero's troops health by 1
   - Ballista: Now has double base damage
@@ -40,6 +42,10 @@ Rebalance skills, heroes, creatures, etc.
     - Gold Tower Arrow: Support WoG Gold Tower Arrow
     - HotA Uland: HotA Uland has starting skill Warfare
   - Warfare Transport: Some heroes have both starting skills: Warfare and Transport
+
+- Upgrade: Some creatures have more upgrades
+  - Second Upgrade: Some creatures have second upgrade
+    - Zombie can be upgrade to Mummy
 
 ---
 

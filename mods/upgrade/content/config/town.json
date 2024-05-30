@@ -1,0 +1,7 @@
+{
+  "core:necropolis": {
+    "town": {
+      "buildingsIcons": "necropolis/townhall"
+    }
+  }
+}

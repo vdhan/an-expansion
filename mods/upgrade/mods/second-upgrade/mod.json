@@ -1,0 +1,28 @@
+{
+  "name": "Second Upgrade",
+  "description": "Some creatures have second upgrade",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+
+  "changelog": {
+    "Necropolis": ["Zombie can be upgrade to Mummy"]
+  },
+
+  "vietnamese": {
+    "name": "Second Upgrade",
+    "description": "1 vài quái có thể nâng cấp thêm lần nữa",
+    "changelog": {
+      "Necropolis": ["Zombie có thể nâng cấp thành Mummy"]
+    }
+  },
+
+  "factions": [
+    "config/town/necropolis"
+  ],
+
+  "creatures": [
+    "config/creature"
+  ]
+}
