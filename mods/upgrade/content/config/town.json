@@ -3,5 +3,11 @@
     "town": {
       "buildingsIcons": "necropolis/townhall"
     }
+  },
+
+  "core:rampart": {
+    "town": {
+      "buildingsIcons": "rampart/townhall"
+    }
   }
 }

@@ -1,0 +1,51 @@
+{
+	"basepath": "rampart/townhall/",
+	"images": [
+		{"frame": 0, "file": "1"},
+		{"frame": 1, "file": "2"},
+		{"frame": 2, "file": "3"},
+		{"frame": 3, "file": "4"},
+		{"frame": 4, "file": "5"},
+		{"frame": 5, "file": "6"},
+
+		{"frame": 7, "file": "7"},
+		{"frame": 8, "file": "8"},
+		{"frame": 9, "file": "9"},
+		{"frame": 10, "file": "10"},
+		{"frame": 11, "file": "11"},
+		{"frame": 12, "file": "12"},
+		{"frame": 13, "file": "13"},
+		{"frame": 14, "file": "14"},
+		{"frame": 15, "file": "15"},
+		{"frame": 16, "file": "16"},
+		{"frame": 17, "file": "17"},
+		{"frame": 18, "file": "18"},
+		{"frame": 19, "file": "19"},
+
+		{"frame": 21, "file": "20"},
+		{"frame": 22, "file": "21"},
+
+		{"frame": 24, "file": "22"},
+		{"frame": 25, "file": "23"},
+		{"frame": 26, "file": "24"},
+
+		{"frame": 30, "file": "25"},
+		{"frame": 31, "file": "26"},
+		{"frame": 32, "file": "27"},
+		{"frame": 33, "file": "28"},
+		{"frame": 34, "file": "29"},
+		{"frame": 35, "file": "30"},
+		{"frame": 36, "file": "31"},
+
+		{"frame": 37, "file": "32"},
+		{"frame": 38, "file": "33"},
+		{"frame": 39, "file": "34"},
+		{"frame": 40, "file": "35"},
+		{"frame": 41, "file": "36"},
+		{"frame": 42, "file": "37"},
+		{"frame": 43, "file": "38"},
+
+		{"frame": 48, "file": "36"},
+		{"frame": 50, "file": "38"}
+	]
+}
