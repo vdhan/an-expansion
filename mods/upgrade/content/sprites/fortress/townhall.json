@@ -1,12 +1,12 @@
 {
-	"basepath": "stronghold/townhall/",
+	"basepath": "fortress/townhall/",
 	"images": [
 		{"frame": 0, "file": "mage1"},
 		{"frame": 1, "file": "mage2"},
 		{"frame": 2, "file": "mage3"},
 
 		{"frame": 5, "file": "tav"},
-
+		{"frame": 6, "file": "ship"},
 		{"frame": 7, "file": "fort1"},
 		{"frame": 8, "file": "fort2"},
 		{"frame": 9, "file": "fort3"},
@@ -20,10 +20,9 @@
 		{"frame": 17, "file": "spec1"},
 		{"frame": 18, "file": "hor1"},
 		{"frame": 19, "file": "hor1u"},
-
+		{"frame": 20, "file": "ship"},
 		{"frame": 21, "file": "spec2"},
 		{"frame": 22, "file": "spec3"},
-		{"frame": 23, "file": "spec4"},
 
 		{"frame": 26, "file": "grai"},
 
