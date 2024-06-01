@@ -1,11 +1,9 @@
 {
-	"basepath": "rampart/townhall/",
+	"basepath": "stronghold/townhall/",
 	"images": [
 		{"frame": 0, "file": "mage1"},
 		{"frame": 1, "file": "mage2"},
 		{"frame": 2, "file": "mage3"},
-		{"frame": 3, "file": "mage4"},
-		{"frame": 4, "file": "mage5"},
 		{"frame": 5, "file": "tav"},
 
 		{"frame": 7, "file": "fort1"},
@@ -24,9 +22,8 @@
 
 		{"frame": 21, "file": "spec2"},
 		{"frame": 22, "file": "spec3"},
+		{"frame": 23, "file": "spec4"},
 
-		{"frame": 24, "file": "hor2"},
-		{"frame": 25, "file": "hor2u"},
 		{"frame": 26, "file": "grai"},
 
 		{"frame": 30, "file": "lv1"},
@@ -45,7 +42,6 @@
 		{"frame": 42, "file": "lv6u"},
 		{"frame": 43, "file": "lv7u"},
 
-		{"frame": 48, "file": "lv5u"},
 		{"frame": 50, "file": "lv7u"}
 	]
 }

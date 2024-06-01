@@ -15,11 +15,15 @@
     "description": "1 vài quái có thể nâng cấp thêm lần nữa",
     "changelog": {
       "Necropolis": ["Zombie có thể nâng cấp thành Mummy"]
-    }
+    },
+
+    "translations": [
+      "translation/vietnamese"
+    ]
   },
 
   "factions": [
-    "config/town/necropolis"
+    "config/necropolis"
   ],
 
   "creatures": [

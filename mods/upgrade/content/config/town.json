@@ -9,5 +9,11 @@
     "town": {
       "buildingsIcons": "rampart/townhall"
     }
+  },
+
+  "core:stronghold": {
+    "town": {
+      "buildingsIcons": "stronghold/townhall"
+    }
   }
 }
