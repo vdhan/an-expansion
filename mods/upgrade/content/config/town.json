@@ -15,5 +15,11 @@
     "town": {
       "buildingsIcons": "stronghold/townhall"
     }
+  },
+
+  "core:fortress": {
+    "town": {
+      "buildingsIcons": "fortress/townhall"
+    }
   }
 }
