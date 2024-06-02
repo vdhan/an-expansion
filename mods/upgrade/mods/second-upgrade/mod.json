@@ -7,14 +7,16 @@
   "modType": "Mechanics",
 
   "changelog": {
-    "Necropolis": ["Zombie can be upgrade to Mummy"]
+    "Necropolis": ["Zombies can be upgraded to Mummies"],
+    "Rampart": ["Dendroid Soldiers can be upgraded to Dendroid Warriors"]
   },
 
   "vietnamese": {
     "name": "Second Upgrade",
     "description": "1 vài quái có thể nâng cấp thêm lần nữa",
     "changelog": {
-      "Necropolis": ["Zombie có thể nâng cấp thành Mummy"]
+      "Necropolis": ["Zombie có thể nâng cấp thành Mummy"],
+      "Rampart": ["Dendroid Soldier có thể nâng cấp thành Dendroid Warrior"]
     },
 
     "translations": [
@@ -23,10 +25,12 @@
   },
 
   "factions": [
-    "config/necropolis"
+    "config/necropolis",
+    "config/rampart"
   ],
 
   "creatures": [
-    "config/creature"
+    "config/creature",
+    "config/dendroid-warrior"
   ]
 }

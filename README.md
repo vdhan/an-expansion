@@ -45,7 +45,8 @@ Rebalance skills, heroes, creatures, etc.
 
 - Upgrade: Some creatures have more upgrades
   - Second Upgrade: Some creatures have second upgrade
-    - Zombie can be upgrade to Mummy
+    - Necropolis: Zombies can be upgraded to Mummies
+    - Rampart: Dendroid Soldiers can be upgraded to Dendroid Warriors
 
 ---
 

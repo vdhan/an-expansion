@@ -1,0 +1,145 @@
+{
+  "dendroidWarrior": {
+    "name": {
+      "singular": "Dendroid Warrior",
+      "plural": "Dendroid Warriors"
+    },
+
+    "faction": "rampart",
+    "level": 5,
+    "aiValue": 1080,
+    "fightValue": 970,
+    "doubleWide": false,
+    "hasDoubleWeek": false,
+    "growth": 3,
+    "horde": 2,
+
+    "attack": 9,
+    "defense": 12,
+    "damage": {
+      "max": 14,
+      "min": 14
+    },
+
+    "hitPoints": 65,
+    "speed": 5,
+    "cost": {
+      "gold": 600
+    },
+
+    "abilities": {
+      "bind": {
+        "type": "SPELL_AFTER_ATTACK",
+        "subtype": "spell.bind",
+        "val": 100
+      }
+    },
+
+    "stackExperience": [
+      {
+        "bonus": {
+          "type": "PRIMARY_SKILL",
+          "subtype": "primarySkill.attack"
+        },
+
+        "values": [2, 3, 3, 4, 5, 6, 7, 7, 8, 9]
+      },
+
+      {
+        "bonus": {
+          "type": "PRIMARY_SKILL",
+          "subtype": "primarySkill.defence"
+        },
+
+        "values": [1, 1, 2, 3, 4, 5, 6, 6, 7, 8]
+      },
+
+      {
+        "bonus": {
+          "type": "CREATURE_DAMAGE",
+          "subtype": "creatureDamageMin"
+        },
+
+        "values": [0, 1, 2, 2, 2, 3, 4, 5, 6, 7]
+      },
+
+      {
+        "bonus": {
+          "type": "CREATURE_DAMAGE",
+          "subtype": "creatureDamageMax"
+        },
+
+        "values": [0, 1, 2, 2, 2, 3, 4, 5, 6, 7]
+      },
+
+      {
+        "bonus": {
+          "type": "STACKS_SPEED"
+        },
+
+        "values": [0, 1, 1, 1, 2, 2, 2, 3, 3, 3]
+      },
+
+      {
+        "bonus": {
+          "type": "STACK_HEALTH",
+          "valueType": "PERCENT_TO_BASE"
+        },
+
+        "values": [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+      },
+
+      {
+        "bonus": {
+          "type": "ENEMY_DEFENCE_REDUCTION"
+        },
+
+        "values": [4, 8, 12, 16, 20, 24, 28, 32, 36, 40]
+      },
+
+      {
+        "bonus": {
+          "type": "NONEVIL_ALIGNMENT_MIX"
+        },
+
+        "values": [false, false, false, false, false, false, false, true, true, true]
+      },
+
+      {
+        "bonus": {
+          "type": "NEGATIVE_EFFECTS_IMMUNITY",
+          "subtype": "spellSchool.earth"
+        },
+
+        "values": [false, false, false, false, false, false, false, false, false, true]
+      }
+    ],
+
+    "advMapAmount": {
+      "max": 12,
+      "min": 8
+    },
+
+    "graphics": {
+      "animation": "battle/dendroid-warrior",
+      "map": "map/dendroid-warrior",
+      "mapMask": ["VVV", "VAV"],
+      "iconSmall": "iconSmall/dendroid-warrior",
+      "iconLarge": "iconLarge/dendroid-warrior",
+      "timeBetweenFidgets": 1,
+      "animationTime": {
+        "attack": 1,
+        "walk": 1,
+        "idle": 10
+      }
+    },
+
+    "sound": {
+      "attack": "BTREATTK",
+      "defend": "BTREDFND",
+      "killed": "BTREKILL",
+      "move": "BTREMOVE",
+      "wince": "BTREWNCE"
+    }
+  }
+}

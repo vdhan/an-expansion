@@ -1,0 +1,65 @@
+{
+  "core:rampart": {
+    "town": {
+      "hallSlots": [
+				[
+          ["villageHall", "townHall", "cityHall", "capitol"],
+          ["fort", "citadel", "castle"],
+          ["tavern"],
+          ["blacksmith"]
+        ],
+				[
+          ["marketplace", "resourceSilo"],
+          ["mageGuild1", "mageGuild2", "mageGuild3", "mageGuild4", "mageGuild5"],
+          ["special1", "special2"]
+        ],
+				[
+          ["special3"],
+          ["horde2", "horde2Upgr"],
+          ["horde1", "horde1Upgr"]
+        ],
+				[
+          ["dwellingLvl1", "dwellingUpLvl1"],
+          ["dwellingLvl2", "dwellingUpLvl2"],
+          ["dwellingLvl3", "dwellingUpLvl3"],
+          ["dwellingLvl4", "dwellingUpLvl4"]
+        ],
+				[
+          ["dwellingLvl5", "dwellingUpLvl5", "dwellingUp2Lvl5"],
+          ["dwellingLvl6", "dwellingUpLvl6"],
+          ["dwellingLvl7", "dwellingUpLvl7"]
+        ]
+			],
+
+      "buildings": {
+        "dwellingUp2Lvl5": {
+          "id": 48,
+          "name": "Upg. Dendroid Arches",
+					"description": "Upg. Dendroid Arches allows you to recruit Dendroid Warriors",
+          "upgrades": "dwellingUpLvl5",
+          "mode": "auto"
+        }
+      },
+
+      "structures": {
+        "dwellingUp2Lvl5": {
+          "animation": "second-upgrade/dendroid-arches",
+          "border": "second-upgrade/border/dendroid-arches",
+          "area": "second-upgrade/area/dendroid-arches",
+          "x": 63,
+          "y": 146
+        }
+      },
+
+      "creatures": [
+        ["centaur", "centaurCaptain"],
+				["dwarf", "battleDwarf"],
+				["woodElf", "grandElf"],
+				["pegasus", "silverPegasus"],
+				["dendroidGuard", "dendroidSoldier", "dendroidWarrior"],
+				["unicorn", "warUnicorn"],
+				["greenDragon", "goldDragon"]
+      ]
+    }
+  }
+}

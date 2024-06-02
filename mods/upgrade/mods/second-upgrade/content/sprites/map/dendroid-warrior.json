@@ -1,0 +1,24 @@
+{
+	"basepath": "map/dendroid-warrior/",
+	"images": [
+		{"frame": 0, "file": "1"},
+		{"frame": 1, "file": "1"},
+		{"frame": 2, "file": "1"},
+		{"frame": 3, "file": "1"},
+		{"frame": 4, "file": "1"},
+		{"frame": 5, "file": "2"},
+		{"frame": 6, "file": "3"},
+		{"frame": 7, "file": "4"},
+		{"frame": 8, "file": "5"},
+		{"frame": 9, "file": "5"},
+		{"frame": 10, "file": "5"},
+		{"frame": 11, "file": "4"},
+		{"frame": 12, "file": "3"},
+		{"frame": 13, "file": "2"},
+		{"frame": 14, "file": "1"},
+		{"frame": 15, "file": "1"},
+		{"frame": 16, "file": "1"},
+		{"frame": 17, "file": "1"},
+		{"frame": 18, "file": "1"}
+	]
+}
