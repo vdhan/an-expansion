@@ -12,6 +12,6 @@
   },
 
   "factions": [
-    "config/town"
+    "config/upgrade/town"
   ]
 }

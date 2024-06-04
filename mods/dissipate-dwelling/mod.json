@@ -5,6 +5,7 @@
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Mechanics",
+  "keepDisabled": true,
 
   "depends": [
     "hota.gamebalance"
@@ -19,7 +20,5 @@
   "vietnamese": {
     "name": "Dissipate Dwelling",
     "description": "Quái không cộng dồn qua tuần"
-  },
-
-  "keepDisabled": true
+  }
 }

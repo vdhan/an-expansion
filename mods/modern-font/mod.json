@@ -5,6 +5,7 @@
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Graphical",
+  "keepDisabled": true,
 
   "conflicts": [
 		"vcmi-extras.truetypefonts"
@@ -13,7 +14,5 @@
   "vietnamese": {
     "name": "Modern Font",
     "description": "Phông chữ hỗ trợ Tiếng Việt và các ngôn ngữ khác"
-  },
-
-  "keepDisabled": true
+  }
 }

@@ -30,7 +30,7 @@
   ],
 
   "creatures": [
-    "config/creature",
-    "config/dendroid-warrior"
+    "config/creature/creature",
+    "config/creature/dendroid-warrior"
   ]
 }

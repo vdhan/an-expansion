@@ -1,0 +1,29 @@
+{
+  "name": "Level 8 Upgrade",
+  "description": "7th upgraded creatures can be upgraded to 8th",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+  "keepDisabled": true,
+
+  "depends": [
+    "wake-of-gods.level8units"
+  ],
+
+  "vietnamese": {
+    "name": "Level 8 Upgrade",
+    "description": "Quái cấp 7 đã nâng cấp có thể nâng thêm đến cấp 8",
+    "translations": [
+      "translation/vietnamese"
+    ]
+  },
+
+  "factions": [
+    "config/lv8/town"
+  ],
+
+  "creatures": [
+    "config/lv8/creature"
+  ]
+}

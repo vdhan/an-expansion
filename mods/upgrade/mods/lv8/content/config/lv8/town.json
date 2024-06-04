@@ -1,0 +1,25 @@
+{
+  "core:stronghold": {
+    "town": {
+      "buildingsIcons": "stronghold/townhall"
+    }
+  },
+
+  "core:fortress": {
+    "town": {
+      "buildingsIcons": "fortress/townhall"
+    }
+  },
+
+  "core:castle": {
+    "town": {
+      "buildingsIcons": "castle/townhall"
+    }
+  },
+
+  "core:dungeon": {
+    "town": {
+      "buildingsIcons": "dungeon/townhall"
+    }
+  }
+}

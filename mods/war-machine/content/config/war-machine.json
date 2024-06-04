@@ -3,6 +3,17 @@
     "damage": {
       "min": 5,
       "max": 5
+    },
+
+    "abilities": {
+      "upgrade": {
+        "type": "CREATURE_DAMAGE",
+        "subtype": "creatureDamageBoth",
+        "updater": {
+          "parameters": [10, 2],
+          "type": "GROWS_WITH_LEVEL"
+        }
+      }
     }
   },
 
@@ -11,7 +22,11 @@
     "abilities": {
       "health": {
         "type": "STACK_HEALTH",
-        "val": 1,
+        "updater": {
+          "parameters": [4],
+          "type": "GROWS_WITH_LEVEL"
+        },
+
         "propagator": "HERO"
       }
     }
@@ -27,7 +42,11 @@
 
       "velocity": {
         "type": "STACKS_SPEED",
-        "val": 1,
+        "updater": {
+          "parameters": [4],
+          "type": "GROWS_WITH_LEVEL"
+        },
+
         "propagator": "HERO"
       }
     }

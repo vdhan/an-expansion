@@ -1,0 +1,37 @@
+{
+  "core:blackDragon": {
+    "upgrades": ["darknessDragon"]
+  },
+
+  "core:archangel": {
+    "upgrades": ["supremeArchangel"]
+  },
+
+  "core:phoenix": {
+    "upgrades": ["sacredPhoenix"]
+  },
+
+  "core:chaosHydra": {
+    "upgrades": ["hellHydra"]
+  },
+
+  "core:archDevil": {
+    "upgrades": ["hellBaron"]
+  },
+
+  "core:ghostDragon": {
+    "upgrades": ["bloodDragon"]
+  },
+
+  "core:goldDragon": {
+    "upgrades": ["diamondDragon"]
+  },
+
+  "core:ancientBehemoth": {
+    "upgrades": ["ghostBehemoth"]
+  },
+
+  "core:titan": {
+    "upgrades": ["lordOfThunder"]
+  }
+}

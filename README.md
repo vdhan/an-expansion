@@ -6,9 +6,9 @@ Rebalance skills, heroes, creatures, etc.
 - Dissipate Dwelling: Dwellings will not accumulate
 - Modern Font: Font supports Vietnamese and other languages
 - War Machine: Enhanced war machines
-  - First Aid Tent: Now has 150 hit points and increases hero's troops health by 1
-  - Ballista: Now has double base damage
-  - Ammo Cart: Now has 200 hit points, reduces spell cost by 1 and increases hero's troop speed by 1
+  - First Aid Tent: Now has 150 hit points, increases hero's troops health by 1 per 5 level
+  - Ballista: Now has double base damage, increases 1 damage per 4 level
+  - Ammo Cart: Now has 200 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level
 
 - Heroes:
   - Double Movement: Heroes have double movement (10 basic towns, Durotar, Greenhouse, Pavilion, Forge and Heavenly Forge 2000)
@@ -36,14 +36,16 @@ Rebalance skills, heroes, creatures, etc.
   - Tactics: Tactics increases troops speed by 1/2/3 instead
   - Estates: Estates now increases 250/500/1000 gold, 1 wood and 1 ore per day
   - Mysticism: Mysticism now regenerates 5/10/15 spell points per day
+  - Warfare Transport: Some heroes have both starting skills: Warfare and Transport
   - Transport: Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement
     - Interference Transport: Some heroes have both starting skills: Hota Interference and Transport
+
   - Warfare: Warfare combines Artillery, First Aid and Ballistics
     - Gold Tower Arrow: Support WoG Gold Tower Arrow
     - HotA Uland: HotA Uland has starting skill Warfare
-  - Warfare Transport: Some heroes have both starting skills: Warfare and Transport
 
 - Upgrade: Some creatures have more upgrades
+  - Level 8 Upgrade: 7th upgraded creatures can be upgraded to 8th
   - Second Upgrade: Some creatures have second upgrade
     - Necropolis: Zombies can be upgraded to Mummies
     - Rampart: Dendroid Soldiers can be upgraded to Dendroid Warriors
