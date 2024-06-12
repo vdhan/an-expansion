@@ -21,5 +21,23 @@
     "town": {
       "buildingsIcons": "dungeon/townhall"
     }
+  },
+
+  "core:tower": {
+    "town": {
+      "buildingsIcons": "tower/townhall"
+    }
+  },
+
+  "core:inferno": {
+    "town": {
+      "buildingsIcons": "inferno/townhall"
+    }
+  },
+
+  "core:conflux": {
+    "town": {
+      "buildingsIcons": "conflux/townhall"
+    }
   }
 }

@@ -1,0 +1,50 @@
+{
+	"basepath": "inferno/townhall/",
+	"images": [
+		{"frame": 0, "file": "mage1"},
+		{"frame": 1, "file": "mage2"},
+		{"frame": 2, "file": "mage3"},
+		{"frame": 3, "file": "mage4"},
+		{"frame": 4, "file": "mage5"},
+		{"frame": 5, "file": "tav"},
+
+		{"frame": 7, "file": "fort1"},
+		{"frame": 8, "file": "fort2"},
+		{"frame": 9, "file": "fort3"},
+		{"frame": 10, "file": "hall1"},
+		{"frame": 11, "file": "hall2"},
+		{"frame": 12, "file": "hall3"},
+		{"frame": 13, "file": "hall4"},
+		{"frame": 14, "file": "mark1"},
+		{"frame": 15, "file": "mark2"},
+		{"frame": 16, "file": "smi"},
+
+		{"frame": 18, "file": "hor1"},
+		{"frame": 19, "file": "hor1u"},
+
+		{"frame": 21, "file": "spec2"},
+		{"frame": 22, "file": "spec3"},
+		{"frame": 23, "file": "spec4"},
+		{"frame": 24, "file": "hor2"},
+		{"frame": 25, "file": "hor2u"},
+		{"frame": 26, "file": "grai"},
+
+		{"frame": 30, "file": "lv1"},
+		{"frame": 31, "file": "lv2"},
+		{"frame": 32, "file": "lv3"},
+		{"frame": 33, "file": "lv4"},
+		{"frame": 34, "file": "lv5"},
+		{"frame": 35, "file": "lv6"},
+		{"frame": 36, "file": "lv7"},
+
+		{"frame": 37, "file": "lv1u"},
+		{"frame": 38, "file": "lv2u"},
+		{"frame": 39, "file": "lv3u"},
+		{"frame": 40, "file": "lv4u"},
+		{"frame": 41, "file": "lv5u"},
+		{"frame": 42, "file": "lv6u"},
+		{"frame": 43, "file": "lv7u"},
+
+		{"frame": 50, "file": "lv7u"}
+	]
+}
