@@ -27,7 +27,9 @@
     "config/lv8/rampart",
     "config/lv8/tower",
     "config/lv8/inferno",
-    "config/lv8/dungeon"
+    "config/lv8/dungeon",
+    "config/lv8/stronghold",
+    "config/lv8/fortress"
   ],
 
   "creatures": [

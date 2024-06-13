@@ -1,0 +1,70 @@
+{
+  "core:fortress": {
+    "town": {
+      "hallSlots": [
+				[
+          ["villageHall", "townHall", "cityHall", "capitol"],
+          ["fort", "citadel", "castle"],
+          ["tavern"],
+          ["blacksmith"]
+        ],
+				[
+          ["marketplace", "resourceSilo"],
+          ["mageGuild1", "mageGuild2", "mageGuild3"],
+          ["shipyard"]
+        ],
+				[
+          ["special1"],
+          ["special2", "special3"],
+          ["horde1", "horde1Upgr"]
+        ],
+				[
+          ["dwellingLvl1", "dwellingUpLvl1"],
+          ["dwellingLvl2", "dwellingUpLvl2"],
+          ["dwellingLvl3", "dwellingUpLvl3"],
+          ["dwellingLvl4", "dwellingUpLvl4"]
+        ],
+				[
+          ["dwellingLvl5", "dwellingUpLvl5"],
+          ["dwellingLvl6", "dwellingUpLvl6"],
+          ["dwellingLvl7", "dwellingUpLvl7", "lv8"]
+        ]
+			],
+
+      "buildings": {
+        "lv8": {
+          "id": 50,
+          "name": "Upg2 Hydra Pond",
+					"description": "Upg2 Hydra Pond allows you to recruit Hell Hydras",
+          "upgrades": "dwellingUpLvl7",
+          "cost": {
+            "gold": 25000,
+            "wood": 15,
+            "ore": 15,
+            "sulfur": 20
+          }
+        }
+      },
+
+      "structures": {
+        "lv8": {
+          "animation": "lv8/hydra-pond",
+          "border": "lv8/border/hydra-pond",
+          "area": "lv8/area/hydra-pond",
+          "x": 587,
+          "y": 263
+        }
+      },
+
+      "creatures": [
+        ["gnoll", "gnollMarauder"],
+				["lizardman", "lizardWarrior"],
+				["serpentFly", "fireDragonFly"],
+				["basilisk", "greaterBasilisk"],
+				["gorgon", "mightyGorgon"],
+				["wyvern", "wyvernMonarch"],
+				["hydra", "chaosHydra", "hellHydra"]
+      ]
+    }
+  }
+}

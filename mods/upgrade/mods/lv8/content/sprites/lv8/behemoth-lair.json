@@ -1,0 +1,15 @@
+{
+	"basepath": "lv8/behemoth-lair/",
+	"images": [
+		{"frame": 0, "file": "1"},
+    {"frame": 1, "file": "2"},
+    {"frame": 2, "file": "3"},
+    {"frame": 3, "file": "4"},
+    {"frame": 4, "file": "5"},
+    {"frame": 5, "file": "6"},
+    {"frame": 6, "file": "7"},
+    {"frame": 7, "file": "8"},
+    {"frame": 8, "file": "9"},
+    {"frame": 9, "file": "10"}
+	]
+}
