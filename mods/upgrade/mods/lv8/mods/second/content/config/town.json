@@ -28,29 +28,9 @@
 				[
           ["dwellingLvl5", "dwellingUpLvl5"],
           ["dwellingLvl6", "dwellingUpLvl6"],
-          ["dwellingLvl7", "dwellingUpLvl7"]
+          ["dwellingLvl7", "dwellingUpLvl7", "lv8"]
         ]
 			],
-
-      "buildings": {
-        "dwellingUp2Lvl2": {
-          "id": 45,
-          "name": "Upg. Graveyard",
-					"description": "Upg. Graveyard allows you to recruit Mummies",
-          "upgrades": "dwellingUpLvl2",
-          "mode": "auto"
-        }
-      },
-
-      "structures": {
-        "dwellingUp2Lvl2": {
-          "animation": "second-upgrade/graveyard",
-          "border": "second-upgrade/border/graveyard",
-          "area": "second-upgrade/area/graveyard",
-          "x": 498,
-          "y": 224
-        }
-      },
 
       "creatures": [
         ["skeleton", "skeletonWarrior"],
@@ -59,7 +39,7 @@
 				["vampire", "vampireLord"],
 				["lich", "powerLich"],
 				["blackKnight", "dreadKnight"],
-				["boneDragon", "ghostDragon"]
+				["boneDragon", "ghostDragon", "bloodDragon"]
       ]
     }
   }

@@ -21,7 +21,9 @@
 
   "factions": [
     "config/lv8/town",
-    "config/lv8/conflux"
+    "config/lv8/conflux",
+    "config/lv8/castle",
+    "config/lv8/necropolis"
   ],
 
   "creatures": [

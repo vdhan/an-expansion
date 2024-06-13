@@ -45,10 +45,13 @@ Rebalance skills, heroes, creatures, etc.
     - HotA Uland: HotA Uland has starting skill Warfare
 
 - Upgrade: Some creatures have more upgrades
-  - Level 8 Upgrade: 7th upgraded creatures can be upgraded to 8th
   - Second Upgrade: Some creatures have second upgrade
     - Necropolis: Zombies can be upgraded to Mummies
     - Rampart: Dendroid Soldiers can be upgraded to Dendroid Warriors
+
+  - Level 8 Upgrade: 7th upgraded creatures can be upgraded to 8th
+    - Vault of Ashes: Support Hota Vault of Ashes
+    - Second Upgrade: Some factions have both 8th level and second upgrade
 
 ---
 

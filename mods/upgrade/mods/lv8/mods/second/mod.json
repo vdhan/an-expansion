@@ -1,0 +1,22 @@
+{
+  "name": "Second Upgrade",
+  "description": "Some factions have both 8th level and second upgrade",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+
+  "depends": [
+    "an-expansion.upgrade.second-upgrade",
+    "wake-of-gods.level8units"
+  ],
+
+  "vietnamese": {
+    "name": "Second Upgrade",
+    "description": "1 vài thành có thể nâng cấp thêm lần nữa và có cấp 8"
+  },
+
+  "factions": [
+    "config/town"
+  ]
+}

@@ -21,45 +21,50 @@
         ],
 				[
           ["dwellingLvl1", "dwellingUpLvl1"],
-          ["dwellingLvl2", "dwellingUpLvl2", "dwellingUp2Lvl2"],
+          ["dwellingLvl2", "dwellingUpLvl2"],
           ["dwellingLvl3", "dwellingUpLvl3"],
           ["dwellingLvl4", "dwellingUpLvl4"]
         ],
 				[
           ["dwellingLvl5", "dwellingUpLvl5"],
           ["dwellingLvl6", "dwellingUpLvl6"],
-          ["dwellingLvl7", "dwellingUpLvl7"]
+          ["dwellingLvl7", "dwellingUpLvl7", "lv8"]
         ]
 			],
 
       "buildings": {
-        "dwellingUp2Lvl2": {
-          "id": 45,
-          "name": "Upg. Graveyard",
-					"description": "Upg. Graveyard allows you to recruit Mummies",
-          "upgrades": "dwellingUpLvl2",
-          "mode": "auto"
+        "lv8": {
+          "id": 50,
+          "name": "Upg2 Dragon Vault",
+					"description": "Upg2 Dragon Vault allows you to recruit Blood Dragons",
+          "upgrades": "dwellingUpLvl7",
+          "cost": {
+            "gold": 20000,
+            "wood": 15,
+            "ore": 15,
+            "mercury": 20
+          }
         }
       },
 
       "structures": {
-        "dwellingUp2Lvl2": {
-          "animation": "second-upgrade/graveyard",
-          "border": "second-upgrade/border/graveyard",
-          "area": "second-upgrade/area/graveyard",
-          "x": 498,
-          "y": 224
+        "lv8": {
+          "animation": "lv8/dragon-vault",
+          "border": "lv8/border/dragon-vault",
+          "area": "lv8/area/dragon-vault",
+          "x": 662,
+          "y": 23
         }
       },
 
       "creatures": [
         ["skeleton", "skeletonWarrior"],
-				["walkingDead", "zombieLord", "mummy"],
+				["walkingDead", "zombieLord"],
 				["wight", "wraith"],
 				["vampire", "vampireLord"],
 				["lich", "powerLich"],
 				["blackKnight", "dreadKnight"],
-				["boneDragon", "ghostDragon"]
+				["boneDragon", "ghostDragon", "bloodDragon"]
       ]
     }
   }
