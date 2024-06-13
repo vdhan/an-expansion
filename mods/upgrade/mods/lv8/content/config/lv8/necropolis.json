@@ -39,7 +39,7 @@
 					"description": "Upg2 Dragon Vault allows you to recruit Blood Dragons",
           "upgrades": "dwellingUpLvl7",
           "cost": {
-            "gold": 20000,
+            "gold": 25000,
             "wood": 15,
             "ore": 15,
             "mercury": 20

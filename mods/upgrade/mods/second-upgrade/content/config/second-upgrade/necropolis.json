@@ -21,7 +21,7 @@
         ],
 				[
           ["dwellingLvl1", "dwellingUpLvl1"],
-          ["dwellingLvl2", "dwellingUpLvl2", "dwellingUp2Lvl2"],
+          ["dwellingLvl2", "dwellingUpLvl2", "lv2"],
           ["dwellingLvl3", "dwellingUpLvl3"],
           ["dwellingLvl4", "dwellingUpLvl4"]
         ],
@@ -33,7 +33,7 @@
 			],
 
       "buildings": {
-        "dwellingUp2Lvl2": {
+        "lv2": {
           "id": 45,
           "name": "Upg. Graveyard",
 					"description": "Upg. Graveyard allows you to recruit Mummies",
@@ -43,7 +43,7 @@
       },
 
       "structures": {
-        "dwellingUp2Lvl2": {
+        "lv2": {
           "animation": "second-upgrade/graveyard",
           "border": "second-upgrade/border/graveyard",
           "area": "second-upgrade/area/graveyard",

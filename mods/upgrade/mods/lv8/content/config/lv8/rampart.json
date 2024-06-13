@@ -25,30 +25,34 @@
           ["dwellingLvl4", "dwellingUpLvl4"]
         ],
 				[
-          ["dwellingLvl5", "dwellingUpLvl5", "lv5"],
+          ["dwellingLvl5", "dwellingUpLvl5"],
           ["dwellingLvl6", "dwellingUpLvl6"],
-          ["dwellingLvl7", "dwellingUpLvl7"]
+          ["dwellingLvl7", "dwellingUpLvl7", "lv8"]
         ]
 			],
 
       "buildings": {
-        "lv5": {
-          "id": 48,
-          "name": "Upg. Dendroid Arches",
-					"description": "Upg. Dendroid Arches allows you to recruit Dendroid Warriors",
-          "upgrades": "dwellingUpLvl5",
-          "mode": "auto"
+        "lv8": {
+          "id": 50,
+          "name": "Upg2 Dragon Cliffs",
+					"description": "Upg2 Dragon Cliffs allows you to recruit Diamond Dragons",
+          "upgrades": "dwellingUpLvl7",
+          "cost": {
+            "gold": 25000,
+            "ore": 20,
+            "crystal": 25
+          }
         }
       },
 
       "structures": {
-        "lv5": {
-          "animation": "second-upgrade/dendroid-arches",
-          "border": "second-upgrade/border/dendroid-arches",
-          "area": "second-upgrade/area/dendroid-arches",
-          "x": 63,
-          "y": 146,
-          "z": -1
+        "lv8": {
+          "animation": "lv8/dragon-cliffs",
+          "border": "lv8/border/dragon-cliffs",
+          "area": "lv8/area/dragon-cliffs",
+          "x": 502,
+          "y": 5,
+          "z": -5
         }
       },
 
@@ -57,9 +61,9 @@
 				["dwarf", "battleDwarf"],
 				["woodElf", "grandElf"],
 				["pegasus", "silverPegasus"],
-				["dendroidGuard", "dendroidSoldier", "dendroidWarrior"],
+				["dendroidGuard", "dendroidSoldier"],
 				["unicorn", "warUnicorn"],
-				["greenDragon", "goldDragon"]
+				["greenDragon", "goldDragon", "diamondDragon"]
       ]
     }
   }

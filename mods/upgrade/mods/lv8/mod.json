@@ -1,6 +1,6 @@
 {
   "name": "Level 8 Upgrade",
-  "description": "7th upgraded creatures can be upgraded to 8th",
+  "description": "7th level upgraded creatures can be upgraded to 8th (H3 Complete towns)",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -23,7 +23,8 @@
     "config/lv8/town",
     "config/lv8/conflux",
     "config/lv8/castle",
-    "config/lv8/necropolis"
+    "config/lv8/necropolis",
+    "config/lv8/rampart"
   ],
 
   "creatures": [

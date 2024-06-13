@@ -38,7 +38,7 @@
 					"description": "Upg2 Pyre allows you to recruit Sacred Phoenixes",
           "upgrades": "dwellingUpLvl7",
           "cost": {
-            "gold": 20000,
+            "gold": 25000,
             "wood": 10,
             "ore": 10,
             "mercury": 25
@@ -52,7 +52,8 @@
           "border": "lv8/border/pyre",
           "area": "lv8/area/pyre",
           "x": 43,
-          "y": 0
+          "y": 0,
+          "z": -2
         }
       },
 

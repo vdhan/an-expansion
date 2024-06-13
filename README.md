@@ -12,7 +12,7 @@ Rebalance skills, heroes, creatures, etc.
 
 - Heroes:
   - Double Movement: Heroes have double movement (10 basic towns, Durotar, Greenhouse, Pavilion, Forge and Heavenly Forge 2000)
-  - Specialty: Improve heroes resources specialties (Standard H3 towns) 
+  - Specialty: Improve heroes resources specialties (H3 Complete towns)
   - Resource: Heroes earn resources
     - Stronghold: Earn 1 crystal per day
     - Rampart, Dungeon: Earn 1 wood and 1 ore per day
@@ -49,7 +49,7 @@ Rebalance skills, heroes, creatures, etc.
     - Necropolis: Zombies can be upgraded to Mummies
     - Rampart: Dendroid Soldiers can be upgraded to Dendroid Warriors
 
-  - Level 8 Upgrade: 7th upgraded creatures can be upgraded to 8th
+  - Level 8 Upgrade: 7th level upgraded creatures can be upgraded to 8th (H3 Complete towns)
     - Vault of Ashes: Support Hota Vault of Ashes
     - Second Upgrade: Some factions have both 8th level and second upgrade
 
