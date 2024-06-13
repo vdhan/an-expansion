@@ -1,0 +1,72 @@
+{
+  "core:dungeon": {
+    "town": {
+      "hallSlots": [
+				[
+          ["villageHall", "townHall", "cityHall", "capitol"],
+          ["fort", "citadel", "castle"],
+          ["tavern"],
+          ["blacksmith"]
+        ],
+				[
+          ["marketplace", "resourceSilo"],
+          ["mageGuild1", "mageGuild2", "mageGuild3", "mageGuild4", "mageGuild5"],
+          ["special2"],
+          ["special3"]
+        ],
+				[
+          ["special1"],
+          ["special4"],
+          ["horde1", "horde1Upgr"]
+        ],
+				[
+          ["dwellingLvl1", "dwellingUpLvl1"],
+          ["dwellingLvl2", "dwellingUpLvl2"],
+          ["dwellingLvl3", "dwellingUpLvl3"],
+          ["dwellingLvl4", "dwellingUpLvl4"]
+        ],
+				[
+          ["dwellingLvl5", "dwellingUpLvl5"],
+          ["dwellingLvl6", "dwellingUpLvl6"],
+          ["dwellingLvl7", "dwellingUpLvl7", "lv8"]
+        ]
+			],
+
+      "buildings": {
+        "lv8": {
+          "id": 50,
+          "name": "Upg2 Dragon Cave",
+					"description": "Upg2 Dragon Cave allows you to recruit Darkness Dragons",
+          "upgrades": "dwellingUpLvl7",
+          "cost": {
+            "gold": 25000,
+            "wood": 10,
+            "ore": 10,
+            "sulfur": 25
+          }
+        }
+      },
+
+      "structures": {
+        "lv8": {
+          "animation": "lv8/dragon-cave",
+          "border": "lv8/border/dragon-cave",
+          "area": "lv8/area/dragon-cave",
+          "x": 550,
+          "y": 0,
+          "z": -1
+        }
+      },
+
+      "creatures": [
+        ["troglodyte", "infernalTroglodyte"],
+				["harpy", "harpyHag"],
+				["beholder", "evilEye"],
+				["medusa", "medusaQueen"],
+				["minotaur", "minotaurKing"],
+				["manticore", "scorpicore"],
+				["redDragon", "blackDragon", "darknessDragon"]
+      ]
+    }
+  }
+}

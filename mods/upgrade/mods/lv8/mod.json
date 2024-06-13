@@ -24,7 +24,10 @@
     "config/lv8/conflux",
     "config/lv8/castle",
     "config/lv8/necropolis",
-    "config/lv8/rampart"
+    "config/lv8/rampart",
+    "config/lv8/tower",
+    "config/lv8/inferno",
+    "config/lv8/dungeon"
   ],
 
   "creatures": [
