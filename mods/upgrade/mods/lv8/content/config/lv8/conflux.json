@@ -1,0 +1,70 @@
+{
+  "core:conflux": {
+    "town": {
+      "hallSlots": [
+				[
+          ["villageHall", "townHall", "cityHall", "capitol"],
+          ["fort", "citadel", "castle"],
+          ["tavern"],
+          ["blacksmith"]
+        ],
+				[
+          ["marketplace", "resourceSilo"],
+          ["mageGuild1", "mageGuild2", "mageGuild3", "mageGuild4", "mageGuild5"],
+          ["shipyard"]
+        ],
+				[
+          ["special2"],
+          ["special1"],
+          ["horde1", "horde1Upgr"]
+        ],
+				[
+          ["dwellingLvl1", "dwellingUpLvl1"],
+          ["dwellingLvl2", "dwellingUpLvl2"],
+          ["dwellingLvl3", "dwellingUpLvl3"],
+          ["dwellingLvl4", "dwellingUpLvl4"]
+        ],
+				[
+          ["dwellingLvl5", "dwellingUpLvl5"],
+          ["dwellingLvl6", "dwellingUpLvl6"],
+          ["dwellingLvl7", "dwellingUpLvl7", "dwellingUp2Lvl7"]
+        ]
+			],
+
+      "buildings": {
+        "dwellingUp2Lvl7": {
+          "id": 50,
+          "name": "Upg2 Pyre",
+					"description": "Upg2 Pyre allows you to recruit Sacred Phoenixes",
+          "upgrades": "dwellingUpLvl7",
+          "cost": {
+            "gold": 20000,
+            "wood": 10,
+            "ore": 10,
+            "mercury": 25
+          }
+        }
+      },
+
+      "structures": {
+        "dwellingUp2Lvl7": {
+          "animation": "lv8/pyre",
+          "border": "lv8/border/pyre",
+          "area": "lv8/area/pyre",
+          "x": 43,
+          "y": 0
+        }
+      },
+
+      "creatures": [
+        ["pixie", "sprite"],
+				["airElemental", "stormElemental"],
+				["waterElemental", "iceElemental"],
+				["fireElemental", "energyElemental"],
+				["earthElemental", "magmaElemental"],
+				["psychicElemental", "magicElemental"],
+				["firebird", "phoenix", "sacredPhoenix"]
+      ]
+    }
+  }
+}

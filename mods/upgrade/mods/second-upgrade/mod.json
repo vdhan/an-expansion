@@ -25,12 +25,12 @@
   },
 
   "factions": [
-    "config/necropolis",
-    "config/rampart"
+    "config/second-upgrade/necropolis",
+    "config/second-upgrade/rampart"
   ],
 
   "creatures": [
-    "config/creature/creature",
-    "config/creature/dendroid-warrior"
+    "config/second-upgrade/creature",
+    "config/second-upgrade/dendroid-warrior"
   ]
 }

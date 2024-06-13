@@ -1,0 +1,21 @@
+{
+  "name": "Vault of Ashes",
+  "description": "Support Hota Vault of Ashes",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+
+  "depends": [
+    "hota.confluxvaultofashes"
+  ],
+
+  "vietnamese": {
+    "name": "Vault of Ashes",
+    "description": "Hỗ trợ Hota Vault of Ashes"
+  },
+
+  "factions": [
+    "config/conflux"
+  ]
+}

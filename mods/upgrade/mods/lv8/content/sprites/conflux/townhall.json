@@ -24,6 +24,8 @@
 		{"frame": 20, "file": "ship2"},
 		{"frame": 21, "file": "spec2"},
 
+		{"frame": 24, "file": "hor2"},
+		{"frame": 25, "file": "hor2"},
 		{"frame": 26, "file": "grai"},
 
 		{"frame": 30, "file": "lv1"},
