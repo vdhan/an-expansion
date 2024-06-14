@@ -28,8 +28,12 @@
     },
 
     "expert": {
-      "description": "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to 4th level and increases knowledge by 3",
+      "description": "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to 5th level and increases knowledge by 3",
       "effects": {
+        "main": {
+          "val": 5
+        },
+
         "knowledge": {
           "val": 3
         }

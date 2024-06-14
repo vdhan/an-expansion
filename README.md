@@ -30,7 +30,7 @@ Rebalance skills, heroes, creatures, etc.
   - Navigation: Navigation also allows free ship boarding
   - Offence: Offence also casts Bloodlust at battle opening for 10/25/50 rounds
   - Resistance: Resistance now lowers enemy hero 10%/20%/30% power skill
-  - Scholar: Scholar also increases knowledge by 1/2/3
+  - Scholar: Scholar now allows heroes to teach each other any spell up to 2/3/5 level and increases knowledge by 1/2/3
   - Scouting: Scouting now allows your hero to see 1/3/5 square further into the shroud and increases land movement points by 50 per level
   - Sorcery: Sorcery also increases power skill by 1/2/3
   - Tactics: Tactics increases troops speed by 1/2/3 instead
