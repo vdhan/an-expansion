@@ -12,7 +12,16 @@
         "updater": {
           "parameters": [10, 2],
           "type": "GROWS_WITH_LEVEL"
-        }
+        },
+
+        "limiters": [
+          {
+            "type": "CREATURE_TYPE_LIMITER",
+            "parameters": ["ballista"]
+          }
+        ],
+
+        "propagator": "HERO"
       }
     }
   },
