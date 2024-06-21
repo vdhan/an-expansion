@@ -8,28 +8,23 @@
 
     "base": {
       "effects": {
-        "ballistics": {
-          "type": "CATAPULT_EXTRA_SHOTS",
-          "subtype": "spell.catapultShot",
-          "valueType": "BASE_NUMBER"
-        },
-
         "ctrl": {
           "type": "MANUAL_CONTROL",
-          "subtype": "creature.catapult",
+          "subtype": "creature.ballista",
           "val": 100,
-          "valueType": "BASE_NUMBER"
-        },
-
-        "firstAid": {
-          "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "spell.firstAid",
           "valueType": "BASE_NUMBER"
         },
 
         "ctrl2": {
           "type": "MANUAL_CONTROL",
-          "subtype": "creature.firstAidTent",
+          "subtype": "creature.arrowTower",
+          "val": 100,
+          "valueType": "BASE_NUMBER"
+        },
+
+        "main": {
+          "type": "BONUS_DAMAGE_PERCENTAGE",
+          "subtype": "creature.ballista",
           "val": 100,
           "valueType": "BASE_NUMBER"
         },
@@ -46,24 +41,29 @@
           "valueType": "BASE_NUMBER"
         },
 
-        "ctr3": {
+        "ctrl3": {
           "type": "MANUAL_CONTROL",
-          "subtype": "creature.ballista",
+          "subtype": "creature.catapult",
           "val": 100,
+          "valueType": "BASE_NUMBER"
+        },
+
+        "ballistics": {
+          "type": "CATAPULT_EXTRA_SHOTS",
+          "subtype": "spell.catapultShot",
           "valueType": "BASE_NUMBER"
         },
 
         "ctrl4": {
           "type": "MANUAL_CONTROL",
-          "subtype": "creature.arrowTower",
+          "subtype": "creature.firstAidTent",
           "val": 100,
           "valueType": "BASE_NUMBER"
         },
 
-        "main": {
-          "type": "BONUS_DAMAGE_PERCENTAGE",
-          "subtype": "creature.ballista",
-          "val": 100,
+        "firstAid": {
+          "type": "SPECIFIC_SPELL_POWER",
+          "subtype": "spell.firstAid",
           "valueType": "BASE_NUMBER"
         }
       }
@@ -110,7 +110,7 @@
         },
 
         "firstAid": {
-          "val": 225
+          "val": 200
         },
 
         "artillery": {
@@ -137,7 +137,7 @@
         },
 
         "firstAid": {
-          "val": 400
+          "val": 300
         },
 
         "artillery": {
