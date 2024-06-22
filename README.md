@@ -3,11 +3,11 @@
 Rebalance skills, heroes, creatures, etc.
 
 ## Feature:
-- Dissipate Dwelling: Dwellings will not accumulate
 - Modern Font: Font supports Vietnamese and other languages
+- Cure First Aid: First aid tent also remove negative effects
 - War Machine: Enhanced war machines
   - First Aid Tent: Now has 150 hit points, increases hero's troops health by 1 per 5 level
-  - Ballista: Now has double base damage, increases 1 damage per 4 level
+  - Ballista: Now has 5 base damage, increases 1 damage per 4 level
   - Ammo Cart: Now has 200 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level
 
 - Heroes:
@@ -36,13 +36,14 @@ Rebalance skills, heroes, creatures, etc.
   - Tactics: Tactics increases troops speed by 1/2/3 instead
   - Estates: Estates now increases 250/500/1000 gold, 1 wood and 1 ore per day
   - Mysticism: Mysticism now regenerates 5/10/15 spell points per day
-  - Warfare Transport: Some heroes have both starting skills: Warfare and Transport
   - Transport: Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement
+    - Warfare Transport: Some heroes have both starting skills: Warfare and Transport
     - Interference Transport: Some heroes have both starting skills: Hota Interference and Transport
 
   - Warfare: Warfare combines Artillery, First Aid and Ballistics
     - Gold Tower Arrow: Support WoG Gold Tower Arrow
     - HotA Uland: HotA Uland has starting skill Warfare
+    - Warfare > Cure First Aid: Support Cure First Aid
 
 - Upgrade: Some creatures have more upgrades
   - Second Upgrade: Some creatures have second upgrade
@@ -51,7 +52,7 @@ Rebalance skills, heroes, creatures, etc.
 
   - Level 8 Upgrade: 7th level upgraded creatures can be upgraded to 8th (H3 Complete towns)
     - Vault of Ashes: Support Hota Vault of Ashes
-    - Second Upgrade: Some factions have both 8th level and second upgrade
+    - LV8 > Second Upgrade: Some factions have both 8th level and second upgrade
 
 ---
 

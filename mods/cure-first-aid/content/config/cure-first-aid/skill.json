@@ -1,0 +1,12 @@
+{
+  "core:firstAid": {
+    "base": {
+      "effects": {
+        "main": {
+          "type": "SPECIFIC_SPELL_POWER",
+          "subtype": "spell.cureFirstAid"
+        }
+      }
+    }
+  }
+}

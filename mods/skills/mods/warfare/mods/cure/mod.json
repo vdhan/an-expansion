@@ -1,0 +1,21 @@
+{
+  "name": "Warfare > Cure First Aid",
+  "description": "Support Cure First Aid",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "depends": [
+    "an-expansion.cure-first-aid"
+  ],
+
+  "vietnamese": {
+    "name": "Warfare > Cure First Aid",
+    "description": "Hỗ trợ Cure First Aid"
+  },
+
+  "skills": [
+    "config/cure"
+  ]
+}

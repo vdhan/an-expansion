@@ -7,8 +7,7 @@
   "modType": "Skills",
 
   "depends": [
-    "an-expansion.skills.warfare",
-    "an-expansion.skills.transport"
+    "an-expansion.skills.warfare"
   ],
 
   "vietnamese": {

@@ -1,0 +1,26 @@
+{
+  "name": "Cure First Aid",
+  "description": "First aid tent also remove negative effects",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+  "keepDisabled": true,
+
+  "vietnamese": {
+    "name": "Cure First Aid",
+    "description": "Lều sơ cứu còn xóa hiệu ứng bất lợi"
+  },
+
+  "spells": [
+    "config/cure-first-aid/spell"
+  ],
+
+  "skills": [
+    "config/cure-first-aid/skill"
+  ],
+
+  "creatures": [
+    "config/cure-first-aid/creature"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "an-expansion.skills.warfare:warfare": {
+    "base": {
+      "effects": {
+        "cureFirstAid": {
+          "type": "SPECIFIC_SPELL_POWER",
+          "subtype": "spell.cureFirstAid",
+          "val": 100
+        }
+      }
+    },
+
+    "advanced": {
+      "effects": {
+        "cureFirstAid": {
+          "val": 150
+        }
+      }
+    },
+
+    "expert": {
+      "effects": {
+        "cureFirstAid": {
+          "val": 200
+        }
+      }
+    }
+  }
+}

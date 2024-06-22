@@ -1,0 +1,10 @@
+{
+  "core:firstAidTent": {
+    "abilities": {
+      "heals": {
+        "type": "HEALER",
+        "subtype": "spell.cureFirstAid"
+      }
+    }
+  }
+}

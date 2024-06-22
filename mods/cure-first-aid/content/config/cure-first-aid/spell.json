@@ -1,0 +1,63 @@
+{
+  "cureFirstAid": {
+    "name": "First Aid",
+    "type": "ability",
+    "targetType": "CREATURE",
+    "school": {},
+    "level": 0,
+    "power": 20,
+    "defaultGainChance": 0,
+    "gainChance": {},
+    "flags": {
+      "positive": true,
+      "nonMagical": true
+    },
+
+    "targetCondition": {
+      "noneOf": {
+        "bonus.SIEGE_WEAPON": "normal"
+      }
+    },
+
+    "levels": {
+      "base": {
+        "description": "",
+        "cost": 0,
+        "range": "0",
+        "power": 20,
+        "aiValue": 0,
+        "targetModifier": {
+          "smart": true
+        },
+
+        "battleEffects": {
+          "heal": {
+            "type": "core:heal",
+            "healLevel": "heal",
+            "healPower": "permanent",
+            "optional": true
+          },
+
+          "cure": {
+            "type": "core:dispel",
+            "dispelNegative": true,
+            "optional": true
+          }
+        }
+      },
+
+      "none": {},
+      "basic": {},
+      "advanced": {},
+      "expert": {}
+    },
+
+    "animation": {
+      "affect": ["cure/effect"]
+    },
+
+    "sounds": {
+      "cast": "REGENER"
+    }
+  }
+}

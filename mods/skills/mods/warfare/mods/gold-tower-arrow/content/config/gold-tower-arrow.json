@@ -4,9 +4,8 @@
       "effects": {
         "goldTowerArrow": {
           "type": "ADDITIONAL_ATTACK",
-          "valueType": "ADDITIVE_VALUE",
           "val": 1,
-
+          "valueType": "ADDITIVE_VALUE",
           "limiters": [
             {
               "type": "HAS_ANOTHER_BONUS_LIMITER",

@@ -1,5 +1,5 @@
 {
-  "name": "Second Upgrade",
+  "name": "LV8 > Second Upgrade",
   "description": "Some factions have both 8th level and second upgrade",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
@@ -12,7 +12,7 @@
   ],
 
   "vietnamese": {
-    "name": "Second Upgrade",
+    "name": "LV8 > Second Upgrade",
     "description": "1 vài thành có thể nâng cấp thêm lần nữa và có cấp 8"
   },
 
