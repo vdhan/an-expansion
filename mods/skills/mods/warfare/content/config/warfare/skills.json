@@ -1,6 +1,7 @@
 {
   "warfare": {
     "name": "Warfare",
+    "obligatoryMinor": true,
     "gainChance": {
       "might": 8,
       "magic": 8
@@ -11,60 +12,51 @@
         "ctrl": {
           "type": "MANUAL_CONTROL",
           "subtype": "creature.ballista",
-          "val": 100,
-          "valueType": "BASE_NUMBER"
+          "val": 100
         },
 
         "ctrl2": {
           "type": "MANUAL_CONTROL",
           "subtype": "creature.arrowTower",
-          "val": 100,
-          "valueType": "BASE_NUMBER"
+          "val": 100
         },
 
         "main": {
           "type": "BONUS_DAMAGE_PERCENTAGE",
           "subtype": "creature.ballista",
-          "val": 100,
-          "valueType": "BASE_NUMBER"
+          "val": 100
         },
 
         "artillery": {
           "type": "BONUS_DAMAGE_CHANCE",
-          "subtype": "creature.ballista",
-          "valueType": "BASE_NUMBER"
+          "subtype": "creature.ballista"
         },
 
         "val2": {
           "type": "HERO_GRANTS_ATTACKS",
-          "subtype": "creature.ballista",
-          "valueType": "BASE_NUMBER"
+          "subtype": "creature.ballista"
         },
 
         "ctrl3": {
           "type": "MANUAL_CONTROL",
           "subtype": "creature.catapult",
-          "val": 100,
-          "valueType": "BASE_NUMBER"
+          "val": 100
         },
 
         "ballistics": {
           "type": "CATAPULT_EXTRA_SHOTS",
-          "subtype": "spell.catapultShot",
-          "valueType": "BASE_NUMBER"
+          "subtype": "spell.catapultShot"
         },
 
         "ctrl4": {
           "type": "MANUAL_CONTROL",
           "subtype": "creature.firstAidTent",
-          "val": 100,
-          "valueType": "BASE_NUMBER"
+          "val": 100
         },
 
         "firstAid": {
           "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "spell.firstAid",
-          "valueType": "BASE_NUMBER"
+          "subtype": "spell.firstAid"
         }
       }
     },

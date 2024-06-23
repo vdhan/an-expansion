@@ -1,6 +1,7 @@
 {
   "transport": {
     "name": "Transport",
+    "obligatoryMinor": true,
     "gainChance": {
       "might": 8,
       "magic": 8

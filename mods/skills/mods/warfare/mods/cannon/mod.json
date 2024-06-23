@@ -1,0 +1,21 @@
+{
+  "name": "Warfare > Cannon",
+  "description": "Support Hota Cannon",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "depends": [
+    "hota.cannon"
+  ],
+
+  "vietnamese": {
+    "name": "Warfare > Cannon",
+    "description": "Hỗ trợ Hota Cannon"
+  },
+
+  "skills": [
+    "config/cannon"
+  ]
+}
