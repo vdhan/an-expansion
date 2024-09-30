@@ -1,5 +1,5 @@
 {
-  "name": "Upgrade",
+  "name": "Creature Upgrading",
   "description": "Some creatures have more upgrades",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
@@ -7,7 +7,7 @@
   "modType": "Mechanics",
 
   "vietnamese": {
-    "name": "Upgrade",
+    "name": "Creature Upgrading",
     "description": "1 vài quái có thể nâng cấp thêm"
   },
 

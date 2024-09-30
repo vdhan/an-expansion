@@ -13,55 +13,55 @@
 
   "trueType": {
     "BIGFONT": {
-      "file": "heroes-regular.ttf",
+      "file": "heroes.ttf",
       "size": 22,
       "blend": true
     },
 
     "CALLI10R": {
-      "file": "heroes-regular.ttf",
+      "file": "heroes.ttf",
       "size": 10,
       "blend": true
     },
 
     "CREDITS": {
-      "file": "heroes-regular.ttf",
+      "file": "heroes.ttf",
       "size": 28,
       "blend": true
     },
 
     "HISCORE": {
-      "file": "heroes-regular.ttf",
+      "file": "heroes.ttf",
       "size": 13,
       "blend": true
     },
 
     "MEDFONT": {
-      "file": "heroes-regular.ttf",
+      "file": "heroes.ttf",
       "size": 16,
       "blend": true
     },
 
     "SMALFONT": {
-      "file": "heroes-regular.ttf",
+      "file": "heroes.ttf",
       "size": 13,
       "blend": true
     },
 
     "TIMES08R": {
-      "file": "heroes-regular.ttf",
+      "file": "heroes.ttf",
       "size": 11,
       "blend": true
     },
 
     "TINY": {
-      "file": "heroes-regular.ttf",
+      "file": "heroes.ttf",
       "size": 11,
       "blend": true
     },
 
     "VERD10B": {
-      "file": "heroes-regular.ttf",
+      "file": "heroes.ttf",
       "size": 13,
       "blend": true
     }
