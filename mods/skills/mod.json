@@ -6,6 +6,10 @@
   "contact": "https://vudachoangan.com",
   "modType": "Mechanics",
 
+  "conflicts": [
+		"ultimate-balance.skills-balance"
+  ],
+
   "vietnamese": {
     "name": "Skills",
     "description": "Cân bằng kĩ năng"

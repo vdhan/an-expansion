@@ -6,6 +6,10 @@
   "contact": "https://vudachoangan.com",
   "modType": "Mechanics",
 
+  "conflicts": [
+		"tides-of-war.alternative-creatures"
+  ],
+
   "vietnamese": {
     "name": "Creature Upgrading",
     "description": "1 vài quái có thể nâng cấp thêm"
