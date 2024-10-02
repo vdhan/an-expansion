@@ -16,7 +16,7 @@ Rebalance skills, heroes, creatures, etc.
   - Resource: Heroes earn resources
     - Stronghold: Earn 1 crystal per day
     - Rampart, Dungeon: Earn 1 wood and 1 ore per day
-    - Inferno, Conflux, Necropolis, Tower: Earn addition 50 gold per day for each level
+    - Inferno, Conflux, Necropolis, Tower: Earn 200 gold per day
     - Fortress: Earn 1 sulfur per day
     - Castle: Earn 1 gem per day
 

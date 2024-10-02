@@ -15,7 +15,7 @@
     "Fortress": ["Earn 1 sulfur per day"],
     "Castle": ["Earn 1 gem per day"],
     "Rampart, Dungeon": ["Earn 1 wood and 1 ore per day"],
-    "Inferno, Conflux, Necropolis, Tower": ["Earn addition 50 gold per day for each level"]
+    "Inferno, Conflux, Necropolis, Tower": ["Earn 200 gold per day"]
   },
 
   "vietnamese": {
@@ -26,7 +26,7 @@
       "Fortress": ["Thêm 1 lưu huỳnh mỗi ngày"],
       "Castle": ["Thêm 1 ngọc mỗi ngày"],
       "Rampart, Dungeon": ["Thêm 1 gỗ và 1 quặng mỗi ngày"],
-      "Inferno, Conflux, Necropolis, Tower": ["Mỗi cấp tăng thêm 50 vàng/ngày"]
+      "Inferno, Conflux, Necropolis, Tower": ["Thêm 200 vàng/ngày"]
     }
   },
 
