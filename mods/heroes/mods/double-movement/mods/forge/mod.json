@@ -1,0 +1,21 @@
+{
+  "name": "Double Movement > Forge",
+  "description": "Support Forge town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "forge"
+  ],
+
+  "vietnamese": {
+    "name": "Double Movement > Forge",
+    "description": "Hỗ trợ thành Forge"
+  },
+
+  "creatures": [
+    "config/forge"
+  ]
+}

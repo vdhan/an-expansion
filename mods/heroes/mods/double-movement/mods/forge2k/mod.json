@@ -1,0 +1,21 @@
+{
+  "name": "Double Movement > Heavenly Forge 2000",
+  "description": "Support Heavenly Forge 2000 town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "forge2k"
+  ],
+
+  "vietnamese": {
+    "name": "Double Movement > Heavenly Forge 2000",
+    "description": "Hỗ trợ thành Heavenly Forge 2000"
+  },
+
+  "creatures": [
+    "config/forge2k"
+  ]
+}

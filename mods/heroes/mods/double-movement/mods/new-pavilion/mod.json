@@ -1,0 +1,21 @@
+{
+  "name": "Double Movement > Pavilion",
+  "description": "Support Pavilion town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "new-pavilion"
+  ],
+
+  "vietnamese": {
+    "name": "Double Movement > Pavilion",
+    "description": "Hỗ trợ thành Pavilion"
+  },
+
+  "creatures": [
+    "config/pavilion"
+  ]
+}
