@@ -11,30 +11,6 @@
     }
   },
 
-  "durotar:drtCommand": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
-
-  "greenhouse-town:cmmdr": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
-
   "forge:firebug": {
     "abilities": {
       "doubleMovement": {

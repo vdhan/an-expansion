@@ -11,7 +11,7 @@ Rebalance skills, heroes, creatures, etc.
   - Ammo Cart: Now has 200 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level
 
 - Heroes:
-  - Double Movement: Heroes have double movement (10 basic towns, Durotar, Greenhouse, Pavilion, Forge and Heavenly Forge 2000)
+  - Double Movement: Heroes have double movement (10 basic towns, Greenhouse, Pavilion, Forge and Heavenly Forge 2000)
   - Specialty: Improve heroes resources specialties (H3 Complete towns)
   - Resource: Heroes earn resources
     - Stronghold: Earn 1 crystal per day
@@ -55,8 +55,6 @@ Rebalance skills, heroes, creatures, etc.
     - LV8 > Second Upgrade: Some factions have both 8th level and second upgrade
 
 ---
-
-To install Durotar mod town for VCMI, checkout: https://github.com/vdhan/durotar
 
 To calculates AI and Fight Values of creatures, checkout: https://github.com/vdhan/an-balancer
 

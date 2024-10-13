@@ -13,21 +13,5 @@
       "ballistics": 0,
       "firstAid": 0
     }
-  },
-
-  "durotar:drtMight": {
-    "secondarySkills": {
-      "artillery": 0,
-      "ballistics": 0,
-      "firstAid": 0
-    }
-  },
-
-  "durotar:drtMagic": {
-    "secondarySkills": {
-      "artillery": 0,
-      "ballistics": 0,
-      "firstAid": 0
-    }
   }
 }

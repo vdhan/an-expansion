@@ -1,0 +1,12 @@
+{
+  "core:peasant": {
+    "hitPoints": 2,
+    "damage": {
+      "max": 2,
+      "min": 1
+    },
+
+    "aiValue": 25,
+    "fightValue": 20
+  }
+}
