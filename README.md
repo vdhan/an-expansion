@@ -5,13 +5,18 @@ Rebalance skills, heroes, creatures, etc.
 ## Feature:
 - Modern Font: Font supports Vietnamese and other languages
 - Cure First Aid: First aid tent also remove negative effects
+- Long Live Peasant: Peasants now have 2 hit points and damage 1 - 2
 - War Machine: Enhanced war machines
   - First Aid Tent: Now has 150 hit points, increases hero's troops health by 1 per 5 level
   - Ballista: Now has 5 base damage, increases 1 damage per 4 level
   - Ammo Cart: Now has 200 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level
 
 - Heroes:
-  - Double Movement: Heroes have double movement (10 basic towns, Greenhouse, Pavilion, Forge and Heavenly Forge 2000)
+  - Double Movement: Heroes have double movement (H3 Complete towns + Cove)
+    - Double Movement > Heavenly Forge 2000: Support Heavenly Forge 2000 town
+    - Double Movement > Forge: Support Forge town
+    - Double Movement > Pavilion: Support Pavilion town
+    - Double Movement > Greenhouse: Support Greenhouse town
   - Specialty: Improve heroes resources specialties (H3 Complete towns)
   - Resource: Heroes earn resources
     - Stronghold: Earn 1 crystal per day
@@ -44,8 +49,9 @@ Rebalance skills, heroes, creatures, etc.
     - Gold Tower Arrow: Support WoG Gold Tower Arrow
     - HotA Uland: HotA Uland has starting skill Warfare
     - Warfare > Cure First Aid: Support Cure First Aid
+    - Warfare > Cannon: Support Hota Cannon
 
-- Upgrade: Some creatures have more upgrades
+- Creature Upgrading: Some creatures have more upgrades
   - Second Upgrade: Some creatures have second upgrade
     - Necropolis: Zombies can be upgraded to Mummies
     - Rampart: Dendroid Soldiers can be upgraded to Dendroid Warriors
