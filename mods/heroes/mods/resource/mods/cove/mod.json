@@ -1,0 +1,28 @@
+{
+  "name": "Resource > Cove",
+  "description": "Support Cove town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "hota.cove"
+  ],
+
+  "changelog": {
+    "Cove": ["Earn 200 gold per day"]
+  },
+
+  "vietnamese": {
+    "name": "Resource > Cove",
+    "description": "Hỗ trợ thành Cove",
+    "changelog": {
+      "Cove": ["Thêm 200 vàng/ngày"]
+    }
+  },
+
+  "creatures": [
+    "config/cove-resource"
+  ]
+}

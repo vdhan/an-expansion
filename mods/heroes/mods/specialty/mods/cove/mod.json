@@ -1,0 +1,24 @@
+{
+  "name": "Specialty > Cove",
+  "description": "Support Cove town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Heroes",
+
+  "depends": [
+    "hota.cove"
+  ],
+
+  "vietnamese": {
+    "name": "Specialty > Cove",
+    "description": "Hỗ trợ thành Cove",
+    "translations": [
+      "translation/cove-specialty/vietnamese"
+    ]
+  },
+
+  "heroes": [
+    "config/cove-specialty"
+  ]
+}

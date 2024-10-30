@@ -1,0 +1,21 @@
+{
+  "name": "Double Movement > Cove",
+  "description": "Support Cove town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "hota.cove"
+  ],
+
+  "vietnamese": {
+    "name": "Double Movement > Cove",
+    "description": "Hỗ trợ thành Cove"
+  },
+
+  "creatures": [
+    "config/cove"
+  ]
+}

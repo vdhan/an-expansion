@@ -1,0 +1,12 @@
+{
+  "hota.cove:blackbeard": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gold",
+        "val": 200,
+        "propagator": "HERO"
+      }
+    }
+  }
+}

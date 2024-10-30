@@ -22,7 +22,6 @@
     "config/specialty/rampart",
     "config/specialty/stronghold",
     "config/specialty/tower",
-    "config/specialty/conflux",
-    "config/specialty/open/cove"
+    "config/specialty/conflux"
   ]
 }

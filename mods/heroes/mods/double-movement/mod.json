@@ -16,7 +16,6 @@
   },
 
   "creatures": [
-    "config/double-movement",
-    "config/open/double-movement"
+    "config/double-movement"
   ]
 }

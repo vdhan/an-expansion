@@ -12,7 +12,7 @@ Rebalance skills, heroes, creatures, etc.
   - Ammo Cart: Now has 200 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level
 
 - Heroes:
-  - Double Movement: Heroes have double movement (H3 Complete towns + Cove)
+  - Double Movement: Heroes have double movement (H3 Complete towns)
     - Double Movement > Heavenly Forge 2000: Support Heavenly Forge 2000 town
     - Double Movement > Forge: Support Forge town
     - Double Movement > Pavilion: Support Pavilion town
@@ -21,9 +21,10 @@ Rebalance skills, heroes, creatures, etc.
   - Resource: Heroes earn resources
     - Stronghold: Earn 1 crystal per day
     - Rampart, Dungeon: Earn 1 wood and 1 ore per day
-    - Inferno, Conflux, Necropolis, Tower: Earn 200 gold per day
+    - Inferno, Conflux, Tower: Earn 200 gold per day
     - Fortress: Earn 1 sulfur per day
     - Castle: Earn 1 gem per day
+    - Cove: Earn 200 gold per day
 
 - Skills:
   - Archery: Archery also casts Precision at battle opening for 10/25/50 rounds
