@@ -61,17 +61,6 @@
     }
   },
 
-  "wake-of-gods.commanders:soulEater1": {
-    "abilities": {
-      "earn": {
-        "type": "GENERATE_RESOURCE",
-        "subtype": "resource.gold",
-        "val": 200,
-        "propagator": "HERO"
-      }
-    }
-  },
-
   "wake-of-gods.commanders:hierophant1": {
     "abilities": {
       "earn": {

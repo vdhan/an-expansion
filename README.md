@@ -12,12 +12,15 @@ Rebalance skills, heroes, creatures, etc.
   - Ammo Cart: Now has 200 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level
 
 - Heroes:
+  - Skeleton Warrior: Necropolis heroes can upgrade Skeleton to Skeleton Warrior
   - Double Movement: Heroes have double movement (H3 Complete towns)
     - Double Movement > Heavenly Forge 2000: Support Heavenly Forge 2000 town
     - Double Movement > Forge: Support Forge town
     - Double Movement > Pavilion: Support Pavilion town
     - Double Movement > Greenhouse: Support Greenhouse town
+    - Double Movement > Cove: Support Cove town
   - Specialty: Improve heroes resources specialties (H3 Complete towns)
+    - Specialty > Cove: Support Cove town
   - Resource: Heroes earn resources
     - Stronghold: Earn 1 crystal per day
     - Rampart, Dungeon: Earn 1 wood and 1 ore per day

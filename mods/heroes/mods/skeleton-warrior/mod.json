@@ -1,0 +1,21 @@
+{
+  "name": "Skeleton Warrior",
+  "description": "Necropolis heroes can upgrade Skeleton to Skeleton Warrior",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "wake-of-gods.commanders"
+  ],
+
+  "vietnamese": {
+    "name": "Skeleton Warrior",
+    "description": "Tướng thành Necropolis có thể nâng cấp Skeleton lên Skeleton Warrior"
+  },
+
+  "creatures": [
+    "config/skeleton-warrior"
+  ]
+}
