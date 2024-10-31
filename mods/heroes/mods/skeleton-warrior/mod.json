@@ -5,6 +5,7 @@
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Creatures",
+  "keepDisabled": true,
 
   "depends": [
     "wake-of-gods.commanders"
