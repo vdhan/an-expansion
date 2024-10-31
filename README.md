@@ -3,6 +3,7 @@
 Rebalance skills, heroes, creatures, etc.
 
 ## Feature:
+
 - Modern Font: Font supports Vietnamese and other languages
 - Cure First Aid: First aid tent also remove negative effects
 - Long Live Peasant: Peasants now have 2 hit points and damage 1 - 2
@@ -65,6 +66,8 @@ Rebalance skills, heroes, creatures, etc.
     - LV8 > Second Upgrade: Some factions have both 8th level and second upgrade
 
 ---
+
+For new heroes, artifacts, etc., checkout: https://github.com/vdhan/new-set
 
 To calculates AI and Fight Values of creatures, checkout: https://github.com/vdhan/an-balancer
 
