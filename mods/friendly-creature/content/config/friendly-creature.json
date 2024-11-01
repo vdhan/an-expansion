@@ -1,0 +1,17 @@
+{
+  "core:enchanter": {
+    "abilities": {
+      "friendly": {
+        "type": "NONEVIL_ALIGNMENT_MIX"
+      }
+    }
+  },
+
+  "core:sharpshooter": {
+    "abilities": {
+      "friendly": {
+        "type": "NONEVIL_ALIGNMENT_MIX"
+      }
+    }
+  }
+}

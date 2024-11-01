@@ -7,6 +7,7 @@ Rebalance skills, heroes, creatures, etc.
 - Modern Font: Font supports Vietnamese and other languages
 - Cure First Aid: First aid tent also remove negative effects
 - Long Live Peasant: Peasants now have 2 hit points and damage 1 - 2
+- Friendly Creature: Some neutral creatures can mix with other factions without decrease morale
 - War Machine: Enhanced war machines
   - First Aid Tent: Now has 150 hit points, increases hero's troops health by 1 per 5 level
   - Ballista: Now has 5 base damage, increases 1 damage per 4 level
