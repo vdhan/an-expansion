@@ -3,7 +3,7 @@
     "texts": {
       "specialty": {
         "name": "Mercury",
-        "description": "{Mercury}\n\nIncreases kingdom's mercury production by 1 per day for every 10 levels"
+        "description": "Increases kingdom's mercury production by 1 per day for every 10 levels"
       }
     },
 
@@ -23,7 +23,7 @@
     "texts": {
       "specialty": {
         "name": "Gold",
-        "description": "{Gold}\n\nIncreases kingdom's income by 300 gold per day, plus 50 gold for each level gained"
+        "description": "Increases kingdom's income by 300 gold per day, plus 50 gold for each level gained"
       }
     },
 
