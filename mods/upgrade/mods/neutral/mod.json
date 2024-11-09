@@ -1,0 +1,17 @@
+{
+  "name": "Neutral Upgrade",
+  "description": "Some neutral creatures can be upgraded",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+
+  "vietnamese": {
+    "name": "Quái trung lập",
+    "description": "1 vài quái trung lập có thể được nâng cấp"
+  },
+
+  "creatures": [
+    "config/neutral-upgrade"
+  ]
+}
