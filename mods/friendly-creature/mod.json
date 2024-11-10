@@ -1,6 +1,6 @@
 {
   "name": "Friendly Creature",
-  "description": "Some neutral creatures can mix with other factions without decrease morale",
+  "description": "Some neutral creatures can mix with other factions without decrease morale (Peasant, Rogue, Enchanter, Sharpshooter)",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -8,7 +8,7 @@
 
   "vietnamese": {
     "name": "Quái thân thiện",
-    "description": "1 vài quái trung lập có thể kết hợp với thành khác mà không làm giảm nhuệ khí"
+    "description": "1 vài quái trung lập có thể kết hợp với thành khác mà không làm giảm nhuệ khí (Peasant, Rogue, Enchanter, Sharpshooter)"
   },
 
   "creatures": [

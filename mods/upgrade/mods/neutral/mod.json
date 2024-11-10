@@ -6,6 +6,11 @@
   "contact": "https://vudachoangan.com",
   "modType": "Mechanics",
 
+  "changelog": {
+    "Peasant": ["Upgrade to Rogue"],
+    "Boar": ["Upgrade to Nomad"]
+  },
+
   "vietnamese": {
     "name": "Quái trung lập",
     "description": "1 vài quái trung lập có thể được nâng cấp"

@@ -21,5 +21,13 @@
         "type": "NONEVIL_ALIGNMENT_MIX"
       }
     }
+  },
+
+  "core:rogue": {
+    "abilities": {
+      "friendly": {
+        "type": "NONEVIL_ALIGNMENT_MIX"
+      }
+    }
   }
 }
