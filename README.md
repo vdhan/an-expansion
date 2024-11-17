@@ -11,7 +11,7 @@ Rebalance skills, heroes, creatures, etc.
 - War Machine: Enhanced war machines
   - First Aid Tent: Now has 150 hit points, increases hero's troops health by 1 per 5 level
   - Ballista: Now has 5 base damage, increases 1 damage per 4 level
-  - Ammo Cart: Now has 200 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level
+  - Ammo Cart: Now has 300 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level
 
 - Heroes:
   - Skeleton Warrior: Necropolis heroes can upgrade Skeleton to Skeleton Warrior

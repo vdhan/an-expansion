@@ -9,7 +9,7 @@
   "changelog": {
     "Ballista": ["Now has 5 base damage, increases 1 damage per 4 level"],
     "First Aid Tent": ["Now has 150 hit points, increases hero's troops health by 1 per 5 level"],
-    "Ammo Cart": ["Now has 200 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level"]
+    "Ammo Cart": ["Now has 300 hit points and reduces spell cost by 1, increases hero's troop speed by 1 per 5 level"]
   },
 
   "vietnamese": {
@@ -18,7 +18,7 @@
     "changelog": {
       "Ballista": ["Có 5 sát thương gốc, tăng 1 sát thương mỗi 4 cấp"],
       "First Aid Tent": ["Có 150 máu, tăng cho quái 1 máu mỗi 5 cấp"],
-      "Ammo Cart": ["Có 200 máu và giảm 1 năng lượng hao phí, tăng cho quái 1 tốc mỗi 5 cấp"]
+      "Ammo Cart": ["Có 300 máu và giảm 1 năng lượng hao phí, tăng cho quái 1 tốc mỗi 5 cấp"]
     }
   },
 
