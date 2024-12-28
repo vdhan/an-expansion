@@ -7,7 +7,7 @@
   "modType": "Skills",
 
   "depends": [
-    "wake-of-gods.spells"
+    "wake-of-gods.artifacts"
   ],
 
   "vietnamese": {
