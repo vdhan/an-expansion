@@ -8,13 +8,6 @@
 
   "vietnamese": {
     "name": "Scouting",
-    "description": "Do Thám cho tướng nhìn xa hơn 1/3/5 ô và tăng 50 di chuyển trên bộ mỗi cấp",
-    "translations": [
-      "translation/scouting/vietnamese"
-    ]
-  },
-
-  "skills": [
-    "config/scouting"
-  ]
+    "description": "Do Thám cho tướng nhìn xa hơn 1/3/5 ô và tăng 50 di chuyển trên bộ mỗi cấp"
+  }
 }

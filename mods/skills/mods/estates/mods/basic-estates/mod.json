@@ -1,0 +1,24 @@
+{
+  "name": "Estates > Non-hota game balance",
+  "description": "Non-hota game balance version",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "conflicts": [
+		"hota.gamebalance"
+  ],
+
+  "vietnamese": {
+    "name": "Estates > Non-hota game balance",
+    "description": "Không hỗ trợ Hota game balance",
+    "translations": [
+      "translation/basic-estates/vietnamese"
+    ]
+  },
+
+  "skills": [
+    "config/basic-estates"
+  ]
+}

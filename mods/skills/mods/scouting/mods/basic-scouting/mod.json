@@ -1,0 +1,24 @@
+{
+  "name": "Scouting > Non-hota game balance",
+  "description": "Non-hota game balance version",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "conflicts": [
+		"hota.gamebalance"
+  ],
+
+  "vietnamese": {
+    "name": "Scouting > Non-hota game balance",
+    "description": "Không hỗ trợ Hota game balance",
+    "translations": [
+      "translation/basic-scouting/vietnamese"
+    ]
+  },
+
+  "skills": [
+    "config/basic-scouting"
+  ]
+}
