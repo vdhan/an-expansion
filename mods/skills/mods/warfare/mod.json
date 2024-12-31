@@ -9,6 +9,7 @@
   "vietnamese": {
     "name": "Warfare",
     "description": "Khí Tài kết hợp Artillery, First Aid và Ballistics",
+    "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/warfare/vietnamese"
     ]
@@ -19,12 +20,10 @@
   ],
 
   "heroClasses": [
-    "config/warfare/classes",
-    "config/warfare/open/classes"
+    "config/warfare/classes"
   ],
 
   "heroes": [
-    "config/warfare/heroes",
-    "config/warfare/open/heroes"
+    "config/warfare/heroes"
   ]
 }

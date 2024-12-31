@@ -1,22 +1,22 @@
 {
-  "name": "Cannon",
-  "description": "Support Hota Cannon",
+  "name": "HotA Ranloo",
+  "description": "Support hero HotA Ranloo",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
 
   "depends": [
-    "hota.cannon"
+    "hota.heroes"
   ],
 
   "vietnamese": {
-    "name": "Cannon",
-    "description": "Hỗ trợ Hota Cannon",
+    "name": "HotA Ranloo",
+    "description": "Hỗ trợ tướng HotA Ranloo",
     "author": "Vũ Đắc Hoàng Ân"
   },
 
-  "skills": [
-    "config/cannon"
+  "heroes": [
+    "config/ranloo"
   ]
 }

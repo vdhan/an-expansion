@@ -12,7 +12,8 @@
 
   "vietnamese": {
     "name": "HotA Uland",
-    "description": "Hỗ trợ tướng HotA Uland"
+    "description": "Hỗ trợ tướng HotA Uland",
+    "author": "Vũ Đắc Hoàng Ân"
   },
 
   "heroes": [
