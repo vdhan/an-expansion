@@ -1,0 +1,19 @@
+{
+  "hota.factory:facCommander": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.wood",
+        "val": 1,
+        "propagator": "HERO"
+      },
+
+      "earn2": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.ore",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  }
+}

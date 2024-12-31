@@ -24,6 +24,7 @@ Rebalance skills, heroes, creatures, etc.
     - Fortress: Earn 1 sulfur per day
     - Castle: Earn 1 gem per day
     - Cove: Earn 200 gold per day
+    - Factory: Earn 1 wood and 1 ore per day
 
 - Skills:
   - Archery: Archery also casts Precision at battle opening for 10/25/50 rounds

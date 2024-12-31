@@ -1,0 +1,22 @@
+{
+  "name": "Double Movement > Factory",
+  "description": "Support Factory town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+
+  "depends": [
+    "hota.factory"
+  ],
+
+  "vietnamese": {
+    "name": "Double Movement > Factory",
+    "description": "Hỗ trợ thành Factory",
+    "author": "Vũ Đắc Hoàng Ân"
+  },
+
+  "creatures": [
+    "config/factory"
+  ]
+}

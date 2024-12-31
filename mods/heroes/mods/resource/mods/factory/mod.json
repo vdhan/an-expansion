@@ -1,0 +1,29 @@
+{
+  "name": "Resource > Factory",
+  "description": "Support Factory town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "hota.factory"
+  ],
+
+  "changelog": {
+    "Factory": ["Earn 1 wood and 1 ore per day"]
+  },
+
+  "vietnamese": {
+    "name": "Resource > Factory",
+    "description": "Hỗ trợ thành Factory",
+    "author": "Vũ Đắc Hoàng Ân",
+    "changelog": {
+      "Factory": ["Thêm 1 gỗ và 1 quặng mỗi ngày"]
+    }
+  },
+
+  "creatures": [
+    "config/factory-resource"
+  ]
+}
