@@ -7,10 +7,6 @@
   "modType": "Graphical",
   "keepDisabled": true,
 
-  "conflicts": [
-		"vcmi-extras.truetypefonts"
-  ],
-
   "vietnamese": {
     "name": "Modern Font",
     "description": "Phông chữ hỗ trợ Tiếng Việt và các ngôn ngữ khác"
