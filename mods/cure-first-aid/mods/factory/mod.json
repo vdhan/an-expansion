@@ -1,0 +1,22 @@
+{
+  "name": "Cure First Aid > Factory",
+  "description": "Support Factory town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+
+  "depends": [
+    "hota.factory"
+  ],
+
+  "vietnamese": {
+    "name": "Cure First Aid > Factory",
+    "description": "Hỗ trợ thành Factory",
+    "author": "Vũ Đắc Hoàng Ân"
+  },
+
+  "heroes": [
+    "config/factory"
+  ]
+}

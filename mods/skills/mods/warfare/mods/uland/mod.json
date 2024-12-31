@@ -1,18 +1,18 @@
 {
-  "name": "HotA Uland",
-  "description": "Support hero HotA Uland",
+  "name": "Uland",
+  "description": "Support hero Uland",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
 
-  "depends": [
+  "softDepends": [
     "hota.gamebalance"
   ],
 
   "vietnamese": {
-    "name": "HotA Uland",
-    "description": "Hỗ trợ tướng HotA Uland",
+    "name": "Uland",
+    "description": "Hỗ trợ tướng Uland",
     "author": "Vũ Đắc Hoàng Ân"
   },
 

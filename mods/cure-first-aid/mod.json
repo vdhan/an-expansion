@@ -9,7 +9,8 @@
 
   "vietnamese": {
     "name": "Cure First Aid",
-    "description": "Lều sơ cứu còn xóa hiệu ứng bất lợi"
+    "description": "Lều sơ cứu còn xóa hiệu ứng bất lợi",
+    "author": "Vũ Đắc Hoàng Ân"
   },
 
   "spells": [
@@ -22,5 +23,9 @@
 
   "creatures": [
     "config/cure-first-aid/creature"
+  ],
+
+  "heroes": [
+    "config/cure-first-aid/hero"
   ]
 }
