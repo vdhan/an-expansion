@@ -1,25 +1,25 @@
 {
-  "name": "Specialty > Cove",
-  "description": "Support Cove town",
+  "name": "Specialty > Factory",
+  "description": "Support Factory town",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Heroes",
 
   "depends": [
-    "hota.cove"
+    "hota.factory"
   ],
 
   "vietnamese": {
-    "name": "Specialty > Cove",
-    "description": "Hỗ trợ thành Cove",
+    "name": "Specialty > Factory",
+    "description": "Hỗ trợ thành Factory",
     "author": "Vũ Đắc Hoàng Ân",
     "translations": [
-      "translation/cove-specialty/vietnamese"
+      "translation/factory-specialty/vietnamese"
     ]
   },
 
   "heroes": [
-    "config/cove-specialty"
+    "config/factory-specialty"
   ]
 }

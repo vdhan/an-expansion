@@ -1,0 +1,21 @@
+{
+  "hota.factory:14_Bertram": {
+    "texts": {
+      "specialty": {
+        "name": "Gold",
+        "description": "Increases kingdom's income by 350 gold per day, plus 50 gold for each level gained"
+      }
+    },
+
+    "specialty": {
+      "bonuses": {
+        "more": {
+          "type": "GENERATE_RESOURCE",
+          "subtype": "resource.gold",
+          "val": 50,
+          "updater": "TIMES_HERO_LEVEL"
+        }
+      }
+    }
+  }
+}
