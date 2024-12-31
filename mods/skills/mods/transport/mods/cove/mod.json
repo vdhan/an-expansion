@@ -1,0 +1,26 @@
+{
+  "name": "Transport > Cove",
+  "description": "Support Cove town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "depends": [
+    "hota.cove"
+  ],
+
+  "vietnamese": {
+    "name": "Transport > Cove",
+    "description": "Hỗ trợ thành Cove",
+    "author": "Vũ Đắc Hoàng Ân"
+  },
+
+  "heroClasses": [
+    "config/cove/classes"
+  ],
+
+  "heroes": [
+    "config/cove/heroes"
+  ]
+}

@@ -9,6 +9,7 @@
   "vietnamese": {
     "name": "Transport",
     "description": "Vận Chuyển giảm 25%/50%/75% bất lợi khi di chuyển và tăng 5%/10%/20% di chuyển trên bộ",
+    "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/transport/vietnamese"
     ]
@@ -19,12 +20,10 @@
   ],
 
   "heroClasses": [
-    "config/transport/classes",
-    "config/transport/open/classes"
+    "config/transport/classes"
   ],
 
   "heroes": [
-    "config/transport/heroes",
-    "config/transport/open/heroes"
+    "config/transport/heroes"
   ]
 }

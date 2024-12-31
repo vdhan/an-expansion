@@ -15,14 +15,8 @@ Rebalance skills, heroes, creatures, etc.
 
 - Heroes:
   - Skeleton Warrior: Necropolis heroes can upgrade Skeleton to Skeleton Warrior
-  - Double Movement: Heroes have double movement (H3 Complete towns)
-    - Double Movement > Heavenly Forge 2000: Support Heavenly Forge 2000 town
-    - Double Movement > Forge: Support Forge town
-    - Double Movement > Pavilion: Support Pavilion town
-    - Double Movement > Greenhouse: Support Greenhouse town
-    - Double Movement > Cove: Support Cove town
-  - Specialty: Improve heroes resources specialties (H3 Complete towns)
-    - Specialty > Cove: Support Cove town
+  - Double Movement: Heroes have double movement
+  - Specialty: Improve heroes resources specialties
   - Resource: Heroes earn resources
     - Stronghold: Earn 1 crystal per day
     - Rampart, Dungeon: Earn 1 wood and 1 ore per day
@@ -48,23 +42,14 @@ Rebalance skills, heroes, creatures, etc.
   - Estates: Estates now increases 250/500/1000 gold, 1 wood and 1 ore per day
   - Mysticism: Mysticism now regenerates 5/10/15 spell points per day
   - Transport: Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement
-    - Warfare Transport: Some heroes have both starting skills: Warfare and Transport
-    - Interference Transport: Some heroes have both starting skills: Hota Interference and Transport
-
   - Warfare: Warfare combines Artillery, First Aid and Ballistics
     - Gold Tower Arrow: Support WoG Gold Tower Arrow
-    - HotA Uland: HotA Uland has starting skill Warfare
-    - Warfare > Cure First Aid: Support Cure First Aid
-    - Warfare > Cannon: Support Hota Cannon
 
 - Creature Upgrading: Some creatures have more upgrades
-  - Second Upgrade: Some creatures have second upgrade
-    - Necropolis: Zombies can be upgraded to Mummies
-    - Rampart: Dendroid Soldiers can be upgraded to Dendroid Warriors
-
   - Level 8 Upgrade: 7th level upgraded creatures can be upgraded to 8th (H3 Complete towns)
-    - Vault of Ashes: Support Hota Vault of Ashes
-    - LV8 > Second Upgrade: Some factions have both 8th level and second upgrade
+  - Second Upgrade: Some creatures have second upgrade
+    - Necropolis: Zombies -> Mummies
+    - Rampart: Dendroid Soldiers -> Dendroid Warriors
 
   - Neutral Upgrade: Some neutral creatures can be upgraded
     - Peasant -> Rogue
