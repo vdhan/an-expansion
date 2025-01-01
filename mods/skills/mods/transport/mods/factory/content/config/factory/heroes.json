@@ -1,0 +1,15 @@
+{
+  "hota.factory:11_Celestine": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "transport",
+        "level": "basic"
+      }
+    ]
+  }
+}

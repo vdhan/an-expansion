@@ -81,6 +81,7 @@
   },
 
   "core:pathfinding": {
+    "special": true,
     "gainChance": {
       "might": 0,
       "magic": 0
@@ -88,6 +89,7 @@
   },
 
   "core:logistics": {
+    "special": true,
     "gainChance": {
       "might": 0,
       "magic": 0

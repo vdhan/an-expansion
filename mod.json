@@ -1,7 +1,7 @@
 {
   "name": "An's Expansion",
   "description": "Rebalances skills, heroes, creatures, etc.",
-  "version": "3.3.7",
+  "version": "3.3.8",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://github.com/vdhan/an-expansion",
   "modType": "Expansion",
@@ -9,7 +9,7 @@
   "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
 
   "compatibility": {
-		"min": "1.5.0"
+		"min": "1.6.0"
 	},
 
   "settings": {
@@ -31,6 +31,7 @@
   },
 
   "changelog": {
+    "3.3.8": ["Update to VCMI 1.6"],
     "3.3.6": ["Update to VCMI 1.5"],
     "3.3.5": ["Update to VCMI 1.4"],
     "3.3.0": ["Update to VCMI 1.3"]

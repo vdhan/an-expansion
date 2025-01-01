@@ -1,0 +1,15 @@
+{
+  "hota.factory:factoryAClass": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
+  },
+
+  "hota.factory:factoryMClass": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
+  }
+}

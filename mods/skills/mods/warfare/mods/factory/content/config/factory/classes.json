@@ -1,0 +1,17 @@
+{
+  "hota.factory:factoryAClass": {
+    "secondarySkills": {
+      "artillery": 0,
+      "ballistics": 0,
+      "firstAid": 0
+    }
+  },
+
+  "hota.factory:factoryMClass": {
+    "secondarySkills": {
+      "artillery": 0,
+      "ballistics": 0,
+      "firstAid": 0
+    }
+  }
+}

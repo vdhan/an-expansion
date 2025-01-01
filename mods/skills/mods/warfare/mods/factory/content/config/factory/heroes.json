@@ -1,0 +1,38 @@
+{
+  "hota.factory:s03_Valquest": {
+    "skills": [
+      {
+        "skill": "armorer",
+        "level": "basic"
+      },
+
+      {
+        "skill": "warfare",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "hota.factory:05_Floribert": {
+    "skills": [
+      {
+        "skill": "armorer",
+        "level": "basic"
+      },
+
+      {
+        "skill": "warfare",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "hota.factory:08_Morton": {
+    "skills": [
+      {
+        "skill": "warfare",
+        "level": "basic"
+      }
+    ]
+  }
+}

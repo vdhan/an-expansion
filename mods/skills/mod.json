@@ -6,7 +6,7 @@
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
 
-  "softDepends": [
+  "conflicts": [
 		"ultimate-balance.skills-balance"
   ],
 

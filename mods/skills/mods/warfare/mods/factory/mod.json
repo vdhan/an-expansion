@@ -1,0 +1,26 @@
+{
+  "name": "Warfare > Factory",
+  "description": "Support Factory town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "depends": [
+    "hota.factory"
+  ],
+
+  "vietnamese": {
+    "name": "Warfare > Factory",
+    "description": "Hỗ trợ thành Factory",
+    "author": "Vũ Đắc Hoàng Ân"
+  },
+
+  "heroClasses": [
+    "config/factory/classes"
+  ],
+
+  "heroes": [
+    "config/factory/heroes"
+  ]
+}

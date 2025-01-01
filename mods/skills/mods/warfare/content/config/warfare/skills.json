@@ -144,6 +144,7 @@
   },
 
   "core:artillery": {
+    "special": true,
     "gainChance": {
       "might": 0,
       "magic": 0
@@ -151,6 +152,7 @@
   },
 
   "core:firstAid": {
+    "special": true,
     "gainChance": {
       "might": 0,
       "magic": 0
@@ -158,6 +160,7 @@
   },
 
   "core:ballistics": {
+    "special": true,
     "gainChance": {
       "might": 0,
       "magic": 0
