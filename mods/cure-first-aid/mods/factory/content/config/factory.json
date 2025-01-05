@@ -1,5 +1,5 @@
 {
-  "hota.factory:s03_Valquest": {
+  "hota.factory:valquest": {
     "specialty": {
       "bonuses": {
         "firstAid": {
@@ -14,7 +14,7 @@
     }
   },
 
-  "hota.factory:05_Floribert": {
+  "hota.factory:05floribert": {
     "specialty": {
       "bonuses": {
         "firstAid": {

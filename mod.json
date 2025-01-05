@@ -1,7 +1,7 @@
 {
   "name": "An's Expansion",
   "description": "Rebalances skills, heroes, creatures, etc.",
-  "version": "3.3.8",
+  "version": "3.3.9",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://github.com/vdhan/an-expansion",
   "modType": "Expansion",
@@ -31,6 +31,7 @@
   },
 
   "changelog": {
+    "3.3.9": ["Fix compatibility with Hota 1.7.58"],
     "3.3.8": ["Update to VCMI 1.6"],
     "3.3.6": ["Update to VCMI 1.5"],
     "3.3.5": ["Update to VCMI 1.4"],

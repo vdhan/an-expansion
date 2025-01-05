@@ -1,5 +1,5 @@
 {
-  "hota.factory:factoryAClass": {
+  "hota.factory:mercenary": {
     "secondarySkills": {
       "artillery": 0,
       "ballistics": 0,
@@ -7,7 +7,7 @@
     }
   },
 
-  "hota.factory:factoryMClass": {
+  "hota.factory:artificer": {
     "secondarySkills": {
       "artillery": 0,
       "ballistics": 0,

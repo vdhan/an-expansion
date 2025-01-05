@@ -1,5 +1,5 @@
 {
-  "hota.factory:s03_Valquest": {
+  "hota.factory:valquest": {
     "skills": [
       {
         "skill": "armorer",
@@ -13,7 +13,7 @@
     ]
   },
 
-  "hota.factory:05_Floribert": {
+  "hota.factory:05floribert": {
     "skills": [
       {
         "skill": "armorer",
@@ -27,7 +27,7 @@
     ]
   },
 
-  "hota.factory:08_Morton": {
+  "hota.factory:08morton": {
     "skills": [
       {
         "skill": "warfare",
