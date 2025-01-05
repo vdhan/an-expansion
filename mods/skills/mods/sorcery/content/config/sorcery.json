@@ -10,8 +10,12 @@
     },
 
     "basic": {
-      "description": "{Basic Sorcery}\n\nCauses a hero's spells to inflict an additional 5% damage in combat and increases power skill by 1",
+      "description": "{Basic Sorcery}\n\nCauses a hero's spells to inflict an additional 7% damage in combat and increases power skill by 1",
       "effects": {
+        "main": {
+          "val": 7
+        },
+
         "xtra": {
           "val": 1
         }
@@ -19,8 +23,12 @@
     },
 
     "advanced": {
-      "description": "{Advanced Sorcery}\n\nCauses a hero's spells to inflict an additional 10% damage in combat and increases power skill by 2",
+      "description": "{Advanced Sorcery}\n\nCauses a hero's spells to inflict an additional 17% damage in combat and increases power skill by 2",
       "effects": {
+        "main": {
+          "val": 17
+        },
+
         "xtra": {
           "val": 2
         }
@@ -28,8 +36,12 @@
     },
 
     "expert": {
-      "description": "{Expert Sorcery}\n\nCauses a hero's spells to inflict an additional 15% damage in combat and increases power skill by 3",
+      "description": "{Expert Sorcery}\n\nCauses a hero's spells to inflict an additional 23% damage in combat and increases power skill by 3",
       "effects": {
+        "main": {
+          "val": 23
+        },
+
         "xtra": {
           "val": 3
         }
