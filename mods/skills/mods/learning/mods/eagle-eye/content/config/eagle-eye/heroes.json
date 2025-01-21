@@ -1,0 +1,113 @@
+{
+  "core:sanya": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "learning",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:malcom": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "learning",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:serena": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "learning",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:ash": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "learning",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:nimbus": {
+    "skills": [
+      {
+        "skill": "necromancy",
+        "level": "basic"
+      },
+
+      {
+        "skill": "learning",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:geon": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "learning",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:oris": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "learning",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "core:tiva": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "learning",
+        "level": "basic"
+      }
+    ]
+  }
+}

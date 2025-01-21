@@ -5,30 +5,30 @@
         "cannon": {
           "type": "BONUS_DAMAGE_PERCENTAGE",
           "subtype": "creature.cannon",
-          "val": 0
+          "val": 0,
+          "valueType": "BASE_NUMBER"
         },
 
         "cannon2": {
           "type": "BONUS_DAMAGE_CHANCE",
           "subtype": "creature.cannon",
-          "val": 100
+          "val": 0,
+          "valueType": "BASE_NUMBER"
         }
       }
     },
 
     "advanced": {
       "effects": {
-        "cannon": {
-          "val": 100
-        }
+        "cannon": {"val": 100},
+        "cannon2": {"val": 75}
       }
     },
 
     "expert": {
       "effects": {
-        "cannon": {
-          "val": 200
-        }
+        "cannon": {"val": 200},
+        "cannon2": {"val": 100}
       }
     }
   }

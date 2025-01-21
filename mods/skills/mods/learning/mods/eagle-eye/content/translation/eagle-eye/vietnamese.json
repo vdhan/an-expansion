@@ -1,0 +1,5 @@
+{
+  "skill.core.learning.description.basic": "{Học Tập sơ cấp}\n\nKinh nghiệm kiếm được thêm 5% + 5% mỗi cấp. 20% cơ hội học phép đến cấp 2 dùng trong trận",
+  "skill.core.learning.description.advanced": "{Học Tập trung cấp}\n\nKinh nghiệm kiếm được thêm 10% + 5% mỗi cấp. 40% cơ hội học phép đến cấp 3 dùng trong trận",
+  "skill.core.learning.description.expert": "{Học Tập cao cấp}\n\nKinh nghiệm kiếm được thêm 15% + 5% mỗi cấp. 60% cơ hội học phép đến cấp 4 dùng trong trận"
+}

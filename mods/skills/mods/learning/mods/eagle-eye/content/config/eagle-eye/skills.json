@@ -1,0 +1,49 @@
+{
+  "core:learning": {
+    "base": {
+      "effects": {
+        "eagle": {
+          "type": "LEARN_BATTLE_SPELL_CHANCE",
+          "valueType": "BASE_NUMBER"
+        },
+
+        "eagle2": {
+          "type": "LEARN_BATTLE_SPELL_LEVEL_LIMIT",
+          "valueType": "BASE_NUMBER"
+        }
+      }
+    },
+
+    "basic": {
+      "description": "{Basic Scholar}\n\nIncreases earned experiences by 5% + 5% per level. 20% chance to learn any spell up to 2nd level used in combat",
+      "effects": {
+        "eagle": {"val": 20},
+        "eagle2": {"val": 2}
+      }
+    },
+
+    "advanced": {
+      "description": "{Advanced Scholar}\n\nIncreases earned experiences by 10% + 5% per level. 40% chance to learn any spell up to 3rd level used in combat",
+      "effects": {
+        "eagle": {"val": 40},
+        "eagle2": {"val": 3}
+      }
+    },
+
+    "expert": {
+      "description": "{Expert Scholar}\n\nIncreases earned experiences by 15% + 5% per level. 60% chance to learn any spell up to 4th level used in combat",
+      "effects": {
+        "eagle": {"val": 60},
+        "eagle2": {"val": 4}
+      }
+    }
+  },
+
+  "core:eagleEye": {
+    "special": true,
+    "gainChance": {
+      "magic": 0,
+      "might": 0
+    }
+  }
+}

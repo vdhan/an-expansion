@@ -1,0 +1,109 @@
+{
+  "core:knight": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:cleric": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:planeswalker": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:elementalist": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:warlock": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:overlord": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:beastmaster": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:witch": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:demoniac": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:heretic": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:deathknight": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:necromancer": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:ranger": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:druid": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:barbarian": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:battlemage": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:alchemist": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  },
+
+  "core:wizard": {
+    "secondarySkills": {
+      "eagleEye": 0
+    }
+  }
+}

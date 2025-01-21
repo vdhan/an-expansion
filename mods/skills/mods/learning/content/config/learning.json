@@ -4,9 +4,9 @@
       "effects": {
         "xtra": {
           "type": "HERO_EXPERIENCE_GAIN_PERCENT",
+          "val": 5,
           "valueType": "PERCENT_TO_BASE",
-          "updater": "TIMES_HERO_LEVEL",
-          "val": 5
+          "updater": "TIMES_HERO_LEVEL"
         }
       }
     },
