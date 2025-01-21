@@ -31,7 +31,7 @@
   },
 
   "changelog": {
-    "3.4.0": ["Remove Tactics", "Obsolete Eagle Eye"],
+    "3.4.0": ["Remove Tactics", "Obsolete Eagle Eye", "HotA Ranloo -> HotA Heroes"],
     "3.3.9": ["Fix compatibility with Hota 1.7.58"],
     "3.3.8": ["Update to VCMI 1.6"],
     "3.3.6": ["Update to VCMI 1.5"],
