@@ -5,24 +5,21 @@
         "cureFirstAid": {
           "type": "SPECIFIC_SPELL_POWER",
           "subtype": "spell.cureFirstAid",
-          "val": 100
+          "val": 100,
+          "valueType": "BASE_NUMBER"
         }
       }
     },
 
     "advanced": {
       "effects": {
-        "cureFirstAid": {
-          "val": 150
-        }
+        "cureFirstAid": {"val": 150}
       }
     },
 
     "expert": {
       "effects": {
-        "cureFirstAid": {
-          "val": 200
-        }
+        "cureFirstAid": {"val": 200}
       }
     }
   }
