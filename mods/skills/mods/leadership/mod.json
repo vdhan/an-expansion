@@ -1,6 +1,6 @@
 {
   "name": "Leadership",
-  "description": "Leadership also casts Mirth at battle opening for 10/25/50 rounds and increases attack by 1/2/3",
+  "description": "Leadership also increases attack by 1/2/3 and casts Mirth permanently",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -8,7 +8,7 @@
 
   "vietnamese": {
     "name": "Leadership",
-    "description": "Lãnh Đạo đầu trận còn ếm Khích Lệ cho 10/25/50 vòng và tăng 1/2/3 công",
+    "description": "Lãnh Đạo còn tăng 1/2/3 công và ếm Khích Lệ vĩnh cửu",
     "translations": [
       "translation/leadership/vietnamese"
     ]

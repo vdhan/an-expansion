@@ -2,9 +2,10 @@
   "core:leadership": {
     "base": {
       "effects": {
-        "cast": {
-          "type": "OPENING_BATTLE_SPELL",
+        "enchant": {
+          "type": "ENCHANTED",
           "subtype": "spell.mirth",
+          "val": 3,
           "valueType": "BASE_NUMBER"
         },
 
@@ -17,25 +18,22 @@
     },
 
     "basic": {
-      "description": "{Basic Leadership}\n\nIncreases morale & attack by 1 and casts Mirth at battle opening for 10 rounds",
+      "description": "{Basic Leadership}\n\nIncreases morale & attack by 1 and casts Mirth permanently",
       "effects": {
-        "cast": {"val": 10},
         "attack": {"val": 1}
       }
     },
 
     "advanced": {
-      "description": "{Advanced Leadership}\n\nIncreases morale & attack by 2 and casts Mirth at battle opening for 25 rounds",
+      "description": "{Advanced Leadership}\n\nIncreases morale & attack by 2 and casts Mirth permanently",
       "effects": {
-        "cast": {"val": 25},
         "attack": {"val": 2}
       }
     },
 
     "expert": {
-      "description": "{Expert Leadership}\n\nIncreases morale & attack by 3 and casts Mirth at battle opening for 50 rounds",
+      "description": "{Expert Leadership}\n\nIncreases morale & attack by 3 and casts Mirth permanently",
       "effects": {
-        "cast": {"val": 50},
         "attack": {"val": 3}
       }
     }

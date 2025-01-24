@@ -1,5 +1,5 @@
 {
-  "skill.core.leadership.description.basic": "{Lãnh Đạo sơ cấp}\n\nTăng 1 công và sĩ khí. Đầu trận ếm Khích Lệ cho 10 vòng",
-  "skill.core.leadership.description.advanced": "{Lãnh Đạo trung cấp}\n\nTăng 2 công và sĩ khí. Đầu trận ếm Khích Lệ cho 25 vòng",
-  "skill.core.leadership.description.expert": "{Lãnh Đạo cao cấp}\n\nTăng 3 công và sĩ khí. Đầu trận ếm Khích Lệ cho 50 vòng"
+  "skill.core.leadership.description.basic": "{Lãnh Đạo sơ cấp}\n\nTăng 1 sĩ khí và công. Ếm Khích Lệ vĩnh cửu",
+  "skill.core.leadership.description.advanced": "{Lãnh Đạo trung cấp}\n\nTăng 2 sĩ khí và công. Ếm Khích Lệ vĩnh cửu",
+  "skill.core.leadership.description.expert": "{Lãnh Đạo cao cấp}\n\nTăng 3 sĩ khí và công. Ếm Khích Lệ vĩnh cửu"
 }
