@@ -5,13 +5,15 @@
         "wood": {
           "type": "GENERATE_RESOURCE",
           "subtype": "resource.wood",
-          "val": 1
+          "val": 1,
+          "valueType": "BASE_NUMBER"
         },
 
         "ore": {
           "type": "GENERATE_RESOURCE",
           "subtype": "resource.ore",
-          "val": 1
+          "val": 1,
+          "valueType": "BASE_NUMBER"
         }
       }
     },
@@ -19,27 +21,21 @@
     "basic": {
       "description": "{Basic Estates}\n\nIncreases 250 gold, 1 wood and 1 ore per day",
       "effects": {
-        "main": {
-          "val": 250
-        }
+        "main": {"val": 250}
       }
     },
 
     "advanced": {
       "description": "{Advanced Estates}\n\nIncreases 500 gold, 1 wood and 1 ore per day",
       "effects": {
-        "main": {
-          "val": 500
-        }
+        "main": {"val": 500}
       }
     },
 
     "expert": {
       "description": "{Expert Estates}\n\nIncreases 1000 gold, 1 wood and 1 ore per day",
       "effects": {
-        "main": {
-          "val": 1000
-        }
+        "main": {"val": 1000}
       }
     }
   }
