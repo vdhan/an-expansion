@@ -52,7 +52,8 @@
           "border": "lv8/border/hydra-pond",
           "area": "lv8/area/hydra-pond",
           "x": 587,
-          "y": 263
+          "y": 263,
+          "z": 5
         }
       },
 

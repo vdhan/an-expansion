@@ -48,7 +48,8 @@
           "border": "second-upgrade/border/graveyard",
           "area": "second-upgrade/area/graveyard",
           "x": 498,
-          "y": 224
+          "y": 224,
+          "z": 1
         }
       },
 
