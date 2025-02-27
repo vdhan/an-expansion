@@ -98,7 +98,8 @@
 
       {
         "bonus": {
-          "type": "NONEVIL_ALIGNMENT_MIX"
+          "type": "NONEVIL_ALIGNMENT_MIX",
+          "propagator": "HERO"
         },
 
         "values": [false, false, false, false, false, false, false, true, true, true]
