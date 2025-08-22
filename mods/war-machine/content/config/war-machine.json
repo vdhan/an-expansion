@@ -1,66 +1,66 @@
 {
-  "core:ballista": {
-    "damage": {
-      "min": 5,
-      "max": 5
-    },
+	"core:ballista" : {
+		"damage" : {
+			"min" : 5,
+			"max" : 5
+		},
 
-    "abilities": {
-      "upgrade": {
-        "type": "CREATURE_DAMAGE",
-        "subtype": "creatureDamageBoth",
-        "updater": {
-			"valPer20" : 10,
-			"stepSize" : 2,
-          "type": "GROWS_WITH_LEVEL"
-        },
+		"abilities" : {
+			"upgrade" : {
+				"type" : "CREATURE_DAMAGE",
+				"subtype" : "creatureDamageBoth",
+				"updater" : {
+					"valPer20" : 10,
+					"stepSize" : 2,
+					"type" : "GROWS_WITH_LEVEL"
+				},
 
-        "propagator": "HERO",
-        "limiters": [
-          {
-            "type": "CREATURE_TYPE_LIMITER",
-            "creature": "ballista",
-			"includeUpgrades" : false
-          }
-        ]
-      }
-    }
-  },
+				"propagator" : "HERO",
+				"limiters" : [
+					{
+						"type" : "CREATURE_TYPE_LIMITER",
+						"creature" : "ballista",
+						"includeUpgrades" : false
+					}
+				]
+			}
+		}
+	},
 
-  "core:firstAidTent": {
-    "hitPoints": 150,
-    "abilities": {
-      "health": {
-        "type": "STACK_HEALTH",
-        "updater": {
-			"valPer20" : 8,
-			"stepSize" : 2,
-          "type": "GROWS_WITH_LEVEL"
-        },
+	"core:firstAidTent" : {
+		"hitPoints" : 150,
+		"abilities" : {
+			"health" : {
+				"type" : "STACK_HEALTH",
+				"updater" : {
+					"valPer20" : 8,
+					"stepSize" : 2,
+					"type" : "GROWS_WITH_LEVEL"
+				},
 
-        "propagator": "HERO"
-      }
-    }
-  },
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "core:ammoCart": {
-    "hitPoints": 300,
-    "abilities": {
-      "reduceSpellCost": {
-        "type": "CHANGES_SPELL_COST_FOR_ALLY",
-        "val": 1
-      },
+	"core:ammoCart" : {
+		"hitPoints" : 300,
+		"abilities" : {
+			"reduceSpellCost" : {
+				"type" : "CHANGES_SPELL_COST_FOR_ALLY",
+				"val" : 1
+			},
 
-      "velocity": {
-        "type": "STACKS_SPEED",
-        "updater": {
-			"valPer20" : 8,
-			"stepSize" : 2,
-          "type": "GROWS_WITH_LEVEL"
-        },
+			"velocity" : {
+				"type" : "STACKS_SPEED",
+				"updater" : {
+					"valPer20" : 8,
+					"stepSize" : 2,
+					"type" : "GROWS_WITH_LEVEL"
+				},
 
-        "propagator": "HERO"
-      }
-    }
-  }
+				"propagator" : "HERO"
+			}
+		}
+	}
 }

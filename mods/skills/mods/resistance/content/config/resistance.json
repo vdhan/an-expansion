@@ -1,43 +1,45 @@
 {
-  "core:resistance": {
-    "base": {
-      "effects": {
-        "main": {
-          "type": "PRIMARY_SKILL",
-          "subtype": "spellpower",
-          "valueType": "PERCENT_TO_ALL",
-          "propagator": "BATTLE_WIDE",
-          "limiters": ["OPPOSITE_SIDE"],
-          "propagationUpdater": "BONUS_OWNER_UPDATER"
-        }
-      }
-    },
+	"core:resistance" : {
+		"base" : {
+			"effects" : {
+				"main" : {
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "spellpower",
+					"valueType" : "PERCENT_TO_ALL",
+					"propagator" : "BATTLE_WIDE",
+					"limiters" : [
+						"OPPOSITE_SIDE"
+					],
+					"propagationUpdater" : "BONUS_OWNER_UPDATER"
+				}
+			}
+		},
 
-    "basic": {
-      "description": "{Basic Resistance}\n\nReduces enemy hero 10% spell power",
-      "effects": {
-        "main": {
-          "val": -10
-        }
-      }
-    },
+		"basic" : {
+			"description" : "{Basic Resistance}\n\nReduces enemy hero 10% spell power",
+			"effects" : {
+				"main" : {
+					"val" : -10
+				}
+			}
+		},
 
-    "advanced": {
-      "description": "{Advanced Resistance}\n\nReduces enemy hero 20% spell power",
-      "effects": {
-        "main": {
-          "val": -20
-        }
-      }
-    },
+		"advanced" : {
+			"description" : "{Advanced Resistance}\n\nReduces enemy hero 20% spell power",
+			"effects" : {
+				"main" : {
+					"val" : -20
+				}
+			}
+		},
 
-    "expert": {
-      "description": "{Expert Resistance}\n\nReduces enemy hero 30% spell power",
-      "effects": {
-        "main": {
-          "val": -30
-        }
-      }
-    }
-  }
+		"expert" : {
+			"description" : "{Expert Resistance}\n\nReduces enemy hero 30% spell power",
+			"effects" : {
+				"main" : {
+					"val" : -30
+				}
+			}
+		}
+	}
 }

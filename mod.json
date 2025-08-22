@@ -1,50 +1,69 @@
 {
-  "name": "An's Expansion",
-  "description": "Rebalances skills, heroes, creatures, etc.",
-  "version": "3.4.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://github.com/vdhan/an-expansion",
-  "modType": "Expansion",
-  "licenseName": "Creative Commons Attribution-NonCommercial-ShareAlike",
-  "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+	"name" : "An's Expansion",
+	"description" : "Rebalances skills, heroes, creatures, etc.",
+	"version" : "3.4.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://github.com/vdhan/an-expansion",
+	"modType" : "Expansion",
+	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
 
-  "compatibility": {
-		"min": "1.7.0"
+	"compatibility" : {
+		"min" : "1.7.0"
 	},
 
-  "settings": {
-    "heroes": {
-      "startingStackChances": [100, 100, 100]
-    },
+	"settings" : {
+		"heroes" : {
+			"startingStackChances" : [
+				100,
+				100,
+				100
+			]
+		},
 
-    "towns": {
-      "startingDwellingChances": [100, 100]
-    },
+		"towns" : {
+			"startingDwellingChances" : [
+				100,
+				100
+			]
+		},
 
-    "combat": {
+		"combat" : {
 			"badLuckChance" : [
 				2,
 				4,
 				6
 			]
-    },
+		},
 
-		"spells": {
-			"dimensionDoorTriggersGuards": true
+		"spells" : {
+			"dimensionDoorTriggersGuards" : true
 		}
-  },
+	},
 
-  "changelog": {
-    "3.4.0": ["Update to vcmi-1.7 format"],
-	"3.3.9": ["Fix compatibility with Hota 1.7.58"],
-    "3.3.8": ["Update to VCMI 1.6"],
-    "3.3.6": ["Update to VCMI 1.5"],
-    "3.3.5": ["Update to VCMI 1.4"],
-    "3.3.0": ["Update to VCMI 1.3"]
-  },
+	"changelog" : {
+		"3.4.0" : [
+			"Update to vcmi-1.7 format"
+		],
+		"3.3.9" : [
+			"Fix compatibility with Hota 1.7.58"
+		],
+		"3.3.8" : [
+			"Update to VCMI 1.6"
+		],
+		"3.3.6" : [
+			"Update to VCMI 1.5"
+		],
+		"3.3.5" : [
+			"Update to VCMI 1.4"
+		],
+		"3.3.0" : [
+			"Update to VCMI 1.3"
+		]
+	},
 
-  "vietnamese": {
-    "name": "An's Expansion",
-    "description": "Cân bằng các kĩ năng, tướng, quái, ..."
-  }
+	"vietnamese" : {
+		"name" : "An's Expansion",
+		"description" : "Cân bằng các kĩ năng, tướng, quái, ..."
+	}
 }

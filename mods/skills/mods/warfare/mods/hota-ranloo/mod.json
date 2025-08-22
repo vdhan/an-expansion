@@ -1,22 +1,22 @@
 {
-  "name": "HotA Ranloo",
-  "description": "Support hero HotA Ranloo",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "HotA Ranloo",
+	"description" : "Support hero HotA Ranloo",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "depends": [
-    "hota.heroes"
-  ],
+	"depends" : [
+		"hota.heroes"
+	],
 
-  "vietnamese": {
-    "name": "HotA Ranloo",
-    "description": "Hỗ trợ tướng HotA Ranloo",
-    "author": "Vũ Đắc Hoàng Ân"
-  },
+	"vietnamese" : {
+		"name" : "HotA Ranloo",
+		"description" : "Hỗ trợ tướng HotA Ranloo",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
 
-  "heroes": [
-    "config/ranloo"
-  ]
+	"heroes" : [
+		"config/ranloo"
+	]
 }

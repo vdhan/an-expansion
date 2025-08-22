@@ -1,46 +1,46 @@
 {
-  "core:rissa": {
-    "texts": {
-      "specialty": {
-        "name": "Mercury",
-        "description": "Increases kingdom's mercury production by 1 per day for every 10 levels"
-      }
-    },
+	"core:rissa" : {
+		"texts" : {
+			"specialty" : {
+				"name" : "Mercury",
+				"description" : "Increases kingdom's mercury production by 1 per day for every 10 levels"
+			}
+		},
 
-    "specialty": {
-      "bonuses": {
-        "mercury": {
-          "updater": {
-			"valPer20" : 4,
-			"stepSize" : 2,
-            "type": "GROWS_WITH_LEVEL"
-          }
-        }
-      }
-    }
-  },
+		"specialty" : {
+			"bonuses" : {
+				"mercury" : {
+					"updater" : {
+						"valPer20" : 4,
+						"stepSize" : 2,
+						"type" : "GROWS_WITH_LEVEL"
+					}
+				}
+			}
+		}
+	},
 
-  "core:aine": {
-    "texts": {
-      "specialty": {
-        "name": "Gold",
-        "description": "Increases kingdom's income by 300 gold per day, plus 50 gold for each level gained"
-      }
-    },
+	"core:aine" : {
+		"texts" : {
+			"specialty" : {
+				"name" : "Gold",
+				"description" : "Increases kingdom's income by 300 gold per day, plus 50 gold for each level gained"
+			}
+		},
 
-    "specialty": {
-      "bonuses": {
-        "gold": {
-          "val": 300
-        },
+		"specialty" : {
+			"bonuses" : {
+				"gold" : {
+					"val" : 300
+				},
 
-        "more": {
-          "type": "GENERATE_RESOURCE",
-          "subtype": "gold",
-          "updater": "TIMES_HERO_LEVEL",
-          "val": 50
-        }
-      }
-    }
-  }
+				"more" : {
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "gold",
+					"updater" : "TIMES_HERO_LEVEL",
+					"val" : 50
+				}
+			}
+		}
+	}
 }

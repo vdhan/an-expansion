@@ -1,6 +1,9 @@
 {
-	"basepath": "lv8/cloud-temple/",
-	"images": [
-		{"frame": 0, "file": "1"}
+	"basepath" : "lv8/cloud-temple/",
+	"images" : [
+		{
+			"frame" : 0,
+			"file" : "1"
+		}
 	]
 }

@@ -1,173 +1,173 @@
 {
-  "warfare": {
-    "name": "Warfare",
-    "obligatoryMinor": true,
-	"specialty" : [], // no generic specialty
-    "gainChance": {
-      "might": 8,
-      "magic": 8
-    },
+	"warfare" : {
+		"name" : "Warfare",
+		"obligatoryMinor" : true,
+		"specialty" : [], // no generic specialty
+		"gainChance" : {
+			"might" : 8,
+			"magic" : 8
+		},
 
-    "base": {
-      "effects": {
-        "ctrl": {
-          "type": "MANUAL_CONTROL",
-          "subtype": "ballista",
-          "val": 100
-        },
+		"base" : {
+			"effects" : {
+				"ctrl" : {
+					"type" : "MANUAL_CONTROL",
+					"subtype" : "ballista",
+					"val" : 100
+				},
 
-        "ctrl2": {
-          "type": "MANUAL_CONTROL",
-          "subtype": "arrowTower",
-          "val": 100
-        },
+				"ctrl2" : {
+					"type" : "MANUAL_CONTROL",
+					"subtype" : "arrowTower",
+					"val" : 100
+				},
 
-        "main": {
-          "type": "BONUS_DAMAGE_PERCENTAGE",
-          "subtype": "ballista",
-          "val": 100
-        },
+				"main" : {
+					"type" : "BONUS_DAMAGE_PERCENTAGE",
+					"subtype" : "ballista",
+					"val" : 100
+				},
 
-        "artillery": {
-          "type": "BONUS_DAMAGE_CHANCE",
-          "subtype": "ballista"
-        },
+				"artillery" : {
+					"type" : "BONUS_DAMAGE_CHANCE",
+					"subtype" : "ballista"
+				},
 
-        "val2": {
-          "type": "HERO_GRANTS_ATTACKS",
-          "subtype": "ballista"
-        },
+				"val2" : {
+					"type" : "HERO_GRANTS_ATTACKS",
+					"subtype" : "ballista"
+				},
 
-        "ctrl3": {
-          "type": "MANUAL_CONTROL",
-          "subtype": "catapult",
-          "val": 100
-        },
+				"ctrl3" : {
+					"type" : "MANUAL_CONTROL",
+					"subtype" : "catapult",
+					"val" : 100
+				},
 
-        "ballistics": {
-          "type": "CATAPULT_EXTRA_SHOTS",
-          "subtype": "catapultShot"
-        },
+				"ballistics" : {
+					"type" : "CATAPULT_EXTRA_SHOTS",
+					"subtype" : "catapultShot"
+				},
 
-        "ctrl4": {
-          "type": "MANUAL_CONTROL",
-          "subtype": "firstAidTent",
-          "val": 100
-        },
+				"ctrl4" : {
+					"type" : "MANUAL_CONTROL",
+					"subtype" : "firstAidTent",
+					"val" : 100
+				},
 
-        "firstAid": {
-          "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "firstAid"
-        }
-      }
-    },
+				"firstAid" : {
+					"type" : "SPECIFIC_SPELL_POWER",
+					"subtype" : "firstAid"
+				}
+			}
+		},
 
-    "basic": {
-      "images": {
-        "large": "warfare/warfareBasicLarge",
-        "medium": "warfare/warfareBasicMedium",
-        "small": "warfare/warfareBasicSmall",
-		"scenarioBonus" : "warfare/bonusBlank.png"
-      },
+		"basic" : {
+			"images" : {
+				"large" : "warfare/warfareBasicLarge",
+				"medium" : "warfare/warfareBasicMedium",
+				"small" : "warfare/warfareBasicSmall",
+				"scenarioBonus" : "warfare/bonusBlank.png"
+			},
 
-      "description": "{Basic Warfare}\n\nBasic of Artillery, First Aid and Ballistics",
-      "effects": {
-        "ballistics": {
-          "val": 1
-        },
+			"description" : "{Basic Warfare}\n\nBasic of Artillery, First Aid and Ballistics",
+			"effects" : {
+				"ballistics" : {
+					"val" : 1
+				},
 
-        "firstAid": {
-          "val": 100
-        },
+				"firstAid" : {
+					"val" : 100
+				},
 
-        "artillery": {
-          "val": 50
-        },
+				"artillery" : {
+					"val" : 50
+				},
 
-        "val2": {
-          "val": 0
-        }
-      }
-    },
+				"val2" : {
+					"val" : 0
+				}
+			}
+		},
 
-    "advanced": {
-      "images": {
-        "large": "warfare/warfareAdvancedLarge",
-        "medium": "warfare/warfareAdvancedMedium",
-        "small": "warfare/warfareAdvancedSmall",
-		"scenarioBonus" : "warfare/bonusBlank.png"
-      },
+		"advanced" : {
+			"images" : {
+				"large" : "warfare/warfareAdvancedLarge",
+				"medium" : "warfare/warfareAdvancedMedium",
+				"small" : "warfare/warfareAdvancedSmall",
+				"scenarioBonus" : "warfare/bonusBlank.png"
+			},
 
-      "description": "{Advanced Warfare}\n\nAdvanced of Artillery, First Aid and Ballistics",
-      "effects": {
-        "ballistics": {
-          "val": 2
-        },
+			"description" : "{Advanced Warfare}\n\nAdvanced of Artillery, First Aid and Ballistics",
+			"effects" : {
+				"ballistics" : {
+					"val" : 2
+				},
 
-        "firstAid": {
-          "val": 200
-        },
+				"firstAid" : {
+					"val" : 200
+				},
 
-        "artillery": {
-          "val": 75
-        },
+				"artillery" : {
+					"val" : 75
+				},
 
-        "val2": {
-          "val": 1
-        }
-      }
-    },
+				"val2" : {
+					"val" : 1
+				}
+			}
+		},
 
-    "expert": {
-      "images": {
-        "large": "warfare/warfareExpertLarge",
-        "medium": "warfare/warfareExpertMedium",
-        "small": "warfare/warfareExpertSmall",
-		"scenarioBonus" : "warfare/bonusBlank.png"
-      },
+		"expert" : {
+			"images" : {
+				"large" : "warfare/warfareExpertLarge",
+				"medium" : "warfare/warfareExpertMedium",
+				"small" : "warfare/warfareExpertSmall",
+				"scenarioBonus" : "warfare/bonusBlank.png"
+			},
 
-      "description": "{Expert Warfare}\n\nExpert of Artillery, First Aid and Ballistics",
-      "effects": {
-        "ballistics": {
-          "val": 3
-        },
+			"description" : "{Expert Warfare}\n\nExpert of Artillery, First Aid and Ballistics",
+			"effects" : {
+				"ballistics" : {
+					"val" : 3
+				},
 
-        "firstAid": {
-          "val": 300
-        },
+				"firstAid" : {
+					"val" : 300
+				},
 
-        "artillery": {
-          "val": 100
-        },
+				"artillery" : {
+					"val" : 100
+				},
 
-        "val2": {
-          "val": 1
-        }
-      }
-    }
-  },
+				"val2" : {
+					"val" : 1
+				}
+			}
+		}
+	},
 
-  "core:artillery": {
-    "special": true,
-    "gainChance": {
-      "might": 0,
-      "magic": 0
-    }
-  },
+	"core:artillery" : {
+		"special" : true,
+		"gainChance" : {
+			"might" : 0,
+			"magic" : 0
+		}
+	},
 
-  "core:firstAid": {
-    "special": true,
-    "gainChance": {
-      "might": 0,
-      "magic": 0
-    }
-  },
+	"core:firstAid" : {
+		"special" : true,
+		"gainChance" : {
+			"might" : 0,
+			"magic" : 0
+		}
+	},
 
-  "core:ballistics": {
-    "special": true,
-    "gainChance": {
-      "might": 0,
-      "magic": 0
-    }
-  }
+	"core:ballistics" : {
+		"special" : true,
+		"gainChance" : {
+			"might" : 0,
+			"magic" : 0
+		}
+	}
 }

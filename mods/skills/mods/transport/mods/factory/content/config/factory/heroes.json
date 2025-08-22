@@ -1,15 +1,15 @@
 {
-  "hota.factory:11celestine": {
-    "skills": [
-      {
-        "skill": "wisdom",
-        "level": "basic"
-      },
+	"hota.factory:11celestine" : {
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "transport",
-        "level": "basic"
-      }
-    ]
-  }
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			}
+		]
+	}
 }

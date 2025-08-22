@@ -1,15 +1,15 @@
 {
-  "core:uland": {
-    "skills": [
-      {
-        "skill": "wisdom",
-        "level": "basic"
-      },
+	"core:uland" : {
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "warfare",
-        "level": "basic"
-      }
-    ]
-  }
+			{
+				"skill" : "warfare",
+				"level" : "basic"
+			}
+		]
+	}
 }

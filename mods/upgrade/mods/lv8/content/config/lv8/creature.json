@@ -1,37 +1,55 @@
 {
-  "core:blackDragon": {
-    "upgrades": ["darknessDragon"]
-  },
+	"core:blackDragon" : {
+		"upgrades" : [
+			"darknessDragon"
+		]
+	},
 
-  "core:archangel": {
-    "upgrades": ["supremeArchangel"]
-  },
+	"core:archangel" : {
+		"upgrades" : [
+			"supremeArchangel"
+		]
+	},
 
-  "core:phoenix": {
-    "upgrades": ["sacredPhoenix"]
-  },
+	"core:phoenix" : {
+		"upgrades" : [
+			"sacredPhoenix"
+		]
+	},
 
-  "core:chaosHydra": {
-    "upgrades": ["hellHydra"]
-  },
+	"core:chaosHydra" : {
+		"upgrades" : [
+			"hellHydra"
+		]
+	},
 
-  "core:archDevil": {
-    "upgrades": ["hellBaron"]
-  },
+	"core:archDevil" : {
+		"upgrades" : [
+			"hellBaron"
+		]
+	},
 
-  "core:ghostDragon": {
-    "upgrades": ["bloodDragon"]
-  },
+	"core:ghostDragon" : {
+		"upgrades" : [
+			"bloodDragon"
+		]
+	},
 
-  "core:goldDragon": {
-    "upgrades": ["diamondDragon"]
-  },
+	"core:goldDragon" : {
+		"upgrades" : [
+			"diamondDragon"
+		]
+	},
 
-  "core:ancientBehemoth": {
-    "upgrades": ["ghostBehemoth"]
-  },
+	"core:ancientBehemoth" : {
+		"upgrades" : [
+			"ghostBehemoth"
+		]
+	},
 
-  "core:titan": {
-    "upgrades": ["lordOfThunder"]
-  }
+	"core:titan" : {
+		"upgrades" : [
+			"lordOfThunder"
+		]
+	}
 }

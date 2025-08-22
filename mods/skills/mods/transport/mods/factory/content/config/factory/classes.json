@@ -1,15 +1,15 @@
 {
-  "hota.factory:mercenary": {
-    "secondarySkills": {
-      "pathfinding": 0,
-      "logistics": 0
-    }
-  },
+	"hota.factory:mercenary" : {
+		"secondarySkills" : {
+			"pathfinding" : 0,
+			"logistics" : 0
+		}
+	},
 
-  "hota.factory:artificer": {
-    "secondarySkills": {
-      "pathfinding": 0,
-      "logistics": 0
-    }
-  }
+	"hota.factory:artificer" : {
+		"secondarySkills" : {
+			"pathfinding" : 0,
+			"logistics" : 0
+		}
+	}
 }

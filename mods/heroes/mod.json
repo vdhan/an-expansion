@@ -1,13 +1,13 @@
 {
-  "name": "Heroes",
-  "description": "Rebalance heroes",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Mechanics",
+	"name" : "Heroes",
+	"description" : "Rebalance heroes",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Mechanics",
 
-  "vietnamese": {
-    "name": "Heroes",
-    "description": "Cân bằng tướng"
-  }
+	"vietnamese" : {
+		"name" : "Heroes",
+		"description" : "Cân bằng tướng"
+	}
 }

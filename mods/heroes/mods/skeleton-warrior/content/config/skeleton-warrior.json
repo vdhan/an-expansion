@@ -1,12 +1,12 @@
 {
-  "wake-of-gods.commanders:soulEater1": {
-    "abilities": {
-      "warrior": {
-        "type": "SPECIAL_UPGRADE",
-        "subtype": "skeleton",
-        "addInfo": "skeletonWarrior",
-        "propagator": "HERO"
-      }
-    }
-  }
+	"wake-of-gods.commanders:soulEater1" : {
+		"abilities" : {
+			"warrior" : {
+				"type" : "SPECIAL_UPGRADE",
+				"subtype" : "skeleton",
+				"addInfo" : "skeletonWarrior",
+				"propagator" : "HERO"
+			}
+		}
+	}
 }

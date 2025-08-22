@@ -1,33 +1,33 @@
 {
-  "core:enchanter": {
-    "abilities": {
-      "friendly": {
-        "type": "NONEVIL_ALIGNMENT_MIX"
-      }
-    }
-  },
+	"core:enchanter" : {
+		"abilities" : {
+			"friendly" : {
+				"type" : "NONEVIL_ALIGNMENT_MIX"
+			}
+		}
+	},
 
-  "core:sharpshooter": {
-    "abilities": {
-      "friendly": {
-        "type": "NONEVIL_ALIGNMENT_MIX"
-      }
-    }
-  },
+	"core:sharpshooter" : {
+		"abilities" : {
+			"friendly" : {
+				"type" : "NONEVIL_ALIGNMENT_MIX"
+			}
+		}
+	},
 
-  "core:peasant": {
-    "abilities": {
-      "friendly": {
-        "type": "NONEVIL_ALIGNMENT_MIX"
-      }
-    }
-  },
+	"core:peasant" : {
+		"abilities" : {
+			"friendly" : {
+				"type" : "NONEVIL_ALIGNMENT_MIX"
+			}
+		}
+	},
 
-  "core:rogue": {
-    "abilities": {
-      "friendly": {
-        "type": "NONEVIL_ALIGNMENT_MIX"
-      }
-    }
-  }
+	"core:rogue" : {
+		"abilities" : {
+			"friendly" : {
+				"type" : "NONEVIL_ALIGNMENT_MIX"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "Cannon",
-  "description": "Support Hota Cannon",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Cannon",
+	"description" : "Support Hota Cannon",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "depends": [
-    "hota.cannon"
-  ],
+	"depends" : [
+		"hota.cannon"
+	],
 
-  "vietnamese": {
-    "name": "Cannon",
-    "description": "Hỗ trợ Hota Cannon",
-    "author": "Vũ Đắc Hoàng Ân"
-  },
+	"vietnamese" : {
+		"name" : "Cannon",
+		"description" : "Hỗ trợ Hota Cannon",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
 
-  "skills": [
-    "config/cannon"
-  ]
+	"skills" : [
+		"config/cannon"
+	]
 }

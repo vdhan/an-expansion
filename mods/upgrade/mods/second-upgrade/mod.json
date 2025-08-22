@@ -1,40 +1,47 @@
 {
-  "name": "Second Upgrade",
-  "description": "Some creatures have second upgrade",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Mechanics",
+	"name" : "Second Upgrade",
+	"description" : "Some creatures have second upgrade",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Mechanics",
 
-  "changelog": {
-    "Necropolis": ["Zombies can be upgraded to Mummies"],
-    "Rampart": ["Dendroid Soldiers can be upgraded to Dendroid Warriors"]
-  },
+	"changelog" : {
+		"Necropolis" : [
+			"Zombies can be upgraded to Mummies"
+		],
+		"Rampart" : [
+			"Dendroid Soldiers can be upgraded to Dendroid Warriors"
+		]
+	},
 
-  "vietnamese": {
-    "name": "Second Upgrade",
-    "description": "1 vài quái có thể nâng cấp thêm lần nữa",
-    "changelog": {
-      "Necropolis": ["Zombie có thể nâng cấp thành Mummy"],
-      "Rampart": ["Dendroid Soldier có thể nâng cấp thành Dendroid Warrior"]
-    },
+	"vietnamese" : {
+		"name" : "Second Upgrade",
+		"description" : "1 vài quái có thể nâng cấp thêm lần nữa",
+		"changelog" : {
+			"Necropolis" : [
+				"Zombie có thể nâng cấp thành Mummy"
+			],
+			"Rampart" : [
+				"Dendroid Soldier có thể nâng cấp thành Dendroid Warrior"
+			]
+		},
 
-    "translations": [
-      "translation/vietnamese"
-    ]
-  },
-  "conflicts" :
-  [
-	"third-upgrades"
-  ],
+		"translations" : [
+			"translation/vietnamese"
+		]
+	},
+	"conflicts" : [
+		"third-upgrades"
+	],
 
-  "factions": [
-    "config/second-upgrade/necropolis",
-    "config/second-upgrade/rampart"
-  ],
+	"factions" : [
+		"config/second-upgrade/necropolis",
+		"config/second-upgrade/rampart"
+	],
 
-  "creatures": [
-    "config/second-upgrade/creature",
-    "config/second-upgrade/dendroid-warrior"
-  ]
+	"creatures" : [
+		"config/second-upgrade/creature",
+		"config/second-upgrade/dendroid-warrior"
+	]
 }

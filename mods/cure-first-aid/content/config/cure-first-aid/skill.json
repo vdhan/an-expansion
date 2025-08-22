@@ -1,12 +1,12 @@
 {
-  "core:firstAid": {
-    "base": {
-      "effects": {
-        "main": {
-          "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "cureFirstAid"
-        }
-      }
-    }
-  }
+	"core:firstAid" : {
+		"base" : {
+			"effects" : {
+				"main" : {
+					"type" : "SPECIFIC_SPELL_POWER",
+					"subtype" : "cureFirstAid"
+				}
+			}
+		}
+	}
 }

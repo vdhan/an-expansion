@@ -1,38 +1,38 @@
 {
-  "name": "Level 8 Upgrade",
-  "description": "7th level upgraded creatures can be upgraded to 8th (H3 Complete towns)",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Mechanics",
-  "keepDisabled": true,
+	"name" : "Level 8 Upgrade",
+	"description" : "7th level upgraded creatures can be upgraded to 8th (H3 Complete towns)",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Mechanics",
+	"keepDisabled" : true,
 
-  "depends": [
-    "wake-of-gods.level8units"
-  ],
+	"depends" : [
+		"wake-of-gods.level8units"
+	],
 
-  "vietnamese": {
-    "name": "Level 8 Upgrade",
-    "description": "Quái cấp 7 đã nâng cấp có thể nâng thêm đến cấp 8",
-    "translations": [
-      "translation/lv8/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Level 8 Upgrade",
+		"description" : "Quái cấp 7 đã nâng cấp có thể nâng thêm đến cấp 8",
+		"translations" : [
+			"translation/lv8/vietnamese"
+		]
+	},
 
-  "factions": [
-    "config/lv8/town",
-    "config/lv8/conflux",
-    "config/lv8/castle",
-    "config/lv8/necropolis",
-    "config/lv8/rampart",
-    "config/lv8/tower",
-    "config/lv8/inferno",
-    "config/lv8/dungeon",
-    "config/lv8/stronghold",
-    "config/lv8/fortress"
-  ],
+	"factions" : [
+		"config/lv8/town",
+		"config/lv8/conflux",
+		"config/lv8/castle",
+		"config/lv8/necropolis",
+		"config/lv8/rampart",
+		"config/lv8/tower",
+		"config/lv8/inferno",
+		"config/lv8/dungeon",
+		"config/lv8/stronghold",
+		"config/lv8/fortress"
+	],
 
-  "creatures": [
-    "config/lv8/creature"
-  ]
+	"creatures" : [
+		"config/lv8/creature"
+	]
 }

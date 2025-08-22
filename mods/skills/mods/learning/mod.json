@@ -1,20 +1,20 @@
 {
-  "name": "Learning",
-  "description": "Learning also gains additional 5% earned experience per level",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Learning",
+	"description" : "Learning also gains additional 5% earned experience per level",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Learning",
-    "description": "Học Tập còn cộng thêm 5% kinh nghiệm kiếm được mỗi cấp",
-    "translations": [
-      "translation/learning/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Learning",
+		"description" : "Học Tập còn cộng thêm 5% kinh nghiệm kiếm được mỗi cấp",
+		"translations" : [
+			"translation/learning/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/learning"
-  ]
+	"skills" : [
+		"config/learning"
+	]
 }

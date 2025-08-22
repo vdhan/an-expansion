@@ -1,13 +1,13 @@
 {
-  "core:necropolis": {
-    "town": {
-      "buildingsIcons": "necropolis/townhall"
-    }
-  },
+	"core:necropolis" : {
+		"town" : {
+			"buildingsIcons" : "necropolis/townhall"
+		}
+	},
 
-  "core:rampart": {
-    "town": {
-      "buildingsIcons": "rampart/townhall"
-    }
-  }
+	"core:rampart" : {
+		"town" : {
+			"buildingsIcons" : "rampart/townhall"
+		}
+	}
 }

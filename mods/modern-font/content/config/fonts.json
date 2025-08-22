@@ -1,69 +1,69 @@
 {
-  "bitmap": [
-    "BIGFONT",
-    "CALLI10R",
-    "CREDITS",
-    "HISCORE",
-    "MEDFONT",
-    "SMALFONT",
-    "TIMES08R",
-    "TINY",
-    "VERD10B"
-  ],
+	"bitmap" : [
+		"BIGFONT",
+		"CALLI10R",
+		"CREDITS",
+		"HISCORE",
+		"MEDFONT",
+		"SMALFONT",
+		"TIMES08R",
+		"TINY",
+		"VERD10B"
+	],
 
-  "trueType": {
-    "BIGFONT": {
-      "file": "heroes.ttf",
-      "size": 22,
-      "blend": true
-    },
+	"trueType" : {
+		"BIGFONT" : {
+			"file" : "heroes.ttf",
+			"size" : 22,
+			"blend" : true
+		},
 
-    "CALLI10R": {
-      "file": "heroes.ttf",
-      "size": 10,
-      "blend": true
-    },
+		"CALLI10R" : {
+			"file" : "heroes.ttf",
+			"size" : 10,
+			"blend" : true
+		},
 
-    "CREDITS": {
-      "file": "heroes.ttf",
-      "size": 28,
-      "blend": true
-    },
+		"CREDITS" : {
+			"file" : "heroes.ttf",
+			"size" : 28,
+			"blend" : true
+		},
 
-    "HISCORE": {
-      "file": "heroes.ttf",
-      "size": 13,
-      "blend": true
-    },
+		"HISCORE" : {
+			"file" : "heroes.ttf",
+			"size" : 13,
+			"blend" : true
+		},
 
-    "MEDFONT": {
-      "file": "heroes.ttf",
-      "size": 16,
-      "blend": true
-    },
+		"MEDFONT" : {
+			"file" : "heroes.ttf",
+			"size" : 16,
+			"blend" : true
+		},
 
-    "SMALFONT": {
-      "file": "heroes.ttf",
-      "size": 13,
-      "blend": true
-    },
+		"SMALFONT" : {
+			"file" : "heroes.ttf",
+			"size" : 13,
+			"blend" : true
+		},
 
-    "TIMES08R": {
-      "file": "heroes.ttf",
-      "size": 11,
-      "blend": true
-    },
+		"TIMES08R" : {
+			"file" : "heroes.ttf",
+			"size" : 11,
+			"blend" : true
+		},
 
-    "TINY": {
-      "file": "heroes.ttf",
-      "size": 10,
-      "blend": true
-    },
+		"TINY" : {
+			"file" : "heroes.ttf",
+			"size" : 10,
+			"blend" : true
+		},
 
-    "VERD10B": {
-      "file": "heroes.ttf",
-      "size": 13,
-      "blend": true
-    }
-  }
+		"VERD10B" : {
+			"file" : "heroes.ttf",
+			"size" : 13,
+			"blend" : true
+		}
+	}
 }

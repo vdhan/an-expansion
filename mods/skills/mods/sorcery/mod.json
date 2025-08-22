@@ -1,20 +1,20 @@
 {
-  "name": "Sorcery",
-  "description": "Sorcery now causes a hero's spells to inflict an additional 7%/17%/23% damage in combat and increases power skill by 1/2/3",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Sorcery",
+	"description" : "Sorcery now causes a hero's spells to inflict an additional 7%/17%/23% damage in combat and increases power skill by 1/2/3",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Sorcery",
-    "description": "Ma Pháp tăng thêm 7%/17%/23% sát thương phép và 1/2/3 lực",
-    "translations": [
-      "translation/sorcery/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Sorcery",
+		"description" : "Ma Pháp tăng thêm 7%/17%/23% sát thương phép và 1/2/3 lực",
+		"translations" : [
+			"translation/sorcery/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/sorcery"
-  ]
+	"skills" : [
+		"config/sorcery"
+	]
 }

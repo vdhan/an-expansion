@@ -1,29 +1,29 @@
 {
-  "name": "Warfare",
-  "description": "Warfare combines Artillery, First Aid and Ballistics",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Warfare",
+	"description" : "Warfare combines Artillery, First Aid and Ballistics",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Warfare",
-    "description": "Khí Tài kết hợp Artillery, First Aid và Ballistics",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/warfare/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Warfare",
+		"description" : "Khí Tài kết hợp Artillery, First Aid và Ballistics",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/warfare/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/warfare/skills"
-  ],
+	"skills" : [
+		"config/warfare/skills"
+	],
 
-  "heroClasses": [
-    "config/warfare/classes"
-  ],
+	"heroClasses" : [
+		"config/warfare/classes"
+	],
 
-  "heroes": [
-    "config/warfare/heroes"
-  ]
+	"heroes" : [
+		"config/warfare/heroes"
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "hota.factory:cowboy": {
-    "abilities": {
-      "earn": {
-        "type": "GENERATE_RESOURCE",
-        "subtype": "wood",
-        "val": 1,
-        "propagator": "HERO"
-      },
+	"hota.factory:cowboy" : {
+		"abilities" : {
+			"earn" : {
+				"type" : "GENERATE_RESOURCE",
+				"subtype" : "wood",
+				"val" : 1,
+				"propagator" : "HERO"
+			},
 
-      "earn2": {
-        "type": "GENERATE_RESOURCE",
-        "subtype": "ore",
-        "val": 1,
-        "propagator": "HERO"
-      }
-    }
-  }
+			"earn2" : {
+				"type" : "GENERATE_RESOURCE",
+				"subtype" : "ore",
+				"val" : 1,
+				"propagator" : "HERO"
+			}
+		}
+	}
 }

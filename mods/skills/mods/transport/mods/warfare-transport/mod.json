@@ -1,21 +1,21 @@
 {
-  "name": "Warfare Transport",
-  "description": "Some heroes have both starting skills: Warfare and Transport",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Warfare Transport",
+	"description" : "Some heroes have both starting skills: Warfare and Transport",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "depends": [
-    "an-expansion.skills.warfare"
-  ],
+	"depends" : [
+		"an-expansion.skills.warfare"
+	],
 
-  "vietnamese": {
-    "name": "Warfare Transport",
-    "description": "1 số tướng có kĩ năng ban đầu: Khí Tài và Vận Chuyển"
-  },
+	"vietnamese" : {
+		"name" : "Warfare Transport",
+		"description" : "1 số tướng có kĩ năng ban đầu: Khí Tài và Vận Chuyển"
+	},
 
-  "heroes": [
-    "config/warfare-transport/heroes"
-  ]
+	"heroes" : [
+		"config/warfare-transport/heroes"
+	]
 }

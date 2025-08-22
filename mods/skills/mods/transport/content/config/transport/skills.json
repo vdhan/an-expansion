@@ -1,102 +1,102 @@
 {
-  "transport": {
-    "name": "Transport",
-    "obligatoryMinor": true,
-	"specialty" : [], // no generic specialty
-    "gainChance": {
-      "might": 8,
-      "magic": 8
-    },
+	"transport" : {
+		"name" : "Transport",
+		"obligatoryMinor" : true,
+		"specialty" : [], // no generic specialty
+		"gainChance" : {
+			"might" : 8,
+			"magic" : 8
+		},
 
-    "base": {
-      "effects": {
-        "main": {
-          "type": "ROUGH_TERRAIN_DISCOUNT",
-          "valueType": "BASE_NUMBER"
-        },
+		"base" : {
+			"effects" : {
+				"main" : {
+					"type" : "ROUGH_TERRAIN_DISCOUNT",
+					"valueType" : "BASE_NUMBER"
+				},
 
-        "logistics": {
-          "type": "MOVEMENT",
-          "subtype": "heroMovementLand",
-          "valueType": "PERCENT_TO_BASE"
-        }
-      }
-    },
+				"logistics" : {
+					"type" : "MOVEMENT",
+					"subtype" : "heroMovementLand",
+					"valueType" : "PERCENT_TO_BASE"
+				}
+			}
+		},
 
-    "basic": {
-      "images": {
-        "large": "transport/basicLarge",
-        "medium": "transport/basicMedium",
-        "small": "transport/basicSmall",
-		"scenarioBonus" : "transport/bonusBlank.png"
-      },
+		"basic" : {
+			"images" : {
+				"large" : "transport/basicLarge",
+				"medium" : "transport/basicMedium",
+				"small" : "transport/basicSmall",
+				"scenarioBonus" : "transport/bonusBlank.png"
+			},
 
-      "description": "{Basic Transport}\n\nReduces 25% movement penalty and increases 5% land movement",
-      "effects": {
-        "main": {
-          "val": 25
-        },
+			"description" : "{Basic Transport}\n\nReduces 25% movement penalty and increases 5% land movement",
+			"effects" : {
+				"main" : {
+					"val" : 25
+				},
 
-        "logistics": {
-          "val": 5
-        }
-      }
-    },
+				"logistics" : {
+					"val" : 5
+				}
+			}
+		},
 
-    "advanced": {
-      "images": {
-        "large": "transport/advancedLarge",
-        "medium": "transport/advancedMedium",
-        "small": "transport/advancedSmall",
-		"scenarioBonus" : "transport/bonusBlank.png"
-      },
+		"advanced" : {
+			"images" : {
+				"large" : "transport/advancedLarge",
+				"medium" : "transport/advancedMedium",
+				"small" : "transport/advancedSmall",
+				"scenarioBonus" : "transport/bonusBlank.png"
+			},
 
-      "description": "{Advanced Transport}\n\nReduces 50% movement penalty and increases 10% land movement",
-      "effects": {
-        "main": {
-          "val": 50
-        },
+			"description" : "{Advanced Transport}\n\nReduces 50% movement penalty and increases 10% land movement",
+			"effects" : {
+				"main" : {
+					"val" : 50
+				},
 
-        "logistics": {
-          "val": 10
-        }
-      }
-    },
+				"logistics" : {
+					"val" : 10
+				}
+			}
+		},
 
-    "expert": {
-      "images": {
-        "large": "transport/expertLarge",
-        "medium": "transport/expertMedium",
-        "small": "transport/expertSmall",
-		"scenarioBonus" : "transport/bonusBlank.png"
-      },
+		"expert" : {
+			"images" : {
+				"large" : "transport/expertLarge",
+				"medium" : "transport/expertMedium",
+				"small" : "transport/expertSmall",
+				"scenarioBonus" : "transport/bonusBlank.png"
+			},
 
-      "description": "{Expert Transport}\n\nReduces 75% movement penalty and increases 20% land movement",
-      "effects": {
-        "main": {
-          "val": 75
-        },
+			"description" : "{Expert Transport}\n\nReduces 75% movement penalty and increases 20% land movement",
+			"effects" : {
+				"main" : {
+					"val" : 75
+				},
 
-        "logistics": {
-          "val": 20
-        }
-      }
-    }
-  },
+				"logistics" : {
+					"val" : 20
+				}
+			}
+		}
+	},
 
-  "core:pathfinding": {
-    "special": true,
-    "gainChance": {
-      "might": 0,
-      "magic": 0
-    }
-  },
+	"core:pathfinding" : {
+		"special" : true,
+		"gainChance" : {
+			"might" : 0,
+			"magic" : 0
+		}
+	},
 
-  "core:logistics": {
-    "special": true,
-    "gainChance": {
-      "might": 0,
-      "magic": 0
-    }
-  }
+	"core:logistics" : {
+		"special" : true,
+		"gainChance" : {
+			"might" : 0,
+			"magic" : 0
+		}
+	}
 }

@@ -1,13 +1,17 @@
 {
-  "core:mummy": {
-    "faction": "necropolis"
-  },
+	"core:mummy" : {
+		"faction" : "necropolis"
+	},
 
-  "core:zombieLord": {
-    "upgrades": ["mummy"]
-  },
+	"core:zombieLord" : {
+		"upgrades" : [
+			"mummy"
+		]
+	},
 
-  "core:dendroidSoldier": {
-    "upgrades": ["dendroidWarrior"]
-  }
+	"core:dendroidSoldier" : {
+		"upgrades" : [
+			"dendroidWarrior"
+		]
+	}
 }

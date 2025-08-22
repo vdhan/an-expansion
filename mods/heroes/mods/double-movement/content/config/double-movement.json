@@ -1,109 +1,109 @@
 {
-  "wake-of-gods.commanders:paladin1": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"wake-of-gods.commanders:paladin1" : {
+		"abilities" : {
+			"doubleMovement" : {
+				"type" : "MOVEMENT",
+				"subtype" : "heroMovementLand",
+				"val" : 100,
+				"valueType" : "PERCENT_TO_BASE",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "wake-of-gods.commanders:astralSpirit1": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"wake-of-gods.commanders:astralSpirit1" : {
+		"abilities" : {
+			"doubleMovement" : {
+				"type" : "MOVEMENT",
+				"subtype" : "heroMovementLand",
+				"val" : 100,
+				"valueType" : "PERCENT_TO_BASE",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "wake-of-gods.commanders:brute1": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"wake-of-gods.commanders:brute1" : {
+		"abilities" : {
+			"doubleMovement" : {
+				"type" : "MOVEMENT",
+				"subtype" : "heroMovementLand",
+				"val" : 100,
+				"valueType" : "PERCENT_TO_BASE",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "wake-of-gods.commanders:shaman1": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"wake-of-gods.commanders:shaman1" : {
+		"abilities" : {
+			"doubleMovement" : {
+				"type" : "MOVEMENT",
+				"subtype" : "heroMovementLand",
+				"val" : 100,
+				"valueType" : "PERCENT_TO_BASE",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "wake-of-gods.commanders:succubus1": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"wake-of-gods.commanders:succubus1" : {
+		"abilities" : {
+			"doubleMovement" : {
+				"type" : "MOVEMENT",
+				"subtype" : "heroMovementLand",
+				"val" : 100,
+				"valueType" : "PERCENT_TO_BASE",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "wake-of-gods.commanders:soulEater1": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"wake-of-gods.commanders:soulEater1" : {
+		"abilities" : {
+			"doubleMovement" : {
+				"type" : "MOVEMENT",
+				"subtype" : "heroMovementLand",
+				"val" : 100,
+				"valueType" : "PERCENT_TO_BASE",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "wake-of-gods.commanders:hierophant1": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"wake-of-gods.commanders:hierophant1" : {
+		"abilities" : {
+			"doubleMovement" : {
+				"type" : "MOVEMENT",
+				"subtype" : "heroMovementLand",
+				"val" : 100,
+				"valueType" : "PERCENT_TO_BASE",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "wake-of-gods.commanders:ogreLeader1": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"wake-of-gods.commanders:ogreLeader1" : {
+		"abilities" : {
+			"doubleMovement" : {
+				"type" : "MOVEMENT",
+				"subtype" : "heroMovementLand",
+				"val" : 100,
+				"valueType" : "PERCENT_TO_BASE",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "wake-of-gods.commanders:templeGuardian1": {
-    "abilities": {
-      "doubleMovement": {
-        "type": "MOVEMENT",
-        "subtype": "heroMovementLand",
-        "val": 100,
-        "valueType": "PERCENT_TO_BASE",
-        "propagator": "HERO"
-      }
-    }
-  }
+	"wake-of-gods.commanders:templeGuardian1" : {
+		"abilities" : {
+			"doubleMovement" : {
+				"type" : "MOVEMENT",
+				"subtype" : "heroMovementLand",
+				"val" : 100,
+				"valueType" : "PERCENT_TO_BASE",
+				"propagator" : "HERO"
+			}
+		}
+	}
 }

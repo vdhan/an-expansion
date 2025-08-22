@@ -1,21 +1,21 @@
 {
-  "name": "Double Movement",
-  "description": "Commanders have double movement",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Mechanics",
+	"name" : "Double Movement",
+	"description" : "Commanders have double movement",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Mechanics",
 
-  "depends": [
-    "wake-of-gods.commanders"
-  ],
+	"depends" : [
+		"wake-of-gods.commanders"
+	],
 
-  "vietnamese": {
-    "name": "Double Movement",
-    "description": "Chỉ huy tăng gấp đôi di chuyển"
-  },
+	"vietnamese" : {
+		"name" : "Double Movement",
+		"description" : "Chỉ huy tăng gấp đôi di chuyển"
+	},
 
-  "creatures": [
-    "config/double-movement"
-  ]
+	"creatures" : [
+		"config/double-movement"
+	]
 }
