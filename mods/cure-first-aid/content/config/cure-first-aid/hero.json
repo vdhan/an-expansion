@@ -4,7 +4,7 @@
       "bonuses": {
         "firstAid": {
           "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "spell.cureFirstAid",
+          "subtype": "cureFirstAid",
           "val": 5,
           "valueType": "PERCENT_TO_TARGET_TYPE",
           "updater": "TIMES_HERO_LEVEL",
@@ -19,7 +19,7 @@
       "bonuses": {
         "firstAid": {
           "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "spell.cureFirstAid",
+          "subtype": "cureFirstAid",
           "val": 5,
           "valueType": "PERCENT_TO_TARGET_TYPE",
           "updater": "TIMES_HERO_LEVEL",
@@ -34,7 +34,7 @@
       "bonuses": {
         "firstAid": {
           "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "spell.cureFirstAid",
+          "subtype": "cureFirstAid",
           "val": 5,
           "valueType": "PERCENT_TO_TARGET_TYPE",
           "updater": "TIMES_HERO_LEVEL",

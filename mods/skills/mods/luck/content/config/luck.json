@@ -4,12 +4,12 @@
       "effects": {
         "cast": {
           "type": "OPENING_BATTLE_SPELL",
-          "subtype": "spell.fortune"
+          "subtype": "fortune"
         },
 
         "defence": {
           "type": "PRIMARY_SKILL",
-          "subtype": "primarySkill.defence"
+          "subtype": "defence"
         }
       }
     },

@@ -10,7 +10,8 @@
         "type": "CREATURE_DAMAGE",
         "subtype": "creatureDamageBoth",
         "updater": {
-          "parameters": [10, 2],
+			"valPer20" : 10,
+			"stepSize" : 2,
           "type": "GROWS_WITH_LEVEL"
         },
 
@@ -18,7 +19,8 @@
         "limiters": [
           {
             "type": "CREATURE_TYPE_LIMITER",
-            "parameters": ["ballista"]
+            "creature": "ballista",
+			"includeUpgrades" : false
           }
         ]
       }
@@ -31,7 +33,8 @@
       "health": {
         "type": "STACK_HEALTH",
         "updater": {
-          "parameters": [4],
+			"valPer20" : 8,
+			"stepSize" : 2,
           "type": "GROWS_WITH_LEVEL"
         },
 
@@ -51,7 +54,8 @@
       "velocity": {
         "type": "STACKS_SPEED",
         "updater": {
-          "parameters": [4],
+			"valPer20" : 8,
+			"stepSize" : 2,
           "type": "GROWS_WITH_LEVEL"
         },
 

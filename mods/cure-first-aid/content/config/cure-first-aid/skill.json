@@ -4,7 +4,7 @@
       "effects": {
         "main": {
           "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "spell.cureFirstAid"
+          "subtype": "cureFirstAid"
         }
       }
     }

@@ -11,7 +11,7 @@
       "bonuses": {
         "more": {
           "type": "GENERATE_RESOURCE",
-          "subtype": "resource.gold",
+          "subtype": "gold",
           "val": 50,
           "updater": "TIMES_HERO_LEVEL"
         }

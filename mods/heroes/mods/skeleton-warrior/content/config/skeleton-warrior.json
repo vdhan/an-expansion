@@ -3,8 +3,8 @@
     "abilities": {
       "warrior": {
         "type": "SPECIAL_UPGRADE",
-        "subtype": "creature.skeleton",
-        "addInfo": "creature.skeletonWarrior",
+        "subtype": "skeleton",
+        "addInfo": "skeletonWarrior",
         "propagator": "HERO"
       }
     }

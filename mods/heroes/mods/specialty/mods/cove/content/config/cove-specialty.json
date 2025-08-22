@@ -11,7 +11,8 @@
       "bonuses": {
         "gold": {
           "updater": {
-            "parameters": [2],
+			"valPer20" : 4,
+			"stepSize" : 2,
             "type": "GROWS_WITH_LEVEL"
           }
         }
@@ -35,7 +36,7 @@
 
         "more": {
           "type": "GENERATE_RESOURCE",
-          "subtype": "resource.gold",
+          "subtype": "gold",
           "val": 50,
           "updater": "TIMES_HERO_LEVEL"
         }

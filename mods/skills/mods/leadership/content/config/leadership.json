@@ -4,12 +4,12 @@
       "effects": {
         "cast": {
           "type": "OPENING_BATTLE_SPELL",
-          "subtype": "spell.mirth"
+          "subtype": "mirth"
         },
 
         "attack": {
           "type": "PRIMARY_SKILL",
-          "subtype": "primarySkill.attack"
+          "subtype": "attack"
         }
       }
     },

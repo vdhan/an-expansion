@@ -23,6 +23,10 @@
       "translation/vietnamese"
     ]
   },
+  "conflicts" :
+  [
+	"third-upgrades"
+  ],
 
   "factions": [
     "config/second-upgrade/necropolis",

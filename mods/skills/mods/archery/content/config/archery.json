@@ -4,7 +4,7 @@
       "effects": {
         "cast": {
           "type": "OPENING_BATTLE_SPELL",
-          "subtype": "spell.precision"
+          "subtype": "precision"
         }
       }
     },

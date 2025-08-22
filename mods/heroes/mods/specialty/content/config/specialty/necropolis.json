@@ -15,7 +15,7 @@
 
         "more": {
           "type": "GENERATE_RESOURCE",
-          "subtype": "resource.gold",
+          "subtype": "gold",
           "updater": "TIMES_HERO_LEVEL",
           "val": 50
         }
@@ -39,7 +39,7 @@
 
         "more": {
           "type": "GENERATE_RESOURCE",
-          "subtype": "resource.gold",
+          "subtype": "gold",
           "updater": "TIMES_HERO_LEVEL",
           "val": 50
         }

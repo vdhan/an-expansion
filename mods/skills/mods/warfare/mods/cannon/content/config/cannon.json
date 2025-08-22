@@ -4,13 +4,13 @@
       "effects": {
         "cannon": {
           "type": "BONUS_DAMAGE_PERCENTAGE",
-          "subtype": "creature.cannon",
+          "subtype": "cannon",
           "val": 0
         },
 
         "cannon2": {
           "type": "BONUS_DAMAGE_CHANCE",
-          "subtype": "creature.cannon",
+          "subtype": "cannon",
           "val": 100
         }
       }

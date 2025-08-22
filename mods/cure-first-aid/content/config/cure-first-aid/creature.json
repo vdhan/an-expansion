@@ -3,7 +3,7 @@
     "abilities": {
       "heals": {
         "type": "HEALER",
-        "subtype": "spell.cureFirstAid"
+        "subtype": "cureFirstAid"
       }
     }
   }

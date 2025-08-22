@@ -2,6 +2,7 @@
   "warfare": {
     "name": "Warfare",
     "obligatoryMinor": true,
+	"specialty" : [], // no generic specialty
     "gainChance": {
       "might": 8,
       "magic": 8
@@ -11,52 +12,52 @@
       "effects": {
         "ctrl": {
           "type": "MANUAL_CONTROL",
-          "subtype": "creature.ballista",
+          "subtype": "ballista",
           "val": 100
         },
 
         "ctrl2": {
           "type": "MANUAL_CONTROL",
-          "subtype": "creature.arrowTower",
+          "subtype": "arrowTower",
           "val": 100
         },
 
         "main": {
           "type": "BONUS_DAMAGE_PERCENTAGE",
-          "subtype": "creature.ballista",
+          "subtype": "ballista",
           "val": 100
         },
 
         "artillery": {
           "type": "BONUS_DAMAGE_CHANCE",
-          "subtype": "creature.ballista"
+          "subtype": "ballista"
         },
 
         "val2": {
           "type": "HERO_GRANTS_ATTACKS",
-          "subtype": "creature.ballista"
+          "subtype": "ballista"
         },
 
         "ctrl3": {
           "type": "MANUAL_CONTROL",
-          "subtype": "creature.catapult",
+          "subtype": "catapult",
           "val": 100
         },
 
         "ballistics": {
           "type": "CATAPULT_EXTRA_SHOTS",
-          "subtype": "spell.catapultShot"
+          "subtype": "catapultShot"
         },
 
         "ctrl4": {
           "type": "MANUAL_CONTROL",
-          "subtype": "creature.firstAidTent",
+          "subtype": "firstAidTent",
           "val": 100
         },
 
         "firstAid": {
           "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "spell.firstAid"
+          "subtype": "firstAid"
         }
       }
     },
@@ -65,7 +66,8 @@
       "images": {
         "large": "warfare/warfareBasicLarge",
         "medium": "warfare/warfareBasicMedium",
-        "small": "warfare/warfareBasicSmall"
+        "small": "warfare/warfareBasicSmall",
+		"scenarioBonus" : "warfare/bonusBlank.png"
       },
 
       "description": "{Basic Warfare}\n\nBasic of Artillery, First Aid and Ballistics",
@@ -92,7 +94,8 @@
       "images": {
         "large": "warfare/warfareAdvancedLarge",
         "medium": "warfare/warfareAdvancedMedium",
-        "small": "warfare/warfareAdvancedSmall"
+        "small": "warfare/warfareAdvancedSmall",
+		"scenarioBonus" : "warfare/bonusBlank.png"
       },
 
       "description": "{Advanced Warfare}\n\nAdvanced of Artillery, First Aid and Ballistics",
@@ -119,7 +122,8 @@
       "images": {
         "large": "warfare/warfareExpertLarge",
         "medium": "warfare/warfareExpertMedium",
-        "small": "warfare/warfareExpertSmall"
+        "small": "warfare/warfareExpertSmall",
+		"scenarioBonus" : "warfare/bonusBlank.png"
       },
 
       "description": "{Expert Warfare}\n\nExpert of Artillery, First Aid and Ballistics",
