@@ -5,17 +5,14 @@
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://vudachoangan.com",
 	"modType" : "Skills",
-
 	"softDepends" : [
-		"hota.gamebalance"
+		"hota.gamebalance.heroes"
 	],
-
 	"vietnamese" : {
 		"name" : "Uland",
 		"description" : "Hỗ trợ tướng Uland",
 		"author" : "Vũ Đắc Hoàng Ân"
 	},
-
 	"heroes" : [
 		"config/uland"
 	]

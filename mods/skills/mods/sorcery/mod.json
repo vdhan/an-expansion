@@ -13,7 +13,9 @@
 			"translation/sorcery/vietnamese"
 		]
 	},
-
+	"softDepends" : [
+		"hota.gamebalance.skills.sorcery"
+	],
 	"skills" : [
 		"config/sorcery"
 	]

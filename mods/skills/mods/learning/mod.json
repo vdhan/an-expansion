@@ -13,7 +13,9 @@
 			"translation/learning/vietnamese"
 		]
 	},
-
+	"softDepends" : [
+		"hota.gamebalance.skills.learning"
+	],
 	"skills" : [
 		"config/learning"
 	]

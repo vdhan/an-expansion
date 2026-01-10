@@ -7,7 +7,7 @@
 	"modType" : "Skills",
 
 	"softDepends" : [
-		"hota.gamebalance"
+		"hota.gamebalance.skills.scouting"
 	],
 
 	"vietnamese" : {

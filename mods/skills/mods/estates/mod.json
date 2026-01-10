@@ -7,9 +7,8 @@
 	"modType" : "Skills",
 
 	"softDepends" : [
-		"hota.gamebalance"
+		"hota.gamebalance.skills.estates"
 	],
-
 	"vietnamese" : {
 		"name" : "Estates",
 		"description" : "Tài Sản tăng 250/500/1000 vàng, 1 gỗ và 1 quặng mỗi ngày",
@@ -18,7 +17,6 @@
 			"translation/estates/vietnamese"
 		]
 	},
-
 	"skills" : [
 		"config/estates"
 	]
