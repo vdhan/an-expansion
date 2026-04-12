@@ -13,7 +13,12 @@
 
   "vietnamese": {
     "name": "Quái trung lập",
-    "description": "1 vài quái trung lập có thể được nâng cấp"
+    "description": "1 vài quái trung lập có thể được nâng cấp",
+    "author": "Vũ Đắc Hoàng Ân",
+    "changelog": {
+      "Peasant": ["Nâng cấp lên Rogue"],
+      "Boar": ["Nâng cấp lên Nomad"]
+    }
   },
 
   "creatures": [

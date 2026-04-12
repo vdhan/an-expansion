@@ -8,7 +8,8 @@
 
   "vietnamese": {
     "name": "Quái thân thiện",
-    "description": "1 vài quái trung lập có thể kết hợp với thành khác mà không làm giảm nhuệ khí (Peasant, Rogue, Enchanter, Sharpshooter)"
+    "description": "1 vài quái trung lập có thể kết hợp với thành khác mà không làm giảm nhuệ khí (Peasant, Rogue, Enchanter, Sharpshooter)",
+    "author": "Vũ Đắc Hoàng Ân"
   },
 
   "creatures": [

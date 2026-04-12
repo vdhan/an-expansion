@@ -14,6 +14,7 @@
   "vietnamese": {
     "name": "Second Upgrade",
     "description": "1 vài quái có thể nâng cấp thêm lần nữa",
+    "author": "Vũ Đắc Hoàng Ân",
     "changelog": {
       "Necropolis": ["Zombie có thể nâng cấp thành Mummy"],
       "Rampart": ["Dendroid Soldier có thể nâng cấp thành Dendroid Warrior"]

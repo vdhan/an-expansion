@@ -12,7 +12,8 @@
 
   "vietnamese": {
     "name": "Double Movement",
-    "description": "Chỉ huy tăng gấp đôi di chuyển"
+    "description": "Chỉ huy tăng gấp đôi di chuyển",
+    "author": "Vũ Đắc Hoàng Ân"
   },
 
   "creatures": [

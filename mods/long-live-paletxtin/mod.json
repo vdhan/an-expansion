@@ -5,11 +5,11 @@
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Creatures",
-  "keepDisabled": true,
 
   "vietnamese": {
     "name": "Long Live Peasant",
-    "description": "Peasant có 2 máu và sát thương 1 - 2"
+    "description": "Peasant có 2 máu và sát thương 1 - 2",
+    "author": "Vũ Đắc Hoàng Ân"
   },
 
   "creatures": [
