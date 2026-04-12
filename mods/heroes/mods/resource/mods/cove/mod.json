@@ -17,6 +17,7 @@
   "vietnamese": {
     "name": "Resource > Cove",
     "description": "Hỗ trợ thành Cove",
+    "author": "Vũ Đắc Hoàng Ân",
     "changelog": {
       "Cove": ["Thêm 200 vàng/ngày"]
     }

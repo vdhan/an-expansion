@@ -1,0 +1,29 @@
+{
+  "name": "Resource > Bulwark",
+  "description": "Support Bulwark town",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "hota.bulwark"
+  ],
+
+  "changelog": {
+    "Cove": ["Earn 1 gem per day"]
+  },
+
+  "vietnamese": {
+    "name": "Resource > Bulwark",
+    "description": "Hỗ trợ thành Bulwark",
+    "author": "Vũ Đắc Hoàng Ân",
+    "changelog": {
+      "Cove": ["Thêm 1 ngọc mỗi ngày"]
+    }
+  },
+
+  "creatures": [
+    "config/bulwark-resource"
+  ]
+}

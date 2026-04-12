@@ -21,6 +21,7 @@
   "vietnamese": {
     "name": "Resource",
     "description": "Chỉ huy tạo tài nguyên",
+    "author": "Vũ Đắc Hoàng Ân",
     "changelog": {
       "Stronghold": ["Thêm 1 pha lê mỗi ngày"],
       "Fortress": ["Thêm 1 lưu huỳnh mỗi ngày"],

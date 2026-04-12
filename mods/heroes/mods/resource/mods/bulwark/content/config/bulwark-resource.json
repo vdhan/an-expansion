@@ -1,0 +1,12 @@
+{
+  "hota.bulwark:shaman": {
+    "abilities": {
+      "earn": {
+        "type": "GENERATE_RESOURCE",
+        "subtype": "resource.gems",
+        "val": 1,
+        "propagator": "HERO"
+      }
+    }
+  }
+}
