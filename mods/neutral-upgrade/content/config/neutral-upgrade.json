@@ -5,5 +5,9 @@
 
   "core:boar": {
     "upgrades": ["nomad"]
+  },
+
+  "core:goldGolem": {
+    "upgrades": ["diamondGolem"]
   }
 }

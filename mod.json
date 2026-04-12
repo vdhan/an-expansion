@@ -33,7 +33,7 @@
   },
 
   "changelog": {
-    "3.4.1": ["Remove Level 8 Upgrade", "Heroes now have up to 12 skills", "Remove Cure First Aid", "Remove Specialty"],
+    "3.4.1": ["Remove Level 8 Upgrade", "Heroes now have up to 12 skills", "Remove Cure First Aid", "Remove Specialty", "Remove Creature Upgrading", "Rework Neutral Upgrade"],
     "3.4.0": ["Remove Tactics", "Obsolete Eagle Eye", "HotA Ranloo -> HotA Heroes"],
     "3.3.9": ["Fix compatibility with Hota 1.7.58"],
     "3.3.8": ["Update to VCMI 1.6"],
@@ -47,7 +47,7 @@
     "description": "<h2>Cân bằng các kĩ năng, tướng, quái, ...</h2>",
     "author": "Vũ Đắc Hoàng Ân",
     "changelog": {
-      "3.4.1": ["Bỏ Level 8 Upgrade", "Tướng có 12 kĩ năng", "Bỏ Cure First Aid", "Bỏ Specialty"]
+      "3.4.1": ["Bỏ Level 8 Upgrade", "Tướng có 12 kĩ năng", "Bỏ Cure First Aid", "Bỏ Specialty", "Bỏ Creature Upgrading", "Cập nhật Neutral Upgrade"]
     }
   }
 }

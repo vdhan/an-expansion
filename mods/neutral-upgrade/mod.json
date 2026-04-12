@@ -8,16 +8,18 @@
 
   "changelog": {
     "Peasant": ["Upgrade to Rogue"],
-    "Boar": ["Upgrade to Nomad"]
+    "Boar": ["Upgrade to Nomad"],
+    "Gold Golem": ["Upgrade to Diamond Golem"]
   },
 
   "vietnamese": {
-    "name": "Quái trung lập",
+    "name": "Quái trung lập nâng cấp",
     "description": "1 vài quái trung lập có thể được nâng cấp",
     "author": "Vũ Đắc Hoàng Ân",
     "changelog": {
       "Peasant": ["Nâng cấp lên Rogue"],
-      "Boar": ["Nâng cấp lên Nomad"]
+      "Boar": ["Nâng cấp lên Nomad"],
+      "Gold Golem": ["Nâng cấp lên Diamond Golem"]
     }
   },
 
