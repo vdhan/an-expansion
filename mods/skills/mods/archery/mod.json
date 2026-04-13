@@ -9,6 +9,7 @@
   "vietnamese": {
     "name": "Archery",
     "description": "Bắn Cung đầu trận còn ếm Chính Xác cho 10/25/50 vòng",
+    "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/archery/vietnamese"
     ]

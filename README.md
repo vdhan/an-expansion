@@ -17,16 +17,16 @@ Rebalance skills, heroes, creatures, etc.
   - Armorer
   - Estates
   - Leadership
-  - Learning
   - Luck
   - Navigation
   - Offence
   - Resistance
+  - Scholar
   - Scouting
   - Sorcery
   - Transport: Combines Logistics and Pathfinding
   - Warfare: Combines Artillery, First Aid and Ballistics
-  - Scholar:
+  - Learning:
     - Eagle Eye
 
 - War Machine:

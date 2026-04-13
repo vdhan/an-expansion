@@ -9,6 +9,7 @@
   "vietnamese": {
     "name": "Luck",
     "description": "May Mắn đầu trận còn tăng 1/2/3 thủ và ếm Vận May vĩnh cửu",
+    "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/luck/vietnamese"
     ]

@@ -9,6 +9,7 @@
   "vietnamese": {
     "name": "Learning",
     "description": "Học Tập còn cộng thêm 5% kinh nghiệm kiếm được mỗi cấp",
+    "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/learning/vietnamese"
     ]

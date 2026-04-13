@@ -9,6 +9,7 @@
   "vietnamese": {
     "name": "Navigation",
     "description": "Đi Biển còn cho sang tàu ngay",
+    "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/navigation/vietnamese"
     ]

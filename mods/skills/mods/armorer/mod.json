@@ -9,6 +9,7 @@
   "vietnamese": {
     "name": "Armorer",
     "description": "Giáp đầu trận còn ếm Thạch Bì cho 10/25/50 vòng",
+    "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/armorer/vietnamese"
     ]

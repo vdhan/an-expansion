@@ -9,6 +9,7 @@
   "vietnamese": {
     "name": "Offence",
     "description": "Cận Chiến đầu trận còn ếm Khát Máu cho 10/25/50 vòng",
+    "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/offence/vietnamese"
     ]
