@@ -10,7 +10,7 @@
     },
 
     "abilities": {
-      "upgrade": {
+      "damage": {
         "type": "CREATURE_DAMAGE",
         "subtype": "creatureDamageBoth",
         "updater": {

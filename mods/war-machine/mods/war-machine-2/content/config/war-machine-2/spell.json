@@ -1,0 +1,43 @@
+{
+  "core:firstAid": {
+    "level": 0,
+    "power": 20,
+    "levels": {
+      "base": {
+        "power": 20,
+        "battleEffects": {
+          "heal": {
+            "type": "core:heal",
+            "healLevel": "heal",
+            "healPower": "permanent",
+            "optional": true
+          },
+
+          "cure": {
+            "type": "core:dispel",
+            "dispelPositive": false,
+            "dispelNegative": true,
+            "dispelNeutral": false,
+            "optional": true
+          }
+        }
+      },
+
+      "basic": {
+        "power": 100
+      },
+
+      "advanced": {
+        "power": 150
+      },
+
+      "expert": {
+        "power": 200
+      }
+    },
+
+    "animation": {
+      "affect": ["cure/effect"]
+    }
+  }
+}

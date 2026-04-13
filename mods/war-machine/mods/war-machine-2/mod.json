@@ -1,0 +1,33 @@
+{
+  "name": "War Machine 2",
+  "description": "Enhanced war machines 2",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "changelog": {
+    "Ballista": ["Increases 1 damage per 4 level"],
+    "First Aid Tent": ["Also remove negative effects"],
+    "Ammo Cart": ["Cannot be dealt more than 40% of health as damage from any single damage source"]
+  },
+
+  "vietnamese": {
+    "name": "War Machine",
+    "description": "Cải thiện chiến cơ 2",
+    "author": "Vũ Đắc Hoàng Ân",
+    "changelog": {
+      "Ballista": ["Tăng 1 sát thương mỗi 4 cấp"],
+      "First Aid Tent": ["Có thể xóa hiệu ứng bất lợi"],
+      "Ammo Cart": ["Sát thương nhận vào là 40% máu tối đa từ 1 nguồn sát thương đơn"]
+    }
+  },
+
+  "creatures": [
+    "config/war-machine-2/creature"
+  ],
+
+  "spells": [
+    "config/war-machine-2/spell"
+  ]
+}
