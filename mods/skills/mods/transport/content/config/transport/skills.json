@@ -11,23 +11,29 @@
     "base": {
       "effects": {
         "main": {
-          "type": "ROUGH_TERRAIN_DISCOUNT",
-          "valueType": "BASE_NUMBER"
-        },
-
-        "logistics": {
           "type": "MOVEMENT",
           "subtype": "heroMovementLand",
           "valueType": "PERCENT_TO_BASE"
+        },
+
+        "xtra": {
+          "type": "BASE_TILE_MOVEMENT_COST",
+          "valueType": "BASE_NUMBER"
+        },
+
+        "pathfinding": {
+          "type": "ROUGH_TERRAIN_DISCOUNT",
+          "valueType": "BASE_NUMBER"
         }
       }
     },
 
     "basic": {
-      "description": "{Basic Transport}\n\nReduces 25% movement penalty and increases 5% land movement",
+      "description": "{Basic Transport}\n\nBasic of Logistics and Pathfinding",
       "effects": {
-        "main": {"val": 25},
-        "logistics": {"val": 5}
+        "main": {"val": 5},
+        "xtra": {"val": -5},
+        "pathfinding": {"val": 25}
       },
 
       "images": {
@@ -39,10 +45,11 @@
     },
 
     "advanced": {
-      "description": "{Advanced Transport}\n\nReduces 50% movement penalty and increases 10% land movement",
+      "description": "{Advanced Transport}\n\nAdvanced of Logistics and Pathfinding",
       "effects": {
-        "main": {"val": 50},
-        "logistics": {"val": 10}
+        "main": {"val": 10},
+        "xtra": {"val": -10},
+        "pathfinding": {"val": 50}
       },
 
       "images": {
@@ -54,10 +61,11 @@
     },
 
     "expert": {
-      "description": "{Expert Transport}\n\nReduces 75% movement penalty and increases 20% land movement",
+      "description": "{Expert Transport}\n\nExpert of Logistics and Pathfinding",
       "effects": {
-        "main": {"val": 75},
-        "logistics": {"val": 20}
+        "main": {"val": 20},
+        "xtra": {"val": -15},
+        "pathfinding": {"val": 75}
       },
 
       "images": {

@@ -11,6 +11,44 @@
     "base": {
       "effects": {
         "main": {
+          "type": "STACK_HEALTH",
+          "valueType": "PERCENT_TO_BASE",
+          "propagator": "ARMY",
+          "limiters": [
+            {
+              "type": "HAS_ANOTHER_BONUS_LIMITER",
+              "creature": "FIRST_AID_AVAILABLE"
+            }
+          ]
+        },
+
+        "firstAid": {
+          "type": "SPECIFIC_SPELL_POWER",
+          "subtype": "spell.firstAid",
+          "valueType": "BASE_NUMBER"
+        },
+
+        "val2": {
+          "type": "DAMAGE_RECEIVED_CAP",
+          "val": 40,
+          "valueType": "INDEPENDENT_MIN",
+          "propagator": "ARMY",
+          "limiters": [
+            {
+              "type": "CREATURE_TYPE_LIMITER",
+              "creature": "firstAidTent"
+            }
+          ]
+        },
+
+        "ctrl": {
+          "type": "MANUAL_CONTROL",
+          "subtype": "creature.firstAidTent",
+          "val": 100,
+          "valueType": "BASE_NUMBER"
+        },
+
+        "xtra": {
           "type": "HERO_GRANTS_ATTACKS",
           "subtype": "creature.ballista",
           "valueType": "BASE_NUMBER"
@@ -22,14 +60,14 @@
           "valueType": "BASE_NUMBER"
         },
 
-        "val2": {
+        "val3": {
           "type": "BONUS_DAMAGE_PERCENTAGE",
           "subtype": "creature.ballista",
           "val": 100,
           "valueType": "BASE_NUMBER"
         },
 
-        "val3": {
+        "val4": {
           "type": "DAMAGE_RECEIVED_CAP",
           "val": 40,
           "valueType": "INDEPENDENT_MIN",
@@ -42,21 +80,21 @@
           ]
         },
 
-        "ctrl": {
+        "ctrl2": {
           "type": "MANUAL_CONTROL",
           "subtype": "creature.ballista",
           "val": 100,
           "valueType": "BASE_NUMBER"
         },
 
-        "ctrl2": {
+        "ctrl3": {
           "type": "MANUAL_CONTROL",
           "subtype": "creature.arrowTower",
           "val": 100,
           "valueType": "BASE_NUMBER"
         },
 
-        "ctrl3": {
+        "ctrl4": {
           "type": "MANUAL_CONTROL",
           "subtype": "creature.catapult",
           "val": 100,
@@ -69,17 +107,17 @@
           "valueType": "BASE_NUMBER"
         },
 
-        "ctrl4": {
-          "type": "MANUAL_CONTROL",
-          "subtype": "creature.firstAidTent",
-          "val": 100,
-          "valueType": "BASE_NUMBER"
-        },
-
-        "firstAid": {
-          "type": "SPECIFIC_SPELL_POWER",
-          "subtype": "spell.firstAid",
-          "valueType": "BASE_NUMBER"
+        "val5": {
+          "type": "DAMAGE_RECEIVED_CAP",
+          "val": 40,
+          "valueType": "INDEPENDENT_MIN",
+          "propagator": "ARMY",
+          "limiters": [
+            {
+              "type": "CREATURE_TYPE_LIMITER",
+              "creature": "catapult"
+            }
+          ]
         }
       }
     },
@@ -87,10 +125,11 @@
     "basic": {
       "description": "{Basic Warfare}\n\nBasic of Artillery, First Aid and Ballistics",
       "effects": {
-        "main": {"val": 0},
+        "main": {"val": 5},
+        "firstAid": {"val": 100},
+        "xtra": {"val": 0},
         "artillery": {"val": 50},
-        "ballistics": {"val": 1},
-        "firstAid": {"val": 100}
+        "ballistics": {"val": 1}
       },
 
       "images": {
@@ -104,10 +143,11 @@
     "advanced": {
       "description": "{Advanced Warfare}\n\nAdvanced of Artillery, First Aid and Ballistics",
       "effects": {
-        "main": {"val": 1},
+        "main": {"val": 10},
+        "firstAid": {"val": 150},
+        "xtra": {"val": 1},
         "artillery": {"val": 75},
-        "ballistics": {"val": 2},
-        "firstAid": {"val": 150}
+        "ballistics": {"val": 2}
       },
 
       "images": {
@@ -121,10 +161,11 @@
     "expert": {
       "description": "{Expert Warfare}\n\nExpert of Artillery, First Aid and Ballistics",
       "effects": {
-        "main": {"val": 1},
+        "main": {"val": 15},
+        "firstAid": {"val": 200},
+        "xtra": {"val": 1},
         "artillery": {"val": 100},
-        "ballistics": {"val": 3},
-        "firstAid": {"val": 200}
+        "ballistics": {"val": 3}
       },
 
       "images": {
