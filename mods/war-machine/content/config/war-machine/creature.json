@@ -1,5 +1,9 @@
 {
   "core:ballista": {
+    "cost": {
+      "gold": 1500
+    },
+
     "damage": {
       "min": 5,
       "max": 5
@@ -15,12 +19,11 @@
           "stepSize": 2
         },
 
-        "propagator": "HERO",
+        "propagator": "ARMY",
         "limiters": [
           {
             "type": "CREATURE_TYPE_LIMITER",
-            "creature": "ballista",
-            "includeUpgrades": false
+            "creature": "ballista"
           }
         ]
       }

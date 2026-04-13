@@ -2,6 +2,7 @@
   "warfare": {
     "name": "Warfare",
     "obligatoryMinor": true,
+    "specialty": ["main"],
     "gainChance": {
       "might": 8,
       "magic": 8
@@ -10,9 +11,8 @@
     "base": {
       "effects": {
         "main": {
-          "type": "BONUS_DAMAGE_PERCENTAGE",
+          "type": "HERO_GRANTS_ATTACKS",
           "subtype": "creature.ballista",
-          "val": 100,
           "valueType": "BASE_NUMBER"
         },
 
@@ -23,9 +23,23 @@
         },
 
         "val2": {
-          "type": "HERO_GRANTS_ATTACKS",
+          "type": "BONUS_DAMAGE_PERCENTAGE",
           "subtype": "creature.ballista",
+          "val": 100,
           "valueType": "BASE_NUMBER"
+        },
+
+        "val3": {
+          "type": "DAMAGE_RECEIVED_CAP",
+          "val": 40,
+          "valueType": "INDEPENDENT_MIN",
+          "propagator": "ARMY",
+          "limiters": [
+            {
+              "type": "CREATURE_TYPE_LIMITER",
+              "creature": "ballista"
+            }
+          ]
         },
 
         "ctrl": {
@@ -73,10 +87,10 @@
     "basic": {
       "description": "{Basic Warfare}\n\nBasic of Artillery, First Aid and Ballistics",
       "effects": {
+        "main": {"val": 0},
         "ballistics": {"val": 1},
         "firstAid": {"val": 100},
-        "artillery": {"val": 50},
-        "val2": {"val": 0}
+        "artillery": {"val": 50}
       },
 
       "images": {
@@ -89,10 +103,10 @@
     "advanced": {
       "description": "{Advanced Warfare}\n\nAdvanced of Artillery, First Aid and Ballistics",
       "effects": {
+        "main": {"val": 1},
         "ballistics": {"val": 2},
         "firstAid": {"val": 200},
-        "artillery": {"val": 75},
-        "val2": {"val": 1}
+        "artillery": {"val": 75}
       },
 
       "images": {
@@ -105,10 +119,10 @@
     "expert": {
       "description": "{Expert Warfare}\n\nExpert of Artillery, First Aid and Ballistics",
       "effects": {
+        "main": {"val": 1},
         "ballistics": {"val": 3},
         "firstAid": {"val": 300},
-        "artillery": {"val": 100},
-        "val2": {"val": 1}
+        "artillery": {"val": 100}
       },
 
       "images": {
