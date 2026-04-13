@@ -26,10 +26,11 @@ Rebalance skills, heroes, creatures, etc.
   - Sorcery
   - Transport: Combines Logistics and Pathfinding
   - Warfare: Combines Artillery, First Aid and Ballistics
-  - Scholar
+  - Scholar:
     - Eagle Eye
 
-- War Machine
+- War Machine:
+  - War Machine 2
 
 ---
 

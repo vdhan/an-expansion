@@ -2,6 +2,7 @@
   "transport": {
     "name": "Transport",
     "obligatoryMinor": true,
+    "specialty": ["main"],
     "gainChance": {
       "might": 8,
       "magic": 8
@@ -32,7 +33,8 @@
       "images": {
         "large": "transport/basicLarge",
         "medium": "transport/basicMedium",
-        "small": "transport/basicSmall"
+        "small": "transport/basicSmall",
+        "scenarioBonus": "transport/basicScenario"
       }
     },
 
@@ -46,7 +48,8 @@
       "images": {
         "large": "transport/advancedLarge",
         "medium": "transport/advancedMedium",
-        "small": "transport/advancedSmall"
+        "small": "transport/advancedSmall",
+        "scenarioBonus": "transport/advancedScenario"
       }
     },
 
@@ -60,7 +63,8 @@
       "images": {
         "large": "transport/expertLarge",
         "medium": "transport/expertMedium",
-        "small": "transport/expertSmall"
+        "small": "transport/expertSmall",
+        "scenarioBonus": "transport/expertScenario"
       }
     }
   },

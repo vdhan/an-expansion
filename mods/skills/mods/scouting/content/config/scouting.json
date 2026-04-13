@@ -7,7 +7,10 @@
           "subtype": "heroMovementLand",
           "val": 50,
           "valueType": "BASE_NUMBER",
-          "updater": "TIMES_HERO_LEVEL"
+          "updater": {
+            "type": "TIMES_HERO_LEVEL",
+            "stepSize": 1
+          }
         }
       }
     },

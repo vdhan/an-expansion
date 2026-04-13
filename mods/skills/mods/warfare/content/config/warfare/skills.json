@@ -96,7 +96,8 @@
       "images": {
         "large": "warfare/warfareBasicLarge",
         "medium": "warfare/warfareBasicMedium",
-        "small": "warfare/warfareBasicSmall"
+        "small": "warfare/warfareBasicSmall",
+        "scenarioBonus": "warfare/basicScenario"
       }
     },
 
@@ -112,7 +113,8 @@
       "images": {
         "large": "warfare/warfareAdvancedLarge",
         "medium": "warfare/warfareAdvancedMedium",
-        "small": "warfare/warfareAdvancedSmall"
+        "small": "warfare/warfareAdvancedSmall",
+        "scenarioBonus": "warfare/advancedScenario"
       }
     },
 
@@ -128,7 +130,8 @@
       "images": {
         "large": "warfare/warfareExpertLarge",
         "medium": "warfare/warfareExpertMedium",
-        "small": "warfare/warfareExpertSmall"
+        "small": "warfare/warfareExpertSmall",
+        "scenarioBonus": "warfare/expertScenario"
       }
     }
   },
