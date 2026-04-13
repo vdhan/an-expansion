@@ -6,10 +6,6 @@
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
 
-  "softDepends": [
-    "hota.gamebalance.skills.firstAid"
-  ],
-
   "vietnamese": {
     "name": "Warfare",
     "description": "Khí Tài kết hợp Pháo Binh, Sơ Cứu và Đạn Đạo",
@@ -21,6 +17,14 @@
 
   "skills": [
     "config/warfare/skills"
+  ],
+
+  "bonuses": [
+    "config/warfare/bonus"
+  ],
+
+  "artifacts": [
+    "config/warfare/artifact"
   ],
 
   "heroClasses": [

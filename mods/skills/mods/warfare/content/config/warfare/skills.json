@@ -17,7 +17,7 @@
           "limiters": [
             {
               "type": "HAS_ANOTHER_BONUS_LIMITER",
-              "creature": "FIRST_AID_AVAILABLE"
+              "bonusType": "FIRST_AID"
             }
           ]
         },

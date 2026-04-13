@@ -6,7 +6,10 @@
           "type": "HERO_EXPERIENCE_GAIN_PERCENT",
           "val": 5,
           "valueType": "PERCENT_TO_BASE",
-          "updater": "TIMES_HERO_LEVEL"
+          "updater": {
+            "type": "TIMES_HERO_LEVEL",
+            "stepSize": 1
+          }
         }
       }
     },
