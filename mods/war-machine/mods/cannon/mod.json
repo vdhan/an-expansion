@@ -1,0 +1,31 @@
+{
+  "name": "War Machine > Cannon",
+  "description": "Hota Cannon cost 2000 gold",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Creatures",
+
+  "depends": [
+    "hota.cannon"
+  ],
+
+  "softDepends": [
+    "hota.gamebalance.creatures",
+    "hota.gamebalance.artifacts"
+  ],
+
+  "vietnamese": {
+    "name": "War Machine > Cannon",
+    "description": "Hota Cannon giá 2000 vàng",
+    "author": "Vũ Đắc Hoàng Ân"
+  },
+
+  "creatures": [
+    "config/cannon/creature"
+  ],
+
+  "artifacts": [
+    "config/cannon/artifact"
+  ]
+}

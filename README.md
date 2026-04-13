@@ -31,6 +31,7 @@ Rebalance skills, heroes, creatures, etc.
 
 - War Machine:
   - War Machine 2
+  - Cannon
 
 ---
 

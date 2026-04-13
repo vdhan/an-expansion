@@ -1,5 +1,5 @@
 {
-  "name": "Cannon",
+  "name": "Warfare > Cannon",
   "description": "Support Hota Cannon",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
@@ -11,7 +11,7 @@
   ],
 
   "vietnamese": {
-    "name": "Cannon",
+    "name": "Warfare > Cannon",
     "description": "Hỗ trợ Hota Cannon",
     "author": "Vũ Đắc Hoàng Ân"
   },
