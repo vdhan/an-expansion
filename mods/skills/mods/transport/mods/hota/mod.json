@@ -1,0 +1,28 @@
+{
+  "name": "Transport > HOTA towns",
+  "description": "Support HOTA towns",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Skills",
+
+  "depends": [
+    "hota.cove",
+    "hota.factory",
+    "hota.bulwark"
+  ],
+
+  "vietnamese": {
+    "name": "Transport > HOTA towns",
+    "description": "Hỗ trợ các thành HOTA",
+    "author": "Vũ Đắc Hoàng Ân"
+  },
+
+  "heroClasses": [
+    "config/hota/class"
+  ],
+
+  "heroes": [
+    "config/hota/hero"
+  ]
+}

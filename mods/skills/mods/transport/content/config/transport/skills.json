@@ -78,18 +78,10 @@
   },
 
   "core:pathfinding": {
-    "special": true,
-    "gainChance": {
-      "might": 0,
-      "magic": 0
-    }
+    "special": true
   },
 
   "core:logistics": {
-    "special": true,
-    "gainChance": {
-      "might": 0,
-      "magic": 0
-    }
+    "special": true
   }
 }

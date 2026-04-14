@@ -12,7 +12,8 @@
 
   "vietnamese": {
     "name": "Warfare Transport",
-    "description": "1 số tướng có kĩ năng ban đầu: Khí Tài và Vận Chuyển"
+    "description": "1 số tướng có kĩ năng ban đầu: Khí Tài và Vận Chuyển",
+    "author": "Vũ Đắc Hoàng Ân"
   },
 
   "heroes": [

@@ -1,22 +1,24 @@
 {
-  "name": "Double Movement > Bulwark",
-  "description": "Support Bulwark town",
+  "name": "Double Movement > HOTA towns",
+  "description": "Support HOTA towns",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Mechanics",
 
   "depends": [
+    "hota.cove",
+    "hota.factory",
     "hota.bulwark"
   ],
 
   "vietnamese": {
-    "name": "Double Movement > Bulwark",
-    "description": "Hỗ trợ thành Bulwark",
+    "name": "Double Movement > HOTA towns",
+    "description": "Hỗ trợ các thành HOTA",
     "author": "Vũ Đắc Hoàng Ân"
   },
 
   "creatures": [
-    "config/bulwark"
+    "config/hota"
   ]
 }

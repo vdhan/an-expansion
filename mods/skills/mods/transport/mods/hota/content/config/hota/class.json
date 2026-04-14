@@ -1,0 +1,43 @@
+{
+  "hota.cove:captain": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
+  },
+
+  "hota.cove:navigator": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
+  },
+
+  "hota.factory:mercenary": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
+  },
+
+  "hota.factory:artificer": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
+  },
+
+  "hota.bulwark:chieftain": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
+  },
+
+  "hota.bulwark:elder": {
+    "secondarySkills": {
+      "pathfinding": 0,
+      "logistics": 0
+    }
+  }
+}

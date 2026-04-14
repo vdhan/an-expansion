@@ -1,5 +1,5 @@
 {
-  "name": "War Machine > Cannon",
+  "name": "War Machine: Cannon",
   "description": "Hota Cannon cost 2000 gold",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
@@ -16,7 +16,7 @@
   ],
 
   "vietnamese": {
-    "name": "War Machine > Cannon",
+    "name": "War Machine: Cannon",
     "description": "Hota Cannon giá 2000 vàng",
     "author": "Vũ Đắc Hoàng Ân"
   },

@@ -1,55 +1,19 @@
 {
-  "core:kyrre": {
+  "hota.cove:15andal": {
     "skills": [
       {
-        "skill": "archery",
+        "skill": "wisdom",
         "level": "basic"
       },
 
       {
         "skill": "transport",
-        "level": "basic"
-      }
-    ],
-
-    "specialty": {
-      "secondary": "transport"
-    }
-  },
-
-  "core:clancy": {
-    "skills": [
-      {
-        "skill": "transport",
-        "level": "basic"
-      },
-
-      {
-        "skill": "resistance",
         "level": "basic"
       }
     ]
   },
 
-  "core:gunnar": {
-    "skills": [
-      {
-        "skill": "transport",
-        "level": "basic"
-      },
-
-      {
-        "skill": "tactics",
-        "level": "basic"
-      }
-    ],
-
-    "specialty": {
-      "secondary": "transport"
-    }
-  },
-
-  "core:gretchin": {
+  "hota.cove:01corkes": {
     "skills": [
       {
         "skill": "offence",
@@ -63,7 +27,35 @@
     ]
   },
 
-  "core:dessa": {
+  "hota.cove:06leena": {
+    "skills": [
+      {
+        "skill": "transport",
+        "level": "basic"
+      },
+
+      {
+        "skill": "estates",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "hota.cove:09miriam": {
+    "skills": [
+      {
+        "skill": "transport",
+        "level": "basic"
+      },
+
+      {
+        "skill": "scouting",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "hota.factory:11celestine": {
     "skills": [
       {
         "skill": "wisdom",
@@ -74,14 +66,38 @@
         "skill": "transport",
         "level": "basic"
       }
-    ],
-
-    "specialty": {
-      "secondary": "transport"
-    }
+    ]
   },
 
-  "core:korbac": {
+  "hota.bulwark:08ergon": {
+    "skills": [
+      {
+        "skill": "transport",
+        "level": "basic"
+      },
+
+      {
+        "skill": "scouting",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "hota.bulwark:06spadum": {
+    "skills": [
+      {
+        "skill": "transport",
+        "level": "basic"
+      },
+
+      {
+        "skill": "leadership",
+        "level": "basic"
+      }
+    ]
+  },
+
+  "hota.bulwark:04eikthurn": {
     "skills": [
       {
         "skill": "armorer",
@@ -95,29 +111,15 @@
     ]
   },
 
-  "core:monere": {
+  "hota.bulwark:01dhuin": {
     "skills": [
       {
-        "skill": "transport",
+        "skill": "archery",
         "level": "basic"
       },
 
       {
-        "skill": "offence",
-        "level": "basic"
-      }
-    ]
-  },
-
-  "core:pyre": {
-    "skills": [
-      {
         "skill": "transport",
-        "level": "basic"
-      },
-
-      {
-        "skill": "artillery",
         "level": "basic"
       }
     ]
