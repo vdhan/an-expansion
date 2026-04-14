@@ -6,8 +6,12 @@
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
 
+  "softDepends": [
+    "hota.gamebalance.heroes"
+  ],
+
   "vietnamese": {
-    "name": "Warfare",
+    "name": "Khí Tài",
     "description": "Khí Tài kết hợp Pháo Binh, Sơ Cứu và Đạn Đạo",
     "author": "Vũ Đắc Hoàng Ân",
     "translations": [

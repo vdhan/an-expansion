@@ -1,6 +1,6 @@
 {
-  "name": "Resource > HOTA towns",
-  "description": "Support HOTA towns",
+  "name": "Resource > HOTA",
+  "description": "Support HOTA mod",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -19,8 +19,8 @@
   },
 
   "vietnamese": {
-    "name": "Resource > HOTA towns",
-    "description": "Hỗ trợ các thành HOTA",
+    "name": "Tài Nguyên > HOTA",
+    "description": "Hỗ trợ bản mở rộng HOTA",
     "author": "Vũ Đắc Hoàng Ân",
     "changelog": {
       "Cove": ["Thêm 200 vàng/ngày"],

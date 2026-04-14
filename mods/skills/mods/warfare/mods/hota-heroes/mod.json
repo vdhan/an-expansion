@@ -1,6 +1,6 @@
 {
-  "name": "HotA Heroes",
-  "description": "Support HotA Heroes",
+  "name": "HOTA Heroes",
+  "description": "Support HOTA Heroes",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
@@ -11,8 +11,8 @@
   ],
 
   "vietnamese": {
-    "name": "HotA Heroes",
-    "description": "Hỗ trợ HotA Heroes",
+    "name": "HOTA Heroes",
+    "description": "Hỗ trợ HOTA Heroes",
     "author": "Vũ Đắc Hoàng Ân"
   },
 

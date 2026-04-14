@@ -1,5 +1,5 @@
 {
-  "name": "Transport > HOTA",
+  "name": "Warfare > HOTA",
   "description": "Support HOTA mod",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
@@ -9,11 +9,12 @@
   "depends": [
     "hota.cove",
     "hota.factory",
-    "hota.bulwark"
+    "hota.bulwark",
+    "hota.cannon"
   ],
 
   "vietnamese": {
-    "name": "Vận Chuyển > HOTA",
+    "name": "Khí Tài > HOTA",
     "description": "Hỗ trợ bản mở rộng HOTA",
     "author": "Vũ Đắc Hoàng Ân"
   },
@@ -24,5 +25,9 @@
 
   "heroes": [
     "config/hota/hero"
+  ],
+
+  "skills": [
+    "config/hota/cannon"
   ]
 }
