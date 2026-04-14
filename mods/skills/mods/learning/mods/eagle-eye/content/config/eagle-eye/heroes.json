@@ -1,5 +1,13 @@
 {
   "core:sanya": {
+    "texts": {
+      "specialty": {
+        "name": "Learning",
+        "description": "Receives a 5% per level bonus to {Learning} skill percentage",
+        "tooltip": "Skill: Learning"
+      }
+    },
+
     "skills": [
       {
         "skill": "wisdom",
@@ -18,6 +26,14 @@
   },
 
   "core:malcom": {
+    "texts": {
+      "specialty": {
+        "name": "Learning",
+        "description": "Receives a 5% per level bonus to {Learning} skill percentage",
+        "tooltip": "Skill: Learning"
+      }
+    },
+
     "skills": [
       {
         "skill": "wisdom",
@@ -36,6 +52,14 @@
   },
 
   "core:serena": {
+    "texts": {
+      "specialty": {
+        "name": "Learning",
+        "description": "Receives a 5% per level bonus to {Learning} skill percentage",
+        "tooltip": "Skill: Learning"
+      }
+    },
+
     "skills": [
       {
         "skill": "wisdom",
@@ -68,6 +92,14 @@
   },
 
   "core:nimbus": {
+    "texts": {
+      "specialty": {
+        "name": "Learning",
+        "description": "Receives a 5% per level bonus to {Learning} skill percentage",
+        "tooltip": "Skill: Learning"
+      }
+    },
+
     "skills": [
       {
         "skill": "necromancy",
@@ -86,6 +118,14 @@
   },
 
   "core:geon": {
+    "texts": {
+      "specialty": {
+        "name": "Learning",
+        "description": "Receives a 5% per level bonus to {Learning} skill percentage",
+        "tooltip": "Skill: Learning"
+      }
+    },
+
     "skills": [
       {
         "skill": "wisdom",
@@ -104,6 +144,14 @@
   },
 
   "core:oris": {
+    "texts": {
+      "specialty": {
+        "name": "Learning",
+        "description": "Receives a 5% per level bonus to {Learning} skill percentage",
+        "tooltip": "Skill: Learning"
+      }
+    },
+
     "skills": [
       {
         "skill": "wisdom",
@@ -122,6 +170,14 @@
   },
 
   "core:tiva": {
+    "texts": {
+      "specialty": {
+        "name": "Learning",
+        "description": "Receives a 5% per level bonus to {Learning} skill percentage",
+        "tooltip": "Skill: Learning"
+      }
+    },
+
     "skills": [
       {
         "skill": "wisdom",
