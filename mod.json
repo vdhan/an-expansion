@@ -9,8 +9,8 @@
   "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
 
   "compatibility": {
-		"min": "1.7.0"
-	},
+    "min": "1.7.0"
+  },
 
   "settings": {
     "heroes": {
@@ -27,9 +27,9 @@
       "areaShotCanTargetEmptyHex": true
     },
 
-		"spells": {
-			"dimensionDoorTriggersGuards": true
-		}
+    "spells": {
+      "dimensionDoorTriggersGuards": true
+    }
   },
 
   "changelog": {
@@ -42,6 +42,7 @@
       "Rework Neutral Upgrade",
       "Remove Resistance"
     ],
+
     "3.4.0": ["Remove Tactics", "Obsolete Eagle Eye", "HotA Ranloo -> HotA Heroes"],
     "3.3.9": ["Fix compatibility with Hota 1.7.58"],
     "3.3.8": ["Update to VCMI 1.6"],

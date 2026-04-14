@@ -1,14 +1,18 @@
 {
   "name": "Learning",
-  "description": "Learning also gains additional 5% earned experience per level",
+  "description": "Learning now gains additional 25%/50%/75% earned experience",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
   "modType": "Skills",
 
+  "softDepends": [
+    "hota.gamebalance.skills.learning"
+  ],
+
   "vietnamese": {
     "name": "Learning",
-    "description": "Học Tập còn cộng thêm 5% kinh nghiệm kiếm được mỗi cấp",
+    "description": "Học Tập cộng thêm 25%/50%/75% kinh nghiệm kiếm được",
     "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/learning/vietnamese"

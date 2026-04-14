@@ -6,9 +6,10 @@ Rebalance skills, heroes, creatures, etc.
 - Long Live Peasant
 - Modern Font
 - Neutral Upgrade
+- Double Movement:
+  - Sea
 
 - Heroes:
-  - Double Movement
   - Resource
   - Skeleton Warrior
 

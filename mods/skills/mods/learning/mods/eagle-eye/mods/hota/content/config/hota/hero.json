@@ -1,0 +1,15 @@
+{
+  "hota.bulwark:16vehr": {
+    "skills": [
+      {
+        "skill": "wisdom",
+        "level": "basic"
+      },
+
+      {
+        "skill": "learning",
+        "level": "basic"
+      }
+    ]
+  }
+}

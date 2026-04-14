@@ -1,0 +1,20 @@
+{
+  "name": "Double Movement: Sea",
+  "description": "Heroes have double movement (sea)",
+  "version": "1.0.0",
+  "author": "Vũ Đắc Hoàng Ân",
+  "contact": "https://vudachoangan.com",
+  "modType": "Mechanics",
+
+  "vietnamese": {
+    "name": "Double Movement: Sea",
+    "description": "Tướng tăng gấp đôi di chuyển (trên biển)",
+    "author": "Vũ Đắc Hoàng Ân"
+  },
+
+  "settings": {
+    "heroes": {
+      "movementPointsSea": [3000]
+    }
+  }
+}

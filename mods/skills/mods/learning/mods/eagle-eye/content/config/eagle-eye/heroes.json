@@ -10,7 +10,11 @@
         "skill": "learning",
         "level": "basic"
       }
-    ]
+    ],
+
+    "specialty": {
+      "secondary": "learning"
+    }
   },
 
   "core:malcom": {
@@ -24,7 +28,11 @@
         "skill": "learning",
         "level": "basic"
       }
-    ]
+    ],
+
+    "specialty": {
+      "secondary": "learning"
+    }
   },
 
   "core:serena": {
@@ -38,7 +46,11 @@
         "skill": "learning",
         "level": "basic"
       }
-    ]
+    ],
+
+    "specialty": {
+      "secondary": "learning"
+    }
   },
 
   "core:ash": {
@@ -66,7 +78,11 @@
         "skill": "learning",
         "level": "basic"
       }
-    ]
+    ],
+
+    "specialty": {
+      "secondary": "learning"
+    }
   },
 
   "core:geon": {
@@ -80,7 +96,11 @@
         "skill": "learning",
         "level": "basic"
       }
-    ]
+    ],
+
+    "specialty": {
+      "secondary": "learning"
+    }
   },
 
   "core:oris": {
@@ -94,7 +114,11 @@
         "skill": "learning",
         "level": "basic"
       }
-    ]
+    ],
+
+    "specialty": {
+      "secondary": "learning"
+    }
   },
 
   "core:tiva": {
@@ -108,6 +132,10 @@
         "skill": "learning",
         "level": "basic"
       }
-    ]
+    ],
+
+    "specialty": {
+      "secondary": "learning"
+    }
   }
 }

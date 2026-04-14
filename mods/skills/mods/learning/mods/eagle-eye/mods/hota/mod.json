@@ -1,10 +1,10 @@
 {
-  "name": "Double Movement > HOTA towns",
+  "name": "Eagle Eye > HOTA towns",
   "description": "Support HOTA towns",
   "version": "1.0.0",
   "author": "Vũ Đắc Hoàng Ân",
   "contact": "https://vudachoangan.com",
-  "modType": "Mechanics",
+  "modType": "Skills",
 
   "depends": [
     "hota.cove",
@@ -13,12 +13,16 @@
   ],
 
   "vietnamese": {
-    "name": "Double Movement > HOTA towns",
+    "name": "Eagle Eye > HOTA towns",
     "description": "Hỗ trợ các thành HOTA",
     "author": "Vũ Đắc Hoàng Ân"
   },
 
-  "creatures": [
-    "config/hota"
+  "heroClasses": [
+    "config/hota/class"
+  ],
+
+  "heroes": [
+    "config/hota/hero"
   ]
 }
