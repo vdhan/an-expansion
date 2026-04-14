@@ -2,12 +2,13 @@
   "core:learning": {
     "base": {
       "effects": {
-        "eagle": {
+        "val2": {
           "type": "LEARN_BATTLE_SPELL_CHANCE",
+          "val": 100,
           "valueType": "BASE_NUMBER"
         },
 
-        "eagle2": {
+        "eagle": {
           "type": "LEARN_BATTLE_SPELL_LEVEL_LIMIT",
           "valueType": "BASE_NUMBER"
         }
@@ -15,26 +16,23 @@
     },
 
     "basic": {
-      "description": "{Basic Scholar}\n\nIncreases earned experiences by 5% + 5% per level. 20% chance to learn any spell up to 2nd level used in combat",
+      "description": "{Basic Scholar}\n\nIncreases earned experiences by 5% + 5% per level. Can learn any spell up to 3rd level used in combat",
       "effects": {
-        "eagle": {"val": 20},
-        "eagle2": {"val": 2}
+        "eagle": {"val": 3}
       }
     },
 
     "advanced": {
-      "description": "{Advanced Scholar}\n\nIncreases earned experiences by 10% + 5% per level. 40% chance to learn any spell up to 3rd level used in combat",
+      "description": "{Advanced Scholar}\n\nIncreases earned experiences by 10% + 5% per level. Can learn any spell up to 4th level used in combat",
       "effects": {
-        "eagle": {"val": 40},
-        "eagle2": {"val": 3}
+        "eagle": {"val": 4}
       }
     },
 
     "expert": {
-      "description": "{Expert Scholar}\n\nIncreases earned experiences by 15% + 5% per level. 60% chance to learn any spell up to 4th level used in combat",
+      "description": "{Expert Scholar}\n\nIncreases earned experiences by 15% + 5% per level. Can learn any spell up to 5th level used in combat",
       "effects": {
-        "eagle": {"val": 60},
-        "eagle2": {"val": 4}
+        "eagle": {"val": 5}
       }
     }
   },

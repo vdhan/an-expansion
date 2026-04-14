@@ -41,7 +41,7 @@
           "stepSize": 1
         },
 
-        "propagator": "HERO"
+        "propagator": "ARMY"
       }
     }
   },
@@ -52,17 +52,6 @@
       "reduceSpellCost": {
         "type": "CHANGES_SPELL_COST_FOR_ALLY",
         "val": 1
-      },
-
-      "velocity": {
-        "type": "STACKS_SPEED",
-        "updater": {
-          "type": "GROWS_WITH_LEVEL",
-          "valPer20": 4,
-          "stepSize": 1
-        },
-
-        "propagator": "HERO"
       }
     }
   }
