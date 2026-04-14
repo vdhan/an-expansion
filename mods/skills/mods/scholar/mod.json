@@ -9,6 +9,7 @@
   "vietnamese": {
     "name": "Scholar",
     "description": "Dạy Học giúp tướng dạy lẫn nhau phép đến cấp 2/3/5 và tăng 1/2/3 trí",
+    "author": "Vũ Đắc Hoàng Ân",
     "translations": [
       "translation/scholar/vietnamese"
     ]

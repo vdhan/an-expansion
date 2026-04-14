@@ -36,10 +36,11 @@
     "3.4.1": [
       "Remove Level 8 Upgrade",
       "Heroes now have up to 12 skills",
-      "Remove Cure First Aid",
+      "Cure First Aid -> War Machine 2",
       "Remove Specialty",
       "Remove Creature Upgrading",
-      "Rework Neutral Upgrade"
+      "Rework Neutral Upgrade",
+      "Remove Resistance"
     ],
     "3.4.0": ["Remove Tactics", "Obsolete Eagle Eye", "HotA Ranloo -> HotA Heroes"],
     "3.3.9": ["Fix compatibility with Hota 1.7.58"],
@@ -57,10 +58,11 @@
       "3.4.1": [
         "Bỏ Level 8 Upgrade",
         "Tướng có 12 kĩ năng",
-        "Bỏ Cure First Aid",
+        "Cure First Aid -> War Machine 2",
         "Bỏ Specialty",
         "Bỏ Creature Upgrading",
-        "Cập nhật Neutral Upgrade"
+        "Cập nhật Neutral Upgrade",
+        "Bỏ Resistance"
       ]
     }
   }

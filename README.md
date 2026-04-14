@@ -20,7 +20,6 @@ Rebalance skills, heroes, creatures, etc.
   - Luck
   - Navigation
   - Offence
-  - Resistance
   - Scholar
   - Scouting
   - Sorcery
