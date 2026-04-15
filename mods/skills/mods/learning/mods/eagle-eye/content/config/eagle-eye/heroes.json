@@ -8,6 +8,13 @@
       }
     },
 
+    "images": {
+      "specialtySmall": "learning/specSmall",
+      "specialtyLarge": "learning/specLarge",
+      "small": "hero/sanya/hps013cl",
+      "large": "hero/sanya/hpl013cl"
+    },
+
     "skills": [
       {
         "skill": "wisdom",
@@ -34,6 +41,13 @@
       }
     },
 
+    "images": {
+      "specialtySmall": "learning/specSmall",
+      "specialtyLarge": "learning/specLarge",
+      "small": "hero/malcom/hps028dr",
+      "large": "hero/malcom/hpl028dr"
+    },
+
     "skills": [
       {
         "skill": "wisdom",
@@ -58,6 +72,13 @@
         "description": "Receives a 5% per level bonus to {Learning} skill percentage",
         "tooltip": "Skill: Learning"
       }
+    },
+
+    "images": {
+      "specialtySmall": "learning/specSmall",
+      "specialtyLarge": "learning/specLarge",
+      "small": "hero/serena/hps042wz",
+      "large": "hero/serena/hpl042wz"
     },
 
     "skills": [
@@ -100,6 +121,13 @@
       }
     },
 
+    "images": {
+      "specialtySmall": "learning/specSmall",
+      "specialtyLarge": "learning/specLarge",
+      "small": "hero/nimbus/hps075nc",
+      "large": "hero/nimbus/hpl075nc"
+    },
+
     "skills": [
       {
         "skill": "necromancy",
@@ -124,6 +152,13 @@
         "description": "Receives a 5% per level bonus to {Learning} skill percentage",
         "tooltip": "Skill: Learning"
       }
+    },
+
+    "images": {
+      "specialtySmall": "learning/specSmall",
+      "specialtyLarge": "learning/specLarge",
+      "small": "hero/geon/hps092wl",
+      "large": "hero/geon/hpl092wl"
     },
 
     "skills": [
@@ -152,6 +187,13 @@
       }
     },
 
+    "images": {
+      "specialtySmall": "learning/specSmall",
+      "specialtyLarge": "learning/specLarge",
+      "small": "hero/oris/hps110bm",
+      "large": "hero/oris/hpl110bm"
+    },
+
     "skills": [
       {
         "skill": "wisdom",
@@ -176,6 +218,13 @@
         "description": "Receives a 5% per level bonus to {Learning} skill percentage",
         "tooltip": "Skill: Learning"
       }
+    },
+
+    "images": {
+      "specialtySmall": "learning/specSmall",
+      "specialtyLarge": "learning/specLarge",
+      "small": "hero/tiva/hps127wh",
+      "large": "hero/tiva/hpl127wh"
     },
 
     "skills": [
