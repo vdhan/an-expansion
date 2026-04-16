@@ -17,7 +17,7 @@ jobs:
       valid: ${{ steps.validate.outcome == 'success' }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Install jstyleson
         run: sudo apt install python3-jstyleson
@@ -36,7 +36,7 @@ jobs:
         shell: bash
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Install dependencies
         run: |
