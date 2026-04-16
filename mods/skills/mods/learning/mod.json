@@ -1,25 +1,25 @@
 {
-  "name": "Learning",
-  "description": "Learning now gains additional 25%/50%/75% earned experience",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Learning",
+	"description" : "Learning now gains additional 25%/50%/75% earned experience",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "softDepends": [
-    "hota.gamebalance.skills.learning"
-  ],
+	"softDepends" : [
+		"hota.gamebalance.skills.learning"
+	],
 
-  "vietnamese": {
-    "name": "Học Tập",
-    "description": "Học Tập cộng thêm 25%/50%/75% kinh nghiệm kiếm được",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/learning/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Học Tập",
+		"description" : "Học Tập cộng thêm 25%/50%/75% kinh nghiệm kiếm được",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/learning/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/learning"
-  ]
+	"skills" : [
+		"config/learning"
+	]
 }

@@ -1,21 +1,21 @@
 {
-  "name": "Offence",
-  "description": "Offence also casts Bloodlust at battle opening for 10/25/50 rounds",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Offence",
+	"description" : "Offence also casts Bloodlust at battle opening for 10/25/50 rounds",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Cận Chiến",
-    "description": "Cận Chiến đầu trận còn ếm Khát Máu cho 10/25/50 vòng",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/offence/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Cận Chiến",
+		"description" : "Cận Chiến đầu trận còn ếm Khát Máu cho 10/25/50 vòng",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/offence/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/offence"
-  ]
+	"skills" : [
+		"config/offence"
+	]
 }

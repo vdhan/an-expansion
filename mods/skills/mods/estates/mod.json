@@ -1,25 +1,25 @@
 {
-  "name": "Estates",
-  "description": "Estates now increases 250/500/1000 gold, 1 wood and 1 ore per day",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Estates",
+	"description" : "Estates now increases 250/500/1000 gold, 1 wood and 1 ore per day",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "softDepends": [
+	"softDepends" : [
 		"hota.gamebalance.skills.estates"
-  ],
+	],
 
-  "vietnamese": {
-    "name": "Tài Sản",
-    "description": "Tài Sản tăng 250/500/1000 vàng, 1 gỗ và 1 quặng mỗi ngày",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/estates/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Tài Sản",
+		"description" : "Tài Sản tăng 250/500/1000 vàng, 1 gỗ và 1 quặng mỗi ngày",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/estates/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/estates"
-  ]
+	"skills" : [
+		"config/estates"
+	]
 }

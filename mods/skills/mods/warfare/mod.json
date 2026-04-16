@@ -1,41 +1,41 @@
 {
-  "name": "Warfare",
-  "description": "Warfare combines Artillery, First Aid and Ballistics",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Warfare",
+	"description" : "Warfare combines Artillery, First Aid and Ballistics",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "softDepends": [
-    "hota.gamebalance.heroes"
-  ],
+	"softDepends" : [
+		"hota.gamebalance.heroes"
+	],
 
-  "vietnamese": {
-    "name": "Khí Tài",
-    "description": "Khí Tài kết hợp Pháo Binh, Sơ Cứu và Đạn Đạo",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/warfare/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Khí Tài",
+		"description" : "Khí Tài kết hợp Pháo Binh, Sơ Cứu và Đạn Đạo",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/warfare/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/warfare/skills"
-  ],
+	"skills" : [
+		"config/warfare/skills"
+	],
 
-  "bonuses": [
-    "config/warfare/bonus"
-  ],
+	"bonuses" : [
+		"config/warfare/bonus"
+	],
 
-  "artifacts": [
-    "config/warfare/artifact"
-  ],
+	"artifacts" : [
+		"config/warfare/artifact"
+	],
 
-  "heroClasses": [
-    "config/warfare/classes"
-  ],
+	"heroClasses" : [
+		"config/warfare/classes"
+	],
 
-  "heroes": [
-    "config/warfare/heroes"
-  ]
+	"heroes" : [
+		"config/warfare/heroes"
+	]
 }

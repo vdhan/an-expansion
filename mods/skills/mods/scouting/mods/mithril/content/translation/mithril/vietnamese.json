@@ -1,5 +1,5 @@
 {
-  "skill.core.scouting.description.basic": "{Do Thám sơ cấp}\n\nTướng nhìn xa hơn 1 ô, tăng 50 di chuyển trên bộ mỗi cấp và 1 mithril mỗi ngày",
-  "skill.core.scouting.description.advanced": "{Do Thám trung cấp}\n\nTướng nhìn xa hơn 3 ô, tăng 50 di chuyển trên bộ mỗi cấp và 1 mithril mỗi ngày",
-  "skill.core.scouting.description.expert": "{Do Thám cao cấp}\n\nTướng nhìn xa hơn 5 ô, tăng 50 di chuyển trên bộ mỗi cấp và 1 mithril mỗi ngày"
+	"skill.core.scouting.description.basic" : "{Do Thám sơ cấp}\n\nTướng nhìn xa hơn 1 ô, tăng 50 di chuyển trên bộ mỗi cấp và 1 mithril mỗi ngày",
+	"skill.core.scouting.description.advanced" : "{Do Thám trung cấp}\n\nTướng nhìn xa hơn 3 ô, tăng 50 di chuyển trên bộ mỗi cấp và 1 mithril mỗi ngày",
+	"skill.core.scouting.description.expert" : "{Do Thám cao cấp}\n\nTướng nhìn xa hơn 5 ô, tăng 50 di chuyển trên bộ mỗi cấp và 1 mithril mỗi ngày"
 }

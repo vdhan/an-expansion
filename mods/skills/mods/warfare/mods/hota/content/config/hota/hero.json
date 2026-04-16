@@ -1,78 +1,78 @@
 {
-  "hota.cove:02jeremy": {
-    "skills": [
-      {
-        "skill": "offence",
-        "level": "basic"
-      },
+	"hota.cove:02jeremy" : {
+		"skills" : [
+			{
+				"skill" : "offence",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "warfare",
-        "level": "basic"
-      }
-    ]
-  },
+			{
+				"skill" : "warfare",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.factory:valquest": {
-    "skills": [
-      {
-        "skill": "armorer",
-        "level": "basic"
-      },
+	"hota.factory:valquest" : {
+		"skills" : [
+			{
+				"skill" : "armorer",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "warfare",
-        "level": "basic"
-      }
-    ],
+			{
+				"skill" : "warfare",
+				"level" : "basic"
+			}
+		],
 
-    "specialty": {
-      "secondary": "warfare"
-    }
-  },
+		"specialty" : {
+			"secondary" : "warfare"
+		}
+	},
 
-  "hota.factory:05floribert": {
-    "skills": [
-      {
-        "skill": "armorer",
-        "level": "basic"
-      },
+	"hota.factory:05floribert" : {
+		"skills" : [
+			{
+				"skill" : "armorer",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "warfare",
-        "level": "basic"
-      }
-    ],
+			{
+				"skill" : "warfare",
+				"level" : "basic"
+			}
+		],
 
-    "specialty": {
-      "secondary": "warfare"
-    }
-  },
+		"specialty" : {
+			"secondary" : "warfare"
+		}
+	},
 
-  "hota.factory:08morton": {
-    "skills": [
-      {
-        "skill": "warfare",
-        "level": "basic"
-      }
-    ]
-  },
+	"hota.factory:08morton" : {
+		"skills" : [
+			{
+				"skill" : "warfare",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.bulwark:13biarma": {
-    "skills": [
-      {
-        "skill": "wisdom",
-        "level": "basic"
-      },
+	"hota.bulwark:13biarma" : {
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "warfare",
-        "level": "basic"
-      }
-    ],
+			{
+				"skill" : "warfare",
+				"level" : "basic"
+			}
+		],
 
-    "specialty": {
-      "secondary": "warfare"
-    }
-  }
+		"specialty" : {
+			"secondary" : "warfare"
+		}
+	}
 }

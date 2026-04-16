@@ -1,18 +1,18 @@
 {
-  "name": "Long Live Peasant",
-  "description": "Peasants now have 2 hit points and damage 1 - 2",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Creatures",
+	"name" : "Long Live Peasant",
+	"description" : "Peasants now have 2 hit points and damage 1 - 2",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Creatures",
 
-  "vietnamese": {
-    "name": "Long Live Peasant",
-    "description": "Peasant có 2 máu và sát thương 1 - 2",
-    "author": "Vũ Đắc Hoàng Ân"
-  },
+	"vietnamese" : {
+		"name" : "Long Live Peasant",
+		"description" : "Peasant có 2 máu và sát thương 1 - 2",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
 
-  "creatures": [
-    "config/long-live-paletxtin"
-  ]
+	"creatures" : [
+		"config/long-live-paletxtin"
+	]
 }

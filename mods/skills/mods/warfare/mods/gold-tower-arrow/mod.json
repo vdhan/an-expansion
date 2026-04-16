@@ -1,22 +1,22 @@
 {
-  "name": "Gold Tower Arrow",
-  "description": "Support Gold Tower Arrow (WoG)",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Gold Tower Arrow",
+	"description" : "Support Gold Tower Arrow (WoG)",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "depends": [
-    "wake-of-gods.artifacts"
-  ],
+	"depends" : [
+		"wake-of-gods.artifacts"
+	],
 
-  "vietnamese": {
-    "name": "Gold Tower Arrow",
-    "description": "Hỗ trợ Gold Tower Arrow (WoG)",
-    "author": "Vũ Đắc Hoàng Ân"
-  },
+	"vietnamese" : {
+		"name" : "Gold Tower Arrow",
+		"description" : "Hỗ trợ Gold Tower Arrow (WoG)",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
 
-  "skills": [
-    "config/gold-tower-arrow"
-  ]
+	"skills" : [
+		"config/gold-tower-arrow"
+	]
 }

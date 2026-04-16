@@ -1,21 +1,21 @@
 {
-  "name": "Leadership",
-  "description": "Leadership also increases attack by 1/2/3 and casts Mirth permanently",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Leadership",
+	"description" : "Leadership also increases attack by 1/2/3 and casts Mirth permanently",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Lãnh Đạo",
-    "description": "Lãnh Đạo còn tăng 1/2/3 công và ếm Khích Lệ vĩnh cửu",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/leadership/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Lãnh Đạo",
+		"description" : "Lãnh Đạo còn tăng 1/2/3 công và ếm Khích Lệ vĩnh cửu",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/leadership/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/leadership"
-  ]
+	"skills" : [
+		"config/leadership"
+	]
 }

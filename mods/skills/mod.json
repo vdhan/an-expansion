@@ -1,18 +1,18 @@
 {
-  "name": "Skills",
-  "description": "Rebalance skills",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Skills",
+	"description" : "Rebalance skills",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "conflicts": [
+	"conflicts" : [
 		"ultimate-balance.skills-balance"
-  ],
+	],
 
-  "vietnamese": {
-    "name": "Kĩ Năng",
-    "description": "Cân bằng kĩ năng",
-    "author": "Vũ Đắc Hoàng Ân"
-  }
+	"vietnamese" : {
+		"name" : "Kĩ Năng",
+		"description" : "Cân bằng kĩ năng",
+		"author" : "Vũ Đắc Hoàng Ân"
+	}
 }

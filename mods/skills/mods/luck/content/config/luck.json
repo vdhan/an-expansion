@@ -1,41 +1,47 @@
 {
-  "core:luck": {
-    "base": {
-      "effects": {
-        "enchant": {
-          "type": "ENCHANTED",
-          "subtype": "spell.fortune",
-          "val": 3,
-          "valueType": "BASE_NUMBER"
-        },
+	"core:luck" : {
+		"base" : {
+			"effects" : {
+				"enchant" : {
+					"type" : "ENCHANTED",
+					"subtype" : "spell.fortune",
+					"val" : 3,
+					"valueType" : "BASE_NUMBER"
+				},
 
-        "defence": {
-          "type": "PRIMARY_SKILL",
-          "subtype": "primarySkill.defence",
-          "valueType": "BASE_NUMBER"
-        }
-      }
-    },
+				"defence" : {
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "primarySkill.defence",
+					"valueType" : "BASE_NUMBER"
+				}
+			}
+		},
 
-    "basic": {
-      "description": "{Basic Luck}\n\nIncreases luck & defence by 1 and casts Fortune permanently",
-      "effects": {
-        "defence": {"val": 1}
-      }
-    },
+		"basic" : {
+			"description" : "{Basic Luck}\n\nIncreases luck & defence by 1 and casts Fortune permanently",
+			"effects" : {
+				"defence" : {
+					"val" : 1
+				}
+			}
+		},
 
-    "advanced": {
-      "description": "{Advanced Luck}\n\nIncreases luck & defence by 2 and casts Fortune permanently",
-      "effects": {
-        "defence": {"val": 2}
-      }
-    },
+		"advanced" : {
+			"description" : "{Advanced Luck}\n\nIncreases luck & defence by 2 and casts Fortune permanently",
+			"effects" : {
+				"defence" : {
+					"val" : 2
+				}
+			}
+		},
 
-    "expert": {
-      "description": "{Expert Luck}\n\nIncreases luck & defence by 3 and casts Fortune permanently",
-      "effects": {
-        "defence": {"val": 3}
-      }
-    }
-  }
+		"expert" : {
+			"description" : "{Expert Luck}\n\nIncreases luck & defence by 3 and casts Fortune permanently",
+			"effects" : {
+				"defence" : {
+					"val" : 3
+				}
+			}
+		}
+	}
 }

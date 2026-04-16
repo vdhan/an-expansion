@@ -1,21 +1,21 @@
 {
-  "name": "Luck",
-  "description": "Luck also increases defence by 1/2/3 and casts Fortune permanently",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Luck",
+	"description" : "Luck also increases defence by 1/2/3 and casts Fortune permanently",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "May Mắn",
-    "description": "May Mắn đầu trận còn tăng 1/2/3 thủ và ếm Vận May vĩnh cửu",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/luck/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "May Mắn",
+		"description" : "May Mắn đầu trận còn tăng 1/2/3 thủ và ếm Vận May vĩnh cửu",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/luck/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/luck"
-  ]
+	"skills" : [
+		"config/luck"
+	]
 }

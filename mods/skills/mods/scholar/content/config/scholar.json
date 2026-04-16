@@ -1,35 +1,43 @@
 {
-  "core:scholar": {
-    "base": {
-      "effects": {
-        "knowledge": {
-          "type": "PRIMARY_SKILL",
-          "subtype": "primarySkill.knowledge",
-          "valueType": "BASE_NUMBER"
-        }
-      }
-    },
+	"core:scholar" : {
+		"base" : {
+			"effects" : {
+				"knowledge" : {
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "primarySkill.knowledge",
+					"valueType" : "BASE_NUMBER"
+				}
+			}
+		},
 
-    "basic": {
-      "description": "{Basic Scholar}\n\nAllows heroes to teach each other any spell up to 2nd level and increases knowledge by 1",
-      "effects": {
-        "knowledge": {"val": 1}
-      }
-    },
+		"basic" : {
+			"description" : "{Basic Scholar}\n\nAllows heroes to teach each other any spell up to 2nd level and increases knowledge by 1",
+			"effects" : {
+				"knowledge" : {
+					"val" : 1
+				}
+			}
+		},
 
-    "advanced": {
-      "description": "{Advanced Scholar}\n\nAllows heroes to teach each other any spell up to 3rd level and increases knowledge by 2",
-      "effects": {
-        "knowledge": {"val": 2}
-      }
-    },
+		"advanced" : {
+			"description" : "{Advanced Scholar}\n\nAllows heroes to teach each other any spell up to 3rd level and increases knowledge by 2",
+			"effects" : {
+				"knowledge" : {
+					"val" : 2
+				}
+			}
+		},
 
-    "expert": {
-      "description": "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to 5th level and increases knowledge by 3",
-      "effects": {
-        "main": {"val": 5},
-        "knowledge": {"val": 3}
-      }
-    }
-  }
+		"expert" : {
+			"description" : "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to 5th level and increases knowledge by 3",
+			"effects" : {
+				"main" : {
+					"val" : 5
+				},
+				"knowledge" : {
+					"val" : 3
+				}
+			}
+		}
+	}
 }

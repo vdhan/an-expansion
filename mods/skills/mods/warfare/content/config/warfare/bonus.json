@@ -1,10 +1,10 @@
 {
-  "FIRST_AID": {
-    "description": "{First Aid Tent}\nHero carries 1 First Aid Tent",
-    "hidden": true,
-    "creatureNature": false,
-    "graphics": {
-      "icon": "firstAid/firstAidTent"
-    }
-  }
+	"FIRST_AID" : {
+		"description" : "{First Aid Tent}\nHero carries 1 First Aid Tent",
+		"hidden" : true,
+		"creatureNature" : false,
+		"graphics" : {
+			"icon" : "firstAid/firstAidTent"
+		}
+	}
 }

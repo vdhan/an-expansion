@@ -1,13 +1,19 @@
 {
-  "core:peasant": {
-    "upgrades": ["rogue"]
-  },
+	"core:peasant" : {
+		"upgrades" : [
+			"rogue"
+		]
+	},
 
-  "core:boar": {
-    "upgrades": ["nomad"]
-  },
+	"core:boar" : {
+		"upgrades" : [
+			"nomad"
+		]
+	},
 
-  "core:goldGolem": {
-    "upgrades": ["diamondGolem"]
-  }
+	"core:goldGolem" : {
+		"upgrades" : [
+			"diamondGolem"
+		]
+	}
 }

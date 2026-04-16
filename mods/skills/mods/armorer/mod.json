@@ -1,21 +1,21 @@
 {
-  "name": "Armorer",
-  "description": "Armorer also casts Stone Skin at battle opening for 10/25/50 rounds",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Armorer",
+	"description" : "Armorer also casts Stone Skin at battle opening for 10/25/50 rounds",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Giáp",
-    "description": "Giáp đầu trận còn ếm Thạch Bì cho 10/25/50 vòng",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/armorer/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Giáp",
+		"description" : "Giáp đầu trận còn ếm Thạch Bì cho 10/25/50 vòng",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/armorer/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/armorer"
-  ]
+	"skills" : [
+		"config/armorer"
+	]
 }

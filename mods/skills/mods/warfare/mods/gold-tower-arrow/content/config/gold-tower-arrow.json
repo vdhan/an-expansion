@@ -1,42 +1,42 @@
 {
-  "an-expansion.skills.warfare:warfare": {
-    "base": {
-      "effects": {
-        "goldTowerArrow": {
-          "type": "ADDITIONAL_ATTACK",
-          "val": 1,
-          "valueType": "ADDITIVE_VALUE",
-          "limiters": [
-            {
-              "type": "HAS_ANOTHER_BONUS_LIMITER",
-              "bonusType": "MORE_DAMAGE_FROM_SPELL",
-              "bonusSubtype": "arrowtrigger"
-            },
+	"an-expansion.skills.warfare:warfare" : {
+		"base" : {
+			"effects" : {
+				"goldTowerArrow" : {
+					"type" : "ADDITIONAL_ATTACK",
+					"val" : 1,
+					"valueType" : "ADDITIVE_VALUE",
+					"limiters" : [
+						{
+							"type" : "HAS_ANOTHER_BONUS_LIMITER",
+							"bonusType" : "MORE_DAMAGE_FROM_SPELL",
+							"bonusSubtype" : "arrowtrigger"
+						},
 
-            {
-              "type": "CREATURE_TYPE_LIMITER",
-              "creature": "arrowTower",
-              "includeUpgrades": false
-            }
-          ]
-        }
-      }
-    },
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "arrowTower",
+							"includeUpgrades" : false
+						}
+					]
+				}
+			}
+		},
 
-    "advanced": {
-      "effects": {
-        "goldTowerArrow": {
-          "val": 2
-        }
-      }
-    },
+		"advanced" : {
+			"effects" : {
+				"goldTowerArrow" : {
+					"val" : 2
+				}
+			}
+		},
 
-    "expert": {
-      "effects": {
-        "goldTowerArrow": {
-          "val": 3
-        }
-      }
-    }
-  }
+		"expert" : {
+			"effects" : {
+				"goldTowerArrow" : {
+					"val" : 3
+				}
+			}
+		}
+	}
 }

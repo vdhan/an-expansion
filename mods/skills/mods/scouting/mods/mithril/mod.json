@@ -1,25 +1,25 @@
 {
-  "name": "Scouting: Mithril",
-  "description": "Scouting also 1 mithril per day",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Scouting: Mithril",
+	"description" : "Scouting also 1 mithril per day",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "depends": [
+	"depends" : [
 		"wake-of-gods.mithril"
-  ],
+	],
 
-  "vietnamese": {
-    "name": "Do Thám: Mithril",
-    "description": "Do Thám còn tăng 1 mithril mỗi ngày",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/mithril/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Do Thám: Mithril",
+		"description" : "Do Thám còn tăng 1 mithril mỗi ngày",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/mithril/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/mithril"
-  ]
+	"skills" : [
+		"config/mithril"
+	]
 }

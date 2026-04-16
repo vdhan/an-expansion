@@ -1,15 +1,15 @@
 {
-  "core:clancy": {
-    "skills": [
-      {
-        "skill": "interference",
-        "level": "basic"
-      },
+	"core:clancy" : {
+		"skills" : [
+			{
+				"skill" : "interference",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "transport",
-        "level": "basic"
-      }
-    ]
-  }
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			}
+		]
+	}
 }

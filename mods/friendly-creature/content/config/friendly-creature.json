@@ -1,37 +1,37 @@
 {
-  "core:enchanter": {
-    "abilities": {
-      "friendly": {
-        "type": "NONEVIL_ALIGNMENT_MIX",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"core:enchanter" : {
+		"abilities" : {
+			"friendly" : {
+				"type" : "NONEVIL_ALIGNMENT_MIX",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "core:sharpshooter": {
-    "abilities": {
-      "friendly": {
-        "type": "NONEVIL_ALIGNMENT_MIX",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"core:sharpshooter" : {
+		"abilities" : {
+			"friendly" : {
+				"type" : "NONEVIL_ALIGNMENT_MIX",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "core:peasant": {
-    "abilities": {
-      "friendly": {
-        "type": "NONEVIL_ALIGNMENT_MIX",
-        "propagator": "HERO"
-      }
-    }
-  },
+	"core:peasant" : {
+		"abilities" : {
+			"friendly" : {
+				"type" : "NONEVIL_ALIGNMENT_MIX",
+				"propagator" : "HERO"
+			}
+		}
+	},
 
-  "core:rogue": {
-    "abilities": {
-      "friendly": {
-        "type": "NONEVIL_ALIGNMENT_MIX",
-        "propagator": "HERO"
-      }
-    }
-  }
+	"core:rogue" : {
+		"abilities" : {
+			"friendly" : {
+				"type" : "NONEVIL_ALIGNMENT_MIX",
+				"propagator" : "HERO"
+			}
+		}
+	}
 }

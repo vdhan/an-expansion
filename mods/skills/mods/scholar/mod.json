@@ -1,21 +1,21 @@
 {
-  "name": "Scholar",
-  "description": "Scholar now allows heroes to teach each other any spell up to 2/3/5 level and increases knowledge by 1/2/3",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Scholar",
+	"description" : "Scholar now allows heroes to teach each other any spell up to 2/3/5 level and increases knowledge by 1/2/3",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Dạy Học",
-    "description": "Dạy Học giúp tướng dạy lẫn nhau phép đến cấp 2/3/5 và tăng 1/2/3 trí",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/scholar/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Dạy Học",
+		"description" : "Dạy Học giúp tướng dạy lẫn nhau phép đến cấp 2/3/5 và tăng 1/2/3 trí",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/scholar/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/scholar"
-  ]
+	"skills" : [
+		"config/scholar"
+	]
 }

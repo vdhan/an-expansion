@@ -1,6 +1,6 @@
 {
-  "skill.an-expansion.skills.transport.transport.name": "Vận Tải",
-  "skill.an-expansion.skills.transport.transport.description.basic": "{Vận Tải sơ cấp}\n\nSơ cấp Hậu Cần và Tìm Đường",
-  "skill.an-expansion.skills.transport.transport.description.advanced": "{Vận Tải trung cấp}\n\nTrung cấp Hậu Cần và Tìm Đường",
-  "skill.an-expansion.skills.transport.transport.description.expert": "{Vận Tải cao cấp}\n\nCao cấp Hậu Cần và Tìm Đường"
+	"skill.an-expansion.skills.transport.transport.name" : "Vận Tải",
+	"skill.an-expansion.skills.transport.transport.description.basic" : "{Vận Tải sơ cấp}\n\nSơ cấp Hậu Cần và Tìm Đường",
+	"skill.an-expansion.skills.transport.transport.description.advanced" : "{Vận Tải trung cấp}\n\nTrung cấp Hậu Cần và Tìm Đường",
+	"skill.an-expansion.skills.transport.transport.description.expert" : "{Vận Tải cao cấp}\n\nCao cấp Hậu Cần và Tìm Đường"
 }

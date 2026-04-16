@@ -1,24 +1,30 @@
 {
-  "core:learning": {
-    "basic": {
-      "description": "{Basic Learning}\n\nIncreases hero's earned experience by 25%",
-      "effects": {
-        "main": {"val": 25}
-      }
-    },
+	"core:learning" : {
+		"basic" : {
+			"description" : "{Basic Learning}\n\nIncreases hero's earned experience by 25%",
+			"effects" : {
+				"main" : {
+					"val" : 25
+				}
+			}
+		},
 
-    "advanced": {
-      "description": "{Advanced Learning}\n\nIncreases hero's earned experience by 50%",
-      "effects": {
-        "main": {"val": 50}
-      }
-    },
+		"advanced" : {
+			"description" : "{Advanced Learning}\n\nIncreases hero's earned experience by 50%",
+			"effects" : {
+				"main" : {
+					"val" : 50
+				}
+			}
+		},
 
-    "expert": {
-      "description": "{Expert Learning}\n\nIncreases hero's earned experience by 75%",
-      "effects": {
-        "main": {"val": 75}
-      }
-    }
-  }
+		"expert" : {
+			"description" : "{Expert Learning}\n\nIncreases hero's earned experience by 75%",
+			"effects" : {
+				"main" : {
+					"val" : 75
+				}
+			}
+		}
+	}
 }

@@ -1,87 +1,107 @@
 {
-  "transport": {
-    "name": "Transport",
-    "obligatoryMinor": true,
-    "specialty": ["main"],
-    "gainChance": {
-      "might": 8,
-      "magic": 8
-    },
+	"transport" : {
+		"name" : "Transport",
+		"obligatoryMinor" : true,
+		"specialty" : [
+			"main"
+		],
+		"gainChance" : {
+			"might" : 8,
+			"magic" : 8
+		},
 
-    "base": {
-      "effects": {
-        "main": {
-          "type": "MOVEMENT",
-          "subtype": "heroMovementLand",
-          "valueType": "PERCENT_TO_BASE"
-        },
+		"base" : {
+			"effects" : {
+				"main" : {
+					"type" : "MOVEMENT",
+					"subtype" : "heroMovementLand",
+					"valueType" : "PERCENT_TO_BASE"
+				},
 
-        "xtra": {
-          "type": "BASE_TILE_MOVEMENT_COST",
-          "valueType": "BASE_NUMBER"
-        },
+				"xtra" : {
+					"type" : "BASE_TILE_MOVEMENT_COST",
+					"valueType" : "BASE_NUMBER"
+				},
 
-        "pathfinding": {
-          "type": "ROUGH_TERRAIN_DISCOUNT",
-          "valueType": "BASE_NUMBER"
-        }
-      }
-    },
+				"pathfinding" : {
+					"type" : "ROUGH_TERRAIN_DISCOUNT",
+					"valueType" : "BASE_NUMBER"
+				}
+			}
+		},
 
-    "basic": {
-      "description": "{Basic Transport}\n\nBasic of Logistics and Pathfinding",
-      "effects": {
-        "main": {"val": 5},
-        "xtra": {"val": -5},
-        "pathfinding": {"val": 25}
-      },
+		"basic" : {
+			"description" : "{Basic Transport}\n\nBasic of Logistics and Pathfinding",
+			"effects" : {
+				"main" : {
+					"val" : 5
+				},
+				"xtra" : {
+					"val" : -5
+				},
+				"pathfinding" : {
+					"val" : 25
+				}
+			},
 
-      "images": {
-        "large": "transport/basicLarge",
-        "medium": "transport/basicMedium",
-        "small": "transport/basicSmall",
-        "scenarioBonus": "transport/basicScenario"
-      }
-    },
+			"images" : {
+				"large" : "transport/basicLarge",
+				"medium" : "transport/basicMedium",
+				"small" : "transport/basicSmall",
+				"scenarioBonus" : "transport/basicScenario"
+			}
+		},
 
-    "advanced": {
-      "description": "{Advanced Transport}\n\nAdvanced of Logistics and Pathfinding",
-      "effects": {
-        "main": {"val": 10},
-        "xtra": {"val": -10},
-        "pathfinding": {"val": 50}
-      },
+		"advanced" : {
+			"description" : "{Advanced Transport}\n\nAdvanced of Logistics and Pathfinding",
+			"effects" : {
+				"main" : {
+					"val" : 10
+				},
+				"xtra" : {
+					"val" : -10
+				},
+				"pathfinding" : {
+					"val" : 50
+				}
+			},
 
-      "images": {
-        "large": "transport/advancedLarge",
-        "medium": "transport/advancedMedium",
-        "small": "transport/advancedSmall",
-        "scenarioBonus": "transport/advancedScenario"
-      }
-    },
+			"images" : {
+				"large" : "transport/advancedLarge",
+				"medium" : "transport/advancedMedium",
+				"small" : "transport/advancedSmall",
+				"scenarioBonus" : "transport/advancedScenario"
+			}
+		},
 
-    "expert": {
-      "description": "{Expert Transport}\n\nExpert of Logistics and Pathfinding",
-      "effects": {
-        "main": {"val": 20},
-        "xtra": {"val": -15},
-        "pathfinding": {"val": 75}
-      },
+		"expert" : {
+			"description" : "{Expert Transport}\n\nExpert of Logistics and Pathfinding",
+			"effects" : {
+				"main" : {
+					"val" : 20
+				},
+				"xtra" : {
+					"val" : -15
+				},
+				"pathfinding" : {
+					"val" : 75
+				}
+			},
 
-      "images": {
-        "large": "transport/expertLarge",
-        "medium": "transport/expertMedium",
-        "small": "transport/expertSmall",
-        "scenarioBonus": "transport/expertScenario"
-      }
-    }
-  },
+			"images" : {
+				"large" : "transport/expertLarge",
+				"medium" : "transport/expertMedium",
+				"small" : "transport/expertSmall",
+				"scenarioBonus" : "transport/expertScenario"
+			}
+		}
+	},
 
-  "core:pathfinding": {
-    "special": true
-  },
+	"core:pathfinding" : {
+		"special" : true
+	},
 
-  "core:logistics": {
-    "special": true
-  }
+	"core:logistics" : {
+		"special" : true
+	}
 }

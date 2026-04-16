@@ -1,21 +1,21 @@
 {
-  "name": "Navigation",
-  "description": "Navigation also allows free ship boarding",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Navigation",
+	"description" : "Navigation also allows free ship boarding",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Đi Biển",
-    "description": "Đi Biển còn cho sang tàu ngay",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/navigation/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Đi Biển",
+		"description" : "Đi Biển còn cho sang tàu ngay",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/navigation/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/navigation"
-  ]
+	"skills" : [
+		"config/navigation"
+	]
 }

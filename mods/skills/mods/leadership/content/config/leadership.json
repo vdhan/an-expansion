@@ -1,41 +1,47 @@
 {
-  "core:leadership": {
-    "base": {
-      "effects": {
-        "enchant": {
-          "type": "ENCHANTED",
-          "subtype": "spell.mirth",
-          "val": 3,
-          "valueType": "BASE_NUMBER"
-        },
+	"core:leadership" : {
+		"base" : {
+			"effects" : {
+				"enchant" : {
+					"type" : "ENCHANTED",
+					"subtype" : "spell.mirth",
+					"val" : 3,
+					"valueType" : "BASE_NUMBER"
+				},
 
-        "attack": {
-          "type": "PRIMARY_SKILL",
-          "subtype": "primarySkill.attack",
-          "valueType": "BASE_NUMBER"
-        }
-      }
-    },
+				"attack" : {
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "primarySkill.attack",
+					"valueType" : "BASE_NUMBER"
+				}
+			}
+		},
 
-    "basic": {
-      "description": "{Basic Leadership}\n\nIncreases morale & attack by 1 and casts Mirth permanently",
-      "effects": {
-        "attack": {"val": 1}
-      }
-    },
+		"basic" : {
+			"description" : "{Basic Leadership}\n\nIncreases morale & attack by 1 and casts Mirth permanently",
+			"effects" : {
+				"attack" : {
+					"val" : 1
+				}
+			}
+		},
 
-    "advanced": {
-      "description": "{Advanced Leadership}\n\nIncreases morale & attack by 2 and casts Mirth permanently",
-      "effects": {
-        "attack": {"val": 2}
-      }
-    },
+		"advanced" : {
+			"description" : "{Advanced Leadership}\n\nIncreases morale & attack by 2 and casts Mirth permanently",
+			"effects" : {
+				"attack" : {
+					"val" : 2
+				}
+			}
+		},
 
-    "expert": {
-      "description": "{Expert Leadership}\n\nIncreases morale & attack by 3 and casts Mirth permanently",
-      "effects": {
-        "attack": {"val": 3}
-      }
-    }
-  }
+		"expert" : {
+			"description" : "{Expert Leadership}\n\nIncreases morale & attack by 3 and casts Mirth permanently",
+			"effects" : {
+				"attack" : {
+					"val" : 3
+				}
+			}
+		}
+	}
 }

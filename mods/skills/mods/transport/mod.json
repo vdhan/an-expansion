@@ -1,29 +1,29 @@
 {
-  "name": "Transport",
-  "description": "Transport combines Logistics and Pathfinding",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Transport",
+	"description" : "Transport combines Logistics and Pathfinding",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Vận Chuyển",
-    "description": "Vận Chuyển kết hợp Hậu Cần và Tìm Đường",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/transport/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Vận Chuyển",
+		"description" : "Vận Chuyển kết hợp Hậu Cần và Tìm Đường",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/transport/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/transport/skills"
-  ],
+	"skills" : [
+		"config/transport/skills"
+	],
 
-  "heroClasses": [
-    "config/transport/classes"
-  ],
+	"heroClasses" : [
+		"config/transport/classes"
+	],
 
-  "heroes": [
-    "config/transport/heroes"
-  ]
+	"heroes" : [
+		"config/transport/heroes"
+	]
 }

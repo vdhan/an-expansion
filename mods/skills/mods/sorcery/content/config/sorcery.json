@@ -1,37 +1,49 @@
 {
-  "core:sorcery": {
-    "base": {
-      "effects": {
-        "xtra": {
-          "type": "PRIMARY_SKILL",
-          "subtype": "primarySkill.spellpower",
-          "valueType": "BASE_NUMBER"
-        }
-      }
-    },
+	"core:sorcery" : {
+		"base" : {
+			"effects" : {
+				"xtra" : {
+					"type" : "PRIMARY_SKILL",
+					"subtype" : "primarySkill.spellpower",
+					"valueType" : "BASE_NUMBER"
+				}
+			}
+		},
 
-    "basic": {
-      "description": "{Basic Sorcery}\n\nCauses a hero's spells to inflict an additional 10% damage in combat and increases power skill by 1",
-      "effects": {
-        "main": {"val": 10},
-        "xtra": {"val": 1}
-      }
-    },
+		"basic" : {
+			"description" : "{Basic Sorcery}\n\nCauses a hero's spells to inflict an additional 10% damage in combat and increases power skill by 1",
+			"effects" : {
+				"main" : {
+					"val" : 10
+				},
+				"xtra" : {
+					"val" : 1
+				}
+			}
+		},
 
-    "advanced": {
-      "description": "{Advanced Sorcery}\n\nCauses a hero's spells to inflict an additional 20% damage in combat and increases power skill by 2",
-      "effects": {
-        "main": {"val": 20},
-        "xtra": {"val": 2}
-      }
-    },
+		"advanced" : {
+			"description" : "{Advanced Sorcery}\n\nCauses a hero's spells to inflict an additional 20% damage in combat and increases power skill by 2",
+			"effects" : {
+				"main" : {
+					"val" : 20
+				},
+				"xtra" : {
+					"val" : 2
+				}
+			}
+		},
 
-    "expert": {
-      "description": "{Expert Sorcery}\n\nCauses a hero's spells to inflict an additional 30% damage in combat and increases power skill by 3",
-      "effects": {
-        "main": {"val": 30},
-        "xtra": {"val": 3}
-      }
-    }
-  }
+		"expert" : {
+			"description" : "{Expert Sorcery}\n\nCauses a hero's spells to inflict an additional 30% damage in combat and increases power skill by 3",
+			"effects" : {
+				"main" : {
+					"val" : 30
+				},
+				"xtra" : {
+					"val" : 3
+				}
+			}
+		}
+	}
 }

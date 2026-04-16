@@ -1,20 +1,33 @@
 {
-  "name": "Double Movement",
-  "description": "Heroes have double movement (land)",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Mechanics",
+	"name" : "Double Movement",
+	"description" : "Heroes have double movement (land)",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Mechanics",
 
-  "vietnamese": {
-    "name": "Double Movement",
-    "description": "Tướng tăng gấp đôi di chuyển (trên bộ)",
-    "author": "Vũ Đắc Hoàng Ân"
-  },
+	"vietnamese" : {
+		"name" : "Double Movement",
+		"description" : "Tướng tăng gấp đôi di chuyển (trên bộ)",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
 
-  "settings": {
-    "heroes": {
-      "movementPointsLand": [3000, 3000, 3000, 3000, 3120, 3260, 3400, 3520, 3660, 3800, 3920, 4000]
-    }
-  }
+	"settings" : {
+		"heroes" : {
+			"movementPointsLand" : [
+				3000,
+				3000,
+				3000,
+				3000,
+				3120,
+				3260,
+				3400,
+				3520,
+				3660,
+				3800,
+				3920,
+				4000
+			]
+		}
+	}
 }

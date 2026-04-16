@@ -1,29 +1,29 @@
 {
-  "name": "Obsolete Eagle Eye",
-  "description": "Merge Eagle Eye into Learning",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Obsolete Eagle Eye",
+	"description" : "Merge Eagle Eye into Learning",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "vietnamese": {
-    "name": "Ưng Nhãn",
-    "description": "Kết hợp Ưng Nhãn vào Học Tập",
-    "author": "Vũ Đắc Hoàng Ân",
-    "translations": [
-      "translation/eagle-eye/vietnamese"
-    ]
-  },
+	"vietnamese" : {
+		"name" : "Ưng Nhãn",
+		"description" : "Kết hợp Ưng Nhãn vào Học Tập",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/eagle-eye/vietnamese"
+		]
+	},
 
-  "skills": [
-    "config/eagle-eye/skills"
-  ],
+	"skills" : [
+		"config/eagle-eye/skills"
+	],
 
-  "heroClasses": [
-    "config/eagle-eye/classes"
-  ],
+	"heroClasses" : [
+		"config/eagle-eye/classes"
+	],
 
-  "heroes": [
-    "config/eagle-eye/heroes"
-  ]
+	"heroes" : [
+		"config/eagle-eye/heroes"
+	]
 }

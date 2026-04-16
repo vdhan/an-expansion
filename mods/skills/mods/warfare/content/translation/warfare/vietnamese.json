@@ -1,7 +1,7 @@
 {
-  "skill.an-expansion.skills.warfare.warfare.name": "Khí Tài",
-  "skill.an-expansion.skills.warfare.warfare.description.basic": "{Khí Tài sơ cấp}\n\nSơ cấp Pháo Binh, Sơ Cứu và Đạn Đạo",
-  "skill.an-expansion.skills.warfare.warfare.description.advanced": "{Khí Tài trung cấp}\n\nTrung cấp Pháo Binh, Sơ Cứu và Đạn Đạo",
-  "skill.an-expansion.skills.warfare.warfare.description.expert": "{Khí Tài cao cấp}\n\nCao cấp Pháo Binh, Sơ Cứu và Đạn Đạo",
-  "core.bonus.FIRST_AID.description": "{Lều Sơ Cứu}\nCó Lều Sơ Cứu"
+	"skill.an-expansion.skills.warfare.warfare.name" : "Khí Tài",
+	"skill.an-expansion.skills.warfare.warfare.description.basic" : "{Khí Tài sơ cấp}\n\nSơ cấp Pháo Binh, Sơ Cứu và Đạn Đạo",
+	"skill.an-expansion.skills.warfare.warfare.description.advanced" : "{Khí Tài trung cấp}\n\nTrung cấp Pháo Binh, Sơ Cứu và Đạn Đạo",
+	"skill.an-expansion.skills.warfare.warfare.description.expert" : "{Khí Tài cao cấp}\n\nCao cấp Pháo Binh, Sơ Cứu và Đạn Đạo",
+	"core.bonus.FIRST_AID.description" : "{Lều Sơ Cứu}\nCó Lều Sơ Cứu"
 }

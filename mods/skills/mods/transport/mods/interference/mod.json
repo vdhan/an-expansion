@@ -1,22 +1,22 @@
 {
-  "name": "Interference Transport",
-  "description": "Some heroes have both starting skills: HOTA Interference and Transport",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Interference Transport",
+	"description" : "Some heroes have both starting skills: HOTA Interference and Transport",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "depends": [
-    "hota.interference"
-  ],
+	"depends" : [
+		"hota.interference"
+	],
 
-  "vietnamese": {
-    "name": "Interference Transport",
-    "description": "1 số tướng có kĩ năng ban đầu: HOTA Interference và Vận Chuyển",
-    "author": "Vũ Đắc Hoàng Ân"
-  },
+	"vietnamese" : {
+		"name" : "Interference Transport",
+		"description" : "1 số tướng có kĩ năng ban đầu: HOTA Interference và Vận Chuyển",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
 
-  "heroes": [
-    "config/interference"
-  ]
+	"heroes" : [
+		"config/interference"
+	]
 }

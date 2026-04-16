@@ -1,5 +1,5 @@
 {
-  "skill.core.learning.description.basic": "{Học Tập sơ cấp}\n\nTăng kinh nghiệm kiếm được thêm 25%. Có thể học phép đến cấp 3 dùng trong trận",
-  "skill.core.learning.description.advanced": "{Học Tập trung cấp}\n\nTăng kinh nghiệm kiếm được thêm 50%. Có thể học phép đến cấp 4 dùng trong trận",
-  "skill.core.learning.description.expert": "{Học Tập cao cấp}\n\nTăng kinh nghiệm kiếm được thêm 75%. Có thể học phép đến cấp 5 dùng trong trận"
+	"skill.core.learning.description.basic" : "{Học Tập sơ cấp}\n\nTăng kinh nghiệm kiếm được thêm 25%. Có thể học phép đến cấp 3 dùng trong trận",
+	"skill.core.learning.description.advanced" : "{Học Tập trung cấp}\n\nTăng kinh nghiệm kiếm được thêm 50%. Có thể học phép đến cấp 4 dùng trong trận",
+	"skill.core.learning.description.expert" : "{Học Tập cao cấp}\n\nTăng kinh nghiệm kiếm được thêm 75%. Có thể học phép đến cấp 5 dùng trong trận"
 }

@@ -1,127 +1,127 @@
 {
-  "hota.cove:15andal": {
-    "skills": [
-      {
-        "skill": "wisdom",
-        "level": "basic"
-      },
+	"hota.cove:15andal" : {
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "transport",
-        "level": "basic"
-      }
-    ]
-  },
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.cove:01corkes": {
-    "skills": [
-      {
-        "skill": "offence",
-        "level": "basic"
-      },
+	"hota.cove:01corkes" : {
+		"skills" : [
+			{
+				"skill" : "offence",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "transport",
-        "level": "basic"
-      }
-    ]
-  },
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.cove:06leena": {
-    "skills": [
-      {
-        "skill": "transport",
-        "level": "basic"
-      },
+	"hota.cove:06leena" : {
+		"skills" : [
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "estates",
-        "level": "basic"
-      }
-    ]
-  },
+			{
+				"skill" : "estates",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.cove:09miriam": {
-    "skills": [
-      {
-        "skill": "transport",
-        "level": "basic"
-      },
+	"hota.cove:09miriam" : {
+		"skills" : [
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "scouting",
-        "level": "basic"
-      }
-    ]
-  },
+			{
+				"skill" : "scouting",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.factory:11celestine": {
-    "skills": [
-      {
-        "skill": "wisdom",
-        "level": "basic"
-      },
+	"hota.factory:11celestine" : {
+		"skills" : [
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "transport",
-        "level": "basic"
-      }
-    ]
-  },
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.bulwark:08ergon": {
-    "skills": [
-      {
-        "skill": "transport",
-        "level": "basic"
-      },
+	"hota.bulwark:08ergon" : {
+		"skills" : [
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "scouting",
-        "level": "basic"
-      }
-    ]
-  },
+			{
+				"skill" : "scouting",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.bulwark:06spadum": {
-    "skills": [
-      {
-        "skill": "transport",
-        "level": "basic"
-      },
+	"hota.bulwark:06spadum" : {
+		"skills" : [
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "leadership",
-        "level": "basic"
-      }
-    ]
-  },
+			{
+				"skill" : "leadership",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.bulwark:04eikthurn": {
-    "skills": [
-      {
-        "skill": "armorer",
-        "level": "basic"
-      },
+	"hota.bulwark:04eikthurn" : {
+		"skills" : [
+			{
+				"skill" : "armorer",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "transport",
-        "level": "basic"
-      }
-    ]
-  },
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			}
+		]
+	},
 
-  "hota.bulwark:01dhuin": {
-    "skills": [
-      {
-        "skill": "archery",
-        "level": "basic"
-      },
+	"hota.bulwark:01dhuin" : {
+		"skills" : [
+			{
+				"skill" : "archery",
+				"level" : "basic"
+			},
 
-      {
-        "skill": "transport",
-        "level": "basic"
-      }
-    ]
-  }
+			{
+				"skill" : "transport",
+				"level" : "basic"
+			}
+		]
+	}
 }

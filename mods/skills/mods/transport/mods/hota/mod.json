@@ -1,28 +1,28 @@
 {
-  "name": "Transport > HOTA",
-  "description": "Support HOTA mod",
-  "version": "1.0.0",
-  "author": "Vũ Đắc Hoàng Ân",
-  "contact": "https://vudachoangan.com",
-  "modType": "Skills",
+	"name" : "Transport > HOTA",
+	"description" : "Support HOTA mod",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
 
-  "depends": [
-    "hota.cove",
-    "hota.factory",
-    "hota.bulwark"
-  ],
+	"depends" : [
+		"hota.cove",
+		"hota.factory",
+		"hota.bulwark"
+	],
 
-  "vietnamese": {
-    "name": "Vận Chuyển > HOTA",
-    "description": "Hỗ trợ bản mở rộng HOTA",
-    "author": "Vũ Đắc Hoàng Ân"
-  },
+	"vietnamese" : {
+		"name" : "Vận Chuyển > HOTA",
+		"description" : "Hỗ trợ bản mở rộng HOTA",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
 
-  "heroClasses": [
-    "config/hota/class"
-  ],
+	"heroClasses" : [
+		"config/hota/class"
+	],
 
-  "heroes": [
-    "config/hota/hero"
-  ]
+	"heroes" : [
+		"config/hota/hero"
+	]
 }
