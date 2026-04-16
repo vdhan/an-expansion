@@ -22,12 +22,14 @@ Rebalance skills, heroes, creatures, etc.
   - Navigation
   - Offence
   - Scholar
-  - Scouting
   - Sorcery
   - Transport: Combines Logistics and Pathfinding
   - Warfare: Combines Artillery, First Aid and Ballistics
   - Learning:
     - Eagle Eye
+
+  - Scouting:
+    - Mithril
 
 - War Machine:
   - War Machine 2
