@@ -1,9 +1,8 @@
 {
 	"core:firstAidTent" : {
 		"bonuses" : {
-			"grantFirstAidStackHealth" : {
+			"grantFirstAid" : {
 				"type" : "FIRST_AID",
-				"propagator" : "ARMY",
 				"limiters" : [
 					"noneOf",
 					{
