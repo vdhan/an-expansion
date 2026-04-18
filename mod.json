@@ -13,13 +13,13 @@
 	},
 
 	"settings" : {
+		"skillPerHero" : 12,
 		"heroes" : {
 			"startingStackChances" : [
 				100,
 				100,
 				100
-			],
-			"skillPerHero" : 12
+			]
 		},
 
 		"towns" : {
@@ -30,12 +30,12 @@
 		},
 
 		"combat" : {
+			"areaShotCanTargetEmptyHex" : true,
 			"badLuckChance" : [
 				2,
 				4,
 				6
-			],
-			"areaShotCanTargetEmptyHex" : true
+			]
 		},
 
 		"creatures" : {
