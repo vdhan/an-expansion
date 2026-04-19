@@ -14,7 +14,7 @@
 
 	"changelog" : {
 		"Cove" : [
-			"Earn 200 gold per day"
+			"Earn 250 gold per day"
 		],
 		"Factory" : [
 			"Earn 1 wood and 1 ore per day"
@@ -30,7 +30,7 @@
 		"author" : "Vũ Đắc Hoàng Ân",
 		"changelog" : {
 			"Cove" : [
-				"Thêm 200 vàng/ngày"
+				"Thêm 250 vàng/ngày"
 			],
 			"Factory" : [
 				"Thêm 1 gỗ và 1 quặng mỗi ngày"

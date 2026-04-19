@@ -1,0 +1,27 @@
+{
+  "name" : "Gold > HOTA",
+  "description" : "Support HOTA mod",
+  "version" : "1.0.0",
+  "author" : "Vũ Đắc Hoàng Ân",
+  "contact" : "https://vudachoangan.com",
+  "modType" : "Heroes",
+
+  "depends" : [
+    "hota.cove",
+		"hota.factory",
+		"hota.bulwark"
+  ],
+
+  "vietnamese" : {
+    "name" : "Vàng > HOTA",
+    "description" : "Hỗ trợ bản mở rộng HOTA",
+    "author" : "Vũ Đắc Hoàng Ân",
+    "translations" : [
+      "translation/gold-hota/vietnamese"
+    ]
+  },
+
+  "heroes" : [
+    "config/gold-hota"
+  ]
+}

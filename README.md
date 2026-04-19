@@ -1,4 +1,6 @@
-# An's expansion mod for VCMI
+# An's expansion mod
+Đọc hướng dẫn Tiếng Việt trong trò chơi.
+
 Rebalance skills, heroes, creatures, etc.
 
 ## Structure:
@@ -12,6 +14,7 @@ Rebalance skills, heroes, creatures, etc.
 - Heroes:
   - Resource
   - Skeleton Warrior
+  - Gold
 
 - Skills:
   - Archery

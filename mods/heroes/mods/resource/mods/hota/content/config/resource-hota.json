@@ -4,7 +4,7 @@
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
 				"subtype" : "resource.gold",
-				"val" : 200,
+				"val" : 250,
 				"propagator" : "HERO"
 			}
 		}

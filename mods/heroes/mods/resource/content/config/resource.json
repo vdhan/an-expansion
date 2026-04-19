@@ -15,7 +15,7 @@
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
 				"subtype" : "resource.gold",
-				"val" : 300,
+				"val" : 250,
 				"propagator" : "HERO"
 			}
 		}
@@ -55,7 +55,7 @@
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
 				"subtype" : "resource.gold",
-				"val" : 300,
+				"val" : 250,
 				"propagator" : "HERO"
 			}
 		}
@@ -95,7 +95,7 @@
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
 				"subtype" : "resource.gold",
-				"val" : 300,
+				"val" : 250,
 				"propagator" : "HERO"
 			}
 		}

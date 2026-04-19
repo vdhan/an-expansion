@@ -13,8 +13,8 @@
 	},
 
 	"settings" : {
-		"skillPerHero" : 12,
 		"heroes" : {
+			"skillPerHero" : 12,
 			"startingStackChances" : [
 				100,
 				100,
@@ -52,7 +52,7 @@
 			"Remove Level 8 Upgrade",
 			"Heroes now have up to 12 skills",
 			"Cure First Aid -> War Machine 2",
-			"Remove Specialty",
+			"Specialty -> Gold",
 			"Remove Creature Upgrading",
 			"Rework Neutral Upgrade",
 			"Remove Resistance"
@@ -88,10 +88,10 @@
 			"3.4.1" : [
 				"Bỏ Level 8 Upgrade",
 				"Tướng có 12 kĩ năng",
-				"Cure First Aid -> War Machine 2",
-				"Bỏ Specialty",
+				"Cure First Aid -> Chiến Cơ 2",
+				"Specialty -> Vàng",
 				"Bỏ Creature Upgrading",
-				"Cập nhật Neutral Upgrade",
+				"Cập nhật Quái Trung Lập Nâng Cấp",
 				"Bỏ Resistance"
 			]
 		}
