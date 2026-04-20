@@ -10,9 +10,9 @@
 		}
 	},
 
-  "core:firstAidTent": {
-    "hitPoints": 150
-  },
+	"core:firstAidTent" : {
+		"hitPoints" : 150
+	},
 
 	"core:ammoCart" : {
 		"hitPoints" : 200,
