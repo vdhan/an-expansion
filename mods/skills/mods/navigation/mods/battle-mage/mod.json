@@ -1,0 +1,18 @@
+{
+	"name" : "Navigation: Battle Mage",
+	"description" : "Battle Mage now can learn Navigation",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Heroes",
+
+	"vietnamese" : {
+		"name" : "Đi Biển: Battle Mage",
+		"description" : "Battle Mage có thể học Đi Biển",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
+
+	"heroClasses" : [
+		"config/battle-mage"
+	]
+}

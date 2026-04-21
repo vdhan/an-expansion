@@ -5,6 +5,7 @@
 		"specialty" : [
 			"main"
 		],
+
 		"gainChance" : {
 			"might" : 8,
 			"magic" : 8
@@ -130,15 +131,19 @@
 				"main" : {
 					"val" : 5
 				},
+
 				"firstAid" : {
 					"val" : 100
 				},
+
 				"xtra" : {
 					"val" : 0
 				},
+
 				"artillery" : {
 					"val" : 50
 				},
+
 				"ballistics" : {
 					"val" : 1
 				}
@@ -158,15 +163,19 @@
 				"main" : {
 					"val" : 10
 				},
+
 				"firstAid" : {
 					"val" : 150
 				},
+
 				"xtra" : {
 					"val" : 1
 				},
+
 				"artillery" : {
 					"val" : 75
 				},
+
 				"ballistics" : {
 					"val" : 2
 				}
@@ -186,15 +195,19 @@
 				"main" : {
 					"val" : 15
 				},
+
 				"firstAid" : {
 					"val" : 200
 				},
+
 				"xtra" : {
 					"val" : 1
 				},
+
 				"artillery" : {
 					"val" : 100
 				},
+
 				"ballistics" : {
 					"val" : 3
 				}

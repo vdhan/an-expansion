@@ -5,6 +5,7 @@
 		"specialty" : [
 			"main"
 		],
+
 		"gainChance" : {
 			"might" : 8,
 			"magic" : 8
@@ -36,9 +37,11 @@
 				"main" : {
 					"val" : 5
 				},
+
 				"xtra" : {
 					"val" : -5
 				},
+
 				"pathfinding" : {
 					"val" : 25
 				}
@@ -58,9 +61,11 @@
 				"main" : {
 					"val" : 10
 				},
+
 				"xtra" : {
 					"val" : -10
 				},
+
 				"pathfinding" : {
 					"val" : 50
 				}
@@ -80,9 +85,11 @@
 				"main" : {
 					"val" : 20
 				},
+
 				"xtra" : {
 					"val" : -15
 				},
+
 				"pathfinding" : {
 					"val" : 75
 				}
