@@ -30,6 +30,11 @@
 					"valPer20" : 4,
 					"stepSize" : 1
 				}
+			},
+
+			"spellCost" : {
+				"type" : "CHANGES_SPELL_COST_FOR_ALLY",
+				"val" : 1
 			}
 		}
 	},
