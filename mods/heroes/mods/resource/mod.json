@@ -14,16 +14,20 @@
 		"Stronghold" : [
 			"Earn 1 crystal per day"
 		],
+
 		"Fortress" : [
 			"Earn 1 sulfur per day"
 		],
+
 		"Castle" : [
 			"Earn 1 gem per day"
 		],
-		"Rampart, Dungeon" : [
+
+		"Rampart, Dungeon, Conflux" : [
 			"Earn 1 wood and 1 ore per day"
 		],
-		"Inferno, Conflux, Tower" : [
+
+		"Inferno, Tower" : [
 			"Earn 250 gold per day"
 		]
 	},
@@ -36,16 +40,20 @@
 			"Stronghold" : [
 				"Thêm 1 pha lê mỗi ngày"
 			],
+
 			"Fortress" : [
 				"Thêm 1 lưu huỳnh mỗi ngày"
 			],
+
 			"Castle" : [
 				"Thêm 1 ngọc mỗi ngày"
 			],
-			"Rampart, Dungeon" : [
+
+			"Rampart, Dungeon, Conflux" : [
 				"Thêm 1 gỗ và 1 quặng mỗi ngày"
 			],
-			"Inferno, Conflux, Tower" : [
+
+			"Inferno, Tower" : [
 				"Thêm 250 vàng/ngày"
 			]
 		}

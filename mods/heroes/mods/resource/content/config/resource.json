@@ -14,8 +14,15 @@
 		"abilities" : {
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "resource.gold",
-				"val" : 250,
+				"subtype" : "resource.wood",
+				"val" : 1,
+				"propagator" : "HERO"
+			},
+
+			"earn2" : {
+				"type" : "GENERATE_RESOURCE",
+				"subtype" : "resource.ore",
+				"val" : 1,
 				"propagator" : "HERO"
 			}
 		}
