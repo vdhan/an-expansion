@@ -1,0 +1,41 @@
+{
+	"hota.cove:blackbeard" : {
+		"abilities" : {
+			"earn" : {
+				"type" : "GENERATE_RESOURCE",
+				"subtype" : "resource.gold",
+				"val" : 250,
+				"propagator" : "HERO"
+			}
+		}
+	},
+
+	"hota.factory:cowboy" : {
+		"abilities" : {
+			"earn" : {
+				"type" : "GENERATE_RESOURCE",
+				"subtype" : "resource.wood",
+				"val" : 1,
+				"propagator" : "HERO"
+			},
+
+			"earn2" : {
+				"type" : "GENERATE_RESOURCE",
+				"subtype" : "resource.ore",
+				"val" : 1,
+				"propagator" : "HERO"
+			}
+		}
+	},
+
+	"hota.bulwark:shaman" : {
+		"abilities" : {
+			"earn" : {
+				"type" : "GENERATE_RESOURCE",
+				"subtype" : "resource.gems",
+				"val" : 1,
+				"propagator" : "HERO"
+			}
+		}
+	}
+}

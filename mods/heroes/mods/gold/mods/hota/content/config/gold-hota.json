@@ -1,0 +1,73 @@
+{
+	"hota.cove:06leena" : {
+		"texts" : {
+			"specialty" : {
+				"name" : "Gold",
+				"description" : "Increases kingdom's income by 300 gold per day, plus 50 gold for each level gained"
+			}
+		},
+
+		"specialty" : {
+			"bonuses" : {
+				"gold" : {
+					"val" : 300
+				},
+
+				"more" : {
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 50,
+					"updater" : "TIMES_HERO_LEVEL"
+				}
+			}
+		}
+	},
+
+	"hota.factory:14bertram" : {
+		"texts" : {
+			"specialty" : {
+				"name" : "Gold",
+				"description" : "Increases kingdom's income by 300 gold per day, plus 50 gold for each level gained"
+			}
+		},
+
+		"specialty" : {
+			"bonuses" : {
+				"gold" : {
+					"val" : 300
+				},
+
+				"more" : {
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 50,
+					"updater" : "TIMES_HERO_LEVEL"
+				}
+			}
+		}
+	},
+
+	"hota.bulwark:16vehr" : {
+		"texts" : {
+			"specialty" : {
+				"name" : "Gold",
+				"description" : "Increases kingdom's income by 300 gold per day, plus 50 gold for each level gained"
+			}
+		},
+
+		"specialty" : {
+			"bonuses" : {
+				"gold" : {
+					"val" : 300
+				},
+
+				"more" : {
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 50,
+					"updater" : "TIMES_HERO_LEVEL"
+				}
+			}
+		}
+	}
+}

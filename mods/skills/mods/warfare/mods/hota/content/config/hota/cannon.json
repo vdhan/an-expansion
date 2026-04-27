@@ -1,0 +1,73 @@
+{
+	"an-expansion.skills.warfare:warfare" : {
+		"base" : {
+			"effects" : {
+				"cannonExtra" : {
+					"type" : "BONUS_DAMAGE_CHANCE",
+					"subtype" : "creature.cannon",
+					"val" : 0,
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"damagePowerCannon" : {
+					"type" : "BONUS_DAMAGE_PERCENTAGE",
+					"subtype" : "creature.cannon",
+					"val" : 100,
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"cannonSiegeShot" : {
+					"type" : "CATAPULT_EXTRA_SHOTS",
+					"subtype" : "spell.cannonSiegeShot",
+					"val" : 1,
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"damageCapCannon" : {
+					"type" : "DAMAGE_RECEIVED_CAP",
+					"val" : 40,
+					"valueType" : "INDEPENDENT_MIN",
+					"propagator" : "ARMY",
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "cannon"
+						}
+					]
+				},
+
+				"manualControlCannon" : {
+					"type" : "MANUAL_CONTROL",
+					"subtype" : "creature.cannon",
+					"val" : 100,
+					"valueType" : "BASE_NUMBER"
+				}
+			}
+		},
+
+		"advanced" : {
+			"effects" : {
+				"cannonExtra" : {
+					"val" : 100
+				},
+				"cannonSiegeShot" : {
+					"val" : 2
+				}
+			}
+		},
+
+		"expert" : {
+			"effects" : {
+				"cannonExtra" : {
+					"val" : 100
+				},
+				"damagePowerCannon" : {
+					"val" : 200
+				},
+				"cannonSiegeShot" : {
+					"val" : 3
+				}
+			}
+		}
+	}
+}

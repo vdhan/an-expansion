@@ -10,7 +10,11 @@
 				"skill" : "transport",
 				"level" : "basic"
 			}
-		]
+		],
+
+		"specialty" : {
+			"secondary" : "transport"
+		}
 	},
 
 	"core:clancy" : {
@@ -38,7 +42,11 @@
 				"skill" : "tactics",
 				"level" : "basic"
 			}
-		]
+		],
+
+		"specialty" : {
+			"secondary" : "transport"
+		}
 	},
 
 	"core:gretchin" : {
@@ -66,7 +74,11 @@
 				"skill" : "transport",
 				"level" : "basic"
 			}
-		]
+		],
+
+		"specialty" : {
+			"secondary" : "transport"
+		}
 	},
 
 	"core:korbac" : {

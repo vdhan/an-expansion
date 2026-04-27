@@ -1,0 +1,22 @@
+{
+	"name" : "HOTA Heroes",
+	"description" : "Support HOTA Heroes",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Skills",
+
+	"depends" : [
+		"hota.heroes"
+	],
+
+	"vietnamese" : {
+		"name" : "HOTA Heroes",
+		"description" : "Hỗ trợ HOTA Heroes",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
+
+	"heroes" : [
+		"config/hota-heroes"
+	]
+}

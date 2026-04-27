@@ -4,7 +4,8 @@
 			"effects" : {
 				"cast" : {
 					"type" : "OPENING_BATTLE_SPELL",
-					"subtype" : "bloodlust"
+					"subtype" : "spell.bloodlust",
+					"valueType" : "BASE_NUMBER"
 				}
 			}
 		},

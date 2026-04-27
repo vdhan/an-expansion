@@ -4,7 +4,8 @@
 			"effects" : {
 				"knowledge" : {
 					"type" : "PRIMARY_SKILL",
-					"subtype" : "knowledge"
+					"subtype" : "primarySkill.knowledge",
+					"valueType" : "BASE_NUMBER"
 				}
 			}
 		},
@@ -33,7 +34,6 @@
 				"main" : {
 					"val" : 5
 				},
-
 				"knowledge" : {
 					"val" : 3
 				}

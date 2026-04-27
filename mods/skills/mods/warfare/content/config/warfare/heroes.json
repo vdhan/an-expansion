@@ -24,7 +24,11 @@
 				"skill" : "warfare",
 				"level" : "basic"
 			}
-		]
+		],
+
+		"specialty" : {
+			"secondary" : "warfare"
+		}
 	},
 
 	"core:gem" : {
@@ -38,7 +42,11 @@
 				"skill" : "warfare",
 				"level" : "basic"
 			}
-		]
+		],
+
+		"specialty" : {
+			"secondary" : "warfare"
+		}
 	},
 
 	"core:uland" : {
@@ -192,7 +200,11 @@
 				"skill" : "warfare",
 				"level" : "basic"
 			}
-		]
+		],
+
+		"specialty" : {
+			"secondary" : "warfare"
+		}
 	},
 
 	"core:ignissa" : {

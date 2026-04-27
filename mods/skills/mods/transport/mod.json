@@ -1,14 +1,14 @@
 {
 	"name" : "Transport",
-	"description" : "Transport reduces 25%/50%/75% movement penalty and increases 5%/10%/20% land movement",
+	"description" : "Transport combines Logistics and Pathfinding",
 	"version" : "1.0.0",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://vudachoangan.com",
 	"modType" : "Skills",
 
 	"vietnamese" : {
-		"name" : "Transport",
-		"description" : "Vận Chuyển giảm 25%/50%/75% bất lợi khi di chuyển và tăng 5%/10%/20% di chuyển trên bộ",
+		"name" : "Vận Chuyển",
+		"description" : "Vận Chuyển kết hợp Hậu Cần và Tìm Đường",
 		"author" : "Vũ Đắc Hoàng Ân",
 		"translations" : [
 			"translation/transport/vietnamese"

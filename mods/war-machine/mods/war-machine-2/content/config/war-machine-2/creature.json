@@ -1,0 +1,18 @@
+{
+	"core:ammoCart" : {
+		"abilities" : {
+			"shell" : {
+				"type" : "DAMAGE_RECEIVED_CAP",
+				"val" : 40,
+				"valueType" : "INDEPENDENT_MIN",
+				"propagator" : "ARMY",
+				"limiters" : [
+					{
+						"type" : "CREATURE_TYPE_LIMITER",
+						"creature" : "ammoCart"
+					}
+				]
+			}
+		}
+	}
+}

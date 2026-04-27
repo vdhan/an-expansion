@@ -1,0 +1,37 @@
+{
+	"hota.cove:captain" : {
+		"secondarySkills" : {
+			"eagleEye" : 0
+		}
+	},
+
+	"hota.cove:navigator" : {
+		"secondarySkills" : {
+			"eagleEye" : 0
+		}
+	},
+
+	"hota.factory:mercenary" : {
+		"secondarySkills" : {
+			"eagleEye" : 0
+		}
+	},
+
+	"hota.factory:artificer" : {
+		"secondarySkills" : {
+			"eagleEye" : 0
+		}
+	},
+
+	"hota.bulwark:chieftain" : {
+		"secondarySkills" : {
+			"eagleEye" : 0
+		}
+	},
+
+	"hota.bulwark:elder" : {
+		"secondarySkills" : {
+			"eagleEye" : 0
+		}
+	}
+}

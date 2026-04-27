@@ -1,0 +1,47 @@
+{
+	"name" : "Resource > HOTA",
+	"description" : "Support HOTA mod",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Creatures",
+
+	"depends" : [
+		"hota.cove",
+		"hota.factory",
+		"hota.bulwark"
+	],
+
+	"changelog" : {
+		"Cove" : [
+			"Earn 250 gold per day"
+		],
+		"Factory" : [
+			"Earn 1 wood and 1 ore per day"
+		],
+		"Bulwark" : [
+			"Earn 1 gem per day"
+		]
+	},
+
+	"vietnamese" : {
+		"name" : "Tài Nguyên > HOTA",
+		"description" : "Hỗ trợ bản mở rộng HOTA",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"changelog" : {
+			"Cove" : [
+				"Thêm 250 vàng/ngày"
+			],
+			"Factory" : [
+				"Thêm 1 gỗ và 1 quặng mỗi ngày"
+			],
+			"Bulwark" : [
+				"Thêm 1 ngọc mỗi ngày"
+			]
+		}
+	},
+
+	"creatures" : [
+		"config/resource-hota"
+	]
+}

@@ -2,7 +2,10 @@
 	"warfare" : {
 		"name" : "Warfare",
 		"obligatoryMinor" : true,
-		"specialty" : [], // no generic specialty
+		"specialty" : [
+			"main"
+		],
+
 		"gainChance" : {
 			"might" : 8,
 			"magic" : 8
@@ -10,139 +13,211 @@
 
 		"base" : {
 			"effects" : {
-				"ctrl" : {
-					"type" : "MANUAL_CONTROL",
-					"subtype" : "ballista",
-					"val" : 100
-				},
-
-				"ctrl2" : {
-					"type" : "MANUAL_CONTROL",
-					"subtype" : "arrowTower",
-					"val" : 100
-				},
-
 				"main" : {
-					"type" : "BONUS_DAMAGE_PERCENTAGE",
-					"subtype" : "ballista",
-					"val" : 100
-				},
-
-				"artillery" : {
-					"type" : "BONUS_DAMAGE_CHANCE",
-					"subtype" : "ballista"
-				},
-
-				"val2" : {
-					"type" : "HERO_GRANTS_ATTACKS",
-					"subtype" : "ballista"
-				},
-
-				"ctrl3" : {
-					"type" : "MANUAL_CONTROL",
-					"subtype" : "catapult",
-					"val" : 100
-				},
-
-				"ballistics" : {
-					"type" : "CATAPULT_EXTRA_SHOTS",
-					"subtype" : "catapultShot"
-				},
-
-				"ctrl4" : {
-					"type" : "MANUAL_CONTROL",
-					"subtype" : "firstAidTent",
-					"val" : 100
+					"type" : "STACK_HEALTH",
+					"valueType" : "PERCENT_TO_BASE",
+					"propagator" : "ARMY",
+					"limiters" : [
+						{
+							"type" : "HAS_ANOTHER_BONUS_LIMITER",
+							"bonusType" : "FIRST_AID"
+						}
+					]
 				},
 
 				"firstAid" : {
 					"type" : "SPECIFIC_SPELL_POWER",
-					"subtype" : "firstAid"
+					"subtype" : "spell.firstAid",
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"val2" : {
+					"type" : "DAMAGE_RECEIVED_CAP",
+					"val" : 40,
+					"valueType" : "INDEPENDENT_MIN",
+					"propagator" : "ARMY",
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "firstAidTent"
+						}
+					]
+				},
+
+				"ctrl" : {
+					"type" : "MANUAL_CONTROL",
+					"subtype" : "creature.firstAidTent",
+					"val" : 100,
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"xtra" : {
+					"type" : "HERO_GRANTS_ATTACKS",
+					"subtype" : "creature.ballista",
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"artillery" : {
+					"type" : "BONUS_DAMAGE_CHANCE",
+					"subtype" : "creature.ballista",
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"val3" : {
+					"type" : "BONUS_DAMAGE_PERCENTAGE",
+					"subtype" : "creature.ballista",
+					"val" : 100,
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"val4" : {
+					"type" : "DAMAGE_RECEIVED_CAP",
+					"val" : 40,
+					"valueType" : "INDEPENDENT_MIN",
+					"propagator" : "ARMY",
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "ballista"
+						}
+					]
+				},
+
+				"ctrl2" : {
+					"type" : "MANUAL_CONTROL",
+					"subtype" : "creature.ballista",
+					"val" : 100,
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"ctrl3" : {
+					"type" : "MANUAL_CONTROL",
+					"subtype" : "creature.arrowTower",
+					"val" : 100,
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"ctrl4" : {
+					"type" : "MANUAL_CONTROL",
+					"subtype" : "creature.catapult",
+					"val" : 100,
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"ballistics" : {
+					"type" : "CATAPULT_EXTRA_SHOTS",
+					"subtype" : "spell.catapultShot",
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"val5" : {
+					"type" : "DAMAGE_RECEIVED_CAP",
+					"val" : 40,
+					"valueType" : "INDEPENDENT_MIN",
+					"propagator" : "ARMY",
+					"limiters" : [
+						{
+							"type" : "CREATURE_TYPE_LIMITER",
+							"creature" : "catapult"
+						}
+					]
 				}
 			}
 		},
 
 		"basic" : {
-			"images" : {
-				"large" : "warfare/warfareBasicLarge",
-				"medium" : "warfare/warfareBasicMedium",
-				"small" : "warfare/warfareBasicSmall",
-				"scenarioBonus" : "warfare/bonusBlank.png"
-			},
-
 			"description" : "{Basic Warfare}\n\nBasic of Artillery, First Aid and Ballistics",
 			"effects" : {
-				"ballistics" : {
-					"val" : 1
+				"main" : {
+					"val" : 5
 				},
 
 				"firstAid" : {
 					"val" : 100
+				},
+
+				"xtra" : {
+					"val" : 0
 				},
 
 				"artillery" : {
 					"val" : 50
 				},
 
-				"val2" : {
-					"val" : 0
+				"ballistics" : {
+					"val" : 1
 				}
+			},
+
+			"images" : {
+				"large" : "warfare/warfareBasicLarge",
+				"medium" : "warfare/warfareBasicMedium",
+				"small" : "warfare/warfareBasicSmall",
+				"scenarioBonus" : "warfare/basicScenario"
 			}
 		},
 
 		"advanced" : {
-			"images" : {
-				"large" : "warfare/warfareAdvancedLarge",
-				"medium" : "warfare/warfareAdvancedMedium",
-				"small" : "warfare/warfareAdvancedSmall",
-				"scenarioBonus" : "warfare/bonusBlank.png"
-			},
-
 			"description" : "{Advanced Warfare}\n\nAdvanced of Artillery, First Aid and Ballistics",
 			"effects" : {
-				"ballistics" : {
-					"val" : 2
+				"main" : {
+					"val" : 10
 				},
 
 				"firstAid" : {
-					"val" : 200
+					"val" : 150
+				},
+
+				"xtra" : {
+					"val" : 1
 				},
 
 				"artillery" : {
 					"val" : 75
 				},
 
-				"val2" : {
-					"val" : 1
+				"ballistics" : {
+					"val" : 2
 				}
+			},
+
+			"images" : {
+				"large" : "warfare/warfareAdvancedLarge",
+				"medium" : "warfare/warfareAdvancedMedium",
+				"small" : "warfare/warfareAdvancedSmall",
+				"scenarioBonus" : "warfare/advancedScenario"
 			}
 		},
 
 		"expert" : {
-			"images" : {
-				"large" : "warfare/warfareExpertLarge",
-				"medium" : "warfare/warfareExpertMedium",
-				"small" : "warfare/warfareExpertSmall",
-				"scenarioBonus" : "warfare/bonusBlank.png"
-			},
-
 			"description" : "{Expert Warfare}\n\nExpert of Artillery, First Aid and Ballistics",
 			"effects" : {
-				"ballistics" : {
-					"val" : 3
+				"main" : {
+					"val" : 15
 				},
 
 				"firstAid" : {
-					"val" : 300
+					"val" : 200
+				},
+
+				"xtra" : {
+					"val" : 1
 				},
 
 				"artillery" : {
 					"val" : 100
 				},
 
-				"val2" : {
-					"val" : 1
+				"ballistics" : {
+					"val" : 3
 				}
+			},
+
+			"images" : {
+				"large" : "warfare/warfareExpertLarge",
+				"medium" : "warfare/warfareExpertMedium",
+				"small" : "warfare/warfareExpertSmall",
+				"scenarioBonus" : "warfare/expertScenario"
 			}
 		}
 	},

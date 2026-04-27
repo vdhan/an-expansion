@@ -1,0 +1,49 @@
+{
+	"core:learning" : {
+		"base" : {
+			"effects" : {
+				"val2" : {
+					"type" : "LEARN_BATTLE_SPELL_CHANCE",
+					"val" : 100,
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"eagle" : {
+					"type" : "LEARN_BATTLE_SPELL_LEVEL_LIMIT",
+					"valueType" : "BASE_NUMBER"
+				}
+			}
+		},
+
+		"basic" : {
+			"description" : "{Basic Learning}\n\nIncreases hero's earned experience by 25%. Can learn any spell up to 3rd level used in combat",
+			"effects" : {
+				"eagle" : {
+					"val" : 3
+				}
+			}
+		},
+
+		"advanced" : {
+			"description" : "{Advanced Learning}\n\nIncreases hero's earned experience by 50%. Can learn any spell up to 4th level used in combat",
+			"effects" : {
+				"eagle" : {
+					"val" : 4
+				}
+			}
+		},
+
+		"expert" : {
+			"description" : "{Expert Learning}\n\nIncreases hero's earned experience by 75%. Can learn any spell up to 5th level used in combat",
+			"effects" : {
+				"eagle" : {
+					"val" : 5
+				}
+			}
+		}
+	},
+
+	"core:eagleEye" : {
+		"special" : true
+	}
+}

@@ -1,7 +1,7 @@
 {
 	"name" : "An's Expansion",
-	"description" : "Rebalances skills, heroes, creatures, etc.",
-	"version" : "3.4.0",
+	"description" : "<h2>Rebalances skills, heroes, creatures, etc.</h2>",
+	"version" : "3.4.1",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://github.com/vdhan/an-expansion",
 	"modType" : "Expansion",
@@ -14,6 +14,7 @@
 
 	"settings" : {
 		"heroes" : {
+			"skillPerHero" : 12,
 			"startingStackChances" : [
 				100,
 				100,
@@ -29,11 +30,16 @@
 		},
 
 		"combat" : {
+			"areaShotCanTargetEmptyHex" : true,
 			"badLuckChance" : [
 				2,
 				4,
 				6
 			]
+		},
+
+		"creatures" : {
+			"monthPlagueProbability" : 0
 		},
 
 		"spells" : {
@@ -42,8 +48,20 @@
 	},
 
 	"changelog" : {
+		"3.4.1" : [
+			"Remove Level 8 Upgrade",
+			"Heroes now have up to 12 skills",
+			"Cure First Aid -> War Machine 2",
+			"Specialty -> Gold",
+			"Remove Creature Upgrading",
+			"Rework Neutral Upgrade",
+			"Remove Resistance"
+		],
+
 		"3.4.0" : [
-			"Update to vcmi-1.7 format"
+			"Remove Tactics",
+			"Obsolete Eagle Eye",
+			"HotA Ranloo -> HotA Heroes"
 		],
 		"3.3.9" : [
 			"Fix compatibility with Hota 1.7.58"
@@ -64,6 +82,18 @@
 
 	"vietnamese" : {
 		"name" : "An's Expansion",
-		"description" : "Cân bằng các kĩ năng, tướng, quái, ..."
+		"description" : "<h2>Cân bằng các kĩ năng, tướng, quái, ...</h2>",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"changelog" : {
+			"3.4.1" : [
+				"Bỏ Level 8 Upgrade",
+				"Tướng có 12 kĩ năng",
+				"Cure First Aid -> Chiến Cơ 2",
+				"Specialty -> Vàng",
+				"Bỏ Creature Upgrading",
+				"Cập nhật Quái Trung Lập Nâng Cấp",
+				"Bỏ Resistance"
+			]
+		}
 	}
 }

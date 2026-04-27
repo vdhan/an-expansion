@@ -1,0 +1,20 @@
+{
+	"core:ballista" : {
+		"cost" : {
+			"gold" : 1500
+		},
+
+		"damage" : {
+			"min" : 5,
+			"max" : 5
+		}
+	},
+
+	"core:firstAidTent" : {
+		"hitPoints" : 150
+	},
+
+	"core:ammoCart" : {
+		"hitPoints" : 200
+	}
+}

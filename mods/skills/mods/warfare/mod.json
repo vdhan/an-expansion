@@ -6,9 +6,13 @@
 	"contact" : "https://vudachoangan.com",
 	"modType" : "Skills",
 
+	"softDepends" : [
+		"hota.gamebalance.heroes"
+	],
+
 	"vietnamese" : {
-		"name" : "Warfare",
-		"description" : "Khí Tài kết hợp Artillery, First Aid và Ballistics",
+		"name" : "Khí Tài",
+		"description" : "Khí Tài kết hợp Pháo Binh, Sơ Cứu và Đạn Đạo",
 		"author" : "Vũ Đắc Hoàng Ân",
 		"translations" : [
 			"translation/warfare/vietnamese"
@@ -17,6 +21,14 @@
 
 	"skills" : [
 		"config/warfare/skills"
+	],
+
+	"bonuses" : [
+		"config/warfare/bonus"
+	],
+
+	"artifacts" : [
+		"config/warfare/artifact"
 	],
 
 	"heroClasses" : [

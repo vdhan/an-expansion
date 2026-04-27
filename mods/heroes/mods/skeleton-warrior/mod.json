@@ -13,7 +13,8 @@
 
 	"vietnamese" : {
 		"name" : "Skeleton Warrior",
-		"description" : "Tướng thành Necropolis có thể nâng cấp Skeleton lên Skeleton Warrior"
+		"description" : "Tướng thành Necropolis có thể nâng cấp Skeleton lên Skeleton Warrior",
+		"author" : "Vũ Đắc Hoàng Ân"
 	},
 
 	"creatures" : [

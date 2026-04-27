@@ -2,7 +2,10 @@
 	"transport" : {
 		"name" : "Transport",
 		"obligatoryMinor" : true,
-		"specialty" : [], // no generic specialty
+		"specialty" : [
+			"main"
+		],
+
 		"gainChance" : {
 			"might" : 8,
 			"magic" : 8
@@ -11,92 +14,101 @@
 		"base" : {
 			"effects" : {
 				"main" : {
-					"type" : "ROUGH_TERRAIN_DISCOUNT",
-					"valueType" : "BASE_NUMBER"
-				},
-
-				"logistics" : {
 					"type" : "MOVEMENT",
 					"subtype" : "heroMovementLand",
 					"valueType" : "PERCENT_TO_BASE"
+				},
+
+				"xtra" : {
+					"type" : "BASE_TILE_MOVEMENT_COST",
+					"valueType" : "BASE_NUMBER"
+				},
+
+				"pathfinding" : {
+					"type" : "ROUGH_TERRAIN_DISCOUNT",
+					"valueType" : "BASE_NUMBER"
 				}
 			}
 		},
 
 		"basic" : {
+			"description" : "{Basic Transport}\n\nBasic of Logistics and Pathfinding",
+			"effects" : {
+				"main" : {
+					"val" : 5
+				},
+
+				"xtra" : {
+					"val" : -5
+				},
+
+				"pathfinding" : {
+					"val" : 25
+				}
+			},
+
 			"images" : {
 				"large" : "transport/basicLarge",
 				"medium" : "transport/basicMedium",
 				"small" : "transport/basicSmall",
-				"scenarioBonus" : "transport/bonusBlank.png"
-			},
-
-			"description" : "{Basic Transport}\n\nReduces 25% movement penalty and increases 5% land movement",
-			"effects" : {
-				"main" : {
-					"val" : 25
-				},
-
-				"logistics" : {
-					"val" : 5
-				}
+				"scenarioBonus" : "transport/basicScenario"
 			}
 		},
 
 		"advanced" : {
+			"description" : "{Advanced Transport}\n\nAdvanced of Logistics and Pathfinding",
+			"effects" : {
+				"main" : {
+					"val" : 10
+				},
+
+				"xtra" : {
+					"val" : -10
+				},
+
+				"pathfinding" : {
+					"val" : 50
+				}
+			},
+
 			"images" : {
 				"large" : "transport/advancedLarge",
 				"medium" : "transport/advancedMedium",
 				"small" : "transport/advancedSmall",
-				"scenarioBonus" : "transport/bonusBlank.png"
-			},
-
-			"description" : "{Advanced Transport}\n\nReduces 50% movement penalty and increases 10% land movement",
-			"effects" : {
-				"main" : {
-					"val" : 50
-				},
-
-				"logistics" : {
-					"val" : 10
-				}
+				"scenarioBonus" : "transport/advancedScenario"
 			}
 		},
 
 		"expert" : {
+			"description" : "{Expert Transport}\n\nExpert of Logistics and Pathfinding",
+			"effects" : {
+				"main" : {
+					"val" : 20
+				},
+
+				"xtra" : {
+					"val" : -15
+				},
+
+				"pathfinding" : {
+					"val" : 75
+				}
+			},
+
 			"images" : {
 				"large" : "transport/expertLarge",
 				"medium" : "transport/expertMedium",
 				"small" : "transport/expertSmall",
-				"scenarioBonus" : "transport/bonusBlank.png"
-			},
-
-			"description" : "{Expert Transport}\n\nReduces 75% movement penalty and increases 20% land movement",
-			"effects" : {
-				"main" : {
-					"val" : 75
-				},
-
-				"logistics" : {
-					"val" : 20
-				}
+				"scenarioBonus" : "transport/expertScenario"
 			}
 		}
 	},
 
 	"core:pathfinding" : {
-		"special" : true,
-		"gainChance" : {
-			"might" : 0,
-			"magic" : 0
-		}
+		"special" : true
 	},
 
 	"core:logistics" : {
-		"special" : true,
-		"gainChance" : {
-			"might" : 0,
-			"magic" : 0
-		}
+		"special" : true
 	}
 }

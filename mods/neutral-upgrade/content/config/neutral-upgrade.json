@@ -1,0 +1,19 @@
+{
+	"core:peasant" : {
+		"upgrades" : [
+			"rogue"
+		]
+	},
+
+	"core:boar" : {
+		"upgrades" : [
+			"nomad"
+		]
+	},
+
+	"core:goldGolem" : {
+		"upgrades" : [
+			"diamondGolem"
+		]
+	}
+}

@@ -4,14 +4,16 @@
 			"effects" : {
 				"wood" : {
 					"type" : "GENERATE_RESOURCE",
-					"subtype" : "wood",
-					"val" : 1
+					"subtype" : "resource.wood",
+					"val" : 1,
+					"valueType" : "BASE_NUMBER"
 				},
 
 				"ore" : {
 					"type" : "GENERATE_RESOURCE",
-					"subtype" : "ore",
-					"val" : 1
+					"subtype" : "resource.ore",
+					"val" : 1,
+					"valueType" : "BASE_NUMBER"
 				}
 			}
 		},

@@ -1,0 +1,27 @@
+{
+	"name" : "Gold",
+	"description" : "Improve heroes gold specialties",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Heroes",
+
+	"vietnamese" : {
+		"name" : "Vàng",
+		"description" : "Tướng tạo vàng tốt hơn",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"translations" : [
+			"translation/gold/vietnamese"
+		]
+	},
+
+	"heroes" : [
+		"config/gold/castle",
+		"config/gold/dungeon",
+		"config/gold/inferno",
+		"config/gold/necropolis",
+		"config/gold/rampart",
+		"config/gold/tower",
+		"config/gold/conflux"
+	]
+}

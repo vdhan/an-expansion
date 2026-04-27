@@ -1,0 +1,16 @@
+{
+	"core:firstAidTent" : {
+		"bonuses" : {
+			"grantFirstAid" : {
+				"type" : "FIRST_AID",
+				"limiters" : [
+					"noneOf",
+					{
+						"type" : "HAS_ANOTHER_BONUS_LIMITER",
+						"bonusType" : "SIEGE_WEAPON"
+					}
+				]
+			}
+		}
+	}
+}

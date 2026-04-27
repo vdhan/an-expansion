@@ -3,7 +3,7 @@
 		"abilities" : {
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "gems",
+				"subtype" : "resource.gems",
 				"val" : 1,
 				"propagator" : "HERO"
 			}
@@ -14,8 +14,15 @@
 		"abilities" : {
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "gold",
-				"val" : 200,
+				"subtype" : "resource.wood",
+				"val" : 1,
+				"propagator" : "HERO"
+			},
+
+			"earn2" : {
+				"type" : "GENERATE_RESOURCE",
+				"subtype" : "resource.ore",
+				"val" : 1,
 				"propagator" : "HERO"
 			}
 		}
@@ -25,14 +32,14 @@
 		"abilities" : {
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "wood",
+				"subtype" : "resource.wood",
 				"val" : 1,
 				"propagator" : "HERO"
 			},
 
 			"earn2" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "ore",
+				"subtype" : "resource.ore",
 				"val" : 1,
 				"propagator" : "HERO"
 			}
@@ -43,7 +50,7 @@
 		"abilities" : {
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "sulfur",
+				"subtype" : "resource.sulfur",
 				"val" : 1,
 				"propagator" : "HERO"
 			}
@@ -54,8 +61,8 @@
 		"abilities" : {
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "gold",
-				"val" : 200,
+				"subtype" : "resource.gold",
+				"val" : 250,
 				"propagator" : "HERO"
 			}
 		}
@@ -65,14 +72,14 @@
 		"abilities" : {
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "wood",
+				"subtype" : "resource.wood",
 				"val" : 1,
 				"propagator" : "HERO"
 			},
 
 			"earn2" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "ore",
+				"subtype" : "resource.ore",
 				"val" : 1,
 				"propagator" : "HERO"
 			}
@@ -83,7 +90,7 @@
 		"abilities" : {
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "crystal",
+				"subtype" : "resource.crystal",
 				"val" : 1,
 				"propagator" : "HERO"
 			}
@@ -94,8 +101,8 @@
 		"abilities" : {
 			"earn" : {
 				"type" : "GENERATE_RESOURCE",
-				"subtype" : "gold",
-				"val" : 200,
+				"subtype" : "resource.gold",
+				"val" : 250,
 				"propagator" : "HERO"
 			}
 		}

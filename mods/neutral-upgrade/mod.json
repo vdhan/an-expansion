@@ -1,0 +1,41 @@
+{
+	"name" : "Neutral Upgrade",
+	"description" : "Some neutral creatures can be upgraded",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Mechanics",
+
+	"changelog" : {
+		"Peasant" : [
+			"Upgrade to Rogue"
+		],
+		"Boar" : [
+			"Upgrade to Nomad"
+		],
+		"Gold Golem" : [
+			"Upgrade to Diamond Golem"
+		]
+	},
+
+	"vietnamese" : {
+		"name" : "Quái trung lập nâng cấp",
+		"description" : "1 vài quái trung lập có thể được nâng cấp",
+		"author" : "Vũ Đắc Hoàng Ân",
+		"changelog" : {
+			"Peasant" : [
+				"Nâng cấp lên Rogue"
+			],
+			"Boar" : [
+				"Nâng cấp lên Nomad"
+			],
+			"Gold Golem" : [
+				"Nâng cấp lên Diamond Golem"
+			]
+		}
+	},
+
+	"creatures" : [
+		"config/neutral-upgrade"
+	]
+}

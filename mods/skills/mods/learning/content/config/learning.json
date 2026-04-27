@@ -1,26 +1,30 @@
 {
 	"core:learning" : {
-		"base" : {
+		"basic" : {
+			"description" : "{Basic Learning}\n\nIncreases hero's earned experience by 25%",
 			"effects" : {
-				"xtra" : {
-					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
-					"valueType" : "PERCENT_TO_BASE",
-					"updater" : "TIMES_HERO_LEVEL",
-					"val" : 5
+				"main" : {
+					"val" : 25
 				}
 			}
 		},
 
-		"basic" : {
-			"description" : "{Basic Learning}\n\nIncreases hero's earned experience by 5% and additional 5% per level"
-		},
-
 		"advanced" : {
-			"description" : "{Advanced Learning}\n\nIncreases hero's earned experience by 10% and additional 5% per level"
+			"description" : "{Advanced Learning}\n\nIncreases hero's earned experience by 50%",
+			"effects" : {
+				"main" : {
+					"val" : 50
+				}
+			}
 		},
 
 		"expert" : {
-			"description" : "{Expert Learning}\n\nIncreases hero's earned experience by 15% and additional 5% per level"
+			"description" : "{Expert Learning}\n\nIncreases hero's earned experience by 75%",
+			"effects" : {
+				"main" : {
+					"val" : 75
+				}
+			}
 		}
 	}
 }
