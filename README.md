@@ -22,7 +22,6 @@ Rebalance skills, heroes, creatures, etc.
   - Estates
   - Leadership
   - Luck
-  - Navigation
   - Offence
   - Scholar
   - Sorcery
@@ -33,6 +32,9 @@ Rebalance skills, heroes, creatures, etc.
 
   - Scouting:
     - Mithril
+    
+  - Navigation:
+    - Battle Mage
 
 - War Machine:
   - War Machine 2
