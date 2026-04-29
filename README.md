@@ -8,6 +8,7 @@ Rebalance skills, heroes, creatures, etc.
 - Long Live Peasant
 - Modern Font
 - Neutral Upgrade
+- Light
 - Double Movement:
   - Sea
 

@@ -42,6 +42,10 @@
 			"monthPlagueProbability" : 0
 		},
 
+		"pathfinder" : {
+			"useMonolithOneWayUnique" : true
+		},
+
 		"spells" : {
 			"dimensionDoorTriggersGuards" : true
 		}
