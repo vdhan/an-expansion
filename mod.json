@@ -1,6 +1,5 @@
 {
 	"name" : "An's Expansion",
-	"description" : "<h2>Rebalances skills, heroes, creatures, etc.</h2>",
 	"version" : "3.4.1",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://github.com/vdhan/an-expansion",
@@ -86,7 +85,6 @@
 
 	"vietnamese" : {
 		"name" : "An's Expansion",
-		"description" : "<h2>Cân bằng các kĩ năng, tướng, quái, ...</h2>",
 		"author" : "Vũ Đắc Hoàng Ân",
 		"changelog" : {
 			"3.4.1" : [

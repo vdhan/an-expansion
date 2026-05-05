@@ -1,5 +1,5 @@
 {
-	"name" : "Light (Beta)",
+	"name" : "Light",
 	"description" : "Increase scouting range of heroes and towns",
 	"version" : "1.0.0",
 	"author" : "Vũ Đắc Hoàng Ân",
@@ -8,14 +8,14 @@
   "keepDisabled" : true,
 
 	"vietnamese" : {
-		"name" : "Sáng (thử nghiệm)",
+		"name" : "Sáng",
 		"description" : "Tăng tầm nhìn của tướng và thành",
 		"author" : "Vũ Đắc Hoàng Ân"
 	},
 
 	"settings" : {
 		"heroes" : {
-			"baseScoutingRange" : 7
+			"baseScoutingRange" : 9
 		},
 
     "towns" : {
