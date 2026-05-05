@@ -1,6 +1,6 @@
 {
 	"name" : "Friendly Creature",
-	"description" : "Some neutral creatures can mix with other factions without decrease morale (Peasant, Rogue, Enchanter, Sharpshooter)",
+	"description" : "Some neutral creatures can mix with other factions without reduce morale (Peasant, Rogue, Enchanter, Sharpshooter)",
 	"version" : "1.0.0",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://vudachoangan.com",
