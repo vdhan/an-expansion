@@ -1,0 +1,5 @@
+{
+	"skill.core.leadership.description.advanced" : "{Advanced Leadership}\n\nIncreases morale & attack by 2 and casts Mirth permanently",
+	"skill.core.leadership.description.basic" : "{Basic Leadership}\n\nIncreases morale & attack by 1 and casts Mirth permanently",
+	"skill.core.leadership.description.expert" : "{Expert Leadership}\n\nIncreases morale & attack by 3 and casts Mirth permanently"
+}

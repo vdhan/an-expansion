@@ -1,0 +1,5 @@
+{
+	"skill.core.armorer.description.advanced" : "{Advanced Armorer}\n\nReduces 10% physical damage and casts Stone Skin at battle opening for 25 rounds",
+	"skill.core.armorer.description.basic" : "{Basic Armorer}\n\nReduces 5% physical damage and casts Stone Skin at battle opening for 10 rounds",
+	"skill.core.armorer.description.expert" : "{Expert Armorer}\n\nReduces 15% physical damage and casts Stone Skin at battle opening for 50 rounds"
+}

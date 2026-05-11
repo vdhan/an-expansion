@@ -1,0 +1,5 @@
+{
+	"skill.core.offence.description.advanced" : "{Advanced Offence}\n\nIncreases 20% melee damage and casts Bloodlust at battle opening for 25 rounds",
+	"skill.core.offence.description.basic" : "{Basic Offence}\n\nIncreases 10% melee damage and casts Bloodlust at battle opening for 10 rounds",
+	"skill.core.offence.description.expert" : "{Expert Offence}\n\nIncreases 30% melee damage and casts Bloodlust at battle opening for 50 rounds"
+}

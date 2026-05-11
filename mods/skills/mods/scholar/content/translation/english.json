@@ -1,0 +1,5 @@
+{
+	"skill.core.scholar.description.advanced" : "{Advanced Scholar}\n\nAllows heroes to teach each other any spell up to 3rd level and increases knowledge by 2",
+	"skill.core.scholar.description.basic" : "{Basic Scholar}\n\nAllows heroes to teach each other any spell up to 2nd level and increases knowledge by 1",
+	"skill.core.scholar.description.expert" : "{Expert Scholar}\n\nAllows heroes to teach each other any spell up to 5th level and increases knowledge by 3"
+}

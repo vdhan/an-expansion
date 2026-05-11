@@ -1,0 +1,5 @@
+{
+	"skill.core.estates.description.advanced" : "{Advanced Estates}\n\nIncreases 500 gold, 1 wood and 1 ore per day",
+	"skill.core.estates.description.basic" : "{Basic Estates}\n\nIncreases 250 gold, 1 wood and 1 ore per day",
+	"skill.core.estates.description.expert" : "{Expert Estates}\n\nIncreases 1000 gold, 1 wood and 1 ore per day"
+}
