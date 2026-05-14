@@ -15,7 +15,7 @@ jobs:
         shell: bash
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Add VCMI PPA Repository
         run: sudo add-apt-repository ppa:vcmi/vcmi-latest
@@ -25,7 +25,7 @@ jobs:
 
       - name: Install VCMI
         run: sudo apt install vcmi
-        
+
       - name: Install H3 Data Placeholder
         run: |
           data_url="https://github.com/vcmi-mods/vcmi-test-data/releases/download/v2.0/heroes3.7z"
@@ -68,7 +68,7 @@ jobs:
       valid: ${{ steps.validate.outcome == 'success' }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Update repository
         run: sudo apt update
@@ -90,7 +90,7 @@ jobs:
         shell: bash
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Install dependencies
         run: |
@@ -133,7 +133,7 @@ jobs:
         shell: bash
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: ${{ github.sha }}
           fetch-depth: 0
