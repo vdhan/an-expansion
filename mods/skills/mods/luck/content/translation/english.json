@@ -1,0 +1,5 @@
+{
+	"skill.core.luck.description.advanced" : "{Advanced Luck}\n\nIncreases luck & defence by 2 and casts Fortune permanently",
+	"skill.core.luck.description.basic" : "{Basic Luck}\n\nIncreases luck & defence by 1 and casts Fortune permanently",
+	"skill.core.luck.description.expert" : "{Expert Luck}\n\nIncreases luck & defence by 3 and casts Fortune permanently"
+}
