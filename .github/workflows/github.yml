@@ -68,7 +68,7 @@ jobs:
 
       - name: Upload Translation Files
         if: steps.check.outputs.translations_present == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: translation-export
           path: ~/.cache/vcmi/extracted/translationFull/${{ env.MOD_NAME }}/
@@ -126,7 +126,7 @@ jobs:
 
       - name: Download translation artifacts
         if: needs.validate-startup.outputs.translations_present == 'true'
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: translation-export
           path: ./translation-export
