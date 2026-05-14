@@ -3,12 +3,10 @@
 **Cân bằng các kĩ năng, tướng, quái, ...**
 
 ## Vài thay đổi nhỏ
-- Tướng có thể học 12 kĩ năng
 - Tướng tăng gấp đôi di chuyển
 - Cải thiện Peasant
 - Cải thiện chiến cơ
 - Phông chữ Tiếng Việt
-- Tăng tầm nhìn của tướng, thành
 - 1 vài quái trung lập có thể kết hợp với thành khác mà không làm giảm nhuệ khí (Peasant, Rogue, Sharpshooter, Enchanter)
 
 ## Quái trung lập có thể nâng cấp
@@ -31,8 +29,12 @@ Tướng 1 số thành có thể tạo tài nguyên:
 ## Kĩ năng
 - Cải thiện 1 số kĩ năng
 - Gộp Ưng Nhãn vào Học Tập
+- Tướng có thể học 12 kĩ năng
 - Vận Chuyển: Kết hợp Hậu Cần và Tìm Đường
 - Khí Tài: Kết hợp Pháo Binh, Sơ Cứu và Đạn Đạo
+
+## Sáng & Tối
+- Sáng: Tăng tầm nhìn của tướng, thành
 
 
 # english
@@ -40,12 +42,10 @@ Tướng 1 số thành có thể tạo tài nguyên:
 **Rebalance skills, heroes, creatures, etc.**
 
 ## Miscellaneous changes
-- Heroes can learn up to 12 skills
 - Heroes have double movement
 - Long Live Peasant
 - Improve war machine
 - Modern font
-- Increase scouting range of heroes, towns
 - Some neutral creatures can mix with other factions without reduce morale (Peasant, Rogue, Enchanter, Sharpshooter)
 
 ## Some neutral creatures can be upgraded
@@ -68,5 +68,9 @@ Hero of some factions can earn resources:
 ## Skills
 - Improve some skills
 - Merge Eagle Eye into Learning
+- Heroes can learn up to 12 skills
 - Transport: Combines Logistics and Pathfinding
 - Warfare: Combines Artillery, First Aid and Ballistics
+
+## Light & Dark
+- Light: Increase scouting range of heroes, towns

@@ -1,6 +1,6 @@
 {
 	"name" : "An's Expansion",
-	"version" : "3.4.1",
+	"version" : "3.4.2",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://github.com/vdhan/an-expansion",
 	"modType" : "Expansion",
@@ -13,7 +13,6 @@
 
 	"settings" : {
 		"heroes" : {
-			"skillPerHero" : 12,
 			"startingStackChances" : [
 				100,
 				100,
@@ -51,6 +50,10 @@
 	},
 
 	"changelog" : {
+		"3.4.2" : [
+			"Add Light"
+		],
+
 		"3.4.1" : [
 			"Remove Level 8 Upgrade",
 			"Heroes now have up to 12 skills",
@@ -87,6 +90,10 @@
 		"name" : "An's Expansion",
 		"author" : "Vũ Đắc Hoàng Ân",
 		"changelog" : {
+			"3.4.2" : [
+				"Thêm Sáng"
+			],
+
 			"3.4.1" : [
 				"Bỏ Level 8 Upgrade",
 				"Tướng có 12 kĩ năng",
