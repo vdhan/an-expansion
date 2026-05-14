@@ -1,0 +1,15 @@
+{
+	"name" : "Light & Dark",
+	"description" : "New experience for player",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Mechanics",
+	"keepDisabled" : true,
+
+	"vietnamese" : {
+		"name" : "Sáng & Tối",
+		"description" : "Trải nghiệm mới cho người chơi",
+		"author" : "Vũ Đắc Hoàng Ân"
+	}
+}

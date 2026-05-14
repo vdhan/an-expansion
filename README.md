@@ -1,53 +1,19 @@
 # An's expansion mod
-Đọc hướng dẫn Tiếng Việt trong trò chơi.
 
-Rebalance skills, heroes, creatures, etc.
+Đọc [mô tả](description.md).
 
-## Structure:
-- Friendly Creature
-- Long Live Peasant
-- Modern Font
-- Neutral Upgrade
-- Double Movement:
-  - Sea
+Read [description](description.md).
 
-- Heroes:
-  - Resource
-  - Skeleton Warrior
-  - Gold
+Liên hệ: https://vudachoangan.com/
 
-- Skills:
-  - Archery
-  - Armorer
-  - Estates
-  - Leadership
-  - Luck
-  - Offence
-  - Scholar
-  - Sorcery
-  - Transport: Combines Logistics and Pathfinding
-  - Warfare: Combines Artillery, First Aid and Ballistics
-  - Learning:
-    - Eagle Eye
-
-  - Scouting:
-    - Mithril
-    
-  - Navigation:
-    - Battle Mage
-
-- War Machine:
-  - War Machine 2
-  - Cannon
+Thư điện tử: vdhan@yandex.com
 
 ---
 
+Tướng, vật phẩm mới: https://github.com/vdhan/new-set
+
+Giải nén tệp tin Heroes 3 .lod: https://github.com/vdhan/extract-lod
+
 For new heroes, artifacts, etc., checkout: https://github.com/vdhan/new-set
 
-To calculates AI and Fight Values of creatures, checkout: https://github.com/vdhan/an-balancer
-
 To extract Heroes 3 .lod files, checkout: https://github.com/vdhan/extract-lod
-
-Software development kit: https://grayface.github.io/wog/
-
-Contact me: https://vudachoangan.com/

@@ -1,6 +1,6 @@
 {
 	"name" : "Gold",
-	"description" : "Improve heroes gold specialties",
+	"description" : "Improve heroes gold specialties (9 origin factions)",
 	"version" : "1.0.0",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://vudachoangan.com",
@@ -8,7 +8,7 @@
 
 	"vietnamese" : {
 		"name" : "Vàng",
-		"description" : "Tướng tạo vàng tốt hơn",
+		"description" : "Tướng tạo vàng tốt hơn (9 thành trong bản gốc)",
 		"author" : "Vũ Đắc Hoàng Ân",
 		"translations" : [
 			"translation/gold/vietnamese"

@@ -1,0 +1,25 @@
+{
+	"name" : "Light",
+	"description" : "Increase scouting range of heroes to 9, towns to 15, Lookout Tower to 30",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Mechanics",
+	"keepDisabled" : true,
+
+	"vietnamese" : {
+		"name" : "Sáng",
+		"description" : "Tăng tầm nhìn của tướng lên 9, các thành lên 15, Tháp Quan Sát lên 30",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
+
+	"settings" : {
+		"heroes" : {
+			"baseScoutingRange" : 9
+		},
+
+		"towns" : {
+			"baseScoutingRange" : 15
+		}
+	}
+}
