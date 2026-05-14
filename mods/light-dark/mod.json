@@ -5,7 +5,7 @@
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://vudachoangan.com",
 	"modType" : "Mechanics",
-  "keepDisabled" : true,
+	"keepDisabled" : true,
 
 	"vietnamese" : {
 		"name" : "Sáng & Tối",
