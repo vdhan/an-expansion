@@ -17,7 +17,7 @@ jobs:
       translations_present: ${{ steps.check.outputs.translations_present }}
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Add VCMI PPA Repository
         run: sudo add-apt-repository ppa:vcmi/vcmi-latest
@@ -27,7 +27,7 @@ jobs:
 
       - name: Install VCMI
         run: sudo apt install vcmi
-
+        
       - name: Install H3 Data Placeholder
         run: |
           data_url="https://github.com/vcmi-mods/vcmi-test-data/releases/download/v2.0/heroes3.7z"
@@ -68,7 +68,7 @@ jobs:
 
       - name: Upload Translation Files
         if: steps.check.outputs.translations_present == 'true'
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@v4
         with:
           name: translation-export
           path: ~/.cache/vcmi/extracted/translationFull/${{ env.MOD_NAME }}/
@@ -96,7 +96,7 @@ jobs:
       valid: ${{ steps.validate.outcome == 'success' }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Update repository
         run: sudo apt update
@@ -118,7 +118,7 @@ jobs:
         shell: bash
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Install dependencies
         run: |
@@ -126,7 +126,7 @@ jobs:
 
       - name: Download translation artifacts
         if: needs.validate-startup.outputs.translations_present == 'true'
-        uses: actions/download-artifact@v8
+        uses: actions/download-artifact@v4
         with:
           name: translation-export
           path: ./translation-export
@@ -151,7 +151,7 @@ jobs:
         run: python3 .github/postprocess_colons.py
 
       - name: Commit changes if needed
-        uses: EndBug/add-and-commit@v10
+        uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
           message: "Auto-format JSON files"
@@ -175,7 +175,7 @@ jobs:
         shell: bash
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
         with:
           ref: ${{ github.sha }}
           fetch-depth: 0
