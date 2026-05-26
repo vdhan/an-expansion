@@ -29,7 +29,7 @@ Tướng 1 số thành có thể tạo tài nguyên:
 ## Kĩ năng
 - Cải thiện 1 số kĩ năng
 - Gộp Ưng Nhãn vào Học Tập
-- Tướng có thể học 12 kĩ năng
+- Tướng có thể học 16 kĩ năng
 - Vận Chuyển: Kết hợp Hậu Cần và Tìm Đường
 - Khí Tài: Kết hợp Pháo Binh, Sơ Cứu và Đạn Đạo
 
@@ -68,7 +68,7 @@ Hero of some factions can earn resources:
 ## Skills
 - Improve some skills
 - Merge Eagle Eye into Learning
-- Heroes can learn up to 12 skills
+- Heroes can learn up to 16 skills
 - Transport: Combines Logistics and Pathfinding
 - Warfare: Combines Artillery, First Aid and Ballistics
 

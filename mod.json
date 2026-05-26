@@ -51,7 +51,8 @@
 
 	"changelog" : {
 		"3.4.2" : [
-			"Add Light"
+			"Add Light",
+			"Heroes now have up to 16 skills"
 		],
 
 		"3.4.1" : [
@@ -91,7 +92,8 @@
 		"author" : "Vũ Đắc Hoàng Ân",
 		"changelog" : {
 			"3.4.2" : [
-				"Thêm Sáng"
+				"Thêm Sáng",
+				"Tướng có 16 kĩ năng"
 			],
 
 			"3.4.1" : [
