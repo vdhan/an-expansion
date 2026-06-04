@@ -12,10 +12,10 @@ jobs:
     steps:
       - uses: actions/stale@v10
         with:
-          days-before-issue-stale: 30
+          days-before-issue-stale: 29
           days-before-issue-close: 14
           stale-issue-label: "cũ"
-          stale-issue-message: "Cái này cũ do không có hoạt động trong 30 ngày."
+          stale-issue-message: "Cái này cũ do không có hoạt động trong nhiều ngày."
           close-issue-message: "Cái này đóng do không có hoạt động trong 14 ngày từ khi được đánh dấu \"cũ\"."
           days-before-pr-stale: -1
           days-before-pr-close: -1
