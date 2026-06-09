@@ -12,30 +12,15 @@
 		},
 
 		"basic" : {
-			"description" : "{Basic Luck}\nIncreases luck by 1 and casts Fortune permanently",
-			"effects" : {
-				"defence" : {
-					"val" : 1
-				}
-			}
+			"description" : "{Basic Luck}\nIncreases luck by 1 and casts Fortune permanently"
 		},
 
 		"advanced" : {
-			"description" : "{Advanced Luck}\nIncreases luck by 2 and casts Fortune permanently",
-			"effects" : {
-				"defence" : {
-					"val" : 2
-				}
-			}
+			"description" : "{Advanced Luck}\nIncreases luck by 2 and casts Fortune permanently"
 		},
 
 		"expert" : {
-			"description" : "{Expert Luck}\nIncreases luck by 3 and casts Fortune permanently",
-			"effects" : {
-				"defence" : {
-					"val" : 3
-				}
-			}
+			"description" : "{Expert Luck}\nIncreases luck by 3 and casts Fortune permanently"
 		}
 	}
 }

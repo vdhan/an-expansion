@@ -12,30 +12,15 @@
 		},
 
 		"basic" : {
-			"description" : "{Basic Leadership}\nIncreases morale by 1 and casts Mirth permanently",
-			"effects" : {
-				"attack" : {
-					"val" : 1
-				}
-			}
+			"description" : "{Basic Leadership}\nIncreases morale by 1 and casts Mirth permanently"
 		},
 
 		"advanced" : {
-			"description" : "{Advanced Leadership}\nIncreases morale by 2 and casts Mirth permanently",
-			"effects" : {
-				"attack" : {
-					"val" : 2
-				}
-			}
+			"description" : "{Advanced Leadership}\nIncreases morale by 2 and casts Mirth permanently"
 		},
 
 		"expert" : {
-			"description" : "{Expert Leadership}\nIncreases morale by 3 and casts Mirth permanently",
-			"effects" : {
-				"attack" : {
-					"val" : 3
-				}
-			}
+			"description" : "{Expert Leadership}\nIncreases morale by 3 and casts Mirth permanently"
 		}
 	}
 }
