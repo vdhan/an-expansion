@@ -1,6 +1,6 @@
 {
 	"name" : "An's Expansion",
-	"version" : "3.4.2",
+	"version" : "3.4.3",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://github.com/vdhan/an-expansion",
 	"modType" : "Expansion",
@@ -50,9 +50,13 @@
 	},
 
 	"changelog" : {
+		"3.4.3" : [
+			"Heroes now have up to 16 skills",
+			"Rebalance skills"
+		],
+
 		"3.4.2" : [
-			"Add Light",
-			"Heroes now have up to 16 skills"
+			"Add Light"
 		],
 
 		"3.4.1" : [
@@ -91,9 +95,13 @@
 		"name" : "An's Expansion",
 		"author" : "Vũ Đắc Hoàng Ân",
 		"changelog" : {
+			"3.4.3" : [
+				"Tướng có 16 kĩ năng",
+				"Cân bằng kĩ năng"
+			],
+
 			"3.4.2" : [
-				"Thêm Sáng",
-				"Tướng có 16 kĩ năng"
+				"Thêm Sáng"
 			],
 
 			"3.4.1" : [
