@@ -11,7 +11,7 @@
 		},
 
 		"basic" : {
-			"description" : "{Basic Armorer}\n\nReduces 5% physical damage and casts Stone Skin at battle opening for 10 rounds",
+			"description" : "{Basic Armorer}\nReduces 5% physical damage and casts Stone Skin at battle opening for 10 rounds",
 			"effects" : {
 				"cast" : {
 					"val" : 10
@@ -20,19 +20,19 @@
 		},
 
 		"advanced" : {
-			"description" : "{Advanced Armorer}\n\nReduces 10% physical damage and casts Stone Skin at battle opening for 25 rounds",
+			"description" : "{Advanced Armorer}\nReduces 10% physical damage and casts Stone Skin at battle opening for 20 rounds",
 			"effects" : {
 				"cast" : {
-					"val" : 25
+					"val" : 20
 				}
 			}
 		},
 
 		"expert" : {
-			"description" : "{Expert Armorer}\n\nReduces 15% physical damage and casts Stone Skin at battle opening for 50 rounds",
+			"description" : "{Expert Armorer}\nReduces 15% physical damage and casts Stone Skin at battle opening for 40 rounds",
 			"effects" : {
 				"cast" : {
-					"val" : 50
+					"val" : 40
 				}
 			}
 		}

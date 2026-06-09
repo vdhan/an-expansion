@@ -11,7 +11,7 @@
 		},
 
 		"basic" : {
-			"description" : "{Basic Offence}\n\nIncreases 10% melee damage and casts Bloodlust at battle opening for 10 rounds",
+			"description" : "{Basic Offence}\nIncreases 10% melee damage and casts Bloodlust at battle opening for 10 rounds",
 			"effects" : {
 				"cast" : {
 					"val" : 10
@@ -20,19 +20,19 @@
 		},
 
 		"advanced" : {
-			"description" : "{Advanced Offence}\n\nIncreases 20% melee damage and casts Bloodlust at battle opening for 25 rounds",
+			"description" : "{Advanced Offence}\nIncreases 20% melee damage and casts Bloodlust at battle opening for 20 rounds",
 			"effects" : {
 				"cast" : {
-					"val" : 25
+					"val" : 20
 				}
 			}
 		},
 
 		"expert" : {
-			"description" : "{Expert Offence}\n\nIncreases 30% melee damage and casts Bloodlust at battle opening for 50 rounds",
+			"description" : "{Expert Offence}\nIncreases 30% melee damage and casts Bloodlust at battle opening for 40 rounds",
 			"effects" : {
 				"cast" : {
-					"val" : 50
+					"val" : 40
 				}
 			}
 		}
