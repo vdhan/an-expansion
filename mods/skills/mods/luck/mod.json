@@ -1,6 +1,6 @@
 {
 	"name" : "Luck",
-	"description" : "Luck also increases defence by 1/2/3 and casts Fortune permanently",
+	"description" : "Luck also casts Fortune permanently",
 	"version" : "1.0.0",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://vudachoangan.com",
@@ -8,7 +8,7 @@
 
 	"vietnamese" : {
 		"name" : "May Mắn",
-		"description" : "May Mắn đầu trận còn tăng 1/2/3 thủ và ếm Vận May vĩnh cửu",
+		"description" : "May Mắn còn ếm Vận May vĩnh cửu",
 		"author" : "Vũ Đắc Hoàng Ân",
 		"translations" : [
 			"translation/luck/vietnamese"

@@ -1,6 +1,6 @@
 {
 	"name" : "Leadership",
-	"description" : "Leadership also increases attack by 1/2/3 and casts Mirth permanently",
+	"description" : "Leadership also casts Mirth permanently",
 	"version" : "1.0.0",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://vudachoangan.com",
@@ -8,7 +8,7 @@
 
 	"vietnamese" : {
 		"name" : "Lãnh Đạo",
-		"description" : "Lãnh Đạo còn tăng 1/2/3 công và ếm Khích Lệ vĩnh cửu",
+		"description" : "Lãnh Đạo còn ếm Khích Lệ vĩnh cửu",
 		"author" : "Vũ Đắc Hoàng Ân",
 		"translations" : [
 			"translation/leadership/vietnamese"
