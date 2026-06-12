@@ -3,7 +3,7 @@
 		"abilities" : {
 			"friendly" : {
 				"type" : "NONEVIL_ALIGNMENT_MIX",
-				"propagator" : "HERO"
+				"propagator" : "ARMY"
 			}
 		}
 	},
@@ -12,7 +12,7 @@
 		"abilities" : {
 			"friendly" : {
 				"type" : "NONEVIL_ALIGNMENT_MIX",
-				"propagator" : "HERO"
+				"propagator" : "ARMY"
 			}
 		}
 	},
@@ -21,7 +21,7 @@
 		"abilities" : {
 			"friendly" : {
 				"type" : "NONEVIL_ALIGNMENT_MIX",
-				"propagator" : "HERO"
+				"propagator" : "ARMY"
 			}
 		}
 	},
@@ -30,7 +30,7 @@
 		"abilities" : {
 			"friendly" : {
 				"type" : "NONEVIL_ALIGNMENT_MIX",
-				"propagator" : "HERO"
+				"propagator" : "ARMY"
 			}
 		}
 	}

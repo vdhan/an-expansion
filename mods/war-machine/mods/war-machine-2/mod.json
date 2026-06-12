@@ -39,10 +39,6 @@
 		"config/war-machine-2/creature"
 	],
 
-	"artifacts" : [
-		"config/war-machine-2/artifact"
-	],
-
 	"spells" : [
 		"config/war-machine-2/spell"
 	]
