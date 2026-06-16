@@ -12,7 +12,7 @@
 		"author" : "Vũ Đắc Hoàng Ân"
 	},
 
-  "objects" : [
-    "config/witch-hut"
-  ]
+	"objects" : [
+		"config/witch-hut"
+	]
 }
