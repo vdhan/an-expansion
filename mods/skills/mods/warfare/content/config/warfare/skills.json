@@ -222,10 +222,12 @@
 	},
 
 	"core:artillery" : {
+		"special" : true,
 		"tags" : {
 			"special" : true,
 			"bannedForWitchHut" : true,
-			"bannedForUniversity" : true
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
 		},
 
 		"gainChance" : {
@@ -235,10 +237,12 @@
 	},
 
 	"core:firstAid" : {
+		"special" : true,
 		"tags" : {
 			"special" : true,
 			"bannedForWitchHut" : true,
-			"bannedForUniversity" : true
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
 		},
 
 		"gainChance" : {
@@ -248,10 +252,12 @@
 	},
 
 	"core:ballistics" : {
+		"special" : true,
 		"tags" : {
 			"special" : true,
 			"bannedForWitchHut" : true,
-			"bannedForUniversity" : true
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
 		},
 
 		"gainChance" : {

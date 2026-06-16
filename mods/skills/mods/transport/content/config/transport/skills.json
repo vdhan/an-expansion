@@ -104,10 +104,12 @@
 	},
 
 	"core:pathfinding" : {
+		"special" : true,
 		"tags" : {
 			"special" : true,
 			"bannedForWitchHut" : true,
-			"bannedForUniversity" : true
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
 		},
 
 		"gainChance" : {
@@ -117,10 +119,12 @@
 	},
 
 	"core:logistics" : {
+		"special" : true,
 		"tags" : {
 			"special" : true,
 			"bannedForWitchHut" : true,
-			"bannedForUniversity" : true
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
 		},
 
 		"gainChance" : {

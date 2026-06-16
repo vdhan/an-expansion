@@ -1,0 +1,18 @@
+{
+	"name" : "Witch Hut",
+	"description" : "Witch hut can teach high level skill",
+	"version" : "1.0.0",
+	"author" : "Vũ Đắc Hoàng Ân",
+	"contact" : "https://vudachoangan.com",
+	"modType" : "Mechanics",
+
+	"vietnamese" : {
+		"name" : "Lán Phù Thủy",
+		"description" : "Lán phù thủy có thể dạy kĩ năng cấp cao",
+		"author" : "Vũ Đắc Hoàng Ân"
+	},
+
+  "objects" : [
+    "config/witch-hut"
+  ]
+}

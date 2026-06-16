@@ -52,7 +52,8 @@
 	"changelog" : {
 		"3.4.3" : [
 			"Heroes now have up to 16 skills",
-			"Rebalance skills"
+			"Rebalance skills",
+			"Add Witch Hut"
 		],
 
 		"3.4.2" : [
@@ -97,7 +98,8 @@
 		"changelog" : {
 			"3.4.3" : [
 				"Tướng có 16 kĩ năng",
-				"Cân bằng kĩ năng"
+				"Cân bằng kĩ năng",
+				"Thêm Lán Phù Thủy"
 			],
 
 			"3.4.2" : [
