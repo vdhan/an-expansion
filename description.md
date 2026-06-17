@@ -7,6 +7,7 @@
 - Cải thiện Peasant
 - Cải thiện chiến cơ
 - Phông chữ Tiếng Việt
+- Lán phù thủy có thể dạy kĩ năng cấp cao
 - 1 vài quái trung lập có thể kết hợp với thành khác mà không làm giảm nhuệ khí (Peasant, Rogue, Sharpshooter, Enchanter)
 
 ## Quái trung lập có thể nâng cấp
@@ -46,6 +47,7 @@ Tướng 1 số thành có thể tạo tài nguyên:
 - Long Live Peasant
 - Improve war machine
 - Modern font
+- Witch hut can teach high level skill
 - Some neutral creatures can mix with other factions without reduce morale (Peasant, Rogue, Enchanter, Sharpshooter)
 
 ## Some neutral creatures can be upgraded
