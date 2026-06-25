@@ -1,6 +1,6 @@
 {
 	"name" : "Archery",
-	"description" : "Archery also casts Precision at battle opening for 10/25/50 rounds",
+	"description" : "Archery also casts Precision at battle opening for 10/20/40 rounds",
 	"version" : "1.0.0",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://vudachoangan.com",
@@ -8,7 +8,7 @@
 
 	"vietnamese" : {
 		"name" : "Bắn Cung",
-		"description" : "Bắn Cung đầu trận còn ếm Chính Xác cho 10/25/50 vòng",
+		"description" : "Bắn Cung đầu trận còn ếm Chính Xác cho 10/20/40 vòng",
 		"author" : "Vũ Đắc Hoàng Ân",
 		"translations" : [
 			"translation/archery/vietnamese"

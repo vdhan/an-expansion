@@ -7,6 +7,7 @@
 - Cải thiện Peasant
 - Cải thiện chiến cơ
 - Phông chữ Tiếng Việt
+- Lán phù thủy có thể dạy kĩ năng cấp cao
 - 1 vài quái trung lập có thể kết hợp với thành khác mà không làm giảm nhuệ khí (Peasant, Rogue, Sharpshooter, Enchanter)
 
 ## Quái trung lập có thể nâng cấp
@@ -29,7 +30,7 @@ Tướng 1 số thành có thể tạo tài nguyên:
 ## Kĩ năng
 - Cải thiện 1 số kĩ năng
 - Gộp Ưng Nhãn vào Học Tập
-- Tướng có thể học 12 kĩ năng
+- Tướng có thể học 16 kĩ năng
 - Vận Chuyển: Kết hợp Hậu Cần và Tìm Đường
 - Khí Tài: Kết hợp Pháo Binh, Sơ Cứu và Đạn Đạo
 
@@ -46,6 +47,7 @@ Tướng 1 số thành có thể tạo tài nguyên:
 - Long Live Peasant
 - Improve war machine
 - Modern font
+- Witch hut can teach high level skill
 - Some neutral creatures can mix with other factions without reduce morale (Peasant, Rogue, Enchanter, Sharpshooter)
 
 ## Some neutral creatures can be upgraded
@@ -68,7 +70,7 @@ Hero of some factions can earn resources:
 ## Skills
 - Improve some skills
 - Merge Eagle Eye into Learning
-- Heroes can learn up to 12 skills
+- Heroes can learn up to 16 skills
 - Transport: Combines Logistics and Pathfinding
 - Warfare: Combines Artillery, First Aid and Ballistics
 

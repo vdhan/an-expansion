@@ -1,6 +1,6 @@
 {
 	"name" : "More Skills",
-	"description" : "Heroes can learn up to 12 skills",
+	"description" : "Heroes can learn up to 16 skills",
 	"version" : "1.0.0",
 	"author" : "Vũ Đắc Hoàng Ân",
 	"contact" : "https://vudachoangan.com",
@@ -8,13 +8,13 @@
 
 	"vietnamese" : {
 		"name" : "Thêm kĩ năng",
-		"description" : "Tướng có thể học 12 kĩ năng",
+		"description" : "Tướng có thể học 16 kĩ năng",
 		"author" : "Vũ Đắc Hoàng Ân"
 	},
 
 	"settings" : {
 		"heroes" : {
-			"skillPerHero" : 12
+			"skillPerHero" : 16
 		}
 	}
 }

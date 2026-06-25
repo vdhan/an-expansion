@@ -2,22 +2,21 @@
 	"core:scouting" : {
 		"base" : {
 			"effects" : {
-				"advance" : {
-					"type" : "MOVEMENT",
-					"subtype" : "heroMovementLand",
-					"val" : 50,
-					"valueType" : "BASE_NUMBER",
-					"updater" : "TIMES_HERO_LEVEL"
+				"xtra" : {
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.mithril",
+					"val" : 1,
+					"valueType" : "BASE_NUMBER"
 				}
 			}
 		},
 
 		"basic" : {
-			"description" : "{Basic Scouting}\n\nAllows your hero to see 1 square further into the shroud and increases land movement points by 50 per level"
+			"description" : "{Basic Scouting}\nAllows your hero to see 1 square further into the shroud and earn 1 mithril per day"
 		},
 
 		"advanced" : {
-			"description" : "{Advanced Scouting}\n\nAllows your hero to see 3 square further into the shroud and increases land movement points by 50 per level",
+			"description" : "{Advanced Scouting}\nAllows your hero to see 3 square further into the shroud and earn 1 mithril per day",
 			"effects" : {
 				"main" : {
 					"val" : 3
@@ -26,7 +25,7 @@
 		},
 
 		"expert" : {
-			"description" : "{Expert Scouting}\n\nAllows your hero to see 5 square further into the shroud and increases land movement points by 50 per level",
+			"description" : "{Expert Scouting}\nAllows your hero to see 5 square further into the shroud and earn 1 mithril per day",
 			"effects" : {
 				"main" : {
 					"val" : 5

@@ -1,7 +1,6 @@
 {
 	"warfare" : {
 		"name" : "Warfare",
-		"obligatoryMinor" : true,
 		"specialty" : [
 			"main"
 		],
@@ -224,6 +223,13 @@
 
 	"core:artillery" : {
 		"special" : true,
+		"tags" : {
+			"special" : true,
+			"bannedForWitchHut" : true,
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
+		},
+
 		"gainChance" : {
 			"might" : 0,
 			"magic" : 0
@@ -232,6 +238,13 @@
 
 	"core:firstAid" : {
 		"special" : true,
+		"tags" : {
+			"special" : true,
+			"bannedForWitchHut" : true,
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
+		},
+
 		"gainChance" : {
 			"might" : 0,
 			"magic" : 0
@@ -240,6 +253,13 @@
 
 	"core:ballistics" : {
 		"special" : true,
+		"tags" : {
+			"special" : true,
+			"bannedForWitchHut" : true,
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
+		},
+
 		"gainChance" : {
 			"might" : 0,
 			"magic" : 0

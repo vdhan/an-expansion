@@ -1,0 +1,40 @@
+{
+	"core:witchHut" : {
+		"types" : {
+			"witchHut" : {
+				"visitMode" : "hero",
+				"rewards" : [
+					{
+						"limiter" : {
+							"noneOf" : [
+								{
+									"secondary" : {
+										"@gainedSkill" : 3
+									}
+								}
+							],
+
+							"anyOf" : [
+								{
+									"canLearnSkills" : true
+								},
+
+								{
+									"secondary" : {
+										"@gainedSkill" : 1
+									}
+								}
+							]
+						},
+
+						"description" : 355,
+						"message" : 171,
+						"secondary" : {
+							"@gainedSkill" : 1
+						}
+					}
+				]
+			}
+		}
+	}
+}

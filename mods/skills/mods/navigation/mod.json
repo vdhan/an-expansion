@@ -17,5 +17,9 @@
 
 	"skills" : [
 		"config/navigation"
+	],
+
+	"heroClasses" : [
+		"config/battle-mage"
 	]
 }

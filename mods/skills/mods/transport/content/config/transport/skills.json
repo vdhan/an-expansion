@@ -1,7 +1,6 @@
 {
 	"transport" : {
 		"name" : "Transport",
-		"obligatoryMinor" : true,
 		"specialty" : [
 			"main"
 		],
@@ -105,10 +104,32 @@
 	},
 
 	"core:pathfinding" : {
-		"special" : true
+		"special" : true,
+		"tags" : {
+			"special" : true,
+			"bannedForWitchHut" : true,
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
+		},
+
+		"gainChance" : {
+			"might" : 0,
+			"magic" : 0
+		}
 	},
 
 	"core:logistics" : {
-		"special" : true
+		"special" : true,
+		"tags" : {
+			"special" : true,
+			"bannedForWitchHut" : true,
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
+		},
+
+		"gainChance" : {
+			"might" : 0,
+			"magic" : 0
+		}
 	}
 }

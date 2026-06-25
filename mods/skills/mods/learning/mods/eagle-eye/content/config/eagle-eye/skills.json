@@ -44,6 +44,17 @@
 	},
 
 	"core:eagleEye" : {
-		"special" : true
+		"special" : true,
+		"tags" : {
+			"special" : true,
+			"bannedForWitchHut" : true,
+			"bannedForUniversity" : true,
+			"bannedForScholar" : true
+		},
+
+		"gainChance" : {
+			"might" : 0,
+			"magic" : 0
+		}
 	}
 }
